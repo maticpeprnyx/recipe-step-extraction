@@ -48,6 +48,10 @@ def get_action_verb_tags(vertical: list[list[str]]) -> list[str]:
         return action_verb_tags
 
 def transform_verbs_in_vertical(vertical: list[list[str]], original_verb_forms: list[str], desired_verb_form: str) -> list[list[str]]:
+    """
+    Inflects all the verbs in 'vertical' which have tag in 'original_verb_forms' to a verb form as specified by 'desired_verb_form'.
+    Returns a modified vertical.
+    """
     for i in range(len(vertical)):
         if not is_structural(vertical[i]): # Token is not a structural tag, e.g. <g/>.
             current_tag: str = vertical[i][2]
