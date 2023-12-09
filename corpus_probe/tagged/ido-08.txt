@@ -1,0 +1,109 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = czech-pdt-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+# text = V hrnci smícháme kokosový olej, med, cukr, sůl, zahřejeme a necháme spojit.
+1	V	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	2	case	_	_
+2	hrnci	hrnec	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	3	obl	_	_
+3	smícháme	smíchat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	kokosový	kokosový	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	5	amod	_	_
+5	olej	olej	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	3	obj	_	SpaceAfter=No
+6	,	,	PUNCT	Z:-------------	_	7	punct	_	_
+7	med	med	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	5	conj	_	SpaceAfter=No
+8	,	,	PUNCT	Z:-------------	_	9	punct	_	_
+9	cukr	cukr	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	5	conj	_	SpaceAfter=No
+10	,	,	PUNCT	Z:-------------	_	11	punct	_	_
+11	sůl	sůl	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	5	conj	_	SpaceAfter=No
+12	,	,	PUNCT	Z:-------------	_	13	punct	_	_
+13	zahřejeme	zahřát	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+14	a	a	CCONJ	J^-------------	_	15	cc	_	_
+15	necháme	nechat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+16	spojit	spojit	VERB	Vf--------A-P--	Aspect=Perf|Polarity=Pos|VerbForm=Inf	15	xcomp	_	SpaceAfter=No
+17	.	.	PUNCT	Z:-------------	_	3	punct	_	_
+
+# sent_id = 2
+# text = 2/3 ořechů nasekáme na menší kousky, stejně tak sušená jablka a datle.
+1	2	2	NUM	C=-------------	NumForm=Digit|NumType=Card	4	nummod:gov	_	SpaceAfter=No
+2	/	/	PUNCT	Z:-------------	_	3	punct	_	SpaceAfter=No
+3	3	3	NUM	C=-------------	NumForm=Digit|NumType=Card	1	conj	_	_
+4	ořechů	ořech	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	5	obj	_	_
+5	nasekáme	nasekat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	8	case	_	_
+7	menší	malý	ADJ	AAIP4----2A----	Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Number=Plur|Polarity=Pos	8	amod	_	_
+8	kousky	kousek	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	5	obl	_	SpaceAfter=No
+9	,	,	PUNCT	Z:-------------	_	11	punct	_	_
+10	stejně	stejně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	11	advmod	_	_
+11	tak	tak	ADV	Db-------------	PronType=Dem	5	conj	_	_
+12	sušená	sušený	ADJ	AANP4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	13	amod	_	_
+13	jablka	jablko	NOUN	NNNP4-----A----	Case=Acc|Gender=Neut|Number=Plur|Polarity=Pos	11	orphan	_	_
+14	a	a	CCONJ	J^-------------	_	15	cc	_	_
+15	datle	datel	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	13	conj	_	SpaceAfter=No
+16	.	.	PUNCT	Z:-------------	_	5	punct	_	_
+
+# sent_id = 3
+# text = Promícháme se zbytkem suchých ingrediencí, vmícháme do olejovité hmoty a přendáme do pekáčku vyloženého pečicím papírem.
+1	Promícháme	promíchat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	se	s	ADP	RV--7----------	AdpType=Voc|Case=Ins	3	case	_	_
+3	zbytkem	zbytek	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	1	obl:arg	_	_
+4	suchých	suchý	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	5	amod	_	_
+5	ingrediencí	ingredience	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	Z:-------------	_	7	punct	_	_
+7	vmícháme	vmíchat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+8	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	10	case	_	_
+9	olejovité	olejovitý	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	10	amod	_	_
+10	hmoty	hmota	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	7	obl	_	_
+11	a	a	CCONJ	J^-------------	_	12	cc	_	_
+12	přendáme	přendat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+13	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	14	case	_	_
+14	pekáčku	pekáček	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	12	obl	_	_
+15	vyloženého	vyložený	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	14	amod	_	_
+16	pečicím	pečicí	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	17	amod	_	_
+17	papírem	papír	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	15	obl	_	SpaceAfter=No
+18	.	.	PUNCT	Z:-------------	_	1	punct	_	_
+
+# sent_id = 4
+# text = Takto připravenou granolu pečeme v předehřáté troubě při 180 °C asi 12 minut.
+1	Takto	takto	ADV	Db-------------	_	2	advmod	_	_
+2	připravenou	připravený	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	3	amod	_	_
+3	granolu	granola	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	4	obj	_	_
+4	pečeme	pečit	VERB	VB-P---1P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	7	case	_	_
+6	předehřáté	předehřátý	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	7	amod	_	_
+7	troubě	trouba	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	4	obl	_	_
+8	při	při	ADP	RR--6----------	AdpType=Prep|Case=Loc	10	case	_	_
+9	180	180	NUM	C=-------------	NumForm=Digit|NumType=Card	10	nummod	_	_
+10	°C	°C	NOUN	NNIXX-----A---b	Abbr=Yes|Animacy=Inan|Gender=Masc|Polarity=Pos	4	obl	_	_
+11	asi	asi	PART	TT-------------	_	12	advmod:emph	_	_
+12	12	12	NUM	C=-------------	NumForm=Digit|NumType=Card	13	nummod:gov	_	_
+13	minut	minuta	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	4	obl	_	SpaceAfter=No
+14	.	.	PUNCT	Z:-------------	_	4	punct	_	_
+
+# sent_id = 5
+# text = Po upečení necháme vychladnout a nalámeme ji na kousky.
+1	Po	po	ADP	RR--6----------	AdpType=Prep|Case=Loc	2	case	_	_
+2	upečení	upečení	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	3	obl	_	_
+3	necháme	nechat	VERB	VB-P---1P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	vychladnout	vychladnout	VERB	Vf--------A-P--	Aspect=Perf|Polarity=Pos|VerbForm=Inf	3	xcomp	_	_
+5	a	a	CCONJ	J^-------------	_	6	cc	_	_
+6	nalámeme	nalámat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+7	ji	on	PRON	PEFS4--3-------	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	6	obj	_	_
+8	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	9	case	_	_
+9	kousky	kousek	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	6	obl	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	3	punct	_	_
+
+# sent_id = 6
+# text = Můžeme podávat například s bílým jogurtem a dostupným ovocem.
+1	Můžeme	moci	VERB	VB-P---1P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	podávat	podávat	VERB	Vf--------A-I--	Aspect=Imp|Polarity=Pos|VerbForm=Inf	1	xcomp	_	_
+3	například	například	PART	TT-------------	_	6	advmod:emph	_	_
+4	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	6	case	_	_
+5	bílým	bílý	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	6	amod	_	_
+6	jogurtem	jogurt	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	2	obl:arg	_	_
+7	a	a	CCONJ	J^-------------	_	9	cc	_	_
+8	dostupným	dostupný	ADJ	AANS7----1A----	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	9	amod	_	_
+9	ovocem	ovoce	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	6	conj	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	1	punct	_	_
+
+

@@ -1,0 +1,70 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = czech-pdt-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+# text = Rajčata nakrájíme na plátky, cibuli nadrobno a oloupané uvařené brambory na kostičky.
+1	Rajčata	rajče	NOUN	NNNP4-----A----	Case=Acc|Gender=Neut|Number=Plur|Polarity=Pos	2	obj	_	_
+2	nakrájíme	nakrájit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	4	case	_	_
+4	plátky	plátek	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	Z:-------------	_	6	punct	_	_
+6	cibuli	cibule	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	2	conj	_	_
+7	nadrobno	nadrobno	ADV	Db-------------	_	6	orphan	_	_
+8	a	a	CCONJ	J^-------------	_	6	cc	_	_
+9	oloupané	oloupaný	ADJ	AAFP4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	11	amod	_	_
+10	uvařené	uvařený	ADJ	AAFP4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	11	amod	_	_
+11	brambory	brambora	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	6	orphan	_	_
+12	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	13	case	_	_
+13	kostičky	kostička	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	6	orphan	_	SpaceAfter=No
+14	.	.	PUNCT	Z:-------------	_	2	punct	_	_
+
+# sent_id = 2
+# text = Můžeme vše osmahnout na tuku, ale není to nutné.
+1	Můžeme	moci	VERB	VB-P---1P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	vše	všechen	DET	PLNS4---------1	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	3	obj	_	_
+3	osmahnout	osmahnout	VERB	Vf--------A-P--	Aspect=Perf|Polarity=Pos|VerbForm=Inf	1	xcomp	_	_
+4	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	5	case	_	_
+5	tuku	tuk	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	3	obl	_	SpaceAfter=No
+6	,	,	PUNCT	Z:-------------	_	10	punct	_	_
+7	ale	ale	CCONJ	J^-------------	_	10	cc	_	_
+8	není	být	AUX	VB-S---3P-NAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
+9	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	10	nsubj	_	_
+10	nutné	nutný	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	1	conj	_	SpaceAfter=No
+11	.	.	PUNCT	Z:-------------	_	1	punct	_	_
+
+# sent_id = 3
+# text = Všechno narovnáme do tukem vymazaného pekáčku, osolíme, okořeníme a zalijeme rozšlehanými a osolenými vejci.
+1	Všechno	všechen	DET	PLNS4----------	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	2	obj	_	_
+2	narovnáme	narovnat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	6	case	_	_
+4	tukem	tuk	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	5	obl	_	_
+5	vymazaného	vymazaný	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	6	amod	_	_
+6	pekáčku	pekáček	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	2	obl	_	SpaceAfter=No
+7	,	,	PUNCT	Z:-------------	_	8	punct	_	_
+8	osolíme	osolit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	SpaceAfter=No
+9	,	,	PUNCT	Z:-------------	_	10	punct	_	_
+10	okořeníme	okořenit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+11	a	a	CCONJ	J^-------------	_	12	cc	_	_
+12	zalijeme	zalít	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+13	rozšlehanými	rozšlehaný	ADJ	AANP7----1A----	Case=Ins|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	16	amod	_	_
+14	a	a	CCONJ	J^-------------	_	15	cc	_	_
+15	osolenými	osolený	ADJ	AANP7----1A----	Case=Ins|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	13	conj	_	_
+16	vejci	vejce	NOUN	NNNP7-----A----	Case=Ins|Gender=Neut|Number=Plur|Polarity=Pos	12	obl	_	SpaceAfter=No
+17	.	.	PUNCT	Z:-------------	_	2	punct	_	_
+
+# sent_id = 4
+# text = Vložíme do vyhřáté trouby a zapékáme asi 20 minut.
+1	Vložíme	vložit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	4	case	_	_
+3	vyhřáté	vyhřátý	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	4	amod	_	_
+4	trouby	trouba	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	1	obl	_	_
+5	a	a	CCONJ	J^-------------	_	6	cc	_	_
+6	zapékáme	zapékat	VERB	VB-P---1P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+7	asi	asi	PART	TT-------------	_	8	advmod:emph	_	_
+8	20	20	NUM	C=-------------	NumForm=Digit|NumType=Card	9	nummod:gov	_	_
+9	minut	minuta	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	6	obl	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+
+

@@ -1,0 +1,135 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = czech-pdt-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+# text = 4 cibule a čtvrt kila žampionů nadrobno nakrájíme a osmahneme na pánvi s deci oleje dozlatova.
+1	4	4	NUM	C=-------------	NumForm=Digit|NumType=Card	2	nummod	_	_
+2	cibule	cibule	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	8	obj	_	_
+3	a	a	CCONJ	J^-------------	_	4	cc	_	_
+4	čtvrt	čtvrt	DET	CzFS4----------	Case=Acc|Gender=Fem|Number=Sing|NumType=Ord|PronType=Int,Rel	2	conj	_	_
+5	kila	kilo	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	4	nmod	_	_
+6	žampionů	žampion	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	5	nmod	_	_
+7	nadrobno	nadrobno	ADV	Db-------------	_	8	advmod	_	_
+8	nakrájíme	nakrájit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	a	a	CCONJ	J^-------------	_	10	cc	_	_
+10	osmahneme	osmahnout	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	_
+11	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	12	case	_	_
+12	pánvi	pánev	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	10	obl	_	_
+13	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	14	case	_	_
+14	deci	dece	NOUN	NNIP7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos	12	nmod	_	_
+15	oleje	olej	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	14	nmod	_	_
+16	dozlatova	dozlatova	ADV	Db-------------	_	10	advmod	_	SpaceAfter=No
+17	.	.	PUNCT	Z:-------------	_	8	punct	_	_
+
+# sent_id = 2
+# text = Kilo ve slupce uvařených, očištěných brambor nahrubo nastrouháme, přidáme čtvrt kila hladké mouky, 10 deka nastrouhaného sýra, 4 vejce, lžíci vegety nebo lžičku soli, lžíci sušené pažitky, deci vlažného mléka, půl kostky rozdrobenému droždí, osmaženou cibulku se žampiony a olejem z pánve.
+1	Kilo	kilo	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	9	obj	_	_
+2	ve	v	ADP	RV--6----------	AdpType=Voc|Case=Loc	3	case	_	_
+3	slupce	slupka	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	4	obl	_	_
+4	uvařených	uvařený	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	7	amod	_	SpaceAfter=No
+5	,	,	PUNCT	Z:-------------	_	6	punct	_	_
+6	očištěných	očištěný	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	4	conj	_	_
+7	brambor	brambora	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	1	nmod	_	_
+8	nahrubo	nahrubo	ADV	Db-------------	_	9	advmod	_	_
+9	nastrouháme	nastrouhat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+10	,	,	PUNCT	Z:-------------	_	11	punct	_	_
+11	přidáme	přidat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	_
+12	čtvrt	čtvrt	DET	CzFS4----------	Case=Acc|Gender=Fem|Number=Sing|NumType=Ord|PronType=Int,Rel	11	obj	_	_
+13	kila	kilo	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	12	nmod	_	_
+14	hladké	hladký	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	15	amod	_	_
+15	mouky	mouka	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	13	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	Z:-------------	_	18	punct	_	_
+17	10	10	NUM	C=-------------	NumForm=Digit|NumType=Card	18	nummod:gov	_	_
+18	deka	deko	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	12	conj	_	_
+19	nastrouhaného	nastrouhaný	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	20	amod	_	_
+20	sýra	sýr	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	18	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	Z:-------------	_	23	punct	_	_
+22	4	4	NUM	C=-------------	NumForm=Digit|NumType=Card	23	nummod	_	_
+23	vejce	vejce	NOUN	NNNP4-----A----	Case=Acc|Gender=Neut|Number=Plur|Polarity=Pos	12	conj	_	SpaceAfter=No
+24	,	,	PUNCT	Z:-------------	_	25	punct	_	_
+25	lžíci	lžíce	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	12	conj	_	_
+26	vegety	vegeta	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	25	nmod	_	_
+27	nebo	nebo	CCONJ	J^-------------	_	28	cc	_	_
+28	lžičku	lžička	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	25	conj	_	_
+29	soli	sůl	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	28	nmod	_	SpaceAfter=No
+30	,	,	PUNCT	Z:-------------	_	31	punct	_	_
+31	lžíci	lžíce	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	12	conj	_	_
+32	sušené	sušený	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	33	amod	_	_
+33	pažitky	pažitka	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	31	nmod	_	SpaceAfter=No
+34	,	,	PUNCT	Z:-------------	_	35	punct	_	_
+35	deci	dece	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	12	conj	_	_
+36	vlažného	vlažný	ADJ	AANS2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	37	amod	_	_
+37	mléka	mléko	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	35	nmod	_	SpaceAfter=No
+38	,	,	PUNCT	Z:-------------	_	40	punct	_	_
+39	půl	půl	NUM	Cl-XX----------	NumForm=Word|NumType=Card|NumValue=1,2,3	40	nummod:gov	_	_
+40	kostky	kostka	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	12	conj	_	_
+41	rozdrobenému	rozdrobený	ADJ	AANS2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	42	amod	_	_
+42	droždí	droždí	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	40	nmod	_	SpaceAfter=No
+43	,	,	PUNCT	Z:-------------	_	45	punct	_	_
+44	osmaženou	osmažený	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	45	amod	_	_
+45	cibulku	cibulka	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	12	conj	_	_
+46	se	s	ADP	RV--7----------	AdpType=Voc|Case=Ins	47	case	_	_
+47	žampiony	žampion	NOUN	NNIP7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos	45	nmod	_	_
+48	a	a	CCONJ	J^-------------	_	49	cc	_	_
+49	olejem	olej	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	12	conj	_	_
+50	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	51	case	_	_
+51	pánve	pánev	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	49	nmod	_	SpaceAfter=No
+52	.	.	PUNCT	Z:-------------	_	9	punct	_	_
+
+# sent_id = 3
+# text = Místo oleje můžete použít rozpuštěnou kostku másla.
+1	Místo	místo	ADP	RR--2----------	AdpType=Prep|Case=Gen	2	case	_	_
+2	oleje	olej	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	3	obl	_	_
+3	můžete	moci	VERB	VB-P---2P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	použít	použít	VERB	Vf--------A-P--	Aspect=Perf|Polarity=Pos|VerbForm=Inf	3	xcomp	_	_
+5	rozpuštěnou	rozpuštěný	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	6	amod	_	_
+6	kostku	kostka	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	4	obj	_	_
+7	másla	máslo	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	6	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	Z:-------------	_	3	punct	_	_
+
+# sent_id = 4
+# text = Všechno pořádně rozmícháme (těsto má být polo řídké, lepkavé) a necháme hodinku kynout.
+1	Všechno	všechen	DET	PLNS4----------	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	3	obj	_	_
+2	pořádně	pořádně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	3	advmod	_	_
+3	rozmícháme	rozmíchat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	(	(	PUNCT	Z:-------------	_	6	punct	_	SpaceAfter=No
+5	těsto	těsto	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	6	nsubj	_	_
+6	má	mít	VERB	VB-S---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
+7	být	být	AUX	Vf--------A-I--	Aspect=Imp|Polarity=Pos|VerbForm=Inf	9	cop	_	_
+8	polo	polo	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	9	advmod	_	_
+9	řídké	řídký	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	6	xcomp	_	SpaceAfter=No
+10	,	,	PUNCT	Z:-------------	_	11	punct	_	_
+11	lepkavé	lepkavý	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	9	conj	_	SpaceAfter=No
+12	)	)	PUNCT	Z:-------------	_	6	punct	_	_
+13	a	a	CCONJ	J^-------------	_	14	cc	_	_
+14	necháme	nechat	VERB	VB-P---1P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+15	hodinku	hodinka	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	16	obl	_	_
+16	kynout	kynout	VERB	Vf--------A-I--	Aspect=Imp|Polarity=Pos|VerbForm=Inf	14	xcomp	_	SpaceAfter=No
+17	.	.	PUNCT	Z:-------------	_	3	punct	_	_
+
+# sent_id = 5
+# text = Po vyskysnutí těsto vylijeme do vyššího plechu a pečeme v troubě při teplotě 180 stupňů 40-50 minut.
+1	Po	po	ADP	RR--6----------	AdpType=Prep|Case=Loc	2	case	_	_
+2	vyskysnutí	vyskysnutí	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	4	obl	_	_
+3	těsto	těsto	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	4	obj	_	_
+4	vylijeme	vylít	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	7	case	_	_
+6	vyššího	vysoký	ADJ	AAIS2----2A----	Animacy=Inan|Case=Gen|Degree=Cmp|Gender=Masc|Number=Sing|Polarity=Pos	7	amod	_	_
+7	plechu	plech	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	4	obl	_	_
+8	a	a	CCONJ	J^-------------	_	9	cc	_	_
+9	pečeme	pečit	VERB	VB-P---1P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
+10	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	11	case	_	_
+11	troubě	trouba	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	9	obl	_	_
+12	při	při	ADP	RR--6----------	AdpType=Prep|Case=Loc	13	case	_	_
+13	teplotě	teplota	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	9	obl	_	_
+14	180	180	NUM	C=-------------	NumForm=Digit|NumType=Card	15	nummod:gov	_	_
+15	stupňů	stupeň	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	13	nmod	_	_
+16	40	40	NUM	C=-------------	NumForm=Digit|NumType=Card	19	nummod:gov	_	SpaceAfter=No
+17	-	-	PUNCT	Z:-------------	_	18	punct	_	SpaceAfter=No
+18	50	50	NUM	C=-------------	NumForm=Digit|NumType=Card	16	conj	_	_
+19	minut	minuta	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	9	obl	_	SpaceAfter=No
+20	.	.	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
+
+

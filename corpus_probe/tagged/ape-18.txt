@@ -1,0 +1,105 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = czech-pdt-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+# text = Houby očistěte a pokrájejte na kousky.
+1	Houby	houba	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	2	obj	_	_
+2	očistěte	očistit	VERB	Vi-P---2--A-P--	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	_
+3	a	a	CCONJ	J^-------------	_	4	cc	_	_
+4	pokrájejte	pokrájat	VERB	Vi-P---2--A-P--	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin	2	conj	_	_
+5	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	6	case	_	_
+6	kousky	kousek	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	4	obl	_	SpaceAfter=No
+7	.	.	PUNCT	Z:-------------	_	2	punct	_	_
+
+# sent_id = 2
+# text = V hrnci rozehřejte máslo a opečte na něm doměkka cibuli a houby;
+1	V	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	2	case	_	_
+2	hrnci	hrnec	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	3	obl	_	_
+3	rozehřejte	rozehřat	VERB	Vi-P---2--A-P--	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	_
+4	máslo	máslo	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	3	obj	_	_
+5	a	a	CCONJ	J^-------------	_	6	cc	_	_
+6	opečte	opečíst	VERB	Vi-P---2--A-P--	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin	3	conj	_	_
+7	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	8	case	_	_
+8	něm	on	PRON	PEZS6--3-------	Case=Loc|Gender=Masc,Neut|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs	6	obl	_	_
+9	doměkka	doměkka	ADV	Db-------------	_	6	advmod	_	_
+10	cibuli	cibule	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	6	obj	_	_
+11	a	a	CCONJ	J^-------------	_	12	cc	_	_
+12	houby	houba	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	10	conj	_	SpaceAfter=No
+13	;	;	PUNCT	Z:-------------	_	3	punct	_	_
+
+# sent_id = 3
+# text = trvá to asi 4 minuty.
+1	trvá	trvat	VERB	VB-S---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	nsubj	_	_
+3	asi	asi	PART	TT-------------	_	5	advmod:emph	_	_
+4	4	4	NUM	C=-------------	NumForm=Digit|NumType=Card	5	nummod	_	_
+5	minuty	minuta	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	1	obl	_	SpaceAfter=No
+6	.	.	PUNCT	Z:-------------	_	1	punct	_	_
+
+# sent_id = 4
+# text = Pak přisypte mouku, míchejte a počkejte, až se zbarví do světle žluta.
+1	Pak	pak	ADV	Db-------------	_	2	advmod	_	_
+2	přisypte	přisypit	VERB	Vi-P---2--A-P--	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	_
+3	mouku	mouka	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	2	obj	_	SpaceAfter=No
+4	,	,	PUNCT	Z:-------------	_	5	punct	_	_
+5	míchejte	míchat	VERB	Vi-P---2--A-I--	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin	2	conj	_	_
+6	a	a	CCONJ	J^-------------	_	7	cc	_	_
+7	počkejte	počkat	VERB	Vi-P---2--A-P--	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin	2	conj	_	SpaceAfter=No
+8	,	,	PUNCT	Z:-------------	_	11	punct	_	_
+9	až	až	SCONJ	J,-------------	_	11	mark	_	_
+10	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	11	expl:pv	_	_
+11	zbarví	zbarvit	VERB	VB-P---3P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	_
+12	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	14	case	_	_
+13	světle	světle	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	14	advmod	_	_
+14	žluta	žluto	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	11	obl	_	SpaceAfter=No
+15	.	.	PUNCT	Z:-------------	_	2	punct	_	_
+
+# sent_id = 5
+# text = Přihoďte kostičky brambory, zalijte mlékem, osolte a opepřete a vařte asi 15 minut, až budou brambory měkké.
+1	Přihoďte	přihodit	VERB	Vi-P---2--A-P--	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	_
+2	kostičky	kostička	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	1	obj	_	_
+3	brambory	brambora	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	1	obj	_	SpaceAfter=No
+4	,	,	PUNCT	Z:-------------	_	5	punct	_	_
+5	zalijte	zalít	VERB	Vi-P---2--A-P--	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin	1	conj	_	_
+6	mlékem	mléko	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	5	obl	_	SpaceAfter=No
+7	,	,	PUNCT	Z:-------------	_	8	punct	_	_
+8	osolte	osolit	VERB	Vi-P---2--A-P--	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin	1	conj	_	_
+9	a	a	CCONJ	J^-------------	_	10	cc	_	_
+10	opepřete	opepřít	VERB	VB-P---2P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+11	a	a	CCONJ	J^-------------	_	12	cc	_	_
+12	vařte	vařit	VERB	Vi-P---2--A-I--	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin	1	conj	_	_
+13	asi	asi	PART	TT-------------	_	14	advmod:emph	_	_
+14	15	15	NUM	C=-------------	NumForm=Digit|NumType=Card	15	nummod:gov	_	_
+15	minut	minuta	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	12	obl	_	SpaceAfter=No
+16	,	,	PUNCT	Z:-------------	_	20	punct	_	_
+17	až	až	SCONJ	J,-------------	_	20	mark	_	_
+18	budou	být	AUX	VB-P---3F-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	20	cop	_	_
+19	brambory	brambora	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	20	nsubj	_	_
+20	měkké	měkký	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	12	advcl	_	SpaceAfter=No
+21	.	.	PUNCT	Z:-------------	_	1	punct	_	_
+
+# sent_id = 6
+# text = Krém rozmixujte ponorným tyčovým mixérem, ozdobte pažitkou, krutony (případně orestovanými drobnými houbami) a podávejte.
+1	Krém	krém	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	2	obj	_	_
+2	rozmixujte	rozmixovat	VERB	Vi-P---2--A-P--	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	_
+3	ponorným	ponorný	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	5	amod	_	_
+4	tyčovým	tyčový	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	5	amod	_	_
+5	mixérem	mixér	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	2	obl	_	SpaceAfter=No
+6	,	,	PUNCT	Z:-------------	_	7	punct	_	_
+7	ozdobte	ozdobit	VERB	Vi-P---2--A-P--	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin	2	conj	_	_
+8	pažitkou	pažitka	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	7	obl	_	SpaceAfter=No
+9	,	,	PUNCT	Z:-------------	_	10	punct	_	_
+10	krutony	kruton	NOUN	NNIP7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos	8	conj	_	_
+11	(	(	PUNCT	Z:-------------	_	15	punct	_	SpaceAfter=No
+12	případně	případně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	15	cc	_	_
+13	orestovanými	orestovaný	ADJ	AAFP7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	15	amod	_	_
+14	drobnými	drobný	ADJ	AAFP7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	15	amod	_	_
+15	houbami	houba	NOUN	NNFP7-----A----	Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos	8	appos	_	SpaceAfter=No
+16	)	)	PUNCT	Z:-------------	_	15	punct	_	_
+17	a	a	CCONJ	J^-------------	_	18	cc	_	_
+18	podávejte	podávat	VERB	Vi-P---2--A-I--	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin	2	conj	_	SpaceAfter=No
+19	.	.	PUNCT	Z:-------------	_	2	punct	_	_
+
+

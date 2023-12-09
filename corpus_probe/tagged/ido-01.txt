@@ -1,0 +1,166 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = czech-pdt-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+# text = Brambory uvaříme ve slupce doměkka.
+1	Brambory	brambora	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	2	obj	_	_
+2	uvaříme	uvařit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ve	v	ADP	RV--6----------	AdpType=Voc|Case=Loc	4	case	_	_
+4	slupce	slupka	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	2	obl	_	_
+5	doměkka	doměkka	ADV	Db-------------	_	2	advmod	_	SpaceAfter=No
+6	.	.	PUNCT	Z:-------------	_	2	punct	_	_
+
+# sent_id = 2
+# text = Když trochu zchladnou, oloupeme je a nakrájíme na plátky.
+1	Když	když	SCONJ	J,-------------	_	3	mark	_	_
+2	trochu	trochu	ADV	Db-------------	_	3	advmod	_	_
+3	zchladnou	zchladnout	VERB	VB-P---3P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	Z:-------------	_	3	punct	_	_
+5	oloupeme	oloupat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	je	on	PRON	PEXP4--3-------	Case=Acc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	5	obj	_	_
+7	a	a	CCONJ	J^-------------	_	8	cc	_	_
+8	nakrájíme	nakrájit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
+9	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	10	case	_	_
+10	plátky	plátek	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	8	obl	_	SpaceAfter=No
+11	.	.	PUNCT	Z:-------------	_	5	punct	_	_
+
+# sent_id = 3
+# text = Olej rozmícháme s octem a trochou cukru.
+1	Olej	olej	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	2	obj	_	_
+2	rozmícháme	rozmíchat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	4	case	_	_
+4	octem	oct	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	2	obl:arg	_	_
+5	a	a	CCONJ	J^-------------	_	6	cc	_	_
+6	trochou	trocha	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	4	conj	_	_
+7	cukru	cukr	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	6	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	Z:-------------	_	2	punct	_	_
+
+# sent_id = 4
+# text = Dresink dochutíme solí a pepřem a vmícháme do brambor.
+1	Dresink	dresink	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	2	obj	_	_
+2	dochutíme	dochutit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	solí	sůl	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	2	obl	_	_
+4	a	a	CCONJ	J^-------------	_	5	cc	_	_
+5	pepřem	pepř	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	3	conj	_	_
+6	a	a	CCONJ	J^-------------	_	7	cc	_	_
+7	vmícháme	vmíchat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+8	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	9	case	_	_
+9	brambor	brambora	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	7	obl	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	2	punct	_	_
+
+# sent_id = 5
+# text = Cibuli oloupeme a nakrájíme na měsíčky.
+1	Cibuli	cibule	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	2	obj	_	_
+2	oloupeme	oloupat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	a	a	CCONJ	J^-------------	_	4	cc	_	_
+4	nakrájíme	nakrájit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+5	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	6	case	_	_
+6	měsíčky	měsíček	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	4	obl	_	SpaceAfter=No
+7	.	.	PUNCT	Z:-------------	_	2	punct	_	_
+
+# sent_id = 6
+# text = Cibulky a ředkvičky očistíme.
+1	Cibulky	cibulka	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	4	obj	_	_
+2	a	a	CCONJ	J^-------------	_	3	cc	_	_
+3	ředkvičky	ředkvička	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	1	conj	_	_
+4	očistíme	očistit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	Z:-------------	_	4	punct	_	_
+
+# sent_id = 7
+# text = Cibulky nasekáme nadrobno, ředkvičky nakrájíme na tenká kolečka.
+1	Cibulky	cibulka	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	2	obj	_	_
+2	nasekáme	nasekat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	nadrobno	nadrobno	ADV	Db-------------	_	2	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	Z:-------------	_	6	punct	_	_
+5	ředkvičky	ředkvička	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	6	obj	_	_
+6	nakrájíme	nakrájit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+7	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	9	case	_	_
+8	tenká	tenký	ADJ	AANP4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos	9	amod	_	_
+9	kolečka	kolečko	NOUN	NNNP4-----A----	Case=Acc|Gender=Neut|Number=Plur|Polarity=Pos	6	obl	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	2	punct	_	_
+
+# sent_id = 8
+# text = Zeleninu přidáme k bramborám.
+1	Zeleninu	zelenina	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	2	obj	_	_
+2	přidáme	přidat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	4	case	_	_
+4	bramborám	brambora	NOUN	NNFP3-----A----	Case=Dat|Gender=Fem|Number=Plur|Polarity=Pos	2	obl	_	SpaceAfter=No
+5	.	.	PUNCT	Z:-------------	_	2	punct	_	_
+
+# sent_id = 9
+# text = Vše zlehka promícháme.
+1	Vše	všechen	DET	PLNS4---------1	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	3	obj	_	_
+2	zlehka	zlehka	ADV	Db-------------	_	3	advmod	_	_
+3	promícháme	promíchat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	Z:-------------	_	3	punct	_	_
+
+# sent_id = 10
+# text = Salát dochutíme a necháme vychladit.
+1	Salát	salát	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	2	obj	_	_
+2	dochutíme	dochutit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	a	a	CCONJ	J^-------------	_	4	cc	_	_
+4	necháme	nechat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+5	vychladit	vychladit	VERB	Vf--------A-P--	Aspect=Perf|Polarity=Pos|VerbForm=Inf	4	xcomp	_	SpaceAfter=No
+6	.	.	PUNCT	Z:-------------	_	2	punct	_	_
+
+# sent_id = 11
+# text = Telecí kýtu očistíme a nakrájíme na plátky.
+1	Telecí	telecí	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	2	amod	_	_
+2	kýtu	kýta	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	3	obj	_	_
+3	očistíme	očistit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	a	a	CCONJ	J^-------------	_	5	cc	_	_
+5	nakrájíme	nakrájit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+6	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	7	case	_	_
+7	plátky	plátek	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	5	obl	_	SpaceAfter=No
+8	.	.	PUNCT	Z:-------------	_	3	punct	_	_
+
+# sent_id = 12
+# text = Řízky přes potravinovou fólii lehce naklepeme.
+1	Řízky	řízek	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	6	obj	_	_
+2	přes	přes	ADP	RR--4----------	AdpType=Prep|Case=Acc	4	case	_	_
+3	potravinovou	potravinový	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	4	amod	_	_
+4	fólii	fólie	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	1	nmod	_	_
+5	lehce	lehce	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	6	advmod	_	_
+6	naklepeme	naklepat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	Z:-------------	_	6	punct	_	_
+
+# sent_id = 13
+# text = Osolíme je a obalíme v hladké mouce, rozšlehaných vejcích a strouhance.
+1	Osolíme	osolit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	je	on	PRON	PEXP4--3-------	Case=Acc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
+3	a	a	CCONJ	J^-------------	_	4	cc	_	_
+4	obalíme	obalit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+5	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	7	case	_	_
+6	hladké	hladký	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	7	amod	_	_
+7	mouce	mouka	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	4	obl	_	SpaceAfter=No
+8	,	,	PUNCT	Z:-------------	_	10	punct	_	_
+9	rozšlehaných	rozšlehaný	ADJ	AAIP6----1A----	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	10	amod	_	_
+10	vejcích	vejce	NOUN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos	7	conj	_	_
+11	a	a	CCONJ	J^-------------	_	12	cc	_	_
+12	strouhance	strouhanka	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	7	conj	_	SpaceAfter=No
+13	.	.	PUNCT	Z:-------------	_	1	punct	_	_
+
+# sent_id = 14
+# text = V pánvi rozehřejeme olej.
+1	V	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	2	case	_	_
+2	pánvi	pánev	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	3	obl	_	_
+3	rozehřejeme	rozehřát	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	olej	olej	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	3	obj	_	SpaceAfter=No
+5	.	.	PUNCT	Z:-------------	_	3	punct	_	_
+
+# sent_id = 15
+# text = Řízky na něm zvolna upečeme z obou stran dozlatova.
+1	Řízky	řízek	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	5	obj	_	_
+2	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	3	case	_	_
+3	něm	on	PRON	PEZS6--3-------	Case=Loc|Gender=Masc,Neut|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs	5	obl	_	_
+4	zvolna	zvolna	ADV	Db-------------	_	5	advmod	_	_
+5	upečeme	upečit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	8	case	_	_
+7	obou	oba	NUM	CnXP2----------	Case=Gen|Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	_
+8	stran	strana	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	5	obl	_	_
+9	dozlatova	dozlatova	ADV	Db-------------	_	5	advmod	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	5	punct	_	SpaceAfter=No
+
+

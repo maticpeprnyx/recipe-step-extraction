@@ -1,0 +1,119 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = czech-pdt-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+# text = Brambory si očistíme, cibuli také a nakrájíme si je na čtvrtinky.
+1	Brambory	brambora	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	3	obj	_	_
+2	si	se	PRON	P7--3----------	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	3	obl	_	_
+3	očistíme	očistit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	Z:-------------	_	5	punct	_	_
+5	cibuli	cibule	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	3	conj	_	_
+6	také	také	ADV	Db-------------	_	5	orphan	_	_
+7	a	a	CCONJ	J^-------------	_	8	cc	_	_
+8	nakrájíme	nakrájit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+9	si	se	PRON	P7--3----------	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	8	obl	_	_
+10	je	on	PRON	PEXP4--3-------	Case=Acc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	8	obj	_	_
+11	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	12	case	_	_
+12	čtvrtinky	čtvrtinka	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	8	obl	_	SpaceAfter=No
+13	.	.	PUNCT	Z:-------------	_	3	punct	_	_
+
+# sent_id = 2
+# text = V misce si smícháme sůl, pepř, petržel, mletou papriku, majoránku a přidáme olej.
+1	V	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	2	case	_	_
+2	misce	miska	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	4	obl	_	_
+3	si	se	PRON	P7--3----------	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	4	obl	_	_
+4	smícháme	smíchat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	sůl	sůl	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	4	obj	_	SpaceAfter=No
+6	,	,	PUNCT	Z:-------------	_	7	punct	_	_
+7	pepř	pepř	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	5	conj	_	SpaceAfter=No
+8	,	,	PUNCT	Z:-------------	_	9	punct	_	_
+9	petržel	petržel	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	5	conj	_	SpaceAfter=No
+10	,	,	PUNCT	Z:-------------	_	12	punct	_	_
+11	mletou	mletý	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	12	amod	_	_
+12	papriku	paprika	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	5	conj	_	SpaceAfter=No
+13	,	,	PUNCT	Z:-------------	_	14	punct	_	_
+14	majoránku	majoránka	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	5	conj	_	_
+15	a	a	CCONJ	J^-------------	_	16	cc	_	_
+16	přidáme	přidat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
+17	olej	olej	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	16	obj	_	SpaceAfter=No
+18	.	.	PUNCT	Z:-------------	_	4	punct	_	_
+
+# sent_id = 3
+# text = Spolu smícháme a přidáme k bramborám a cibuli.
+1	Spolu	spolu	ADV	Db-------------	_	2	advmod	_	_
+2	smícháme	smíchat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	a	a	CCONJ	J^-------------	_	4	cc	_	_
+4	přidáme	přidat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+5	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	6	case	_	_
+6	bramborám	brambora	NOUN	NNFP3-----A----	Case=Dat|Gender=Fem|Number=Plur|Polarity=Pos	4	obl	_	_
+7	a	a	CCONJ	J^-------------	_	8	cc	_	_
+8	cibuli	cibule	NOUN	NNFS3-----A----	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	6	conj	_	SpaceAfter=No
+9	.	.	PUNCT	Z:-------------	_	2	punct	_	_
+
+# sent_id = 4
+# text = Důkladně promícháme.
+1	Důkladně	důkladně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	2	advmod	_	_
+2	promícháme	promíchat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	Z:-------------	_	2	punct	_	_
+
+# sent_id = 5
+# text = Plech si vyložíme papírem a navrstvíme na něj brambory.
+1	Plech	plech	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	3	obj	_	_
+2	si	se	PRON	P7--3----------	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	3	obl	_	_
+3	vyložíme	vyložit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	papírem	papír	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	3	obl	_	_
+5	a	a	CCONJ	J^-------------	_	6	cc	_	_
+6	navrstvíme	navrstvit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+7	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	8	case	_	_
+8	něj	on	PRON	PEZS4--3-------	Case=Acc|Gender=Masc,Neut|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs	6	obl	_	_
+9	brambory	brambora	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	6	obj	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	3	punct	_	_
+
+# sent_id = 6
+# text = Dáme péct do předem vyhřáté trouby na 180 stupňů.
+1	Dáme	dát	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	péct	péct	VERB	Vf--------A-I--	Aspect=Imp|Polarity=Pos|VerbForm=Inf	1	xcomp	_	_
+3	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	6	case	_	_
+4	předem	předem	ADV	Db-------------	_	5	advmod	_	_
+5	vyhřáté	vyhřátý	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	6	amod	_	_
+6	trouby	trouba	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	2	obl	_	_
+7	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	9	case	_	_
+8	180	180	NUM	C=-------------	NumForm=Digit|NumType=Card	9	nummod:gov	_	_
+9	stupňů	stupeň	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	2	obl	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	1	punct	_	_
+
+# sent_id = 7
+# text = Když jsou brambory skoro upečené přidáme nakrájený párek nebo klobásu a pečeme dalších 10 - 15 minut.
+1	Když	když	SCONJ	J,-------------	_	5	mark	_	_
+2	jsou	být	AUX	VB-P---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+3	brambory	brambora	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	5	nsubj	_	_
+4	skoro	skoro	ADV	Db-------------	_	5	advmod	_	_
+5	upečené	upečený	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	6	advcl	_	_
+6	přidáme	přidat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	nakrájený	nakrájený	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	8	amod	_	_
+8	párek	párek	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	6	obj	_	_
+9	nebo	nebo	CCONJ	J^-------------	_	10	cc	_	_
+10	klobásu	klobása	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	8	conj	_	_
+11	a	a	CCONJ	J^-------------	_	12	cc	_	_
+12	pečeme	pečit	VERB	VB-P---1P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
+13	dalších	další	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	14	amod	_	_
+14	10	10	NUM	C=-------------	NumForm=Digit|NumType=Card	17	nummod:gov	_	_
+15	-	-	PUNCT	Z:-------------	_	16	punct	_	_
+16	15	15	NUM	C=-------------	NumForm=Digit|NumType=Card	14	conj	_	_
+17	minut	minuta	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	12	obl	_	SpaceAfter=No
+18	.	.	PUNCT	Z:-------------	_	6	punct	_	_
+
+# sent_id = 8
+# text = Podáváme.
+1	Podáváme	podávat	VERB	VB-P---1P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	Z:-------------	_	1	punct	_	_
+
+# sent_id = 9
+# text = Dobrou chuť!
+1	Dobrou	dobrý	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	2	amod	_	_
+2	chuť	chuť	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	Z:-------------	_	2	punct	_	SpaceAfter=No
+
+

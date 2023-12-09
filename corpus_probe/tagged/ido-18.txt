@@ -1,0 +1,106 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = czech-pdt-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+# text = Jáhly propláchneme studenou vodou a necháme okapat.
+1	Jáhly	jáhla	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	2	obj	_	_
+2	propláchneme	propláchnout	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	studenou	studený	ADJ	AAFS7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	4	amod	_	_
+4	vodou	voda	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	2	obl	_	_
+5	a	a	CCONJ	J^-------------	_	6	cc	_	_
+6	necháme	nechat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+7	okapat	okapat	VERB	Vf--------A-P--	Aspect=Perf|Polarity=Pos|VerbForm=Inf	6	xcomp	_	SpaceAfter=No
+8	.	.	PUNCT	Z:-------------	_	2	punct	_	_
+
+# sent_id = 2
+# text = Do kastrolu dáme vařit osolenou vodu.
+1	Do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	2	case	_	_
+2	kastrolu	kastrol	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	3	obl	_	_
+3	dáme	dát	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	vařit	vařit	VERB	Vf--------A-I--	Aspect=Imp|Polarity=Pos|VerbForm=Inf	3	xcomp	_	_
+5	osolenou	osolený	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	6	amod	_	_
+6	vodu	voda	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	4	obj	_	SpaceAfter=No
+7	.	.	PUNCT	Z:-------------	_	3	punct	_	_
+
+# sent_id = 3
+# text = Na sádle osmahneme proužky slaniny, nahrubo nakrájenou cibuli a na kostky nakrájené jablko.
+1	Na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	2	case	_	_
+2	sádle	sádlo	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	3	obl	_	_
+3	osmahneme	osmahnout	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	proužky	proužek	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	3	obj	_	_
+5	slaniny	slanina	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	4	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	Z:-------------	_	9	punct	_	_
+7	nahrubo	nahrubo	ADV	Db-------------	_	8	advmod	_	_
+8	nakrájenou	nakrájený	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	9	amod	_	_
+9	cibuli	cibule	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	4	conj	_	_
+10	a	a	CCONJ	J^-------------	_	14	cc	_	_
+11	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	12	case	_	_
+12	kostky	kostka	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	13	obl	_	_
+13	nakrájené	nakrájený	ADJ	AANS4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	14	amod	_	_
+14	jablko	jablko	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	4	conj	_	SpaceAfter=No
+15	.	.	PUNCT	Z:-------------	_	3	punct	_	_
+
+# sent_id = 4
+# text = Jáhly necháme asi půl minuty povařit v osolené vodě, scedíme je a smícháme je s se slaninou, cibulí a jablky.
+1	Jáhly	jáhla	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	6	obj	_	_
+2	necháme	nechat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	asi	asi	PART	TT-------------	_	4	advmod:emph	_	_
+4	půl	půl	NUM	Cl-XX----------	NumForm=Word|NumType=Card|NumValue=1,2,3	5	nummod:gov	_	_
+5	minuty	minuta	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	6	obl	_	_
+6	povařit	povařit	VERB	Vf--------A-P--	Aspect=Perf|Polarity=Pos|VerbForm=Inf	2	xcomp	_	_
+7	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	9	case	_	_
+8	osolené	osolený	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	9	amod	_	_
+9	vodě	voda	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	6	obl	_	SpaceAfter=No
+10	,	,	PUNCT	Z:-------------	_	11	punct	_	_
+11	scedíme	scedět	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+12	je	on	PRON	PEXP4--3-------	Case=Acc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	11	obj	_	_
+13	a	a	CCONJ	J^-------------	_	14	cc	_	_
+14	smícháme	smíchat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+15	je	on	PRON	PEXP4--3-------	Case=Acc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	14	obj	_	_
+16	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	18	case	_	_
+17	se	s	ADP	RV--7----------	AdpType=Voc|Case=Ins	18	case	_	_
+18	slaninou	slanina	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	14	obl	_	SpaceAfter=No
+19	,	,	PUNCT	Z:-------------	_	20	punct	_	_
+20	cibulí	cibule	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	18	conj	_	_
+21	a	a	CCONJ	J^-------------	_	22	cc	_	_
+22	jablky	jablko	NOUN	NNNP7-----A----	Case=Ins|Gender=Neut|Number=Plur|Polarity=Pos	18	conj	_	SpaceAfter=No
+23	.	.	PUNCT	Z:-------------	_	2	punct	_	_
+
+# sent_id = 5
+# text = Přidáme nakrájené švestky, podle chuti přisolíme, opepříme a dáme do vymaštěné zapékací misky.
+1	Přidáme	přidat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	nakrájené	nakrájený	ADJ	AAFP4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	3	amod	_	_
+3	švestky	švestka	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	1	obj	_	SpaceAfter=No
+4	,	,	PUNCT	Z:-------------	_	7	punct	_	_
+5	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	6	case	_	_
+6	chuti	chuť	NOUN	NNFS2-----A---1	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	7	obl	_	_
+7	přisolíme	přisolit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	SpaceAfter=No
+8	,	,	PUNCT	Z:-------------	_	9	punct	_	_
+9	opepříme	opepřit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
+10	a	a	CCONJ	J^-------------	_	11	cc	_	_
+11	dáme	dát	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+12	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	15	case	_	_
+13	vymaštěné	vymaštěný	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	15	amod	_	_
+14	zapékací	zapékací	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	15	amod	_	_
+15	misky	miska	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	11	obl	_	SpaceAfter=No
+16	.	.	PUNCT	Z:-------------	_	1	punct	_	_
+
+# sent_id = 6
+# text = Jahelník pečeme přiklopený nebo zakrytý alobalem při 150 °C asi 40 minut.
+1	Jahelník	jahelník	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	2	obj	_	_
+2	pečeme	pečit	VERB	VB-P---1P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	přiklopený	přiklopený	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	1	xcomp	_	_
+4	nebo	nebo	CCONJ	J^-------------	_	5	cc	_	_
+5	zakrytý	zakrytý	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	3	conj	_	_
+6	alobalem	alobal	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	3	obl	_	_
+7	při	při	ADP	RR--6----------	AdpType=Prep|Case=Loc	9	case	_	_
+8	150	150	NUM	C=-------------	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	°C	°C	NOUN	NNIXX-----A---b	Abbr=Yes|Animacy=Inan|Gender=Masc|Polarity=Pos	2	obl	_	_
+10	asi	asi	PART	TT-------------	_	11	advmod:emph	_	_
+11	40	40	NUM	C=-------------	NumForm=Digit|NumType=Card	12	nummod:gov	_	_
+12	minut	minuta	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	2	obl	_	SpaceAfter=No
+13	.	.	PUNCT	Z:-------------	_	2	punct	_	_
+
+

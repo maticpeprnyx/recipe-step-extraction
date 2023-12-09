@@ -1,0 +1,55 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = czech-pdt-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+# text = Okurky a cibuli nakrájejte najemno, přidejte salám nastrouhaný na hrubém struhadle (nebo ho můžete nakrájet na tenké proužky).
+1	Okurky	okurka	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	4	obj	_	_
+2	a	a	CCONJ	J^-------------	_	3	cc	_	_
+3	cibuli	cibule	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	1	conj	_	_
+4	nakrájejte	nakrájat	VERB	Vi-P---2--A-P--	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	_
+5	najemno	najemno	ADV	Db-------------	_	4	advmod	_	SpaceAfter=No
+6	,	,	PUNCT	Z:-------------	_	7	punct	_	_
+7	přidejte	přidat	VERB	Vi-P---2--A-P--	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin	4	conj	_	_
+8	salám	salám	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	7	obj	_	_
+9	nastrouhaný	nastrouhaný	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	8	amod	_	_
+10	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	12	case	_	_
+11	hrubém	hrubý	ADJ	AANS6----1A----	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	12	amod	_	_
+12	struhadle	struhadlo	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	9	obl	_	_
+13	(	(	PUNCT	Z:-------------	_	16	punct	_	SpaceAfter=No
+14	nebo	nebo	CCONJ	J^-------------	_	16	cc	_	_
+15	ho	on	PRON	P5ZS4--3-------	Case=Acc|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs|Variant=Short	17	obj	_	_
+16	můžete	moci	VERB	VB-P---2P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	parataxis	_	_
+17	nakrájet	nakrájet	VERB	Vf--------A-P--	Aspect=Perf|Polarity=Pos|VerbForm=Inf	16	xcomp	_	_
+18	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	20	case	_	_
+19	tenké	tenký	ADJ	AAIP4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	20	amod	_	_
+20	proužky	proužek	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	17	obl	_	SpaceAfter=No
+21	)	)	PUNCT	Z:-------------	_	16	punct	_	SpaceAfter=No
+22	.	.	PUNCT	Z:-------------	_	4	punct	_	_
+
+# sent_id = 2
+# text = Přidejte ostatní přísady a promíchejte.
+1	Přidejte	přidat	VERB	Vi-P---2--A-P--	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	_
+2	ostatní	ostatní	ADJ	AAFP4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	3	amod	_	_
+3	přísady	přísada	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	1	obj	_	_
+4	a	a	CCONJ	J^-------------	_	5	cc	_	_
+5	promíchejte	promíchat	VERB	Vi-P---2--A-I--	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin	1	conj	_	SpaceAfter=No
+6	.	.	PUNCT	Z:-------------	_	1	punct	_	_
+
+# sent_id = 3
+# text = Nakonec ochutnejte a dochuťte solí a černým pepřem podle svých preferencí.
+1	Nakonec	nakonec	ADV	Db-------------	_	2	advmod	_	_
+2	ochutnejte	ochutnat	VERB	Vi-P---2--A-P--	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	_
+3	a	a	CCONJ	J^-------------	_	4	cc	_	_
+4	dochuťte	dochutit	VERB	Vi-P---2--A-P--	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin	2	conj	_	_
+5	solí	sůl	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	4	obl	_	_
+6	a	a	CCONJ	J^-------------	_	8	cc	_	_
+7	černým	černý	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	8	amod	_	_
+8	pepřem	pepř	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	5	conj	_	_
+9	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	11	case	_	_
+10	svých	svůj	DET	P8XP2----------	Case=Gen|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	11	det	_	_
+11	preferencí	preference	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	2	obl	_	SpaceAfter=No
+12	.	.	PUNCT	Z:-------------	_	2	punct	_	SpaceAfter=No
+
+

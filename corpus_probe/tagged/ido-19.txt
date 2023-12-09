@@ -1,0 +1,158 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = czech-pdt-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mouku se změklým máslem, tukem, špetkou soli a třemi lžícemi vody zpracujeme na hladké těsto, ze kterého uděláme bochánek.
+1	Mouku	mouka	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	14	obj	_	_
+2	se	s	ADP	RV--7----------	AdpType=Voc|Case=Ins	4	case	_	_
+3	změklým	změklý	ADJ	AANS7----1A----	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	4	amod	_	_
+4	máslem	máslo	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	1	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	Z:-------------	_	6	punct	_	_
+6	tukem	tuk	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	4	conj	_	SpaceAfter=No
+7	,	,	PUNCT	Z:-------------	_	8	punct	_	_
+8	špetkou	špetka	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	4	conj	_	_
+9	soli	sůl	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	8	nmod	_	_
+10	a	a	CCONJ	J^-------------	_	12	cc	_	_
+11	třemi	tři	NUM	Cl-P7----------	Case=Ins|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3	12	nummod	_	_
+12	lžícemi	lžíce	NOUN	NNFP7-----A----	Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos	4	conj	_	_
+13	vody	voda	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	12	nmod	_	_
+14	zpracujeme	zpracovat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+15	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	17	case	_	_
+16	hladké	hladký	ADJ	AANS4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	17	amod	_	_
+17	těsto	těsto	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	14	obl	_	SpaceAfter=No
+18	,	,	PUNCT	Z:-------------	_	21	punct	_	_
+19	ze	z	ADP	RV--2----------	AdpType=Voc|Case=Gen	20	case	_	_
+20	kterého	který	DET	P4ZS2----------	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel	21	obl	_	_
+21	uděláme	udělat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	17	acl:relcl	_	_
+22	bochánek	bochánek	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	21	obj	_	SpaceAfter=No
+23	.	.	PUNCT	Z:-------------	_	14	punct	_	_
+
+# sent_id = 2
+# text = Přikryjeme ho utěrkou a necháme asi 1 hodinu odležet.
+1	Přikryjeme	přikrýt	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ho	on	PRON	P5ZS4--3-------	Case=Acc|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs|Variant=Short	1	obj	_	_
+3	utěrkou	utěrka	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	1	obl	_	_
+4	a	a	CCONJ	J^-------------	_	5	cc	_	_
+5	necháme	nechat	VERB	VB-P---1P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+6	asi	asi	PART	TT-------------	_	8	advmod:emph	_	_
+7	1	1	NUM	C=-------------	NumForm=Digit|NumType=Card	8	nummod	_	_
+8	hodinu	hodina	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	9	obl	_	_
+9	odležet	odležet	VERB	Vf--------A-P--	Aspect=Perf|Polarity=Pos|VerbForm=Inf	5	xcomp	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	1	punct	_	_
+
+# sent_id = 3
+# text = Potom těsto rozválíme a vyložíme jím dvě vymazané nízké koláčové formy.
+1	Potom	potom	ADV	Db-------------	_	3	advmod	_	_
+2	těsto	těsto	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	3	obj	_	_
+3	rozválíme	rozválit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	a	a	CCONJ	J^-------------	_	5	cc	_	_
+5	vyložíme	vyložit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+6	jím	on	PRON	PEZS7--3-------	Case=Ins|Gender=Masc,Neut|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	5	obl	_	_
+7	dvě	dva	NUM	CnHP4----------	Case=Acc|Gender=Fem,Neut|Number=Plur|NumForm=Word|NumType=Card	11	nummod	_	_
+8	vymazané	vymazaný	ADJ	AAFP4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	11	amod	_	_
+9	nízké	nízký	ADJ	AAFP4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	11	amod	_	_
+10	koláčové	koláčový	ADJ	AAFP4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	11	amod	_	_
+11	formy	forma	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	5	obj	_	SpaceAfter=No
+12	.	.	PUNCT	Z:-------------	_	3	punct	_	_
+
+# sent_id = 4
+# text = Slaninu nakrájíme na kostičky, na pánvi rozpustíme a společně s nakrájenou cibulí orestujeme dozlatova.
+1	Slaninu	slanina	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	2	obj	_	_
+2	nakrájíme	nakrájit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	4	case	_	_
+4	kostičky	kostička	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	Z:-------------	_	8	punct	_	_
+6	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	7	case	_	_
+7	pánvi	pánev	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	8	obl	_	_
+8	rozpustíme	rozpustit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+9	a	a	CCONJ	J^-------------	_	14	cc	_	_
+10	společně	společně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	13	case	_	_
+11	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	10	fixed	_	_
+12	nakrájenou	nakrájený	ADJ	AAFS7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	13	amod	_	_
+13	cibulí	cibule	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	14	obl	_	_
+14	orestujeme	orestovat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+15	dozlatova	dozlatova	ADV	Db-------------	_	14	advmod	_	SpaceAfter=No
+16	.	.	PUNCT	Z:-------------	_	2	punct	_	_
+
+# sent_id = 5
+# text = Osmaženou cibuli se slaninou necháme mírně zchladnout a pak rozložíme na těsto do forem.
+1	Osmaženou	osmažený	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	2	amod	_	_
+2	cibuli	cibule	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	7	obj	_	_
+3	se	s	ADP	RV--7----------	AdpType=Voc|Case=Ins	4	case	_	_
+4	slaninou	slanina	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	2	nmod	_	_
+5	necháme	nechat	VERB	VB-P---1P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	mírně	mírně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	7	advmod	_	_
+7	zchladnout	zchladnout	VERB	Vf--------A-P--	Aspect=Perf|Polarity=Pos|VerbForm=Inf	5	xcomp	_	_
+8	a	a	CCONJ	J^-------------	_	10	cc	_	_
+9	pak	pak	ADV	Db-------------	_	10	advmod	_	_
+10	rozložíme	rozložit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
+11	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	12	case	_	_
+12	těsto	těsto	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	10	obl	_	_
+13	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	14	case	_	_
+14	forem	forma	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	10	obl	_	SpaceAfter=No
+15	.	.	PUNCT	Z:-------------	_	5	punct	_	_
+
+# sent_id = 6
+# text = Smetanu rozšleháme s vejci a taveným sýrem, ochutíme pepřem a solí a nalijeme na cibulovou směs.
+1	Smetanu	smetana	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	2	obj	_	_
+2	rozšleháme	rozšlehat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	4	case	_	_
+4	vejci	vejce	NOUN	NNNP7-----A----	Case=Ins|Gender=Neut|Number=Plur|Polarity=Pos	2	obl:arg	_	_
+5	a	a	CCONJ	J^-------------	_	7	cc	_	_
+6	taveným	tavený	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	7	amod	_	_
+7	sýrem	sýr	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	4	conj	_	SpaceAfter=No
+8	,	,	PUNCT	Z:-------------	_	9	punct	_	_
+9	ochutíme	ochutit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+10	pepřem	pepř	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	9	obl	_	_
+11	a	a	CCONJ	J^-------------	_	12	cc	_	_
+12	solí	sůl	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	10	conj	_	_
+13	a	a	CCONJ	J^-------------	_	14	cc	_	_
+14	nalijeme	nalít	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+15	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	17	case	_	_
+16	cibulovou	cibulový	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	17	amod	_	_
+17	směs	směs	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	14	obl	_	SpaceAfter=No
+18	.	.	PUNCT	Z:-------------	_	2	punct	_	_
+
+# sent_id = 7
+# text = Povrch posypeme najemno nakrájenou pažitkou a kousky rajčat.
+1	Povrch	povrch	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	2	obj	_	_
+2	posypeme	posypat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	najemno	najemno	ADV	Db-------------	_	4	advmod	_	_
+4	nakrájenou	nakrájený	ADJ	AAFS7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	5	amod	_	_
+5	pažitkou	pažitka	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	2	obl	_	_
+6	a	a	CCONJ	J^-------------	_	7	cc	_	_
+7	kousky	kousek	NOUN	NNIP7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos	5	conj	_	_
+8	rajčat	rajče	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	7	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	Z:-------------	_	2	punct	_	_
+
+# sent_id = 8
+# text = Koláč vložíme do vyhřáté trouby a pečeme při teplotě 180 °C dozlatova.
+1	Koláč	koláč	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	2	obj	_	_
+2	vložíme	vložit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	5	case	_	_
+4	vyhřáté	vyhřátý	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	5	amod	_	_
+5	trouby	trouba	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	2	obl	_	_
+6	a	a	CCONJ	J^-------------	_	7	cc	_	_
+7	pečeme	pečit	VERB	VB-P---1P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+8	při	při	ADP	RR--6----------	AdpType=Prep|Case=Loc	9	case	_	_
+9	teplotě	teplota	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	7	obl	_	_
+10	180	180	NUM	C=-------------	NumForm=Digit|NumType=Card	9	nummod	_	_
+11	°C	°c	NOUN	NNIXX-----A---b	Abbr=Yes|Animacy=Inan|Gender=Masc|Polarity=Pos	10	nmod	_	_
+12	dozlatova	dozlatova	ADV	Db-------------	_	7	advmod	_	SpaceAfter=No
+13	.	.	PUNCT	Z:-------------	_	2	punct	_	_
+
+# sent_id = 9
+# text = Podáváme teplý, ale chutný je i studený.
+1	Podáváme	podávat	VERB	VB-P---1P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	teplý	teplý	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	1	obj	_	SpaceAfter=No
+3	,	,	PUNCT	Z:-------------	_	5	punct	_	_
+4	ale	ale	CCONJ	J^-------------	_	5	cc	_	_
+5	chutný	chutný	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	1	conj	_	_
+6	je	být	AUX	VB-S---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+7	i	i	CCONJ	J^-------------	_	8	advmod:emph	_	_
+8	studený	studený	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	5	nsubj	_	SpaceAfter=No
+9	.	.	PUNCT	Z:-------------	_	1	punct	_	_
+
+

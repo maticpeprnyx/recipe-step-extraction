@@ -1,0 +1,130 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = czech-pdt-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+# text = Omytý lilek a rajčata společně s hermelínem nakrájíme na plátky.
+1	Omytý	omytý	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	2	amod	_	_
+2	lilek	lilek	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	8	obj	_	_
+3	a	a	CCONJ	J^-------------	_	4	cc	_	_
+4	rajčata	rajče	NOUN	NNNP4-----A----	Case=Acc|Gender=Neut|Number=Plur|Polarity=Pos	2	conj	_	_
+5	společně	společně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	7	case	_	_
+6	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	5	fixed	_	_
+7	hermelínem	hermelín	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	8	obl	_	_
+8	nakrájíme	nakrájit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	10	case	_	_
+10	plátky	plátek	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	8	obl	_	SpaceAfter=No
+11	.	.	PUNCT	Z:-------------	_	8	punct	_	_
+
+# sent_id = 2
+# text = Nakrájená rajčata i lilek osolíme, opepříme a pokapeme olivovým olejem.
+1	Nakrájená	nakrájený	ADJ	AANP4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	2	amod	_	_
+2	rajčata	rajče	NOUN	NNNP4-----A----	Case=Acc|Gender=Neut|Number=Plur|Polarity=Pos	5	obj	_	_
+3	i	i	CCONJ	J^-------------	_	4	cc	_	_
+4	lilek	lilek	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	2	conj	_	_
+5	osolíme	osolit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	Z:-------------	_	7	punct	_	_
+7	opepříme	opepřit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
+8	a	a	CCONJ	J^-------------	_	9	cc	_	_
+9	pokapeme	pokapat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
+10	olivovým	olivový	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	11	amod	_	_
+11	olejem	olej	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	9	obl	_	SpaceAfter=No
+12	.	.	PUNCT	Z:-------------	_	5	punct	_	_
+
+# sent_id = 3
+# text = Opečeme je na pánvi z obou stran.
+1	Opečeme	opečit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	je	on	PRON	PEXP4--3-------	Case=Acc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
+3	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	4	case	_	_
+4	pánvi	pánev	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	1	obl	_	_
+5	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	7	case	_	_
+6	obou	oba	NUM	CnXP2----------	Case=Gen|Number=Plur|NumForm=Word|NumType=Card	7	nummod	_	_
+7	stran	strana	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	1	obl	_	SpaceAfter=No
+8	.	.	PUNCT	Z:-------------	_	1	punct	_	_
+
+# sent_id = 4
+# text = Lilek opékáme minimálně 8 minut z každé strany, rajčata stačí jen 5 minut.
+1	Lilek	lilek	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	2	obj	_	_
+2	opékáme	opékat	VERB	VB-P---1P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	minimálně	minimálně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	4	advmod:emph	_	_
+4	8	8	NUM	C=-------------	NumForm=Digit|NumType=Card	5	nummod:gov	_	_
+5	minut	minuta	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	2	obl	_	_
+6	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	8	case	_	_
+7	každé	každý	DET	AAFS2----1A----	Case=Gen|Gender=Fem|Number=Sing|PronType=Tot	8	det	_	_
+8	strany	strana	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	2	obl	_	SpaceAfter=No
+9	,	,	PUNCT	Z:-------------	_	11	punct	_	_
+10	rajčata	rajče	NOUN	NNNP1-----A----	Case=Nom|Gender=Neut|Number=Plur|Polarity=Pos	11	nsubj	_	_
+11	stačí	stačit	VERB	VB-P---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+12	jen	jen	ADV	Db-------------	_	13	advmod:emph	_	_
+13	5	5	NUM	C=-------------	NumForm=Digit|NumType=Card	14	nummod:gov	_	_
+14	minut	minuta	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	11	obl	_	SpaceAfter=No
+15	.	.	PUNCT	Z:-------------	_	2	punct	_	_
+
+# sent_id = 5
+# text = Plátky toastového chleba potřeme máslem, poklademe plátky opečených lilků, proložíme je plátky rajčat a navrch dáme nakrájený hermelín.
+1	Plátky	plátek	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	4	obj	_	_
+2	toastového	toastový	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	3	amod	_	_
+3	chleba	chléb	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	1	nmod	_	_
+4	potřeme	potřít	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	máslem	máslo	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	4	obl	_	SpaceAfter=No
+6	,	,	PUNCT	Z:-------------	_	7	punct	_	_
+7	poklademe	pokladit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
+8	plátky	plátek	NOUN	NNIP7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos	7	obl	_	_
+9	opečených	opečený	ADJ	AAIP2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	10	amod	_	_
+10	lilků	lilk	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	Z:-------------	_	12	punct	_	_
+12	proložíme	proložit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
+13	je	on	PRON	PEXP4--3-------	Case=Acc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	12	obj	_	_
+14	plátky	plátek	NOUN	NNIP7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos	12	obl	_	_
+15	rajčat	rajče	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	14	nmod	_	_
+16	a	a	CCONJ	J^-------------	_	18	cc	_	_
+17	navrch	navrch	ADV	Db-------------	_	18	advmod	_	_
+18	dáme	dát	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
+19	nakrájený	nakrájený	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	20	amod	_	_
+20	hermelín	hermelín	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	18	obj	_	SpaceAfter=No
+21	.	.	PUNCT	Z:-------------	_	4	punct	_	_
+
+# sent_id = 6
+# text = Cherry rajčátka omyjeme, rozpůlíme a poklademe je na obložené toasty.
+1	Cherry	Cherry	NOUN	NNNXX-----A----	Gender=Neut|Polarity=Pos	2	nmod	_	_
+2	rajčátka	rajčátko	NOUN	NNNP4-----A----	Case=Acc|Gender=Neut|Number=Plur|Polarity=Pos	3	obj	_	_
+3	omyjeme	omýt	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	Z:-------------	_	5	punct	_	_
+5	rozpůlíme	rozpůlit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+6	a	a	CCONJ	J^-------------	_	7	cc	_	_
+7	poklademe	pokladit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+8	je	on	PRON	PEXP4--3-------	Case=Acc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	7	obj	_	_
+9	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	11	case	_	_
+10	obložené	obložený	ADJ	AAIP4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	11	amod	_	_
+11	toasty	toast	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	7	obl	_	SpaceAfter=No
+12	.	.	PUNCT	Z:-------------	_	3	punct	_	_
+
+# sent_id = 7
+# text = Dáme je na plech a zapékáme ve vyhřáté troubě při 220 °C asi 5 minut.
+1	Dáme	dát	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	je	on	PRON	PEXP4--3-------	Case=Acc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
+3	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	4	case	_	_
+4	plech	plech	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	1	obl	_	_
+5	a	a	CCONJ	J^-------------	_	6	cc	_	_
+6	zapékáme	zapékat	VERB	VB-P---1P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+7	ve	v	ADP	RV--6----------	AdpType=Voc|Case=Loc	9	case	_	_
+8	vyhřáté	vyhřátý	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	9	amod	_	_
+9	troubě	trouba	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	6	obl	_	_
+10	při	při	ADP	RR--6----------	AdpType=Prep|Case=Loc	11	case	_	_
+11	220	220	NUM	C=-------------	NumForm=Digit|NumType=Card	6	obl	_	_
+12	°C	°C	NOUN	NNIXX-----A---b	Abbr=Yes|Animacy=Inan|Gender=Masc|Polarity=Pos	11	nmod	_	_
+13	asi	asi	PART	TT-------------	_	14	advmod:emph	_	_
+14	5	5	NUM	C=-------------	NumForm=Digit|NumType=Card	15	nummod:gov	_	_
+15	minut	minuta	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	6	obl	_	SpaceAfter=No
+16	.	.	PUNCT	Z:-------------	_	1	punct	_	_
+
+# sent_id = 8
+# text = Hotové toasty ozdobíme rukolou.
+1	Hotové	hotový	ADJ	AAIP4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	2	amod	_	_
+2	toasty	toast	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	3	obj	_	_
+3	ozdobíme	ozdobit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	rukolou	rukola	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	3	obl	_	SpaceAfter=No
+5	.	.	PUNCT	Z:-------------	_	3	punct	_	_
+
+
