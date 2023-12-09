@@ -1,0 +1,95 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = czech-pdt-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+# text = Na pánev (nejlépe wok) si připravíme olej.
+1	Na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	2	case	_	_
+2	pánev	pánev	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	8	obl	_	_
+3	(	(	PUNCT	Z:-------------	_	5	punct	_	SpaceAfter=No
+4	nejlépe	lépe	ADV	Dg-------3A----	Degree=Sup|Polarity=Pos	2	dep	_	_
+5	wok	wok	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	2	dep	_	SpaceAfter=No
+6	)	)	PUNCT	Z:-------------	_	5	punct	_	_
+7	si	se	PRON	P7--3----------	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	8	obl	_	_
+8	připravíme	připravit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	olej	olej	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	8	obj	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	8	punct	_	_
+
+# sent_id = 2
+# text = Kuřecí prsíčka nakrájíme na nudličky.
+1	Kuřecí	kuřecí	ADJ	AANP4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos	2	amod	_	_
+2	prsíčka	prsíčko	NOUN	NNNP4-----A----	Case=Acc|Gender=Neut|Number=Plur|Polarity=Pos	3	obj	_	_
+3	nakrájíme	nakrájit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	5	case	_	_
+5	nudličky	nudlička	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	3	obl	_	SpaceAfter=No
+6	.	.	PUNCT	Z:-------------	_	3	punct	_	_
+
+# sent_id = 3
+# text = Do pánve dáme nudličky, žampiony a zpracované lusky, osolíme, opepříme, můžeme přidat trochu sladké papriky a necháme vařit doměkka.
+1	Do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	2	case	_	_
+2	pánve	pánev	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	3	obl	_	_
+3	dáme	dát	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	nudličky	nudlička	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	3	obj	_	SpaceAfter=No
+5	,	,	PUNCT	Z:-------------	_	6	punct	_	_
+6	žampiony	žampion	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	4	conj	_	_
+7	a	a	CCONJ	J^-------------	_	9	cc	_	_
+8	zpracované	zpracovaný	ADJ	AAIP4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	9	amod	_	_
+9	lusky	lusek	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	4	conj	_	SpaceAfter=No
+10	,	,	PUNCT	Z:-------------	_	11	punct	_	_
+11	osolíme	osolit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	SpaceAfter=No
+12	,	,	PUNCT	Z:-------------	_	13	punct	_	_
+13	opepříme	opepřit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	SpaceAfter=No
+14	,	,	PUNCT	Z:-------------	_	15	punct	_	_
+15	můžeme	moci	VERB	VB-P---1P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+16	přidat	přidat	VERB	Vf--------A-P--	Aspect=Perf|Polarity=Pos|VerbForm=Inf	15	xcomp	_	_
+17	trochu	trocha	ADV	NNFS4-----A----	_	16	obj	_	_
+18	sladké	sladký	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	19	amod	_	_
+19	papriky	paprika	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	17	nmod	_	_
+20	a	a	CCONJ	J^-------------	_	21	cc	_	_
+21	necháme	nechat	VERB	VB-P---1P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+22	vařit	vařit	VERB	Vf--------A-I--	Aspect=Imp|Polarity=Pos|VerbForm=Inf	21	xcomp	_	_
+23	doměkka	doměkka	ADV	Db-------------	_	22	advmod	_	SpaceAfter=No
+24	.	.	PUNCT	Z:-------------	_	3	punct	_	_
+
+# sent_id = 4
+# text = K masu a zelenině můžeme přidat trochu kečupu a vody.
+1	K	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	2	case	_	_
+2	masu	maso	NOUN	NNNS3-----A----	Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos	6	obl	_	_
+3	a	a	CCONJ	J^-------------	_	4	cc	_	_
+4	zelenině	zelenina	NOUN	NNFS3-----A----	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	2	conj	_	_
+5	můžeme	moci	VERB	VB-P---1P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	přidat	přidat	VERB	Vf--------A-P--	Aspect=Perf|Polarity=Pos|VerbForm=Inf	5	xcomp	_	_
+7	trochu	trocha	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	6	obj	_	_
+8	kečupu	kečup	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	7	nmod	_	_
+9	a	a	CCONJ	J^-------------	_	10	cc	_	_
+10	vody	voda	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	8	conj	_	SpaceAfter=No
+11	.	.	PUNCT	Z:-------------	_	5	punct	_	_
+
+# sent_id = 5
+# text = A nakonec zahustit trochou jíšky.
+1	A	a	CCONJ	J^-------------	_	3	cc	_	_
+2	nakonec	nakonec	ADV	Db-------------	_	3	advmod	_	_
+3	zahustit	zahustit	VERB	Vf--------A-P--	Aspect=Perf|Polarity=Pos|VerbForm=Inf	0	root	_	_
+4	trochou	trocha	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	3	obl	_	_
+5	jíšky	jíška	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	4	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	Z:-------------	_	3	punct	_	_
+
+# sent_id = 6
+# text = Kuřecí nudličky na zelenině podáváme s vařeným bramborem nebo s hranolky a oblohou.
+1	Kuřecí	kuřecí	ADJ	AAFP4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	2	amod	_	_
+2	nudličky	nudlička	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	5	obj	_	_
+3	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	4	case	_	_
+4	zelenině	zelenina	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	2	nmod	_	_
+5	podáváme	podávat	VERB	VB-P---1P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	8	case	_	_
+7	vařeným	vařený	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	8	amod	_	_
+8	bramborem	brambor	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	5	obl	_	_
+9	nebo	nebo	CCONJ	J^-------------	_	11	cc	_	_
+10	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	11	case	_	_
+11	hranolky	hranolek	NOUN	NNIP7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos	8	conj	_	_
+12	a	a	CCONJ	J^-------------	_	13	cc	_	_
+13	oblohou	obloha	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	11	conj	_	SpaceAfter=No
+14	.	.	PUNCT	Z:-------------	_	5	punct	_	SpaceAfter=No
+
+

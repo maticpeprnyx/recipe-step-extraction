@@ -1,0 +1,170 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = czech-pdt-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+# text = Červenou řepu oloupeme a nakrájíme na kostky.
+1	Červenou	červený	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	2	amod	_	_
+2	řepu	řepa	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	3	obj	_	_
+3	oloupeme	oloupat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	a	a	CCONJ	J^-------------	_	5	cc	_	_
+5	nakrájíme	nakrájit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+6	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	7	case	_	_
+7	kostky	kostka	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	5	obl	_	SpaceAfter=No
+8	.	.	PUNCT	Z:-------------	_	3	punct	_	_
+
+# sent_id = 2
+# text = Oloupanou cibuli nasekáme na hrubo a očištěnou mrkev nakrájíme na stejně velké kousky jako řepu.
+1	Oloupanou	oloupaný	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	2	amod	_	_
+2	cibuli	cibule	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	3	obj	_	_
+3	nasekáme	nasekat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	5	case	_	_
+5	hrubo	hrubo	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	3	obl	_	_
+6	a	a	CCONJ	J^-------------	_	9	cc	_	_
+7	očištěnou	očištěný	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	8	amod	_	_
+8	mrkev	mrkev	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	9	obj	_	_
+9	nakrájíme	nakrájit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+10	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	13	case	_	_
+11	stejně	stejně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	12	advmod	_	_
+12	velké	velký	ADJ	AAIP4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	13	amod	_	_
+13	kousky	kousek	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	9	obl	_	_
+14	jako	jako	SCONJ	J,-------------	_	15	mark	_	_
+15	řepu	řepa	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	11	advcl	_	SpaceAfter=No
+16	.	.	PUNCT	Z:-------------	_	3	punct	_	_
+
+# sent_id = 3
+# text = Zeleninu vložíme do mísy, osolíme, opepříme a promícháme se 2 lžícemi olivového oleje.
+1	Zeleninu	zelenina	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	2	obj	_	_
+2	vložíme	vložit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	4	case	_	_
+4	mísy	mísa	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	Z:-------------	_	6	punct	_	_
+6	osolíme	osolit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	SpaceAfter=No
+7	,	,	PUNCT	Z:-------------	_	8	punct	_	_
+8	opepříme	opepřit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+9	a	a	CCONJ	J^-------------	_	10	cc	_	_
+10	promícháme	promíchat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+11	se	s	ADP	RV--7----------	AdpType=Voc|Case=Ins	13	case	_	_
+12	2	2	NUM	C=-------------	NumForm=Digit|NumType=Card	13	nummod	_	_
+13	lžícemi	lžíce	NOUN	NNFP7-----A----	Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos	10	obl:arg	_	_
+14	olivového	olivový	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	15	amod	_	_
+15	oleje	olej	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	13	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	Z:-------------	_	2	punct	_	_
+
+# sent_id = 4
+# text = Potom směs v jedné vrstvě rozprostřeme na plech a v předehřáté troubě na 200 °C pečeme přibližně 25 - 30 minut doměkka.
+1	Potom	potom	ADV	Db-------------	_	6	advmod	_	_
+2	směs	směs	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	6	obj	_	_
+3	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	5	case	_	_
+4	jedné	jeden	NUM	CnFS6----------	Case=Loc|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	5	nummod	_	_
+5	vrstvě	vrstva	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	6	obl	_	_
+6	rozprostřeme	rozprostřit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	8	case	_	_
+8	plech	plech	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	6	obl	_	_
+9	a	a	CCONJ	J^-------------	_	16	cc	_	_
+10	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	12	case	_	_
+11	předehřáté	předehřátý	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	12	amod	_	_
+12	troubě	trouba	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	16	obl	_	_
+13	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	14	case	_	_
+14	200	200	NUM	C=-------------	NumForm=Digit|NumType=Card	16	obl	_	_
+15	°C	°C	NOUN	NNIXX-----A---b	Abbr=Yes|Animacy=Inan|Gender=Masc|Polarity=Pos	14	nmod	_	_
+16	pečeme	pečit	VERB	VB-P---1P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
+17	přibližně	přibližně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	18	advmod:emph	_	_
+18	25	25	NUM	C=-------------	NumForm=Digit|NumType=Card	21	nummod:gov	_	_
+19	-	-	PUNCT	Z:-------------	_	20	punct	_	_
+20	30	30	NUM	C=-------------	NumForm=Digit|NumType=Card	18	conj	_	_
+21	minut	minuta	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	16	obl	_	_
+22	doměkka	doměkka	ADV	Db-------------	_	16	advmod	_	SpaceAfter=No
+23	.	.	PUNCT	Z:-------------	_	6	punct	_	_
+
+# sent_id = 5
+# text = Asi po 15 minutách pečení zeleninu promícháme a dopečeme.
+1	Asi	asi	PART	TT-------------	_	4	advmod:emph	_	_
+2	po	po	ADP	RR--6----------	AdpType=Prep|Case=Loc	4	case	_	_
+3	15	15	NUM	C=-------------	NumForm=Digit|NumType=Card	4	nummod	_	_
+4	minutách	minuta	NOUN	NNFP6-----A----	Case=Loc|Gender=Fem|Number=Plur|Polarity=Pos	7	obl	_	_
+5	pečení	pečení	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	4	nmod	_	_
+6	zeleninu	zelenina	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	7	obj	_	_
+7	promícháme	promíchat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	a	a	CCONJ	J^-------------	_	9	cc	_	_
+9	dopečeme	dopečit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	7	punct	_	_
+
+# sent_id = 6
+# text = Mezitím si připravíme podle návodu na obalu quinou s tím rozdílem, že místo vody použijeme zeleninový vývar.
+1	Mezitím	mezitím	ADV	Db-------------	_	3	advmod	_	_
+2	si	se	PRON	P7--3----------	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	3	obl	_	_
+3	připravíme	připravit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	5	case	_	_
+5	návodu	návod	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	3	obl	_	_
+6	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	7	case	_	_
+7	obalu	obal	NOUN	NNIS6-----A---1	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	5	nmod	_	_
+8	quinou	quiný	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	3	obj	_	_
+9	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	11	case	_	_
+10	tím	ten	DET	PDZS7----------	Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Dem	11	det	_	_
+11	rozdílem	rozdíl	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	3	obl	_	SpaceAfter=No
+12	,	,	PUNCT	Z:-------------	_	16	punct	_	_
+13	že	že	SCONJ	J,-------------	_	16	mark	_	_
+14	místo	místo	ADP	RR--2----------	AdpType=Prep|Case=Gen	15	case	_	_
+15	vody	voda	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	16	obl	_	_
+16	použijeme	použít	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl	_	_
+17	zeleninový	zeleninový	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	18	amod	_	_
+18	vývar	vývar	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	16	obj	_	SpaceAfter=No
+19	.	.	PUNCT	Z:-------------	_	3	punct	_	_
+
+# sent_id = 7
+# text = Hotovou quinou promícháme v míse s pečenou zeleninou, podle chuti osolíme, opepříme, okyselíme rýžovým octem a zjemníme olivovým olejem.
+1	Hotovou	hotový	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	2	amod	_	_
+2	quinou	quina	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	3	obj	_	_
+3	promícháme	promíchat	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	5	case	_	_
+5	míse	mísa	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	3	obl	_	_
+6	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	8	case	_	_
+7	pečenou	pečený	ADJ	AAFS7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	8	amod	_	_
+8	zeleninou	zelenina	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	3	obl	_	SpaceAfter=No
+9	,	,	PUNCT	Z:-------------	_	12	punct	_	_
+10	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	11	case	_	_
+11	chuti	chuť	NOUN	NNFS2-----A---1	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	12	obl	_	_
+12	osolíme	osolit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	SpaceAfter=No
+13	,	,	PUNCT	Z:-------------	_	14	punct	_	_
+14	opepříme	opepřit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	SpaceAfter=No
+15	,	,	PUNCT	Z:-------------	_	16	punct	_	_
+16	okyselíme	okyselit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+17	rýžovým	rýžový	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	18	amod	_	_
+18	octem	oct	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	16	obl	_	_
+19	a	a	CCONJ	J^-------------	_	20	cc	_	_
+20	zjemníme	zjemnit	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+21	olivovým	olivový	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	22	amod	_	_
+22	olejem	olej	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	20	obl	_	SpaceAfter=No
+23	.	.	PUNCT	Z:-------------	_	3	punct	_	_
+
+# sent_id = 8
+# text = Salát z quinoi s pečenou červenou řepou, mrkví a cibulí můžeme podávat za tepla jako přílohu, ale také za studena jako salát.
+1	Salát	salát	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	13	obj	_	_
+2	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	3	case	_	_
+3	quinoi	quinoi	X	F%-------------	Foreign=Yes	1	nmod	_	_
+4	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	7	case	_	_
+5	pečenou	pečený	ADJ	AAFS7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	7	amod	_	_
+6	červenou	červený	ADJ	AAFS7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	7	amod	_	_
+7	řepou	řepa	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	1	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	Z:-------------	_	9	punct	_	_
+9	mrkví	mrkev	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	7	conj	_	_
+10	a	a	CCONJ	J^-------------	_	11	cc	_	_
+11	cibulí	cibule	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	7	conj	_	_
+12	můžeme	moci	VERB	VB-P---1P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+13	podávat	podávat	VERB	Vf--------A-I--	Aspect=Imp|Polarity=Pos|VerbForm=Inf	12	xcomp	_	_
+14	za	za	ADP	RR--2----------	AdpType=Prep|Case=Gen	15	case	_	_
+15	tepla	teplo	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	13	obl	_	_
+16	jako	jako	SCONJ	J,-------------	_	17	mark	_	_
+17	přílohu	příloha	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	1	xcomp	_	SpaceAfter=No
+18	,	,	PUNCT	Z:-------------	_	22	punct	_	_
+19	ale	ale	CCONJ	J^-------------	_	22	cc	_	_
+20	také	také	ADV	Db-------------	_	22	advmod:emph	_	_
+21	za	za	ADP	RR--2----------	AdpType=Prep|Case=Gen	22	case	_	_
+22	studena	studeno	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	12	conj	_	_
+23	jako	jako	SCONJ	J,-------------	_	24	mark	_	_
+24	salát	salát	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	22	orphan	_	SpaceAfter=No
+25	.	.	PUNCT	Z:-------------	_	12	punct	_	SpaceAfter=No
+
+
