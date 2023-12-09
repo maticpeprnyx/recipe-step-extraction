@@ -12,15 +12,15 @@ The repository has the following structure:
 │   ├── process.ps1
 │   ├── frequencies
 │   │   ├── ape-01.txt
-⋮   ⋮    ⋮
+┊   ┊   ┊
 │   │   └── var-20.txt
 │   ├── recipes
 │   │   ├── ape-01.txt
-⋮    ⋮   ⋮
+┊   ┊   ┊
 │   │   └── var-20.txt
 │   └── tagged
 │       ├── ape-01.txt
-⋮        ⋮
+┊       ┊
 │       └── var-20.txt
 └── recipe_inflector
     ├── action_verbs.py
