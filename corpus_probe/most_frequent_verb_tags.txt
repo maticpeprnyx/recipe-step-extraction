@@ -1,0 +1,23 @@
+ape: nejfrekventovanější tagy (počet receptů)
+Vi-P---2--A-P-- dělejte 17
+VB-P---1P-AAP-- uděláme 3
+
+azr: nejfrekventovanější tagy (počet receptů)
+Vi-P---2--A-P-- dělejte 1
+VB-P---1P-AAP-- uděláme 18
+VB-P---1P-AAI-- necháme 1
+
+ido: nejfrekventovanější tagy (počet receptů)
+VB-P---1P-AAP-- uděláme 20
+
+nej: nejfrekventovanější tagy (počet receptů)
+Vi-P---2--A-P-- dělejte 2
+VB-P---1P-AAP-- uděláme 18
+
+top: nejfrekventovanější tagy (počet receptů)
+VB-P---1P-AAP-- uděláme 13
+Vi-P---2--A-P-- dělejte 6
+Vf--------A-P-- udělat  1
+
+var: nejfrekventovanější tagy (počet receptů)
+VB-P---1P-AAP-- uděláme 20
