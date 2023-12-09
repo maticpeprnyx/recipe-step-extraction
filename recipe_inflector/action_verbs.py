@@ -8,10 +8,14 @@ from tag import is_structural, is_infinitive
 from verb_tags import get_action_verb_tags
 
 def find_closest_infinitive(vertical: list[list[str]], starting_index: int, right_context_size: int) -> list[str]:
+    """
+    Returns an infinitive (a list of token, lemma and tag) that is closest to the specified position (starting_index).
+    The infinitive has to in the specified context window.
+    """
     for i in range(starting_index, starting_index + right_context_size):
         if is_infinitive(vertical[i][2]):
             return vertical[i]
-
+    # if nothing is found, return a fake empty token
     return ["", "", ""]
 
 def main():
@@ -38,7 +42,7 @@ def main():
                 current_lemma: str = tagged_text[i][1].lower()
                 current_token: str = tagged_text[i][0].lower()
 
-                if current_lemma == "nechat":
+                if current_lemma == "nechat":    # nechat vykvasit etc.
                     closest_verb = find_closest_infinitive(tagged_text, i, 3)
                     current_lemma += " " + closest_verb[1].lower()
                     current_token += " " + closest_verb[0].lower()
