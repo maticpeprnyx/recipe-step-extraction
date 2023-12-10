@@ -1,3 +1,6 @@
+# Run like this:
+# python success_rate.py /path/to/file_1.py /path/to/file_2.py
+# (Every entry should be on its own line.)
 import sys
 from difflib import Differ
 from open_file import open_lines
@@ -22,8 +25,8 @@ def calculate_success_rate(manual_list: list[str], automatic_list: list[str]) ->
     true_positives = 0  # True Positives
     false_positives = 0  # False Positives
 
+    # align the two lists
     aligned_words: list[tuple[str, str]] = align_lists(manual_list, automatic_list)
-    # print(aligned_words)
     
     for pair in aligned_words:
         # print(f"{pair[0]} ?= {pair[1]}")
@@ -93,7 +96,9 @@ def main():
         word_list_b = [i for i in word_list_b if i]
 
         print_aligned_lists(align_lists(word_list_a, word_list_b))
+        print()
 
+        # calculate the measures
         js = jaccard_similarity(word_list_a, word_list_b)
         tp, fp = calculate_success_rate(word_list_a, word_list_b)
 
