@@ -1,0 +1,16 @@
+omýt	omyjeme
+loupat	neloupeme
+rozkrojit	rozkrojíme
+vykrojit	vykrojíme
+nakrájet	nakrájíme
+vlít	vlijeme
+rozklepnout	rozklepneme
+rozšlehat	rozšleháme
+přidávat	přidáváme
+přidat	přidáme
+vylít	vylijeme
+poklást	poklademe
+posypat	posypeme
+dát	dáme
+vložit	vložíme
+péct	pečeme
