@@ -5,28 +5,28 @@ import sys
 from difflib import Differ
 from open_file import open_lines
 
-def jaccard_similarity(manual_list: list, automatic_list: list) -> float:
+def jaccard_similarity(list_1: list, list_2: list) -> float:
     """
-    Calculates the Jaccard Similarity between 'manual_list' and 'automatic_list':
+    Calculates the Jaccard Similarity between 'list_1' and 'list_2':
     JS = |A ∩ B| / |A ∪ B|
     """
-    manual_set: set = set(manual_list)
-    automatic_set: set = set(automatic_list)
+    manual_set: set = set(list_1)
+    automatic_set: set = set(list_2)
     intersection: set = manual_set.intersection(automatic_set)
     union: set = manual_set.union(automatic_set)
     return len(intersection) / len(union)
 
-def calculate_success_rate(manual_list: list[str], automatic_list: list[str]) -> tuple[float, float]:
+def calculate_success_rate(list_1: list[str], list_2: list[str]) -> tuple[float, float]:
     """
     Calculates the rate of true positives and false positives of two lists.
     Returns a tuple of (true_positive_rate, false_positive_rate).
     """
-    total_words = len(manual_list)
+    total_words = len(list_1)
     true_positives = 0  # True Positives
     false_positives = 0  # False Positives
 
     # align the two lists
-    aligned_words: list[tuple[str, str]] = align_lists(manual_list, automatic_list)
+    aligned_words: list[tuple[str, str]] = align_lists(list_1, list_2)
     
     for pair in aligned_words:
         # print(f"{pair[0]} ?= {pair[1]}")
@@ -51,7 +51,7 @@ def align_lists(list_1: list[str], list_2: list[str]) -> list[tuple[str, str]]:
     c       -
     -       z
     """
-    # compare the two lists using differ.
+    # Compare the two lists using differ.
     differ = Differ()
     differ_comparison: list[str] = list(differ.compare(list_1, list_2))
 
@@ -91,9 +91,9 @@ def main():
         word_list_a = open_lines(filepath_1)
         word_list_b = open_lines(filepath_2)
 
-        # remove empty strings
-        word_list_a = [i for i in word_list_a if i]
-        word_list_b = [i for i in word_list_b if i]
+        # remove empty strings and hanging whitespace
+        word_list_a = [i.strip() for i in word_list_a if i]
+        word_list_b = [i.strip() for i in word_list_b if i]
 
         print_aligned_lists(align_lists(word_list_a, word_list_b))
         print()
