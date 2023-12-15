@@ -1,0 +1,100 @@
+<s>	
+Plech	plech	k1gInSc4	
+vyložíme	vyložit	k5eAaPmIp1nP	
+pečicím	pečicí	k2eAgInSc7d1	
+papírem	papír	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+pekárny	pekárna	k1gFnSc2	
+vložíme	vložit	k5eAaPmIp1nP	
+všechny	všechen	k3xTgFnPc4	
+suroviny	surovina	k1gFnPc4	
+v	v	k7c6	
+uvedeném	uvedený	k2eAgNnSc6d1	
+pořadí	pořadí	k1gNnSc6	
+a	a	k8xC	
+zapneme	zapnout	k5eAaPmIp1nP	
+program	program	k1gInSc4	
+Těsto	těsto	k1gNnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Těsto	těsto	k1gNnSc4	
+hlídáme	hlídat	k5eAaImIp1nP	
+a	a	k8xC	
+pokud	pokud	k8xS	
+je	být	k5eAaImIp3nS	
+třeba	třeba	k6eAd1	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+mouku	mouka	k1gFnSc4	
+či	či	k8xC	
+vodu	voda	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Těsto	těsto	k1gNnSc1	
+nesmí	smět	k5eNaImIp3nS	
+být	být	k5eAaImF	
+lepivé	lepivý	k2eAgInPc4d1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Z	z	k7c2	
+vykynutého	vykynutý	k2eAgNnSc2d1	
+těsta	těsto	k1gNnSc2	
+na	na	k7c6	
+pomoučeném	pomoučený	k2eAgInSc6d1	
+vále	vál	k1gInSc6	
+vytvarujeme	vytvarovat	k5eAaPmIp1nP	
+2	#num#	k4	
+šišky	šiška	k1gFnPc1	
+<g/>	
+,	,	kIx,	
+které	který	k3yRgInPc1	
+necháme	nechat	k5eAaPmIp1nP	
+na	na	k7c6	
+plechu	plech	k1gInSc6	
+ještě	ještě	k6eAd1	
+25	#num#	k4	
+minut	minuta	k1gFnPc2	
+kynout	kynout	k5eAaImF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vykynuté	vykynutý	k2eAgFnPc4d1	
+veky	veka	k1gFnPc4	
+potřeme	potřít	k5eAaPmIp1nP	
+vajíčkem	vajíčko	k1gNnSc7	
+a	a	k8xC	
+upečeme	upéct	k5eAaPmIp1nP	
+v	v	k7c6	
+troubě	trouba	k1gFnSc6	
+vyhřáté	vyhřátý	k2eAgFnSc6d1	
+na	na	k7c4	
+200	#num#	k4	
+°	°	k?	
+<g/>	
+C	C	kA	
+dozlatova	dozlatova	k6eAd1	
+(	(	kIx(	
+<g/>	
+25	#num#	k4	
+<g/>	
+-	-	kIx~	
+<g/>	
+30	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+)	)	kIx)	
+<g/>	
+.	.	kIx.	
+</s>	

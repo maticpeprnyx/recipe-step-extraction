@@ -1,0 +1,197 @@
+<s>	
+Husu	husa	k1gFnSc4	
+umyjeme	umýt	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+osolíme	osolit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+opepříme	opepřit	k5eAaPmIp1nP	
+z	z	k7c2	
+venku	venek	k1gInSc2	
+i	i	k8xC	
+uvnitř	uvnitř	k7c2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Posypeme	posypat	k5eAaPmIp1nP	
+trochou	trocha	k1gFnSc7	
+drceného	drcený	k2eAgInSc2d1	
+kmínu	kmín	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Jablka	jablko	k1gNnPc4	
+oloupeme	oloupat	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+měsíčky	měsíčky	k1gInPc4	
+<g/>	
+,	,	kIx,	
+zbavíme	zbavit	k5eAaPmIp1nP	
+jadřince	jadřinka	k1gFnSc3	
+a	a	k8xC	
+vložíme	vložit	k5eAaPmIp1nP	
+do	do	k7c2	
+husy	husa	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Jeden	jeden	k4xCgInSc4	
+pomeranč	pomeranč	k1gInSc4	
+oloupeme	oloupat	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+rozdělíme	rozdělit	k5eAaPmIp1nP	
+na	na	k7c4	
+dílky	dílek	k1gInPc4	
+a	a	k8xC	
+vložíme	vložit	k5eAaPmIp1nP	
+do	do	k7c2	
+husy	husa	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Husu	Husa	k1gMnSc4	
+dáme	dát	k5eAaPmIp1nP	
+do	do	k7c2	
+pekáče	pekáč	k1gInSc2	
+<g/>	
+,	,	kIx,	
+podlejeme	podlít	k5eAaPmIp1nP	
+vodou	voda	k1gFnSc7	
+a	a	k8xC	
+pečeme	péct	k5eAaImIp1nP	
+pod	pod	k7c7	
+poklicí	poklice	k1gFnSc7	
+cca	cca	kA	
+2	#num#	k4	
+hodiny	hodina	k1gFnSc2	
+(	(	kIx(	
+<g/>	
+podle	podle	k7c2	
+velikosti	velikost	k1gFnSc2	
+<g/>	
+)	)	kIx)	
+<g/>	
+,	,	kIx,	
+na	na	k7c4	
+180	#num#	k4	
+<g/>	
+°	°	k?	
+<g/>	
+C	C	kA	
+<g/>	
+,	,	kIx,	
+do	do	k7c2	
+měkka	měkk	k1gMnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Druhý	druhý	k4xOgInSc4	
+pomeranč	pomeranč	k1gInSc4	
+umyjeme	umýt	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+ostrouháme	ostrouhat	k5eAaPmIp1nP	
+z	z	k7c2	
+poloviny	polovina	k1gFnSc2	
+kůru	kůr	k1gInSc2	
+a	a	k8xC	
+tu	ten	k3xDgFnSc4	
+dáme	dát	k5eAaPmIp1nP	
+do	do	k7c2	
+kastrolku	kastrolek	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pomeranč	pomeranč	k1gInSc4	
+potom	potom	k8xC	
+oloupeme	oloupat	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+rozdělíme	rozdělit	k5eAaPmIp1nP	
+na	na	k7c4	
+dílky	dílek	k1gInPc4	
+<g/>	
+,	,	kIx,	
+každý	každý	k3xTgInSc4	
+dílek	dílek	k1gInSc4	
+oloupeme	oloupat	k5eAaPmIp1nP	
+a	a	k8xC	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+malé	malý	k2eAgInPc4d1	
+kousky	kousek	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Takto	takto	k6eAd1	
+nachystaný	nachystaný	k2eAgInSc4d1	
+pomeranč	pomeranč	k1gInSc4	
+přidáme	přidat	k5eAaPmIp1nP	
+ke	k	k7c3	
+kůře	kůra	k1gFnSc3	
+<g/>	
+,	,	kIx,	
+společně	společně	k6eAd1	
+s	s	k7c7	
+2	#num#	k4	
+<g/>	
+pl	pl	k?	
+brusinkového	brusinkový	k2eAgInSc2d1	
+kompotu	kompot	k1gInSc2	
+a	a	k8xC	
+150	#num#	k4	
+<g/>	
+ml	ml	kA	
+vody	voda	k1gFnPc4	
+přivedeme	přivést	k5eAaPmIp1nP	
+k	k	k7c3	
+varu	var	k1gInSc3	
+a	a	k8xC	
+za	za	k7c2	
+občasného	občasný	k2eAgNnSc2d1	
+míchání	míchání	k1gNnSc2	
+vaříme	vařit	k5eAaImIp1nP	
+15	#num#	k4	
+<g/>	
+-	-	kIx~	
+<g/>	
+20	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Husu	husa	k1gFnSc4	
+podáváme	podávat	k5eAaImIp1nP	
+s	s	k7c7	
+vařeným	vařený	k2eAgInSc7d1	
+bramborem	brambor	k1gInSc7	
+<g/>	
+,	,	kIx,	
+přelité	přelitý	k2eAgFnPc4d1	
+pomeřančovou	pomeřančový	k2eAgFnSc7d1	
+omáčkou	omáčka	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+jako	jako	k8xS,k8xC	
+oblohu	obloha	k1gFnSc4	
+použijeme	použít	k5eAaPmIp1nP	
+upečená	upečený	k2eAgNnPc4d1	
+jablka	jablko	k1gNnPc4	
+a	a	k8xC	
+pomeranč	pomeranč	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	

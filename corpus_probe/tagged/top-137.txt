@@ -1,0 +1,122 @@
+<s>	
+Mouku	mouka	k1gFnSc4	
+prosejeme	proset	k5eAaPmIp1nP	
+na	na	k7c4	
+vál	vál	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidáme	přidat	k5eAaPmIp1nP	
+tvaroh	tvaroh	k1gInSc4	
+<g/>	
+,	,	kIx,	
+žloutky	žloutek	k1gInPc4	
+a	a	k8xC	
+všechny	všechen	k3xTgFnPc4	
+zbývající	zbývající	k2eAgFnPc4d1	
+suroviny	surovina	k1gFnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zpracujeme	zpracovat	k5eAaPmIp1nP	
+hladké	hladký	k2eAgInPc4d1	
+<g/>	
+,	,	kIx,	
+nelepivé	lepivý	k2eNgNnSc4d1	
+těsto	těsto	k1gNnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Těsto	těsto	k1gNnSc4	
+rozdělíme	rozdělit	k5eAaPmIp1nP	
+na	na	k7c4	
+poloviny	polovina	k1gFnPc4	
+a	a	k8xC	
+vyválíme	vyválet	k5eAaPmIp1nP	
+na	na	k7c4	
+tenký	tenký	k2eAgInSc4d1	
+plát	plát	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Potřeme	potřít	k5eAaPmRp1nP	
+máslem	máslo	k1gNnSc7	
+a	a	k8xC	
+posypeme	posypat	k5eAaPmIp1nP	
+skořicí	skořice	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Sklenicí	sklenice	k1gFnSc7	
+vykrajujeme	vykrajovat	k5eAaImIp1nP	
+kolečka	kolečko	k1gNnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vždy	vždy	k6eAd1	
+pět	pět	k4xCc4	
+koleček	kolečko	k1gNnPc2	
+překládáme	překládat	k5eAaImIp1nP	
+v	v	k7c6	
+řadě	řada	k1gFnSc6	
+od	od	k7c2	
+poloviny	polovina	k1gFnSc2	
+přes	přes	k7c4	
+sebe	se	k3xPyFc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Řadu	řada	k1gFnSc4	
+koleček	kolečko	k1gNnPc2	
+stočíme	stočit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+formy	forma	k1gFnSc2	
+na	na	k7c4	
+muffiny	muffina	k1gFnPc4	
+dáme	dát	k5eAaPmIp1nP	
+papírový	papírový	k2eAgInSc4d1	
+košíček	košíček	k1gInSc4	
+a	a	k8xC	
+stočené	stočený	k2eAgNnSc4d1	
+těsto	těsto	k1gNnSc4	
+upravíme	upravit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+viz	vidět	k5eAaImRp2nS	
+<g/>	
+.	.	kIx.	
+foto	foto	k1gNnSc1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pečeme	péct	k5eAaImIp1nP	
+na	na	k7c4	
+180	#num#	k4	
+st	st	kA	
+<g/>	
+.	.	kIx.	
+<g/>	
+,	,	kIx,	
+cca	cca	kA	
+15	#num#	k4	
+<g/>	
+-	-	kIx~	
+<g/>	
+20	#num#	k4	
+minut	minuta	k1gFnPc2	
+dozlatova	dozlatova	k6eAd1	
+<g/>	
+.	.	kIx.	
+</s>	

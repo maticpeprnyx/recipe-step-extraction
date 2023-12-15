@@ -1,0 +1,118 @@
+<s>	
+Mouku	mouka	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+tuk	tuk	k1gInSc4	
+<g/>	
+,	,	kIx,	
+tvaroh	tvaroh	k1gInSc4	
+<g/>	
+,	,	kIx,	
+smetanu	smetana	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+sůl	sůl	k1gFnSc4	
+a	a	k8xC	
+kypřící	kypřící	k2eAgInSc4d1	
+prášek	prášek	k1gInSc4	
+dáme	dát	k5eAaPmIp1nP	
+do	do	k7c2	
+mísy	mísa	k1gFnSc2	
+a	a	k8xC	
+propracujeme	propracovat	k5eAaPmIp1nP	
+těsto	těsto	k1gNnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Necháme	nechat	k5eAaPmIp1nP	
+30	#num#	k4	
+minut	minuta	k1gFnPc2	
+v	v	k7c6	
+ledničce	lednička	k1gFnSc6	
+odpočinout	odpočinout	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Potom	potom	k6eAd1	
+ho	on	k3xPp3gNnSc4	
+vyválíme	vyválet	k5eAaPmIp1nP	
+na	na	k7c4	
+tloušťku	tloušťka	k1gFnSc4	
+1	#num#	k4	
+cm	cm	kA	
+<g/>	
+,	,	kIx,	
+přeložíme	přeložit	k5eAaPmIp1nP	
+a	a	k8xC	
+opět	opět	k5eAaPmF	
+dáme	dát	k5eAaPmIp1nP	
+do	do	k7c2	
+lednice	lednice	k1gFnSc2	
+,	,	kIx,	
+nyní	nyní	k6eAd1	
+na	na	k7c4	
+20	#num#	k4	
+minut	minuta	k1gFnPc2	
+a	a	k8xC	
+toto	tento	k3xDgNnSc4	
+opakujeme	opakovat	k5eAaImIp1nP	
+třikrát	třikrát	k6eAd1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Nakonec	nakonec	k6eAd1	
+těsto	těsto	k1gNnSc4	
+rozválíme	rozválet	k5eAaPmIp1nP	
+a	a	k8xC	
+vykrájíme	vykrájet	k5eAaPmIp1nP	
+pagáčky	pagáček	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c6	
+plechu	plech	k1gInSc6	
+potřeme	potřít	k5eAaPmIp1nP	
+vajíčkem	vajíčko	k1gNnSc7	
+a	a	k8xC	
+posypeme	posypat	k5eAaPmIp1nP	
+sýrem	sýr	k1gInSc7	
+nebo	nebo	k8xC	
+kmínem	kmín	k1gInSc7	
+<g/>	
+,	,	kIx,	
+sezamem	sezam	k1gInSc7	
+<g/>	
+,	,	kIx,	
+solí	solit	k5eAaImIp3nS	
+atd	atd	kA	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vložíme	vložit	k5eAaPmIp1nP	
+do	do	k7c2	
+předem	předem	k6eAd1	
+vyhřáté	vyhřátý	k2eAgFnPc4d1	
+trouby	trouba	k1gFnPc4	
+a	a	k8xC	
+pečeme	péct	k5eAaImIp1nP	
+dozlatova	dozlatova	k6eAd1	
+na	na	k7c4	
+180	#num#	k4	
+st	st	kA	
+<g/>	
+.	.	kIx.	
+asi	asi	k9	
+20	#num#	k4	
+<g/>	
+-	-	kIx~	
+<g/>	
+30	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	

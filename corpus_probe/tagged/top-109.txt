@@ -1,0 +1,226 @@
+<s>	
+Do	do	k7c2	
+vajíčka	vajíčko	k1gNnSc2	
+na	na	k7c4	
+čaj	čaj	k1gInSc4	
+dáme	dát	k5eAaPmIp1nP	
+nalámaný	nalámaný	k2eAgInSc4d1	
+bobkový	bobkový	k2eAgInSc4d1	
+list	list	k1gInSc4	
+<g/>	
+,	,	kIx,	
+nastříhaný	nastříhaný	k2eAgInSc4d1	
+rozmarýn	rozmarýn	k1gInSc4	
+a	a	k8xC	
+kuličky	kulička	k1gFnPc4	
+koření	kořenit	k5eAaImIp3nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+velkého	velký	k2eAgInSc2d1	
+hrnce	hrnec	k1gInSc2	
+dáme	dát	k5eAaPmIp1nP	
+všechny	všechen	k3xTgFnPc4	
+uvedené	uvedený	k2eAgFnPc4d1	
+suroviny	surovina	k1gFnPc4	
+na	na	k7c4	
+vývar	vývar	k1gInSc4	
+<g/>	
+,	,	kIx,	
+jen	jen	k8xS	
+játra	játra	k1gNnPc4	
+odložíme	odložit	k5eAaPmIp1nP	
+na	na	k7c4	
+později	pozdě	k6eAd2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidáme	přidat	k5eAaPmIp1nP	
+koření	koření	k1gNnSc4	
+v	v	k7c6	
+čajovém	čajový	k2eAgNnSc6d1	
+vajíčku	vajíčko	k1gNnSc6	
+a	a	k8xC	
+vše	všechen	k3xTgNnSc4	
+zalijeme	zalít	k5eAaPmIp1nP	
+studenou	studený	k2eAgFnSc7d1	
+vodou	voda	k1gFnSc7	
+tak	tak	k6eAd1	
+<g/>	
+,	,	kIx,	
+aby	aby	kYmCp3nP	
+byly	být	k5eAaImAgFnP	
+všechny	všechen	k3xTgFnPc1	
+suroviny	surovina	k1gFnPc1	
+ponořené	ponořený	k2eAgFnPc1d1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přivedeme	přivést	k5eAaPmIp1nP	
+k	k	k7c3	
+varu	var	k1gInSc3	
+a	a	k8xC	
+na	na	k7c6	
+mírném	mírný	k2eAgInSc6d1	
+plameni	plamen	k1gInSc6	
+vaříme	vařit	k5eAaImIp1nP	
+pod	pod	k7c7	
+pokličkou	poklička	k1gFnSc7	
+cca	cca	kA	
+3	#num#	k4	
+hodiny	hodiny	k1gFnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Mezitím	mezitím	k6eAd1	
+ve	v	k7c6	
+druhém	druhý	k4xOgInSc6	
+<g/>	
+,	,	kIx,	
+hlubokém	hluboký	k2eAgNnSc6d1	
+hrnci	hrnec	k1gInPc7	
+rozehřejeme	rozehřát	k5eAaPmIp1nP	
+máslo	máslo	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+mouku	mouka	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+muškátový	muškátový	k2eAgInSc4d1	
+oříšek	oříšek	k1gInSc4	
+a	a	k8xC	
+usmažíme	usmažit	k5eAaPmIp1nP	
+světlou	světlý	k2eAgFnSc4d1	
+jíšku	jíška	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zalijeme	zalít	k5eAaPmIp1nP	
+smetanou	smetana	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+za	za	k7c2	
+stálého	stálý	k2eAgNnSc2d1	
+míchání	míchání	k1gNnSc2	
+ji	on	k3xPp3gFnSc4	
+necháme	nechat	k5eAaPmIp1nP	
+zhoustnout	zhoustnout	k5eAaPmF	
+a	a	k8xC	
+poté	poté	k6eAd1	
+odstavíme	odstavit	k5eAaPmIp1nP	
+stranou	strana	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Hotový	hotový	k2eAgInSc4d1	
+vývar	vývar	k1gInSc4	
+přecedíme	přecedit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+krk	krk	k1gInSc4	
+obereme	obrat	k5eAaPmIp1nP	
+od	od	k7c2	
+kůstek	kůstka	k1gFnPc2	
+a	a	k8xC	
+maso	maso	k1gNnSc4	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+menší	malý	k2eAgInPc4d2	
+kousky	kousek	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c4	
+kousky	kousek	k1gInPc4	
+také	také	k9	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+srdíčko	srdíčko	k1gNnSc4	
+a	a	k8xC	
+žaludek	žaludek	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vývarem	vývar	k1gInSc7	
+naředíme	naředit	k5eAaPmIp1nP	
+jíškovou	jíškový	k2eAgFnSc4d1	
+kaši	kaše	k1gFnSc4	
+na	na	k7c6	
+konzistenci	konzistence	k1gFnSc6	
+polévky	polévka	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+na	na	k7c4	
+drobné	drobný	k2eAgFnPc4d1	
+kostičky	kostička	k1gFnPc4	
+nakrájenou	nakrájený	k2eAgFnSc4d1	
+syrovou	syrový	k2eAgFnSc4d1	
+mrkev	mrkev	k1gFnSc4	
+a	a	k8xC	
+celer	celer	k1gInSc4	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+celá	celý	k2eAgNnPc1d1	
+játra	játra	k1gNnPc1	
+<g/>	
+,	,	kIx,	
+podle	podle	k7c2	
+potřeby	potřeba	k1gFnSc2	
+dochutíme	dochutit	k5eAaPmIp1nP	
+solí	sůl	k1gFnSc7	
+a	a	k8xC	
+pepřem	pepř	k1gInSc7	
+a	a	k8xC	
+slabým	slabý	k2eAgInSc7d1	
+varem	var	k1gInSc7	
+vaříme	vařit	k5eAaImIp1nP	
+15	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Poté	poté	k6eAd1	
+játra	játra	k1gNnPc1	
+vytáhneme	vytáhnout	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+drobně	drobně	k6eAd1	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+a	a	k8xC	
+dáme	dát	k5eAaPmIp1nP	
+je	on	k3xPp3gNnSc4	
+s	s	k7c7	
+ostatním	ostatní	k2eAgNnSc7d1	
+nakrájeným	nakrájený	k2eAgNnSc7d1	
+masem	maso	k1gNnSc7	
+prohřát	prohřát	k5eAaPmF	
+do	do	k7c2	
+polévky	polévka	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podáváme	podávat	k5eAaImIp1nP	
+se	se	k3xPyFc4	
+širokými	široký	k2eAgFnPc7d1	
+nudlemi	nudle	k1gFnPc7	
+<g/>	
+,	,	kIx,	
+dozdobíme	dozdobit	k5eAaPmIp1nP	
+zelenou	zelený	k2eAgFnSc7d1	
+petrželkou	petrželka	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	

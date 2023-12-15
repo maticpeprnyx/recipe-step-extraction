@@ -1,0 +1,110 @@
+<s>	
+Kuřecí	kuřecí	k2eAgFnPc4d1	
+nudličky	nudlička	k1gFnPc4	
+osolíme	osolit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+opepříme	opepřit	k5eAaPmIp1nP	
+a	a	k8xC	
+obalíme	obalit	k5eAaPmIp1nP	
+v	v	k7c6	
+solamylu	solamyl	k1gInSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Rozehřejeme	rozehřát	k5eAaPmIp1nP	
+olej	olej	k1gInSc4	
+<g/>	
+,	,	kIx,	
+nudličky	nudlička	k1gFnSc2	
+zprudka	zprudka	k6eAd1	
+opečeme	opéct	k5eAaPmIp1nP	
+a	a	k8xC	
+vyjmeme	vynít	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+výpeku	výpek	k1gInSc2	
+podle	podle	k7c2	
+potřeby	potřeba	k1gFnSc2	
+přidáme	přidat	k5eAaPmIp1nP	
+olej	olej	k1gInSc4	
+nebo	nebo	k8xC	
+kousek	kousek	k1gInSc4	
+másla	máslo	k1gNnSc2	
+a	a	k8xC	
+nakrájenou	nakrájený	k2eAgFnSc4d1	
+šalotku	šalotka	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Necháme	nechat	k5eAaPmIp1nP	
+ji	on	k3xPp3gFnSc4	
+zpěnit	zpěnit	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Po	po	k7c6	
+chvíli	chvíle	k1gFnSc6	
+přidáme	přidat	k5eAaPmIp1nP	
+papriku	paprika	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+nakrájená	nakrájený	k2eAgNnPc4d1	
+rajčata	rajče	k1gNnPc4	
+a	a	k8xC	
+tymián	tymián	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Chvíli	chvíle	k1gFnSc4	
+dusíme	dusit	k5eAaImIp1nP	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+pyré	pyré	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+sojovku	sojovka	k1gFnSc4	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+probublat	probublat	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podle	podle	k7c2	
+potřeby	potřeba	k1gFnSc2	
+zředíme	zředit	k5eAaPmIp1nP	
+vývarem	vývar	k1gInSc7	
+a	a	k8xC	
+vrátíme	vrátit	k5eAaPmIp1nP	
+zpět	zpět	k6eAd1	
+maso	maso	k1gNnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Společně	společně	k6eAd1	
+prohřejeme	prohřát	k5eAaPmIp1nP	
+a	a	k8xC	
+podáváme	podávat	k5eAaImIp1nP	
+s	s	k7c7	
+hranolky	hranolek	k1gInPc7	
+nebo	nebo	k8xC	
+opečenými	opečený	k2eAgInPc7d1	
+brambory	brambor	k1gInPc7	
+<g/>	
+.	.	kIx.	
+3	#num#	k4	
+<g/>	
+.	.	kIx.	
+krok	krok	k1gInSc4	
+postupu	postup	k1gInSc3	
+</s>	

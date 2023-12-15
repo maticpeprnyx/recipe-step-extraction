@@ -1,0 +1,267 @@
+<s>	
+Smícháme	smíchat	k5eAaPmIp1nP	
+mouku	mouka	k1gFnSc4	
+s	s	k7c7	
+práškem	prášek	k1gInSc7	
+do	do	k7c2	
+pečiva	pečivo	k1gNnSc2	
+a	a	k8xC	
+cukrem	cukr	k1gInSc7	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+smetanu	smetana	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+rozkvedlané	rozkvedlaný	k2eAgNnSc4d1	
+vejce	vejce	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+kůru	kůr	k1gInSc2	
+nebo	nebo	k8xC	
+aroma	aroma	k1gNnSc2	
+a	a	k8xC	
+vše	všechen	k3xTgNnSc4	
+smícháme	smíchat	k5eAaPmIp1nP	
+dohromady	dohromady	k6eAd1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Nádobu	nádoba	k1gFnSc4	
+remosky	remoska	k1gFnSc2	
+už	už	k6eAd1	
+předem	předem	k6eAd1	
+vyložíme	vyložit	k5eAaPmIp1nP	
+do	do	k7c2	
+2	#num#	k4	
+<g/>	
+/	/	kIx~	
+<g/>	
+3	#num#	k4	
+výšky	výška	k1gFnSc2	
+papírem	papír	k1gInSc7	
+na	na	k7c6	
+pečení	pečení	k1gNnSc6	
+-	-	kIx~	
+z	z	k7c2	
+papíru	papír	k1gInSc2	
+vystřihneme	vystřihnout	k5eAaPmIp1nP	
+kolečko	kolečko	k1gNnSc4	
+o	o	k7c4	
+něco	něco	k6eAd1	
+větší	veliký	k2eAgNnSc4d2	
+než	než	k8xS	
+dno	dno	k1gNnSc4	
+remosky	remoska	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+zmuchláme	zmuchlat	k5eAaPmIp1nP	
+do	do	k7c2	
+koule	koule	k1gFnSc2	
+a	a	k8xC	
+pak	pak	k8xC	
+v	v	k7c6	
+remosce	remoska	k1gFnSc6	
+rozložíme	rozložit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Papír	papír	k1gInSc1	
+by	by	kYmCp3nS	
+se	se	k3xPyFc4	
+pak	pak	k6eAd1	
+neměl	mít	k5eNaImAgInS	
+dotýkat	dotýkat	k5eAaImF	
+horního	horní	k2eAgNnSc2d1	
+topného	topný	k2eAgNnSc2d1	
+tělesa	těleso	k1gNnSc2	
+<g/>	
+,	,	kIx,	
+připaluje	připalovat	k5eAaImIp3nS	
+se	se	k3xPyFc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Kdo	kdo	k3yInSc1,k3yQnSc1,k3yRnSc1	
+peče	péct	k5eAaImIp3nS	
+v	v	k7c6	
+remosce	remoska	k1gFnSc6	
+častěji	často	k6eAd2	
+<g/>	
+,	,	kIx,	
+tak	tak	k8xS,k8xC	
+si	se	k3xPyFc3	
+může	moct	k5eAaImIp3nS	
+vystřihnout	vystřihnout	k5eAaPmF	
+z	z	k7c2	
+teflonové	teflonový	k2eAgFnSc2d1	
+fólie	fólie	k1gFnSc2	
+dno	dno	k1gNnSc1	
+2	#num#	k4	
+pásky	pásek	k1gInPc4	
+na	na	k7c4	
+obvod	obvod	k1gInSc4	
+mísy	mísa	k1gFnSc2	
+a	a	k8xC	
+nemusí	muset	k5eNaImIp3nS	
+používat	používat	k5eAaImF	
+papír	papír	k1gInSc1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vlijeme	vlít	k5eAaPmIp1nP	
+2	#num#	k4	
+<g/>	
+/	/	kIx~	
+<g/>	
+3	#num#	k4	
+těsta	těsto	k1gNnPc1	
+<g/>	
+,	,	kIx,	
+rozprostřeme	rozprostřít	k5eAaPmIp1nP	
+nastrouhaná	nastrouhaný	k2eAgNnPc1d1	
+jablka	jablko	k1gNnPc1	
+<g/>	
+,	,	kIx,	
+pokud	pokud	k8xS	
+je	být	k5eAaImIp3nS	
+třeba	třeba	k6eAd1	
+tak	tak	k6eAd1	
+doslazená	doslazený	k2eAgFnSc1d1	
+mírně	mírně	k6eAd1	
+cukrem	cukr	k1gInSc7	
+a	a	k8xC	
+ochucená	ochucený	k2eAgFnSc1d1	
+skořicí	skořice	k1gFnSc7	
+a	a	k8xC	
+na	na	k7c4	
+jablka	jablko	k1gNnPc4	
+rozetřeme	rozetřít	k5eAaPmIp1nP	
+zbývající	zbývající	k2eAgInPc1d1	
+1	#num#	k4	
+<g/>	
+/	/	kIx~	
+<g/>	
+3	#num#	k4	
+těsta	těsto	k1gNnPc1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Nádobu	nádoba	k1gFnSc4	
+přiklopíme	přiklopit	k5eAaPmIp1nP	
+víkem	víko	k1gNnSc7	
+<g/>	
+,	,	kIx,	
+zapneme	zapnout	k5eAaPmIp1nP	
+a	a	k8xC	
+pečeme	péct	k5eAaImIp1nP	
+35	#num#	k4	
+-	-	kIx~	
+40	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Čas	čas	k1gInSc1	
+pečení	pečení	k1gNnSc2	
+je	být	k5eAaImIp3nS	
+jen	jen	k9	
+orientační	orientační	k2eAgFnSc1d1	
+<g/>	
+,	,	kIx,	
+přece	přece	k8xC	
+jen	jen	k9	
+může	moct	k5eAaImIp3nS	
+každá	každý	k3xTgFnSc1	
+remoska	remoska	k1gFnSc1	
+péct	péct	k5eAaImF	
+trošičku	trošička	k1gFnSc4	
+jinak	jinak	k6eAd1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Upečenou	upečený	k2eAgFnSc4d1	
+buchtu	buchta	k1gFnSc4	
+po	po	k7c6	
+chvíli	chvíle	k1gFnSc6	
+vyjmeme	vyjmout	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+necháme	nechat	k5eAaPmIp1nP	
+na	na	k7c6	
+mřížce	mřížka	k1gFnSc6	
+vychladnout	vychladnout	k5eAaPmF	
+a	a	k8xC	
+odstraníme	odstranit	k5eAaPmIp1nP	
+papír	papír	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pocukrujeme	pocukrovat	k5eAaPmIp1nP	
+na	na	k7c6	
+povrchu	povrch	k1gInSc6	
+a	a	k8xC	
+podáváme	podávat	k5eAaImIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Cukru	cukr	k1gInSc2	
+do	do	k7c2	
+těsta	těsto	k1gNnSc2	
+přidáme	přidat	k5eAaPmIp1nP	
+podle	podle	k7c2	
+toho	ten	k3xDgNnSc2	
+<g/>	
+,	,	kIx,	
+jak	jak	k8xC,k8xS	
+moc	moc	k1gFnSc4	
+sladkou	sladký	k2eAgFnSc4d1	
+ji	on	k3xPp3gFnSc4	
+chceme	chtít	k5eAaImIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Těsto	těsto	k1gNnSc4	
+nebo	nebo	k8xC	
+i	i	k9	
+jablečnou	jablečný	k2eAgFnSc4d1	
+směs	směs	k1gFnSc4	
+si	se	k3xPyFc3	
+můžeme	moct	k5eAaImIp1nP	
+i	i	k9	
+jinak	jinak	k6eAd1	
+vylepšit	vylepšit	k5eAaPmF	
+<g/>	
+,	,	kIx,	
+například	například	k6eAd1	
+přidáním	přidání	k1gNnSc7	
+rozinek	rozinka	k1gFnPc2	
+<g/>	
+,	,	kIx,	
+kokosu	kokos	k1gInSc2	
+<g/>	
+,	,	kIx,	
+sekaných	sekaný	k2eAgInPc2d1	
+ořechů	ořech	k1gInPc2	
+<g/>	
+,	,	kIx,	
+mletého	mletý	k2eAgInSc2d1	
+máku	mák	k1gInSc2	
+<g/>	
+,	,	kIx,	
+vanilkovým	vanilkový	k2eAgInSc7d1	
+cukrem	cukr	k1gInSc7	
+atd	atd	kA	
+<g/>	
+.	.	kIx.	
+</s>	

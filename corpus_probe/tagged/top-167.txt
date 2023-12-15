@@ -1,0 +1,60 @@
+<s>	
+Tvaroh	tvaroh	k1gInSc4	
+a	a	k8xC	
+zakysanou	zakysaný	k2eAgFnSc4d1	
+smetanu	smetana	k1gFnSc4	
+si	se	k3xPyFc3	
+našleháme	našlehat	k5eAaPmIp1nP	
+do	do	k7c2	
+hladkého	hladký	k2eAgInSc2d1	
+krému	krém	k1gInSc2	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+cukr	cukr	k1gInSc4	
+<g/>	
+,	,	kIx,	
+mák	mák	k1gInSc4	
+a	a	k8xC	
+ještě	ještě	k9	
+chvilku	chvilka	k1gFnSc4	
+šleháme	šlehat	k5eAaImIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Nakonec	nakonec	k6eAd1	
+opatrně	opatrně	k6eAd1	
+vmícháme	vmíchat	k5eAaPmIp1nP	
+do	do	k7c2	
+tuha	tuha	k1gFnSc1	
+ušlehanou	ušlehaný	k2eAgFnSc4d1	
+smetanu	smetana	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Dáme	dát	k5eAaPmIp1nP	
+do	do	k7c2	
+strojku	strojek	k1gInSc2	
+na	na	k7c4	
+zmrzlinu	zmrzlina	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+nebo	nebo	k8xC	
+do	do	k7c2	
+mrazáku	mrazák	k1gInSc2	
+<g/>	
+,	,	kIx,	
+ale	ale	k8xC	
+v	v	k7c6	
+tom	ten	k3xDgInSc6	
+případě	případ	k1gInSc6	
+několikrát	několikrát	k6eAd1	
+během	během	k7c2	
+tuhnutí	tuhnutí	k1gNnSc2	
+opatrně	opatrně	k6eAd1	
+promícháme	promíchat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	

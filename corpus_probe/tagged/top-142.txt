@@ -1,0 +1,146 @@
+<s>	
+K	k	k7c3	
+oběma	dva	k4xCgFnPc3	
+moukám	mouka	k1gFnPc3	
+přidíme	přidít	k5eAaPmIp1nP,k5eAaImIp1nP	
+kypřIcí	kypřicí	k2eAgInSc4d1	
+prášek	prášek	k1gInSc4	
+<g/>	
+,	,	kIx,	
+nakrájený	nakrájený	k2eAgInSc4d1	
+tuhý	tuhý	k2eAgInSc4d1	
+tuk	tuk	k1gInSc4	
+<g/>	
+,	,	kIx,	
+mléko	mléko	k1gNnSc4	
+a	a	k8xC	
+vejce	vejce	k1gNnSc4	
+a	a	k8xC	
+vypracujeme	vypracovat	k5eAaPmIp1nP	
+těsto	těsto	k1gNnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zpracování	zpracování	k1gNnSc1	
+jde	jít	k5eAaImIp3nS	
+snadno	snadno	k6eAd1	
+<g/>	
+,	,	kIx,	
+těsto	těsto	k1gNnSc1	
+je	být	k5eAaImIp3nS	
+pěkně	pěkně	k6eAd1	
+vláčné	vláčný	k2eAgNnSc1d1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c4	
+náplň	náplň	k1gFnSc4	
+rozmícháme	rozmíchat	k5eAaPmIp1nP	
+tvaroh	tvaroh	k1gInSc4	
+s	s	k7c7	
+mlékem	mléko	k1gNnSc7	
+<g/>	
+,	,	kIx,	
+škrobem	škrob	k1gMnSc7	
+<g/>	
+,	,	kIx,	
+vejcem	vejce	k1gNnSc7	
+a	a	k8xC	
+oběma	dva	k4xCgInPc7	
+cukry	cukr	k1gInPc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Těsto	těsto	k1gNnSc4	
+rozdělíme	rozdělit	k5eAaPmIp1nP	
+na	na	k7c4	
+2	#num#	k4	
+díly	díl	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Každý	každý	k3xTgInSc4	
+vyválíme	vyválet	k5eAaPmIp1nP	
+na	na	k7c4	
+velikost	velikost	k1gFnSc4	
+plechu	plech	k1gInSc2	
+a	a	k8xC	
+první	první	k4xOgFnSc2	
+přeneseme	přenést	k5eAaPmIp1nP	
+na	na	k7c4	
+tukem	tuk	k1gInSc7	
+vymazaný	vymazaný	k2eAgInSc4d1	
+a	a	k8xC	
+moukou	mouka	k1gFnSc7	
+vysypaný	vysypaný	k2eAgInSc4d1	
+plech	plech	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Plát	plát	k1gInSc4	
+těsta	těsto	k1gNnSc2	
+potřeme	potřít	k5eAaPmIp1nP	
+rybízovou	rybízový	k2eAgFnSc7d1	
+marmeládou	marmeláda	k1gFnSc7	
+a	a	k8xC	
+na	na	k7c4	
+ni	on	k3xPp3gFnSc4	
+navrstvíme	navrstvit	k5eAaPmIp1nP	
+připravenou	připravený	k2eAgFnSc4d1	
+tvarohovou	tvarohový	k2eAgFnSc4d1	
+náplň	náplň	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vyválíme	vyválet	k5eAaPmIp1nP	
+druhý	druhý	k4xOgInSc4	
+plát	plát	k1gInSc4	
+těsta	těsto	k1gNnSc2	
+a	a	k8xC	
+tím	ten	k3xDgNnSc7	
+tvarohovou	tvarohový	k2eAgFnSc4d1	
+nádivku	nádivka	k1gFnSc4	
+přikryjeme	přikrýt	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Upečeme	upéct	k5eAaPmIp1nP	
+v	v	k7c6	
+troubě	trouba	k1gFnSc6	
+předehřáté	předehřátý	k2eAgFnSc6d1	
+na	na	k7c4	
+180	#num#	k4	
+°	°	k?	
+<g/>	
+C	C	kA	
+do	do	k7c2	
+zrůžovění	zrůžovění	k1gNnSc2	
+<g/>	
+,	,	kIx,	
+asi	asi	k9	
+30	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Po	po	k7c4	
+vychladnutí	vychladnutí	k1gNnSc4	
+koláč	koláč	k1gInSc4	
+pocukrujeme	pocukrovat	k5eAaPmIp1nP	
+moučkovým	moučkový	k2eAgInSc7d1	
+cukrem	cukr	k1gInSc7	
+a	a	k8xC	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+řezy	řez	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	

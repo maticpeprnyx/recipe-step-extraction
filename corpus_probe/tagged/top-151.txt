@@ -1,0 +1,73 @@
+<s>	
+Maso	maso	k1gNnSc4	
+smícháme	smíchat	k5eAaPmIp1nP	
+s	s	k7c7	
+vejcem	vejce	k1gNnSc7	
+a	a	k8xC	
+zbytkem	zbytek	k1gInSc7	
+surovin	surovina	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pořádně	pořádně	k6eAd1	
+promícháme	promíchat	k5eAaPmIp1nP	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+1	#num#	k4	
+<g/>	
+/	/	kIx~	
+<g/>	
+2	#num#	k4	
+hodiny	hodiny	k1gFnPc4	
+odležet	odležet	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Připravíme	připravit	k5eAaPmIp1nP	
+bránici	bránice	k1gFnSc4	
+a	a	k8xC	
+masové	masový	k2eAgInPc4d1	
+válečky	váleček	k1gInPc4	
+do	do	k7c2	
+ní	on	k3xPp3gFnSc2	
+zabalíme	zabalit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zapíchneme	zapíchnout	k5eAaPmIp1nP	
+špejle	špejle	k1gFnPc4	
+a	a	k8xC	
+vytvarujeme	vytvarovat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Opékáme	opékat	k5eAaImIp1nP	
+na	na	k7c6	
+grilu	gril	k1gInSc6	
+nebo	nebo	k8xC	
+na	na	k7c6	
+pánvi	pánev	k1gFnSc6	
+ze	z	k7c2	
+všech	všechen	k3xTgFnPc2	
+stran	strana	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Po	po	k7c6	
+opečení	opečení	k1gNnSc6	
+do	do	k7c2	
+křupava	křupava	k1gFnSc1	
+podáváme	podávat	k5eAaImIp1nP	
+s	s	k7c7	
+chlebem	chléb	k1gInSc7	
+a	a	k8xC	
+různými	různý	k2eAgFnPc7d1	
+omáčkami	omáčka	k1gFnPc7	
+<g/>	
+.	.	kIx.	
+</s>	

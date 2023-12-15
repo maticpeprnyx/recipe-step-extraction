@@ -1,0 +1,136 @@
+<s>	
+Z	z	k7c2	
+kuřecí	kuřecí	k2eAgFnSc2d1	
+kostry	kostra	k1gFnSc2	
+uvaříme	uvařit	k5eAaPmIp1nP	
+vývar	vývar	k1gInSc4	
+obvyklým	obvyklý	k2eAgInSc7d1	
+způsobem	způsob	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Měkké	měkký	k2eAgNnSc4d1	
+maso	maso	k1gNnSc4	
+obereme	obrat	k5eAaPmIp1nP	
+a	a	k8xC	
+vývar	vývar	k1gInSc4	
+scedíme	scedit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c6	
+másle	máslo	k1gNnSc6	
+osmahneme	osmahnout	k5eAaPmIp1nP	
+na	na	k7c4	
+kostičky	kostička	k1gFnPc4	
+nakrájenou	nakrájený	k2eAgFnSc4d1	
+cibuli	cibule	k1gFnSc4	
+a	a	k8xC	
+po	po	k7c6	
+chvíli	chvíle	k1gFnSc6	
+přidáme	přidat	k5eAaPmIp1nP	
+na	na	k7c4	
+nudličky	nudlička	k1gFnPc4	
+nakrouhanou	nakrouhaný	k2eAgFnSc4d1	
+mrkev	mrkev	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Orestujeme	orestovat	k5eAaPmIp1nP	
+a	a	k8xC	
+zalijeme	zalít	k5eAaPmIp1nP	
+vývarem	vývar	k1gInSc7	
+(	(	kIx(	
+<g/>	
+cca	cca	kA	
+300	#num#	k4	
+ml	ml	kA	
+<g/>	
+)	)	kIx)	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Dusíme	dusit	k5eAaImIp1nP	
+do	do	k7c2	
+měkka	měkek	k1gInSc2	
+<g/>	
+,	,	kIx,	
+pozor	pozor	k1gInSc4	
+na	na	k7c4	
+rozvaření	rozvaření	k1gNnSc4	
+<g/>	
+!	!	kIx.	
+</s>	
+<s desamb="1">	
+Vmícháme	vmíchat	k5eAaPmIp1nP	
+obrané	obraný	k2eAgNnSc4d1	
+masíčko	masíčko	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+dochutíme	dochutit	k5eAaPmIp1nP	
+pepřem	pepř	k1gInSc7	
+<g/>	
+,	,	kIx,	
+popř	popř	kA	
+<g/>	
+.	.	kIx.	
+solí	solit	k5eAaImIp3nP	
+<g/>	
+,	,	kIx,	
+vypneme	vypnout	k5eAaPmIp1nP	
+zdroj	zdroj	k1gInSc4	
+tepla	teplo	k1gNnSc2	
+a	a	k8xC	
+vmícháme	vmíchat	k5eAaPmIp1nP	
+sýr	sýr	k1gInSc4	
+a	a	k8xC	
+nasekanou	nasekaný	k2eAgFnSc4d1	
+petrželku	petrželka	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podáváme	podávat	k5eAaImIp1nP	
+jen	jen	k9	
+tak	tak	k6eAd1	
+bez	bez	k7c2	
+přílohy	příloha	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+velcí	velký	k2eAgMnPc1d1	
+jedlíci	jedlík	k1gMnPc1	
+s	s	k7c7	
+chlebem	chléb	k1gInSc7	
+(	(	kIx(	
+<g/>	
+dělala	dělat	k5eAaImAgFnS	
+jsem	být	k5eAaImIp1nS	
+dnes	dnes	k6eAd1	
+poprvé	poprvé	k6eAd1	
+<g/>	
+,	,	kIx,	
+je	být	k5eAaImIp3nS	
+to	ten	k3xDgNnSc1	
+takový	takový	k3xDgInSc1	
+experiment	experiment	k1gInSc1	
+<g/>	
+,	,	kIx,	
+ale	ale	k8xC	
+dokážu	dokázat	k5eAaPmIp1nS	
+si	se	k3xPyFc3	
+toto	tento	k3xDgNnSc4	
+jídlo	jídlo	k1gNnSc4	
+představit	představit	k5eAaPmF	
+i	i	k9	
+třeba	třeba	k6eAd1	
+s	s	k7c7	
+bramborem	brambor	k1gInSc7	
+nebo	nebo	k8xC	
+těstovinami	těstovina	k1gFnPc7	
+<g/>	
+)	)	kIx)	
+</s>	

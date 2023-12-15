@@ -1,0 +1,86 @@
+<s>	
+Všechny	všechen	k3xTgFnPc4	
+suroviny	surovina	k1gFnPc4	
+smícháme	smíchat	k5eAaPmIp1nP	
+ve	v	k7c6	
+velké	velký	k2eAgFnSc6d1	
+míse	mísa	k1gFnSc6	
+a	a	k8xC	
+hotovou	hotový	k2eAgFnSc4d1	
+směs	směs	k1gFnSc4	
+vyklopíme	vyklopit	k5eAaPmIp1nP	
+do	do	k7c2	
+formy	forma	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pomocí	pomocí	k7c2	
+lžíce	lžíce	k1gFnSc2	
+nebo	nebo	k8xC	
+stěrky	stěrka	k1gFnSc2	
+těsto	těsto	k1gNnSc4	
+uhladíme	uhladit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Chléb	chléb	k1gInSc4	
+pečeme	péct	k5eAaImIp1nP	
+v	v	k7c6	
+troubě	trouba	k1gFnSc6	
+vyhřáté	vyhřátý	k2eAgFnSc6d1	
+na	na	k7c4	
+180	#num#	k4	
+°	°	k?	
+<g/>	
+C	C	kA	
+cca	cca	kA	
+30	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Po	po	k7c6	
+upečení	upečení	k1gNnSc6	
+chleba	chléb	k1gInSc2	
+necháme	nechat	k5eAaPmIp1nP	
+úplně	úplně	k6eAd1	
+vychladnout	vychladnout	k5eAaPmF	
+a	a	k8xC	
+až	až	k8xS	
+poté	poté	k6eAd1	
+ho	on	k3xPp3gNnSc4	
+krájíme	krájet	k5eAaImIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Chleba	chléb	k1gInSc2	
+doporučuji	doporučovat	k5eAaImIp1nS	
+uchovávat	uchovávat	k5eAaImF	
+v	v	k7c6	
+chladu	chlad	k1gInSc6	
+(	(	kIx(	
+<g/>	
+nejlépe	dobře	k6eAd3	
+v	v	k7c6	
+lednici	lednice	k1gFnSc6	
+<g/>	
+)	)	kIx)	
+v	v	k7c6	
+uzavíratelné	uzavíratelný	k2eAgFnSc6d1	
+nádobě	nádoba	k1gFnSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Takto	takto	k6eAd1	
+Vám	vy	k3xPp2nPc3	
+vydrží	vydržet	k5eAaPmIp3nS	
+až	až	k9	
+týden	týden	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	

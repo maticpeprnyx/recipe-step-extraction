@@ -1,0 +1,132 @@
+<s>	
+Listové	listový	k2eAgNnSc4d1	
+těsto	těsto	k1gNnSc4	
+rozválíme	rozválet	k5eAaPmIp1nP	
+na	na	k7c4	
+obdélníkový	obdélníkový	k2eAgInSc4d1	
+plát	plát	k1gInSc4	
+<g/>	
+,	,	kIx,	
+který	který	k3yRgInSc4	
+do	do	k7c2	
+poloviny	polovina	k1gFnSc2	
+posypeme	posypat	k5eAaPmIp1nP	
+dle	dle	k7c2	
+chuti	chuť	k1gFnSc2	
+sladkou	sladký	k2eAgFnSc7d1	
+<g/>	
+,	,	kIx,	
+pálivou	pálivý	k2eAgFnSc7d1	
+nebo	nebo	k8xC	
+uzenou	uzený	k2eAgFnSc7d1	
+paprikou	paprika	k1gFnSc7	
+a	a	k8xC	
+posypeme	posypat	k5eAaPmIp1nP	
+nastrouhaným	nastrouhaný	k2eAgInSc7d1	
+uzeným	uzený	k2eAgInSc7d1	
+sýrem	sýr	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Neposypanou	posypaný	k2eNgFnSc7d1	
+částí	část	k1gFnSc7	
+těsta	těsto	k1gNnSc2	
+zaklopíme	zaklopit	k5eAaPmIp1nP	
+posypanou	posypaný	k2eAgFnSc4d1	
+část	část	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+těsto	těsto	k1gNnSc4	
+potřeme	potřít	k5eAaPmRp1nP	
+rozšlehaným	rozšlehaný	k2eAgNnSc7d1	
+vejcem	vejce	k1gNnSc7	
+a	a	k8xC	
+dle	dle	k7c2	
+chuti	chuť	k1gFnSc2	
+posypeme	posypat	k5eAaPmIp1nP	
+buď	buď	k8xC	
+solí	solit	k5eAaImIp3nP	
+a	a	k8xC	
+semínky	semínko	k1gNnPc7	
+dle	dle	k7c2	
+chuti	chuť	k1gFnSc2	
+(	(	kIx(	
+<g/>	
+sezamová	sezamový	k2eAgNnPc1d1	
+<g/>	
+,	,	kIx,	
+lněná	lněný	k2eAgNnPc1d1	
+<g/>	
+,	,	kIx,	
+maková	makový	k2eAgNnPc1d1	
+<g/>	
+...	...	k?	
+<g/>	
+)	)	kIx)	
+nebo	nebo	k8xC	
+kořením	kořenit	k5eAaImIp1nS	
+či	či	k8xC	
+kořenící	kořenící	k2eAgFnSc7d1	
+směsí	směs	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Naplněné	naplněný	k2eAgNnSc4d1	
+těsto	těsto	k1gNnSc4	
+pokrájíme	pokrájet	k5eAaPmIp1nP	
+dlouhým	dlouhý	k2eAgInSc7d1	
+nožem	nůž	k1gInSc7	
+na	na	k7c4	
+slabší	slabý	k2eAgFnPc4d2	
+tyčinky	tyčinka	k1gFnPc4	
+(	(	kIx(	
+<g/>	
+12	#num#	k4	
+<g/>	
+-	-	kIx~	
+<g/>	
+18	#num#	k4	
+ks	ks	kA	
+<g/>	
+)	)	kIx)	
+<g/>	
+,	,	kIx,	
+které	který	k3yRgInPc4	
+několikrát	několikrát	k6eAd1	
+překroutíme	překroutit	k5eAaPmIp1nP	
+a	a	k8xC	
+přeneseme	přenést	k5eAaPmIp1nP	
+na	na	k7c4	
+plech	plech	k1gInSc4	
+<g/>	
+,	,	kIx,	
+vyložený	vyložený	k2eAgInSc4d1	
+pečícím	pečící	k2eAgInSc7d1	
+papírem	papír	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pečeme	péct	k5eAaImIp1nP	
+v	v	k7c6	
+předehřáté	předehřátý	k2eAgFnSc6d1	
+troubě	trouba	k1gFnSc6	
+na	na	k7c4	
+200	#num#	k4	
+stupňů	stupeň	k1gInPc2	
+dozlatova	dozlatova	k6eAd1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podáváme	podávat	k5eAaImIp1nP	
+k	k	k7c3	
+pivu	pivo	k1gNnSc3	
+<g/>	
+,	,	kIx,	
+vínu	víno	k1gNnSc3	
+<g/>	
+...	...	k?	
+</s>	

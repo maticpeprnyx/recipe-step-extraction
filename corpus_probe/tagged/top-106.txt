@@ -1,0 +1,152 @@
+<s>	
+Nejdříve	dříve	k6eAd3	
+připravíme	připravit	k5eAaPmIp1nP	
+nálev	nálev	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Svaříme	svařit	k5eAaPmIp1nP	
+vodu	voda	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+ocet	ocet	k1gInSc4	
+<g/>	
+,	,	kIx,	
+cukr	cukr	k1gInSc4	
+<g/>	
+,	,	kIx,	
+sůl	sůl	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+Deko	deko	k1gNnSc4	
+a	a	k8xC	
+pokud	pokud	k8xS	
+chceme	chtít	k5eAaImIp1nP	
+<g/>	
+,	,	kIx,	
+tak	tak	k8xS,k8xC	
+přidáme	přidat	k5eAaPmIp1nP	
+i	i	k9	
+nasekané	nasekaný	k2eAgNnSc4d1	
+chilli	chilli	k1gNnSc4	
+papričky	paprička	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Nálev	nálev	k1gInSc1	
+necháme	nechat	k5eAaPmIp1nP	
+vychladnout	vychladnout	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zelí	zelí	k1gNnSc2	
+nakrouháme	nakrouhat	k5eAaPmIp1nP	
+a	a	k8xC	
+dáme	dát	k5eAaPmIp1nP	
+je	on	k3xPp3gNnPc4	
+do	do	k7c2	
+větší	velký	k2eAgFnSc2d2	
+nádoby	nádoba	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Mírně	mírně	k6eAd1	
+posolíme	posolit	k5eAaPmIp1nP	
+a	a	k8xC	
+počkáme	počkat	k5eAaPmIp1nP	
+až	až	k8xS	
+zvláční	zvláčnit	k5eAaPmIp3nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Papriky	paprika	k1gFnPc4	
+očistíme	očistit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+vykrojíme	vykrojit	k5eAaPmIp1nP	
+stopky	stopka	k1gFnPc4	
+a	a	k8xC	
+vnitřky	vnitřek	k1gInPc4	
+zbavíme	zbavit	k5eAaPmIp1nP	
+semen	símě	k1gNnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zelím	zelí	k1gNnSc7	
+opatrně	opatrně	k6eAd1	
+naplníme	naplnit	k5eAaPmIp1nP	
+papriky	paprika	k1gFnPc4	
+až	až	k9	
+po	po	k7c4	
+okraj	okraj	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Naplněné	naplněný	k2eAgFnPc4d1	
+papriky	paprika	k1gFnPc4	
+naskládáme	naskládat	k5eAaPmIp1nP	
+do	do	k7c2	
+umytých	umytý	k2eAgFnPc2d1	
+a	a	k8xC	
+čistých	čistý	k2eAgFnPc2d1	
+sklenic	sklenice	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+jedné	jeden	k4xCgFnSc2	
+sklenice	sklenice	k1gFnSc2	
+o	o	k7c6	
+objemu	objem	k1gInSc6	
+7	#num#	k4	
+dl	dl	k?	
+se	se	k3xPyFc4	
+vejdou	vejít	k5eAaPmIp3nP	
+zhruba	zhruba	k6eAd1	
+3	#num#	k4	
+<g/>	
+–	–	k?	
+<g/>	
+4	#num#	k4	
+papriky	paprika	k1gFnPc1	
+<g/>	
+,	,	kIx,	
+podle	podle	k7c2	
+velikosti	velikost	k1gFnSc2	
+paprik	paprika	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Papriky	paprika	k1gFnPc4	
+zalijeme	zalít	k5eAaPmIp1nP	
+nálevem	nálev	k1gInSc7	
+<g/>	
+,	,	kIx,	
+okraje	okraj	k1gInPc4	
+sklenic	sklenice	k1gFnPc2	
+otřeme	otřít	k5eAaPmIp1nP	
+a	a	k8xC	
+zavíčkujeme	zavíčkovat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Sterilujeme	sterilovat	k5eAaImIp1nP	
+30	30	k?	
+minut	minuta	k1gFnPc2	
+při	při	k7c6	
+teplotě	teplota	k1gFnSc6	
+90	90	k?	
+°	°	k?	
+<g/>	
+C.	C.	kA	
+</s>	

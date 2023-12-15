@@ -1,0 +1,273 @@
+<s>	
+Droždí	droždí	k1gNnSc4	
+rozdrobte	rozdrobit	k5eAaPmRp2nP	
+do	do	k7c2	
+misky	miska	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+zalijte	zalít	k5eAaPmRp2nP	
+100	#num#	k4	
+ml	ml	kA	
+vlažného	vlažný	k2eAgInSc2d1	
+(	(	kIx(	
+<g/>	
+ne	ne	k9	
+horkého	horký	k2eAgNnSc2d1	
+<g/>	
+,	,	kIx,	
+ne	ne	k9	
+studeného	studený	k2eAgNnSc2d1	
+<g/>	
+!	!	kIx.	
+</s>	
+<s desamb="1">	
+<g/>	
+)	)	kIx)	
+mléka	mléko	k1gNnSc2	
+<g/>	
+,	,	kIx,	
+přidejte	přidat	k5eAaPmRp2nP	
+lžičku	lžička	k1gFnSc4	
+cukru	cukr	k1gInSc2	
+a	a	k8xC	
+rozmíchejte	rozmíchat	k5eAaPmRp2nP	
+na	na	k7c4	
+kaši	kaše	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zakryjte	zakrýt	k5eAaPmRp2nP	
+a	a	k8xC	
+v	v	k7c6	
+teple	teplo	k1gNnSc6	
+nechte	nechat	k5eAaPmRp2nP	
+vzejít	vzejít	k5eAaPmF	
+kvásek	kvásek	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+mísy	mísa	k1gFnSc2	
+dejte	dát	k5eAaPmRp2nP	
+cukr	cukr	k1gInSc4	
+a	a	k8xC	
+dobře	dobře	k6eAd1	
+ho	on	k3xPp3gInSc4	
+prsty	prst	k1gInPc4	
+promněte	promnout	k5eAaPmRp2nP	
+s	s	k7c7	
+citrónovou	citrónový	k2eAgFnSc7d1	
+kůrou	kůra	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+stejné	stejný	k2eAgFnSc2d1	
+mísy	mísa	k1gFnSc2	
+prosejte	prosít	k5eAaPmRp2nP	
+mouky	mouka	k1gFnSc2	
+se	se	k3xPyFc4	
+solí	solit	k5eAaImIp3nS	
+<g/>	
+,	,	kIx,	
+zamíchejte	zamíchat	k5eAaPmRp2nP	
+<g/>	
+,	,	kIx,	
+přidejte	přidat	k5eAaPmRp2nP	
+a	a	k8xC	
+vlažné	vlažný	k2eAgNnSc4d1	
+rozpuštěné	rozpuštěný	k2eAgNnSc4d1	
+rostlinné	rostlinný	k2eAgNnSc4d1	
+máslo	máslo	k1gNnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Postupně	postupně	k6eAd1	
+přidávejte	přidávat	k5eAaImRp2nP	
+zbylé	zbylý	k2eAgNnSc4d1	
+mléko	mléko	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+dobře	dobře	k6eAd1	
+hněťte	hníst	k5eAaImRp2nP	
+rukama	ruka	k1gFnPc7	
+či	či	k8xC	
+v	v	k7c6	
+kuchyňském	kuchyňský	k2eAgInSc6d1	
+robotu	robot	k1gInSc6	
+a	a	k8xC	
+vypracujte	vypracovat	k5eAaPmRp2nP	
+měkké	měkký	k2eAgNnSc4d1	
+těsto	těsto	k1gNnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Poprašte	poprášit	k5eAaPmRp2nP	
+těsto	těsto	k1gNnSc4	
+moukou	mouka	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+mísu	mísa	k1gFnSc4	
+přikryjte	přikrýt	k5eAaPmRp2nP	
+utěrkou	utěrka	k1gFnSc7	
+a	a	k8xC	
+nechte	nechat	k5eAaPmRp2nP	
+na	na	k7c6	
+teplém	teplý	k2eAgNnSc6d1	
+místě	místo	k1gNnSc6	
+hodinu	hodina	k1gFnSc4	
+kynout	kynout	k5eAaImF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Po	po	k7c6	
+vykynutí	vykynutí	k1gNnSc6	
+těsto	těsto	k1gNnSc4	
+rozválejte	rozválet	k5eAaPmRp2nP	
+na	na	k7c4	
+centimetr	centimetr	k1gInSc4	
+tenký	tenký	k2eAgInSc4d1	
+plát	plát	k1gInSc4	
+a	a	k8xC	
+nakrájejte	nakrájet	k5eAaPmRp2nP	
+na	na	k7c4	
+čtverečky	čtvereček	k1gInPc4	
+5	#num#	k4	
+x	x	k?	
+5	#num#	k4	
+cm	cm	kA	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Poté	poté	k6eAd1	
+prostě	prostě	k6eAd1	
+dělejte	dělat	k5eAaImRp2nP	
+buchty	buchta	k1gFnPc4	
+:	:	kIx,	
+<g/>	
+)	)	kIx)	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Skládejte	skládat	k5eAaImRp2nP	
+je	on	k3xPp3gFnPc4	
+do	do	k7c2	
+dobře	dobře	k6eAd1	
+vymazaného	vymazaný	k2eAgInSc2d1	
+pekáčku	pekáček	k1gInSc2	
+<g/>	
+,	,	kIx,	
+ze	z	k7c2	
+všech	všechen	k3xTgFnPc2	
+stran	strana	k1gFnPc2	
+každou	každý	k3xTgFnSc4	
+buchtu	buchta	k1gFnSc4	
+potřete	potřít	k5eAaPmIp2nP	
+rozpuštěným	rozpuštěný	k2eAgNnSc7d1	
+rostlinným	rostlinný	k2eAgNnSc7d1	
+máslem	máslo	k1gNnSc7	
+<g/>	
+,	,	kIx,	
+aby	aby	kYmCp3nP	
+se	se	k3xPyFc4	
+okolní	okolní	k2eAgFnPc1d1	
+nepřilepily	přilepit	k5eNaPmAgFnP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Troubu	trouba	k1gFnSc4	
+předehřejte	předehřát	k5eAaPmRp2nP	
+na	na	k7c4	
+190	#num#	k4	
+<g/>	
+°	°	k?	
+<g/>	
+C	C	kA	
+a	a	k8xC	
+buchty	buchta	k1gFnPc1	
+nechte	nechat	k5eAaPmRp2nP	
+ještě	ještě	k9	
+čtvrt	čtvrt	k1gFnSc4	
+až	až	k6eAd1	
+půl	půl	k1xP	
+hodiny	hodina	k1gFnSc2	
+kynout	kynout	k5eAaImF	
+v	v	k7c6	
+pekáčku	pekáček	k1gInSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Poté	poté	k6eAd1	
+vložte	vložit	k5eAaPmRp2nP	
+do	do	k7c2	
+trouby	trouba	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+snižte	snížit	k5eAaPmRp2nP	
+teplotu	teplota	k1gFnSc4	
+na	na	k7c4	
+180	#num#	k4	
+<g/>	
+°	°	k?	
+<g/>	
+C	C	kA	
+a	a	k8xC	
+pečte	péct	k5eAaImRp2nP	
+10	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+,	,	kIx,	
+poté	poté	k6eAd1	
+opět	opět	k6eAd1	
+snižte	snížit	k5eAaPmRp2nP	
+teplotu	teplota	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+tentokrát	tentokrát	k6eAd1	
+na	na	k7c4	
+170	#num#	k4	
+<g/>	
+°	°	k?	
+<g/>	
+C	C	kA	
+a	a	k8xC	
+dalších	další	k2eAgFnPc2d1	
+15	#num#	k4	
+minut	minuta	k1gFnPc2	
+dopékejte	dopékat	k5eAaImRp2nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Ještě	ještě	k6eAd1	
+horké	horký	k2eAgFnPc4d1	
+buchty	buchta	k1gFnPc4	
+potřete	potřít	k5eAaPmIp2nP	
+rumem	rum	k1gInSc7	
+smíchaným	smíchaný	k2eAgMnPc3d1	
+s	s	k7c7	
+cukrem	cukr	k1gInSc7	
+a	a	k8xC	
+dvěma	dva	k4xCgFnPc7	
+lžícemi	lžíce	k1gFnPc7	
+horké	horký	k2eAgFnSc2d1	
+vody	voda	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vychladlé	vychladlý	k2eAgFnPc4d1	
+pocukrujte	pocukrovat	k5eAaPmRp2nP	
+<g/>	
+.	.	kIx.	
+</s>	

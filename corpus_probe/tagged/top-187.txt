@@ -1,0 +1,69 @@
+<s>	
+Máslo	máslo	k1gNnSc4	
+necháme	nechat	k5eAaPmIp1nP	
+změknout	změknout	k5eAaPmF	
+<g/>	
+,	,	kIx,	
+do	do	k7c2	
+misky	miska	k1gFnSc2	
+k	k	k7c3	
+němu	on	k3xPp3gNnSc3	
+přidáme	přidat	k5eAaPmIp1nP	
+sůl	sůl	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+pepř	pepřit	k5eAaImRp2nS	
+a	a	k8xC	
+lžičku	lžička	k1gFnSc4	
+papriky	paprika	k1gFnSc2	
+a	a	k8xC	
+dohromady	dohromady	k6eAd1	
+utřeme	utřít	k5eAaPmIp1nP	
+dohladka	dohladek	k1gMnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Omyté	omytý	k2eAgFnPc4d1	
+ředkvičky	ředkvička	k1gFnPc4	
+dobře	dobře	k6eAd1	
+osušíme	osušit	k5eAaPmIp1nP	
+a	a	k8xC	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+malé	malý	k2eAgFnPc4d1	
+kostičky	kostička	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+medvědí	medvědí	k2eAgInSc4d1	
+česnek	česnek	k1gInSc4	
+nasekáme	nasekat	k5eAaPmIp1nP	
+nadrobno	nadrobno	k6eAd1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Oboje	oboj	k1gFnPc4	
+vmícháme	vmíchat	k5eAaPmIp1nP	
+do	do	k7c2	
+másla	máslo	k1gNnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Nakonec	nakonec	k6eAd1	
+přistrouhneme	přistrouhnout	k5eAaPmIp1nP	
+trochu	trocha	k1gFnSc4	
+citrónové	citrónový	k2eAgFnSc2d1	
+kůry	kůra	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Mažeme	mazat	k5eAaImIp1nP	
+na	na	k7c4	
+čerstvé	čerstvý	k2eAgNnSc4d1	
+pečivo	pečivo	k1gNnSc4	
+<g/>	
+.	.	kIx.	
+</s>	

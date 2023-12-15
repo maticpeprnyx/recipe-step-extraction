@@ -1,0 +1,430 @@
+<s>	
+Jako	jako	k8xS,k8xC	
+první	první	k4xOgInSc4	
+připravíme	připravit	k5eAaPmIp1nP	
+náplň	náplň	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+malého	malý	k2eAgInSc2d1	
+rendlíku	rendlík	k1gInSc2	
+vlijeme	vlít	k5eAaPmIp1nP	
+smetanu	smetana	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+med	med	k1gInSc4	
+a	a	k8xC	
+přivedeme	přivést	k5eAaPmIp1nP	
+k	k	k7c3	
+varu	var	k1gInSc3	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vmícháme	vmíchat	k5eAaPmIp1nP	
+jemně	jemně	k6eAd1	
+mleté	mletý	k2eAgInPc1d1	
+ořechy	ořech	k1gInPc1	
+(	(	kIx(	
+<g/>	
+můžeme	moct	k5eAaImIp1nP	
+je	on	k3xPp3gFnPc4	
+i	i	k9	
+nasekat	nasekat	k5eAaPmF	
+malým	malé	k1gNnSc7	
+el	ela	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+sekáčkem	sekáček	k1gInSc7	
+<g/>	
+)	)	kIx)	
+<g/>	
+,	,	kIx,	
+na	na	k7c4	
+menší	malý	k2eAgInPc4d2	
+kousky	kousek	k1gInPc4	
+nasekanou	nasekaný	k2eAgFnSc4d1	
+bílou	bílý	k2eAgFnSc4d1	
+čokoládu	čokoláda	k1gFnSc4	
+a	a	k8xC	
+za	za	k7c2	
+stálého	stálý	k2eAgNnSc2d1	
+míchání	míchání	k1gNnSc2	
+ji	on	k3xPp3gFnSc4	
+necháme	nechat	k5eAaPmIp1nP	
+rozpustit	rozpustit	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+V	v	k7c6	
+polovině	polovina	k1gFnSc6	
+tohoto	tento	k3xDgInSc2	
+procesu	proces	k1gInSc2	
+už	už	k6eAd1	
+můžeme	moct	k5eAaImIp1nP	
+rendlík	rendlík	k1gInSc4	
+odstavit	odstavit	k5eAaPmF	
+ze	z	k7c2	
+zdroje	zdroj	k1gInSc2	
+tepla	teplo	k1gNnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Hmotu	hmota	k1gFnSc4	
+necháme	nechat	k5eAaPmIp1nP	
+zchladnout	zchladnout	k5eAaPmF	
+a	a	k8xC	
+zašleháme	zašlehat	k5eAaPmIp1nP	
+do	do	k7c2	
+ní	on	k3xPp3gFnSc2	
+změklé	změklý	k2eAgNnSc1d1	
+máslo	máslo	k1gNnSc1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pokud	pokud	k8xS	
+máme	mít	k5eAaImIp1nP	
+tabulkovou	tabulkový	k2eAgFnSc4d1	
+čokoládu	čokoláda	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+tak	tak	k8xC,k8xS	
+ji	on	k3xPp3gFnSc4	
+jemně	jemně	k6eAd1	
+nasekáme	nasekat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zhruba	zhruba	k6eAd1	
+2	#num#	k4	
+<g/>	
+/	/	kIx~	
+<g/>	
+3	#num#	k4	
+vložíme	vložit	k5eAaPmIp1nP	
+do	do	k7c2	
+misky	miska	k1gFnSc2	
+nebo	nebo	k8xC	
+většího	velký	k2eAgInSc2d2	
+hrnku	hrnek	k1gInSc2	
+a	a	k8xC	
+vložíme	vložit	k5eAaPmIp1nP	
+na	na	k7c6	
+cca	cca	kA	
+15	#num#	k4	
+sekund	sekunda	k1gFnPc2	
+do	do	k7c2	
+mikrovlnné	mikrovlnný	k2eAgFnSc2d1	
+trouby	trouba	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+u	u	k7c2	
+které	který	k3yRgFnSc2,k3yIgFnSc2,k3yQgFnSc2	
+trochu	trocha	k1gFnSc4	
+snížíme	snížit	k5eAaPmIp1nP	
+výkon	výkon	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Po	po	k7c6	
+15	#num#	k4	
+sekundách	sekunda	k1gFnPc6	
+promícháme	promíchat	k5eAaPmIp1nP	
+a	a	k8xC	
+vložíme	vložit	k5eAaPmIp1nP	
+zpět	zpět	k6eAd1	
+na	na	k7c6	
+dalších	další	k1gNnPc6	
+cca	cca	kA	
+12	#num#	k4	
+sekund	sekunda	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Čokoláda	čokoláda	k1gFnSc1	
+bude	být	k5eAaImBp3nS	
+pomalu	pomalu	k6eAd1	
+povolovat	povolovat	k5eAaImF	
+a	a	k8xC	
+rozpouštět	rozpouštět	k5eAaImF	
+se	se	k3xPyFc4	
+<g/>	
+,	,	kIx,	
+je	být	k5eAaImIp3nS	
+třeba	třeba	k8wRxS	
+hlídat	hlídat	k5eAaImF	
+teplotu	teplota	k1gFnSc4	
+a	a	k8xC	
+taktéž	taktéž	k6eAd1wZ	
+se	se	k3xPyFc4	
+musí	muset	k5eAaImIp3nS	
+promíchávat	promíchávat	k5eAaImF	
+v	v	k7c6	
+kratších	krátký	k2eAgInPc6d2	
+intervalech	interval	k1gInPc6	
+<g/>	
+,	,	kIx,	
+cca	cca	kA	
+co	co	k9	
+5	#num#	k4	
+sekund	sekunda	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Čokoládu	čokoláda	k1gFnSc4	
+rozehřejeme	rozehřát	k5eAaPmIp1nP	
+na	na	k7c4	
+teplotu	teplota	k1gFnSc4	
+mezi	mezi	k7c7	
+45	#num#	k4	
+<g/>	
+-	-	kIx~	
+<g/>	
+50	#num#	k4	
+°	°	k?	
+<g/>	
+C.	C.	kA	
+Doporučuji	doporučovat	k5eAaImIp1nS	
+měřit	měřit	k5eAaImF	
+teploměrem	teploměr	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+rozehřáté	rozehřátý	k2eAgFnSc2d1	
+<g/>	
+,	,	kIx,	
+dobře	dobře	k6eAd1	
+promíchané	promíchaný	k2eAgFnPc1d1	
+čokolády	čokoláda	k1gFnPc1	
+<g/>	
+,	,	kIx,	
+za	za	k7c2	
+intenzivnějšího	intenzivní	k2eAgNnSc2d2	
+míchání	míchání	k1gNnSc2	
+přidáváme	přidávat	k5eAaImIp1nP	
+po	po	k7c6	
+částech	část	k1gFnPc6	
+odloženou	odložený	k2eAgFnSc4d1	
+nasekanou	nasekaný	k2eAgFnSc4d1	
+čokoládu	čokoláda	k1gFnSc4	
+a	a	k8xC	
+tím	ten	k3xDgNnSc7	
+ji	on	k3xPp3gFnSc4	
+budeme	být	k5eAaImBp1nP	
+zchlazovat	zchlazovat	k5eAaImF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c6	
+míchání	míchání	k1gNnSc6	
+se	se	k3xPyFc4	
+mně	já	k3xPp1nSc3	
+osvědčila	osvědčit	k5eAaPmAgFnS	
+malá	malý	k2eAgFnSc1d1	
+plastová	plastový	k2eAgFnSc1d1	
+kvedlačka	kvedlačka	k1gFnSc1	
+<g/>	
+,	,	kIx,	
+která	který	k3yRgFnSc1	
+může	moct	k5eAaImIp3nS	
+zůstat	zůstat	k5eAaPmF	
+i	i	k9	
+při	při	k7c6	
+rozpouštění	rozpouštění	k1gNnSc6	
+v	v	k7c6	
+misce	miska	k1gFnSc6	
+v	v	k7c6	
+mikrovlnné	mikrovlnný	k2eAgFnSc6d1	
+troubě	trouba	k1gFnSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Viz	vidět	k5eAaImRp2nS	
+foto	foto	k1gNnSc1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Čokoládu	čokoláda	k1gFnSc4	
+zchlazujeme	zchlazovat	k5eAaImIp1nP	
+do	do	k7c2	
+doby	doba	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+kdy	kdy	k6eAd1	
+se	se	k3xPyFc4	
+nově	nově	k6eAd1	
+přidaná	přidaný	k2eAgFnSc1d1	
+čokoláda	čokoláda	k1gFnSc1	
+přestane	přestat	k5eAaPmIp3nS	
+rozpouštět	rozpouštět	k5eAaImF	
+a	a	k8xC	
+dosáhneme	dosáhnout	k5eAaPmIp1nP	
+teploty	teplota	k1gFnPc1	
+30	#num#	k4	
+°	°	k?	
+<g/>	
+C.	C.	kA	
+V	v	k7c4	
+ten	ten	k3xDgInSc4	
+moment	moment	k1gInSc4	
+je	on	k3xPp3gInPc4	
+čokoláda	čokoláda	k1gFnSc1	
+správně	správně	k6eAd1	
+vytemperovaná	vytemperovaný	k2eAgFnSc1d1	
+a	a	k8xC	
+můžeme	moct	k5eAaImIp1nP	
+ji	on	k3xPp3gFnSc4	
+použít	použít	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Opět	opět	k6eAd1	
+používáme	používat	k5eAaImIp1nP	
+teploměr	teploměr	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Prohlubně	prohlubeň	k1gFnPc4	
+ve	v	k7c6	
+formě	forma	k1gFnSc6	
+potřeme	potřít	k5eAaPmIp1nP	
+za	za	k7c7	
+pomocí	pomoc	k1gFnSc7	
+štětce	štětec	k1gInSc2	
+připravenou	připravený	k2eAgFnSc7d1	
+čokoládou	čokoláda	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+stačí	stačit	k5eAaBmIp3nS	
+tenká	tenký	k2eAgFnSc1d1	
+vrstva	vrstva	k1gFnSc1	
+<g/>	
+,	,	kIx,	
+odložíme	odložit	k5eAaPmIp1nP	
+do	do	k7c2	
+chladu	chlad	k1gInSc2	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+ztuhnout	ztuhnout	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zbylou	zbylý	k2eAgFnSc4d1	
+čokoládu	čokoláda	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+kterou	který	k3yRgFnSc4	
+ještě	ještě	k6eAd1	
+budeme	být	k5eAaImBp1nP	
+potřebovat	potřebovat	k5eAaImF	
+<g/>	
+,	,	kIx,	
+dáme	dát	k5eAaPmIp1nP	
+do	do	k7c2	
+teplé	teplý	k2eAgFnSc2d1	
+vodní	vodní	k2eAgFnSc2d1	
+lázně	lázeň	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+aby	aby	kYmCp3nS	
+čokoláda	čokoláda	k1gFnSc1	
+neztuhla	ztuhnout	k5eNaPmAgFnS	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Po	po	k7c6	
+zatuhnutí	zatuhnutí	k1gNnSc6	
+první	první	k4xOgFnSc2	
+vrstvy	vrstva	k1gFnSc2	
+zopakujeme	zopakovat	k5eAaPmIp1nP	
+a	a	k8xC	
+uděláme	udělat	k5eAaPmIp1nP	
+ještě	ještě	k9	
+druhou	druhý	k4xOgFnSc4	
+tenkou	tenký	k2eAgFnSc4d1	
+čokoládovou	čokoládový	k2eAgFnSc4d1	
+vrstvu	vrstva	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Opět	opět	k6eAd1	
+necháme	nechat	k5eAaPmIp1nP	
+zatuhnout	zatuhnout	k5eAaPmF	
+a	a	k8xC	
+za	za	k7c7	
+pomocí	pomoc	k1gFnSc7	
+cukrářského	cukrářský	k2eAgInSc2d1	
+sáčku	sáček	k1gInSc2	
+naplníme	naplnit	k5eAaPmIp1nP	
+náplní	náplň	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Ne	ne	k9	
+ale	ale	k9	
+úplně	úplně	k6eAd1	
+po	po	k7c4	
+okraj	okraj	k1gInSc4	
+<g/>	
+,	,	kIx,	
+musíme	muset	k5eAaImIp1nP	
+nechat	nechat	k5eAaPmF	
+trošku	troška	k1gFnSc4	
+místa	místo	k1gNnSc2	
+na	na	k7c4	
+čokoládu	čokoláda	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+která	který	k3yRgFnSc1	
+nám	my	k3xPp1nPc3	
+pralinky	pralinka	k1gFnPc4	
+uzavře	uzavřít	k5eAaPmIp3nS	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pralinky	pralinka	k1gFnPc1	
+dokončíme	dokončit	k5eAaPmIp1nP	
+tak	tak	k6eAd1	
+<g/>	
+,	,	kIx,	
+že	že	k8xS	
+je	on	k3xPp3gMnPc4	
+shora	shora	k6eAd1	
+zalijeme	zalít	k5eAaPmIp1nP	
+čokoládou	čokoláda	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Necháme	nechat	k5eAaPmIp1nP	
+důkladně	důkladně	k6eAd1	
+ztuhnout	ztuhnout	k5eAaPmF	
+a	a	k8xC	
+vyjmeme	vynít	k5eAaPmIp1nP	
+z	z	k7c2	
+formy	forma	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	

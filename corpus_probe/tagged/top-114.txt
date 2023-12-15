@@ -1,0 +1,108 @@
+<s>	
+Zakysanou	zakysaný	k2eAgFnSc4d1	
+smetanu	smetana	k1gFnSc4	
+smícháme	smíchat	k5eAaPmIp1nP	
+se	se	k3xPyFc4	
+solí	sůl	k1gFnSc7	
+a	a	k8xC	
+provensálskými	provensálský	k2eAgFnPc7d1	
+bylinkami	bylinka	k1gFnPc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+této	tento	k3xDgFnSc2	
+marinády	marináda	k1gFnSc2	
+naložíme	naložit	k5eAaPmIp1nP	
+přes	přes	k7c4	
+noc	noc	k1gFnSc4	
+vykostěná	vykostěný	k2eAgNnPc4d1	
+kuřecí	kuřecí	k2eAgNnPc4d1	
+stehna	stehno	k1gNnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Já	já	k3xPp1nSc1	
+jsem	být	k5eAaImIp1nS	
+si	se	k3xPyFc3	
+takto	takto	k6eAd1	
+připravila	připravit	k5eAaPmAgFnS	
+maso	maso	k1gNnSc4	
+přímo	přímo	k6eAd1	
+do	do	k7c2	
+zapékací	zapékací	k2eAgFnSc2d1	
+mísy	mísa	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+ve	v	k7c4	
+které	který	k3yQgFnPc4,k3yRgFnPc4,k3yIgFnPc4	
+jsem	být	k5eAaImIp1nS	
+pak	pak	k6eAd1	
+maso	maso	k1gNnSc1	
+pekla	péct	k5eAaImAgFnS	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Nahoru	nahoru	k6eAd1	
+ještě	ještě	k6eAd1	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+brambory	brambor	k1gInPc4	
+<g/>	
+,	,	kIx,	
+které	který	k3yRgFnPc4	
+posolíme	posolit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Mísu	mísa	k1gFnSc4	
+uzavřeme	uzavřít	k5eAaPmIp1nP	
+víkem	víko	k1gNnSc7	
+-	-	kIx~	
+kdo	kdo	k3yQnSc1,k3yRnSc1,k3yInSc1	
+nemá	mít	k5eNaImIp3nS	
+víko	víko	k1gNnSc1	
+<g/>	
+,	,	kIx,	
+použije	použít	k5eAaPmIp3nS	
+alobal	alobal	k1gInSc1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Takto	takto	k6eAd1	
+pečeme	péct	k5eAaImIp1nP	
+maso	maso	k1gNnSc4	
+s	s	k7c7	
+bramborami	brambora	k1gFnPc7	
+v	v	k7c6	
+horkovzdušné	horkovzdušný	k2eAgFnSc6d1	
+troubě	trouba	k1gFnSc6	
+zhruba	zhruba	k6eAd1	
+hodinu	hodina	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Po	po	k7c6	
+hodině	hodina	k1gFnSc6	
+odděláme	oddělat	k5eAaPmIp1nP	
+víko	víko	k1gNnSc4	
+-	-	kIx~	
+alobal	alobal	k1gInSc4	
+a	a	k8xC	
+dopečeme	dopéct	k5eAaPmIp1nP	
+tak	tak	k6eAd1	
+<g/>	
+,	,	kIx,	
+aby	aby	kYmCp3nP	
+měly	mít	k5eAaImAgInP	
+brambory	brambor	k1gInPc1	
+zlatavou	zlatavý	k2eAgFnSc4d1	
+barvu	barva	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	

@@ -1,0 +1,142 @@
+<s>	
+Ze	z	k7c2	
+surovin	surovina	k1gFnPc2	
+na	na	k7c4	
+těsto	těsto	k1gNnSc4	
+(	(	kIx(	
+<g/>	
+mouka	mouka	k1gFnSc1	
+<g/>	
+,	,	kIx,	
+cukr	cukr	k1gInSc4	
+<g/>	
+,	,	kIx,	
+vanilkový	vanilkový	k2eAgInSc4d1	
+cukr	cukr	k1gInSc4	
+<g/>	
+,	,	kIx,	
+žloutky	žloutek	k1gInPc4	
+<g/>	
+,	,	kIx,	
+sůl	sůl	k1gFnSc4	
+a	a	k8xC	
+tuk	tuk	k1gInSc4	
+<g/>	
+)	)	kIx)	
+na	na	k7c6	
+vále	vál	k1gInSc6	
+vypracujeme	vypracovat	k5eAaPmIp1nP	
+hladké	hladký	k2eAgNnSc4d1	
+těsto	těsto	k1gNnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Dortovou	dortový	k2eAgFnSc4d1	
+formu	forma	k1gFnSc4	
+(	(	kIx(	
+<g/>	
+26	#num#	k4	
+cm	cm	kA	
+<g/>	
+)	)	kIx)	
+vyložíme	vyložit	k5eAaPmIp1nP	
+pečícím	pečící	k2eAgInSc7d1	
+papírem	papír	k1gInSc7	
+a	a	k8xC	
+těsto	těsto	k1gNnSc4	
+do	do	k7c2	
+formy	forma	k1gFnSc2	
+vymačkáme	vymačkat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Broskve	broskev	k1gFnPc4	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+plátky	plátek	k1gInPc4	
+a	a	k8xC	
+poklademe	poklást	k5eAaPmIp1nP	
+jimi	on	k3xPp3gNnPc7	
+těsto	těsto	k1gNnSc4	
+a	a	k8xC	
+vložíme	vložit	k5eAaPmIp1nP	
+do	do	k7c2	
+vyhřáté	vyhřátý	k2eAgFnSc2d1	
+trouby	trouba	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pečeme	péct	k5eAaImIp1nP	
+asi	asi	k9	
+45	#num#	k4	
+minut	minuta	k1gFnPc2	
+při	při	k7c6	
+175	#num#	k4	
+<g/>	
+°	°	k?	
+<g/>	
+C.	C.	kA	
+Zatím	zatím	k6eAd1	
+vyšleháme	vyšlehat	k5eAaPmIp1nP,k5eAaImIp1nP	
+bílky	bílek	k1gInPc4	
+do	do	k7c2	
+sněhu	sníh	k1gInSc2	
+a	a	k8xC	
+pak	pak	k6eAd1	
+zašleháme	zašlehat	k5eAaPmIp1nP	
+marmeládu	marmeláda	k1gFnSc4	
+a	a	k8xC	
+moučkový	moučkový	k2eAgInSc4d1	
+cukr	cukr	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Až	až	k6eAd1	
+je	být	k5eAaImIp3nS	
+koláč	koláč	k1gInSc1	
+téměř	téměř	k6eAd1	
+upečený	upečený	k2eAgInSc1d1	
+<g/>	
+,	,	kIx,	
+vyjmeme	vynít	k5eAaPmIp1nP	
+ho	on	k3xPp3gNnSc4	
+z	z	k7c2	
+trouby	trouba	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+můžeme	moct	k5eAaImIp1nP	
+broskve	broskev	k1gFnPc1	
+malinko	malinko	k1gNnSc4	
+pocukrovat	pocukrovat	k5eAaPmF	
+<g/>	
+,	,	kIx,	
+na	na	k7c4	
+ně	on	k3xPp3gInPc4	
+rozetřeme	rozetřít	k5eAaPmIp1nP	
+připravený	připravený	k2eAgInSc4d1	
+sníh	sníh	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Dopečeme	dopéct	k5eAaPmIp1nP	
+v	v	k7c6	
+troubě	trouba	k1gFnSc6	
+při	při	k7c6	
+150	#num#	k4	
+<g/>	
+°	°	k?	
+<g/>	
+C	C	kA	
+už	už	k6eAd1	
+jen	jen	k9	
+asi	asi	k9	
+15	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	

@@ -1,0 +1,49 @@
+<s>	
+Domácí	domácí	k2eAgFnSc4d1	
+pekárnu	pekárna	k1gFnSc4	
+nastavíme	nastavit	k5eAaPmIp1nP,k5eAaBmIp1nP	
+na	na	k7c4	
+program	program	k1gInSc4	
+příprava	příprava	k1gFnSc1	
+těsta	těsto	k1gNnSc2	
+a	a	k8xC	
+vložíme	vložit	k5eAaPmIp1nP	
+suroviny	surovina	k1gFnPc4	
+postupně	postupně	k6eAd1	
+<g/>	
+,	,	kIx,	
+jak	jak	k8xC,k8xS	
+jsou	být	k5eAaImIp3nP	
+popsány	popsat	k5eAaPmNgInP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Po	po	k7c6	
+vykynutí	vykynutí	k1gNnSc6	
+těsta	těsto	k1gNnSc2	
+tvoříme	tvořit	k5eAaImIp1nP	
+bagetky	bagetka	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+nařízneme	naříznout	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+mázneme	máznout	k5eAaPmIp1nP	
+rozšlehaným	rozšlehaný	k2eAgNnSc7d1	
+vajíčkem	vajíčko	k1gNnSc7	
+a	a	k8xC	
+posypeme	posypat	k5eAaPmIp1nP	
+sezamovým	sezamový	k2eAgNnSc7d1	
+semínkem	semínko	k1gNnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pečeme	péct	k5eAaImIp1nP	
+ve	v	k7c6	
+vyhřáté	vyhřátý	k2eAgFnSc6d1	
+troubě	trouba	k1gFnSc6	
+<g/>	
+.	.	kIx.	
+</s>	

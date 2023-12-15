@@ -1,0 +1,133 @@
+<s>	
+Do	do	k7c2	
+prosáté	prosátý	k2eAgFnSc2d1	
+mouky	mouka	k1gFnSc2	
+a	a	k8xC	
+moučkového	moučkový	k2eAgInSc2d1	
+cukru	cukr	k1gInSc2	
+přidáme	přidat	k5eAaPmIp1nP	
+máslo	máslo	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+žloutek	žloutek	k1gInSc4	
+<g/>	
+,	,	kIx,	
+vanilkový	vanilkový	k2eAgInSc4d1	
+cukr	cukr	k1gInSc4	
+a	a	k8xC	
+citronovou	citronový	k2eAgFnSc4d1	
+kůru	kůra	k1gFnSc4	
+a	a	k8xC	
+vypracujeme	vypracovat	k5eAaPmIp1nP	
+těsto	těsto	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+které	který	k3yRgFnPc1	
+necháme	nechat	k5eAaPmIp1nP	
+asi	asi	k9	
+hodinu	hodina	k1gFnSc4	
+odpočinout	odpočinout	k5eAaPmF	
+v	v	k7c6	
+chladnu	chladno	k1gNnSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Plech	plech	k1gInSc4	
+vymažeme	vymazat	k5eAaPmIp1nP	
+tukem	tuk	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Včas	včas	k6eAd1	
+zapneme	zapnout	k5eAaPmIp1nP	
+nahřívat	nahřívat	k5eAaImF	
+troubu	trouba	k1gFnSc4	
+na	na	k7c4	
+175	#num#	k4	
+°	°	k?	
+<g/>	
+C.	C.	kA	
+Na	na	k7c6	
+pomoučeném	pomoučený	k2eAgInSc6d1	
+vále	vál	k1gInSc6	
+vyválíme	vyválet	k5eAaPmIp1nP	
+asi	asi	k9	
+2	#num#	k4	
+mm	mm	kA	
+silnou	silný	k2eAgFnSc4d1	
+placku	placka	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+ze	z	k7c2	
+které	který	k3yQgFnSc2,k3yRgFnSc2,k3yIgFnSc2	
+pomocí	pomocí	k7c2	
+tvořítek	tvořítko	k1gNnPc2	
+vykrajujeme	vykrajovat	k5eAaImIp1nP	
+tvary	tvar	k1gInPc1	
+hvězdiček	hvězdička	k1gFnPc2	
+nebo	nebo	k8xC	
+kytiček	kytička	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vykrájené	vykrájený	k2eAgInPc4d1	
+tvary	tvar	k1gInPc4	
+opatrně	opatrně	k6eAd1	
+přenášíme	přenášet	k5eAaImIp1nP	
+na	na	k7c4	
+plech	plech	k1gInSc4	
+<g/>	
+,	,	kIx,	
+který	který	k3yRgInSc4	
+vložíme	vložit	k5eAaPmIp1nP	
+a	a	k8xC	
+pečeme	péct	k5eAaImIp1nP	
+dorůžova	dorůžova	k6eAd1wH	
+v	v	k7c6	
+dobře	dobře	k6eAd1	
+předehřáté	předehřátý	k2eAgFnSc3d1	
+troubě	trouba	k1gFnSc3	
+(	(	kIx(	
+<g/>	
+elektrický	elektrický	k2eAgInSc4d1	
+sporák	sporák	k1gInSc4	
+175	#num#	k4	
+<g/>	
+°	°	k?	
+<g/>	
+C	C	kA	
+<g/>	
+/	/	kIx~	
+<g/>	
+plyn	plyn	k1gInSc4	
+stupeň	stupeň	k1gInSc4	
+2	#num#	k4	
+<g/>	
+)	)	kIx)	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Hotové	hotový	k2eAgInPc4d1	
+kousky	kousek	k1gInPc4	
+po	po	k7c6	
+upečení	upečení	k1gNnSc6	
+a	a	k8xC	
+vychladnutí	vychladnutí	k1gNnSc6	
+slepujeme	slepovat	k5eAaImIp1nP	
+rybízovou	rybízový	k2eAgFnSc7d1	
+marmeládou	marmeláda	k1gFnSc7	
+nebo	nebo	k8xC	
+krémem	krém	k1gInSc7	
+dozdobíme	dozdobit	k5eAaPmIp1nP	
+barevnou	barevný	k2eAgFnSc7d1	
+polevou	poleva	k1gFnSc7	
+a	a	k8xC	
+cukrářskými	cukrářský	k2eAgFnPc7d1	
+ozdobami	ozdoba	k1gFnPc7	
+<g/>	
+.	.	kIx.	
+</s>	

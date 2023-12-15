@@ -1,0 +1,180 @@
+<s>	
+Řízky	řízek	k1gInPc1	
+naklepeme	naklepat	k5eAaBmIp1nP,k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+ale	ale	k8xC	
+nesolíme	solit	k5eNaImIp1nP	
+<g/>	
+,	,	kIx,	
+niva	niva	k1gFnSc1	
+obsažená	obsažený	k2eAgFnSc1d1	
+v	v	k7c6	
+těstíčku	těstíčko	k1gNnSc6	
+je	být	k5eAaImIp3nS	
+slaná	slaný	k2eAgFnSc1d1	
+dost	dost	k6eAd1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+V	v	k7c6	
+misce	miska	k1gFnSc6	
+rozšleháme	rozšlehat	k5eAaPmIp1nP	
+vajíčko	vajíčko	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+nastrouhanou	nastrouhaný	k2eAgFnSc4d1	
+nivu	niva	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+2	#num#	k4	
+lžíce	lžíce	k1gFnPc4	
+jogurtu	jogurt	k1gInSc2	
+<g/>	
+,	,	kIx,	
+utřený	utřený	k2eAgInSc4d1	
+česnek	česnek	k1gInSc4	
+a	a	k8xC	
+pokud	pokud	k8xS	
+máme	mít	k5eAaImIp1nP	
+rádi	rád	k2eAgMnPc1d1	
+<g/>	
+,	,	kIx,	
+můžeme	moct	k5eAaImIp1nP	
+přidat	přidat	k5eAaPmF	
+chilli	chilli	k1gNnSc4	
+koření	koření	k1gNnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+této	tento	k3xDgFnSc2	
+marinády	marináda	k1gFnSc2	
+vložíme	vložit	k5eAaPmIp1nP	
+naklepané	naklepaný	k2eAgInPc4d1	
+řízky	řízek	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Troubu	trouba	k1gFnSc4	
+rozehřejeme	rozehřát	k5eAaPmIp1nP	
+na	na	k7c4	
+maximum	maximum	k1gNnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+pekáčku	pekáček	k1gInSc2	
+vložíme	vložit	k5eAaPmIp1nP	
+pečicí	pečicí	k2eAgInSc4d1	
+papír	papír	k1gInSc4	
+a	a	k8xC	
+na	na	k7c4	
+něj	on	k3xPp3gNnSc4	
+naskládáme	naskládat	k5eAaPmIp1nP	
+řízky	řízek	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pokud	pokud	k8xS	
+jsou	být	k5eAaImIp3nP	
+na	na	k7c6	
+povrchu	povrch	k1gInSc6	
+masa	maso	k1gNnSc2	
+holá	holý	k2eAgNnPc1d1	
+místa	místo	k1gNnPc1	
+<g/>	
+,	,	kIx,	
+navršíme	navršit	k5eAaPmIp1nP	
+ještě	ještě	k9	
+marinádu	marináda	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Trochu	trocha	k1gFnSc4	
+si	se	k3xPyFc3	
+jí	on	k3xPp3gFnSc3	
+však	však	k9	
+ještě	ještě	k6eAd1	
+ponecháme	ponechat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pečeme	péct	k5eAaImIp1nP	
+asi	asi	k9	
+15	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pak	pak	k8xC	
+pekáček	pekáček	k1gInSc1	
+vyjmeme	vyjmout	k5eAaPmIp1nP	
+-	-	kIx~	
+marináda	marináda	k1gFnSc1	
+na	na	k7c6	
+povrchu	povrch	k1gInSc6	
+by	by	kYmCp3nS	
+měla	mít	k5eAaImAgFnS	
+být	být	k5eAaImF	
+slabě	slabě	k6eAd1	
+růžová	růžový	k2eAgFnSc1d1	
+a	a	k8xC	
+řízky	řízek	k1gMnPc4	
+velmi	velmi	k6eAd1	
+opatrně	opatrně	k6eAd1	
+obracečkou	obracečka	k1gFnSc7	
+obrátíme	obrátit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Protože	protože	k8xS	
+řízky	řízek	k1gInPc1	
+neobsahují	obsahovat	k5eNaImIp3nP	
+žádnou	žádný	k3yNgFnSc4	
+mouku	mouka	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+spodní	spodní	k2eAgFnSc1d1	
+strana	strana	k1gFnSc1	
+může	moct	k5eAaImIp3nS	
+být	být	k5eAaImF	
+holá	holý	k2eAgFnSc1d1	
+a	a	k8xC	
+tak	tak	k8xC,k8xS	
+na	na	k7c4	
+maso	maso	k1gNnSc4	
+naložíme	naložit	k5eAaPmIp1nP	
+zbytek	zbytek	k1gInSc4	
+marinády	marináda	k1gFnSc2	
+a	a	k8xC	
+vložíme	vložit	k5eAaPmIp1nP	
+znova	znova	k6eAd1	
+do	do	k7c2	
+trouby	trouba	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zapneme	zapnout	k5eAaPmIp1nP	
+horký	horký	k2eAgInSc4d1	
+vzduch	vzduch	k1gInSc4	
+a	a	k8xC	
+pečeme	péct	k5eAaImIp1nP	
+ještě	ještě	k6eAd1	
+tak	tak	k9	
+10	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	

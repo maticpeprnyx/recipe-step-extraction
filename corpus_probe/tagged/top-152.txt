@@ -1,0 +1,161 @@
+<s>	
+Na	na	k7c6	
+jemně	jemně	k6eAd1	
+pokrájeném	pokrájený	k2eAgInSc6d1	
+špeku	špek	k1gInSc6	
+(	(	kIx(	
+<g/>	
+nebo	nebo	k8xC	
+oleji	olej	k1gInSc3	
+<g/>	
+,	,	kIx,	
+chceme-li	chceme-l	k1gFnSc3	
+polévku	polévka	k1gFnSc4	
+bezmasou	bezmasý	k2eAgFnSc4d1	
+<g/>	
+)	)	kIx)	
+osmažíme	osmažit	k5eAaPmIp1nP	
+drobně	drobně	k6eAd1	
+pokrájenou	pokrájený	k2eAgFnSc4d1	
+cibuli	cibule	k1gFnSc4	
+lehce	lehko	k6eAd1	
+dozlatova	dozlatova	k6eAd1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přisypeme	přisypat	k5eAaPmIp1nP	
+očištěnou	očištěný	k2eAgFnSc4d1	
+<g/>	
+,	,	kIx,	
+na	na	k7c4	
+nudličky	nudlička	k1gFnPc4	
+pokrájenou	pokrájený	k2eAgFnSc4d1	
+hlívu	hlíva	k1gFnSc4	
+a	a	k8xC	
+papriku	paprika	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+drcený	drcený	k2eAgInSc4d1	
+kmín	kmín	k1gInSc4	
+a	a	k8xC	
+dále	daleko	k6eAd2	
+smažíme	smažit	k5eAaImIp1nP	
+do	do	k7c2	
+jejího	její	k3xOp3gNnSc2	
+povadnutí	povadnutí	k1gNnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Poté	poté	k6eAd1	
+přidáme	přidat	k5eAaPmIp1nP	
+mletou	mletý	k2eAgFnSc4d1	
+papriku	paprika	k1gFnSc4	
+(	(	kIx(	
+<g/>	
+klidně	klidně	k6eAd1	
+v	v	k7c6	
+kombinaci	kombinace	k1gFnSc6	
+sladká	sladký	k2eAgNnPc4d1	
+a	a	k8xC	
+pálivá	pálivý	k2eAgNnPc4d1	
+<g/>	
+)	)	kIx)	
+<g/>	
+,	,	kIx,	
+strouhaný	strouhaný	k2eAgInSc4d1	
+česnek	česnek	k1gInSc4	
+<g/>	
+,	,	kIx,	
+protlak	protlak	k1gInSc4	
+a	a	k8xC	
+mouku	mouka	k1gFnSc4	
+a	a	k8xC	
+ještě	ještě	k6eAd1	
+krátce	krátce	k6eAd1	
+smažíme	smažit	k5eAaImIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Po	po	k7c6	
+osmažení	osmažení	k1gNnSc6	
+vmícháme	vmíchat	k5eAaPmIp1nP	
+na	na	k7c4	
+kostičky	kostička	k1gFnPc4	
+pokrájené	pokrájený	k2eAgFnSc2d1	
+brambory	brambora	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+přilijeme	přilít	k5eAaPmIp1nP	
+cca	cca	kA	
+litr	litr	k1gInSc4	
+vývaru	vývar	k1gInSc2	
+<g/>	
+,	,	kIx,	
+promícháme	promíchat	k5eAaPmIp1nP	
+a	a	k8xC	
+vaříme	vařit	k5eAaImIp1nP	
+do	do	k7c2	
+změknutí	změknutí	k1gNnSc2	
+brambor	brambora	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Ke	k	k7c3	
+konci	konec	k1gInSc3	
+vaření	vaření	k1gNnSc2	
+dochutíme	dochutit	k5eAaPmIp1nP	
+dle	dle	k7c2	
+vlastní	vlastní	k2eAgFnSc2d1	
+chuti	chuť	k1gFnSc2	
+solí	sůl	k1gFnPc2	
+<g/>	
+,	,	kIx,	
+pepřem	pepř	k1gInSc7	
+<g/>	
+,	,	kIx,	
+majoránkou	majoránka	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+případně	případně	k6eAd1	
+dolijeme	dolít	k5eAaPmIp1nP	
+dle	dle	k7c2	
+potřeby	potřeba	k1gFnSc2	
+vývarem	vývar	k1gInSc7	
+a	a	k8xC	
+můžeme	moct	k5eAaImIp1nP	
+podávat	podávat	k5eAaImF	
+<g/>	
+,	,	kIx,	
+nejlépe	dobře	k6eAd3	
+s	s	k7c7	
+čerstvým	čerstvý	k2eAgInSc7d1	
+chlebem	chléb	k1gInSc7	
+či	či	k8xC	
+pečivem	pečivo	k1gNnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Polévku	polévka	k1gFnSc4	
+můžeme	moct	k5eAaImIp1nP	
+dozdobit	dozdobit	k5eAaPmF	
+čerstvě	čerstvě	k6eAd1	
+nasekanými	nasekaný	k2eAgFnPc7d1	
+bylinkami	bylinka	k1gFnPc7	
+(	(	kIx(	
+<g/>	
+petrželka	petrželka	k1gFnSc1	
+<g/>	
+,	,	kIx,	
+libeček	libeček	k1gInSc1	
+<g/>	
+...	...	k?	
+<g/>	
+)	)	kIx)	
+<g/>	
+.	.	kIx.	
+</s>	

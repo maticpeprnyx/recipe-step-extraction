@@ -1,0 +1,28 @@
+<s>	
+Všechno	všechen	k3xTgNnSc4	
+smícháme	smíchat	k5eAaPmIp1nP	
+a	a	k8xC	
+dáme	dát	k5eAaPmIp1nP	
+do	do	k7c2	
+hrníčku	hrníček	k1gInSc2	
+(	(	kIx(	
+<g/>	
+nebo	nebo	k8xC	
+do	do	k7c2	
+misky	miska	k1gFnSc2	
+nepozlacené	pozlacený	k2eNgFnSc2d1	
+<g/>	
+)	)	kIx)	
+a	a	k8xC	
+do	do	k7c2	
+mikrovlnky	mikrovlnka	k1gFnSc2wH	
+na	na	k7c4	
+maximální	maximální	k2eAgInSc4d1	
+výkon	výkon	k1gInSc4	
+minimálně	minimálně	k6eAd1	
+na	na	k7c4	
+3	#num#	k4	
+minuty	minuta	k1gFnPc4	
+<g/>	
+.	.	kIx.	
+</s>	

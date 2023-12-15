@@ -1,0 +1,87 @@
+<s>	
+Křidélka	křidélko	k1gNnPc4	
+osolíme	osolit	k5eAaPmIp1nP	
+a	a	k8xC	
+opepříme	opepřit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Meruňky	meruňka	k1gFnPc4	
+rozmačkáme	rozmačkat	k5eAaPmIp1nP	
+na	na	k7c4	
+kaši	kaše	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+přimícháme	přimíchat	k5eAaPmIp1nP	
+med	med	k1gInSc4	
+<g/>	
+,	,	kIx,	
+sójovou	sójový	k2eAgFnSc4d1	
+omáčku	omáčka	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+posekaný	posekaný	k2eAgInSc4d1	
+česnek	česnek	k1gInSc4	
+<g/>	
+,	,	kIx,	
+chilli	chilli	k1gNnPc4	
+a	a	k8xC	
+křidélka	křidélko	k1gNnPc4	
+v	v	k7c6	
+marinádě	marináda	k1gFnSc6	
+promícháme	promíchat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Necháme	nechat	k5eAaPmIp1nP	
+hodinu	hodina	k1gFnSc4	
+uležet	uležet	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+pekáčku	pekáček	k1gInSc2	
+přendáme	přendat	k5eAaPmIp1nP	
+křidélka	křidélko	k1gNnPc4	
+i	i	k8xC	
+s	s	k7c7	
+marinádou	marináda	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+cibuli	cibule	k1gFnSc4	
+a	a	k8xC	
+rajčata	rajče	k1gNnPc4	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+klínky	klínek	k1gInPc4	
+a	a	k8xC	
+přidáme	přidat	k5eAaPmIp1nP	
+k	k	k7c3	
+masu	maso	k1gNnSc3	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Malinko	malinko	k1gNnSc4	
+podlijeme	podlít	k5eAaPmIp1nP	
+vodou	voda	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+vložíme	vložit	k5eAaPmIp1nP	
+do	do	k7c2	
+vyhřáté	vyhřátý	k2eAgFnSc2d1	
+trouby	trouba	k1gFnSc2	
+na	na	k7c4	
+200	#num#	k4	
+<g/>	
+°	°	k?	
+<g/>	
+C	C	kA	
+a	a	k8xC	
+pečeme	péct	k5eAaImIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	

@@ -1,0 +1,116 @@
+<s>	
+Do	do	k7c2	
+hluboké	hluboký	k2eAgFnSc2d1	
+rozehřáté	rozehřátý	k2eAgFnSc2d1	
+pánve	pánev	k1gFnSc2	
+dáme	dát	k5eAaPmIp1nP	
+olej	olej	k1gInSc4	
+a	a	k8xC	
+na	na	k7c6	
+něm	on	k3xPp3gInSc6	
+zesklovatíme	zesklovatět	k5eAaPmIp1nP	
+nasekanou	nasekaný	k2eAgFnSc4d1	
+cibuli	cibule	k1gFnSc4	
+a	a	k8xC	
+česnek	česnek	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidáme	přidat	k5eAaPmIp1nP	
+plátky	plátek	k1gInPc4	
+masa	maso	k1gNnSc2	
+<g/>	
+,	,	kIx,	
+osolíme	osolit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+opepříme	opepřit	k5eAaPmIp1nP	
+a	a	k8xC	
+opečeme	opéct	k5eAaPmIp1nP	
+z	z	k7c2	
+obou	dva	k4xCgFnPc2	
+stran	strana	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přihodíme	přihodit	k5eAaPmIp1nP	
+půlky	půlka	k1gFnPc4	
+rajčátek	rajčátko	k1gNnPc2	
+<g/>	
+,	,	kIx,	
+kolečka	kolečko	k1gNnPc4	
+klobásky	klobásek	k1gInPc4	
+<g/>	
+,	,	kIx,	
+nasekanou	nasekaný	k2eAgFnSc4d1	
+zelenou	zelený	k2eAgFnSc4d1	
+nať	nať	k1gFnSc4	
+(	(	kIx(	
+<g/>	
+kousek	kousek	k1gInSc4	
+necháme	nechat	k5eAaPmIp1nP	
+k	k	k7c3	
+servírování	servírování	k1gNnSc3	
+<g/>	
+)	)	kIx)	
+a	a	k8xC	
+vmícháme	vmíchat	k5eAaPmIp1nP	
+ajvar	ajvar	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podlijeme	podlít	k5eAaPmIp1nP	
+studeným	studený	k2eAgNnSc7d1	
+mlékem	mléko	k1gNnSc7	
+<g/>	
+,	,	kIx,	
+dáme	dát	k5eAaPmIp1nP	
+jen	jen	k9	
+polovinu	polovina	k1gFnSc4	
+a	a	k8xC	
+přivedeme	přivést	k5eAaPmIp1nP	
+omáčku	omáčka	k1gFnSc4	
+k	k	k7c3	
+varu	var	k1gInSc3	
+<g/>	
+,	,	kIx,	
+pak	pak	k8xC	
+dolijeme	dolít	k5eAaPmIp1nP	
+zbylé	zbylý	k2eAgNnSc4d1	
+mléko	mléko	k1gNnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c6	
+sníženém	snížený	k2eAgInSc6d1	
+stupni	stupeň	k1gInSc6	
+tepla	teplo	k1gNnSc2	
+povaříme	povařit	k5eAaPmIp1nP	
+do	do	k7c2	
+potřebné	potřebný	k2eAgFnSc2d1	
+hustoty	hustota	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+dle	dle	k7c2	
+chuti	chuť	k1gFnSc2	
+přisolíme	přisolit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podáváme	podávat	k5eAaImIp1nP	
+s	s	k7c7	
+rýží	rýže	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+posypané	posypaný	k2eAgNnSc4d1	
+nasekanou	nasekaný	k2eAgFnSc7d1	
+natí	nať	k1gFnSc7	
+cibulky	cibulka	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	

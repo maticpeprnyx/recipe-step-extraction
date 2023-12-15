@@ -1,0 +1,54 @@
+<s>	
+Sýr	sýr	k1gInSc4	
+potřeme	potřít	k5eAaPmIp1nP	
+olejem	olej	k1gInSc7	
+s	s	k7c7	
+rozmíchaným	rozmíchaný	k2eAgNnSc7d1	
+kořením	koření	k1gNnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Grilujeme	grilovat	k5eAaImIp1nP	
+na	na	k7c6	
+grilovací	grilovací	k2eAgFnSc6d1	
+pánvi	pánev	k1gFnSc6	
+nebo	nebo	k8xC	
+na	na	k7c6	
+grilu	gril	k1gInSc6	
+pomalu	pomalu	k6eAd1	
+do	do	k7c2	
+úplného	úplný	k2eAgNnSc2d1	
+změknutí	změknutí	k1gNnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Salát	salát	k1gInSc4	
+očistíme	očistit	k5eAaPmIp1nP	
+a	a	k8xC	
+promícháme	promíchat	k5eAaPmIp1nP	
+s	s	k7c7	
+nakrájenými	nakrájený	k2eAgNnPc7d1	
+rajčaty	rajče	k1gNnPc7	
+a	a	k8xC	
+olivami	oliva	k1gFnPc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Připravíme	připravit	k5eAaPmIp1nP	
+zálivku	zálivka	k1gFnSc4	
+smícháním	smíchání	k1gNnPc3	
+všech	všechen	k3xTgFnPc2	
+přísad	přísada	k1gFnPc2	
+a	a	k8xC	
+nakonec	nakonec	k6eAd1	
+promícháme	promíchat	k5eAaPmIp1nP	
+a	a	k8xC	
+posypeme	posypat	k5eAaPmIp1nP	
+hoblinkami	hoblinka	k1gFnPc7	
+sýru	sýr	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	

@@ -1,0 +1,174 @@
+<s>	
+Brambory	brambora	k1gFnPc4	
+i	i	k9	
+se	se	k3xPyFc4	
+slupkou	slupka	k1gFnSc7	
+důkladně	důkladně	k6eAd1	
+omyjeme	omýt	k5eAaPmIp1nP	
+a	a	k8xC	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+čtvrtky	čtvrtek	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vložíme	vložit	k5eAaPmIp1nP	
+do	do	k7c2	
+misky	miska	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+lehce	lehko	k6eAd1	
+posypeme	posypat	k5eAaPmIp1nP	
+grilovacím	grilovací	k2eAgNnSc7d1	
+kořením	koření	k1gNnSc7	
+<g/>	
+,	,	kIx,	
+pokapeme	pokapat	k5eAaPmIp1nP	
+olejem	olej	k1gInSc7	
+a	a	k8xC	
+promícháme	promíchat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pokud	pokud	k8xS	
+grilovací	grilovací	k2eAgNnSc4d1	
+koření	koření	k1gNnSc4	
+obsahuje	obsahovat	k5eAaImIp3nS	
+málo	málo	k1gNnSc4	
+soli	sůl	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+tak	tak	k8xS,k8xC	
+ještě	ještě	k9	
+lehce	lehko	k6eAd1	
+dosolíme	dosolit	k5eAaPmIp1nP	
+a	a	k8xC	
+opět	opět	k6eAd1	
+promícháme	promíchat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Maso	maso	k1gNnSc4	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+kousky	kousek	k1gInPc4	
+a	a	k8xC	
+lehce	lehko	k6eAd1	
+osolíme	osolit	k5eAaPmIp1nP	
+a	a	k8xC	
+okořeníme	okořenit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Cibuli	cibule	k1gFnSc4	
+oloupeme	oloupat	k5eAaPmIp1nP	
+a	a	k8xC	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+silnější	silný	k2eAgInPc4d2	
+proužky	proužek	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Plech	plech	k1gInSc4	
+lehce	lehko	k6eAd1	
+potřeme	potřít	k5eAaPmIp1nP	
+olejem	olej	k1gInSc7	
+<g/>	
+,	,	kIx,	
+nebo	nebo	k8xC	
+vyložíme	vyložit	k5eAaPmIp1nP	
+alobalem	alobal	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c4	
+něj	on	k3xPp3gMnSc4	
+rozprostřeme	rozprostřít	k5eAaPmRp1nP	
+z	z	k7c2	
+misky	miska	k1gFnSc2	
+brambory	brambora	k1gFnSc2	
+a	a	k8xC	
+vrstvíme	vrstvit	k5eAaImIp1nP	
+maso	maso	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+na	na	k7c4	
+kousky	kousek	k1gInPc4	
+nakrájenou	nakrájený	k2eAgFnSc4d1	
+anglickou	anglický	k2eAgFnSc4d1	
+slaninu	slanina	k1gFnSc4	
+nebo	nebo	k8xC	
+špek	špek	k1gInSc4	
+<g/>	
+,	,	kIx,	
+klobásu	klobása	k1gFnSc4	
+nebo	nebo	k8xC	
+kabanos	kabanos	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Navrstvíme	navrstvit	k5eAaPmIp1nP	
+hodně	hodně	k6eAd1	
+cibule	cibule	k1gFnPc4	
+a	a	k8xC	
+opět	opět	k6eAd1	
+posypeme	posypat	k5eAaPmIp1nP	
+grilovacím	grilovací	k2eAgNnSc7d1	
+kořením	koření	k1gNnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zakryjeme	zakrýt	k5eAaPmIp1nP	
+alobalem	alobal	k1gInSc7	
+a	a	k8xC	
+dáme	dát	k5eAaPmIp1nP	
+do	do	k7c2	
+trouby	trouba	k1gFnSc2	
+na	na	k7c4	
+200	#num#	k4	
+°	°	k?	
+<g/>	
+C	C	kA	
+asi	asi	k9	
+60	#num#	k4	
+minut	minuta	k1gFnPc2	
+péct	péct	k5eAaImF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c4	
+posledních	poslední	k2eAgFnPc2d1	
+10	#num#	k4	
+minut	minuta	k1gFnPc2	
+odkryjeme	odkrýt	k5eAaPmIp1nP	
+alobal	alobal	k1gInSc4	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+dopéct	dopéct	k5eAaPmF	
+dozlatova	dozlatova	k6eAd1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Hotové	hotový	k2eAgNnSc4d1	
+ražniči	ražniči	k1gNnSc4	
+můžeme	moct	k5eAaImIp1nP	
+podávat	podávat	k5eAaImF	
+se	s	k7c7	
+zeleninovým	zeleninový	k2eAgInSc7d1	
+salátem	salát	k1gInSc7	
+nebo	nebo	k8xC	
+oblohou	obloha	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	

@@ -1,0 +1,36 @@
+<s>	
+Těstoviny	těstovina	k1gFnPc1	
+<g/>	
+,	,	kIx,	
+které	který	k3yRgFnPc1	
+nám	my	k3xPp1nPc3	
+zůstaly	zůstat	k5eAaPmAgFnP	
+<g/>	
+,	,	kIx,	
+smícháme	smíchat	k5eAaPmIp1nP	
+s	s	k7c7	
+nastrouhanou	nastrouhaný	k2eAgFnSc7d1	
+kůrou	kůra	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+zakápneme	zakápnout	k5eAaPmIp1nP	
+olivovým	olivový	k2eAgInSc7d1	
+olejem	olej	k1gInSc7	
+<g/>	
+,	,	kIx,	
+posypeme	posypat	k5eAaPmIp1nP	
+strouhaným	strouhaný	k2eAgInSc7d1	
+sýrem	sýr	k1gInSc7	
+<g/>	
+,	,	kIx,	
+špetkou	špetka	k1gFnSc7	
+uzené	uzený	k2eAgFnSc2d1	
+papriky	paprika	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+kořením	kořenit	k5eAaImIp1nS	
+a	a	k8xC	
+petrželkou	petrželka	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	

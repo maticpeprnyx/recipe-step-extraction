@@ -1,0 +1,92 @@
+<s>	
+Na	na	k7c6	
+másle	máslo	k1gNnSc6	
+zpěníme	zpěnit	k5eAaPmIp1nP	
+nakrájenou	nakrájený	k2eAgFnSc4d1	
+cibuli	cibule	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+oloupané	oloupaný	k2eAgInPc4d1	
+nakrájené	nakrájený	k2eAgInPc4d1	
+brambory	brambor	k1gInPc4	
+a	a	k8xC	
+kedlubnu	kedlubna	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+osolíme	osolit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+opepříme	opepřit	k5eAaPmIp1nP	
+a	a	k8xC	
+chvilku	chvilka	k1gFnSc4	
+restujeme	restovat	k5eAaImIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pak	pak	k6eAd1	
+zalijeme	zalít	k5eAaPmIp1nP	
+vývarem	vývar	k1gInSc7	
+a	a	k8xC	
+uvaříme	uvařit	k5eAaPmIp1nP	
+doměkka	doměkka	k1gNnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Rozmixujeme	rozmixovat	k5eAaPmIp1nP	
+tyčovým	tyčový	k2eAgInSc7d1	
+mixérem	mixér	k1gInSc7	
+dohladka	dohladek	k1gMnSc2	
+a	a	k8xC	
+přidáme	přidat	k5eAaPmIp1nP	
+smetanu	smetana	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podle	podle	k7c2	
+potřeby	potřeba	k1gFnSc2	
+dochutíme	dochutit	k5eAaPmIp1nP	
+solí	sůl	k1gFnSc7	
+a	a	k8xC	
+pepřem	pepř	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Chleba	chléb	k1gInSc2	
+a	a	k8xC	
+uzené	uzený	k2eAgNnSc4d1	
+maso	maso	k1gNnSc4	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+malé	malý	k2eAgFnPc4d1	
+kostičky	kostička	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+na	na	k7c4	
+pánev	pánev	k1gFnSc4	
+s	s	k7c7	
+rozehřátým	rozehřátý	k2eAgInSc7d1	
+olejem	olej	k1gInSc7	
+a	a	k8xC	
+spolu	spolu	k6eAd1	
+s	s	k7c7	
+prolisovaným	prolisovaný	k2eAgInSc7d1	
+česnekem	česnek	k1gInSc7	
+opečeme	opéct	k5eAaPmIp1nP	
+dokřupava	dokřupava	k1gFnSc1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Polévku	polévka	k1gFnSc4	
+ozdobíme	ozdobit	k5eAaPmIp1nP	
+nasekanou	nasekaný	k2eAgFnSc7d1	
+pažitkou	pažitka	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	

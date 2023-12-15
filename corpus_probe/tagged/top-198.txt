@@ -1,0 +1,46 @@
+<s>	
+Hlávkové	hlávkový	k2eAgNnSc1d1	
+zelí	zelí	k1gNnSc1	
+nakrouháme	nakrouhat	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+mrkev	mrkev	k1gFnSc4	
+nahrubo	nahrubo	k6eAd1	
+nastrouháme	nastrouhat	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+cibuli	cibule	k1gFnSc4	
+a	a	k8xC	
+petrželku	petrželka	k1gFnSc4	
+najemno	najemno	k6eAd1	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+hořčici	hořčice	k1gFnSc4	
+a	a	k8xC	
+vše	všechen	k3xTgNnSc4	
+ostatní	ostatní	k1gNnSc4	
+dle	dle	k7c2	
+vlastní	vlastní	k2eAgFnSc2d1	
+chuti	chuť	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Promícháme	promíchat	k5eAaPmIp1nP	
+a	a	k8xC	
+mírně	mírně	k6eAd1	
+pomačkáme	pomačkat	k5eAaPmIp1nP	
+-	-	kIx~	
+rukou	ruka	k1gFnPc6	
+promneme	promnout	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Necháme	nechat	k5eAaPmIp1nP	
+vychladit	vychladit	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	

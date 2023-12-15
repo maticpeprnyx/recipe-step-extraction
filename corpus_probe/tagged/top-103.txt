@@ -1,0 +1,125 @@
+<s>	
+Vepřovou	vepřový	k2eAgFnSc4d1	
+panenku	panenka	k1gFnSc4	
+omyjeme	omýt	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+osušíme	osušit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+lehce	lehko	k6eAd1	
+osolíme	osolit	k5eAaPmIp1nP	
+a	a	k8xC	
+opepříme	opepřit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Maso	maso	k1gNnSc4	
+potřeme	potřít	k5eAaPmIp1nP	
+rovnoměrně	rovnoměrně	k6eAd1	
+bazalkovým	bazalkový	k2eAgNnSc7d1	
+pestem	pestum	k1gNnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c4	
+dvojitý	dvojitý	k2eAgInSc4d1	
+alobal	alobal	k1gInSc4	
+rozložíme	rozložit	k5eAaPmIp1nP	
+plátky	plátek	k1gInPc4	
+slaniny	slanina	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+položíme	položit	k5eAaPmIp1nP	
+na	na	k7c4	
+něj	on	k3xPp3gNnSc4	
+maso	maso	k1gNnSc4	
+a	a	k8xC	
+slaninu	slanina	k1gFnSc4	
+kolem	kolem	k7c2	
+panenky	panenka	k1gFnSc2	
+pevně	pevně	k6eAd1	
+obtočíme	obtočit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Panenku	panenka	k1gFnSc4	
+zabalenou	zabalený	k2eAgFnSc4d1	
+do	do	k7c2	
+alobalu	alobal	k1gInSc2	
+vložíme	vložit	k5eAaPmIp1nP	
+do	do	k7c2	
+vyhřáté	vyhřátý	k2eAgFnSc2d1	
+trouby	trouba	k1gFnSc2	
+a	a	k8xC	
+pečeme	péct	k5eAaImIp1nP	
+20	#num#	k4	
+minut	minuta	k1gFnPc2	
+na	na	k7c4	
+200	#num#	k4	
+stupňů	stupeň	k1gInPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Po	po	k7c6	
+20	#num#	k4	
+minutách	minuta	k1gFnPc6	
+balíček	balíček	k1gInSc4	
+otevřeme	otevřít	k5eAaPmIp1nP	
+a	a	k8xC	
+pečeme	péct	k5eAaImIp1nP	
+odkryté	odkrytý	k2eAgFnPc1d1	
+na	na	k7c4	
+220	#num#	k4	
+stupňů	stupeň	k1gInPc2	
+ještě	ještě	k6eAd1	
+cca	cca	kA	
+7	#num#	k4	
+<g/>	
+-	-	kIx~	
+<g/>	
+10	#num#	k4	
+minut	minuta	k1gFnPc2	
+a	a	k8xC	
+podléváme	podlévat	k5eAaImIp1nP	
+výpekem	výpek	k1gInSc7	
+<g/>	
+,	,	kIx,	
+který	který	k3yRgMnSc1	
+je	být	k5eAaImIp3nS	
+v	v	k7c6	
+alobalu	alobal	k1gInSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Před	před	k7c7	
+krájením	krájení	k1gNnSc7	
+necháme	nechat	k5eAaPmIp1nP	
+maso	maso	k1gNnSc4	
+odpočinout	odpočinout	k5eAaPmF	
+<g/>	
+,	,	kIx,	
+aby	aby	kYmCp3nS	
+z	z	k7c2	
+něj	on	k3xPp3gInSc2	
+nevytekla	vytéct	k5eNaPmAgFnS	
+šťáva	šťáva	k1gFnSc1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podáváme	podávat	k5eAaImIp1nP	
+s	s	k7c7	
+opečenými	opečený	k2eAgFnPc7d1	
+bramborami	brambora	k1gFnPc7	
+<g/>	
+,	,	kIx,	
+tatarkou	tatarka	k1gFnSc7	
+a	a	k8xC	
+zeleninou	zelenina	k1gFnSc7	
+</s>	

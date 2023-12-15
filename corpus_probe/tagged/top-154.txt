@@ -1,0 +1,102 @@
+<s>	
+Kuřecí	kuřecí	k2eAgInPc4d1	
+steaky	steak	k1gInPc4	
+osolíme	osolit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+opepříme	opepřit	k5eAaPmIp1nP	
+a	a	k8xC	
+naklepeme	naklepat	k5eAaBmIp1nP,k5eAaPmIp1nP	
+paličkou	palička	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Potřeme	potřít	k5eAaPmIp1nP	
+je	on	k3xPp3gFnPc4	
+po	po	k7c6	
+obou	dva	k4xCgFnPc6	
+stranách	strana	k1gFnPc6	
+plnotučnou	plnotučný	k2eAgFnSc7d1	
+hořčicí	hořčice	k1gFnSc7	
+a	a	k8xC	
+obalíme	obalit	k5eAaPmIp1nP	
+v	v	k7c6	
+hladké	hladký	k2eAgFnSc6d1	
+mouce	mouka	k1gFnSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Steaky	steak	k1gInPc1	
+opečeme	opéct	k5eAaPmIp1nP	
+na	na	k7c6	
+oleji	olej	k1gInSc6	
+dozlatova	dozlatova	k6eAd1	
+<g/>	
+,	,	kIx,	
+vyjmeme	vyjmout	k5eAaPmIp1nP	
+je	on	k3xPp3gFnPc4	
+a	a	k8xC	
+uchováme	uchovat	k5eAaPmIp1nP	
+v	v	k7c6	
+teple	teplo	k1gNnSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Ve	v	k7c6	
+výpeku	výpek	k1gInSc6	
+opečeme	opéct	k5eAaPmIp1nP	
+čtvrtky	čtvrtek	k1gInPc4	
+očištěných	očištěný	k2eAgFnPc2d1	
+<g/>	
+,	,	kIx,	
+mírně	mírně	k6eAd1	
+osolených	osolený	k2eAgInPc2d1	
+žampionů	žampion	k1gInPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+V	v	k7c6	
+zakysané	zakysaný	k2eAgFnSc6d1	
+smetaně	smetana	k1gFnSc6	
+rozmícháme	rozmíchat	k5eAaPmIp1nP	
+sójovou	sójový	k2eAgFnSc4d1	
+omáčku	omáčka	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+rozetřený	rozetřený	k2eAgInSc4d1	
+česnek	česnek	k1gInSc4	
+a	a	k8xC	
+nakrájenou	nakrájený	k2eAgFnSc4d1	
+lahůdkovou	lahůdkový	k2eAgFnSc4d1	
+cibulku	cibulka	k1gFnSc4	
+i	i	k9	
+se	s	k7c7	
+zelenou	zelený	k2eAgFnSc7d1	
+natí	nať	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podle	podle	k7c2	
+chuti	chuť	k1gFnSc2	
+osolíme	osolit	k5eAaPmIp1nP	
+a	a	k8xC	
+opepříme	opepřit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Hotové	hotový	k2eAgNnSc4d1	
+maso	maso	k1gNnSc4	
+přelijeme	přelít	k5eAaPmIp1nP	
+na	na	k7c6	
+talíři	talíř	k1gInSc6	
+dipem	dipem	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	

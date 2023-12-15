@@ -1,0 +1,70 @@
+<s>	
+Cukety	cuketa	k1gFnPc4	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+drobné	drobný	k2eAgFnPc4d1	
+kostičky	kostička	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+mrkev	mrkev	k1gFnSc4	
+nastrouháme	nastrouhat	k5eAaPmIp1nP	
+nahrubo	nahrubo	k6eAd1	
+<g/>	
+,	,	kIx,	
+rajčátka	rajčátko	k1gNnSc2	
+rozpůlíme	rozpůlit	k5eAaPmIp1nP	
+(	(	kIx(	
+<g/>	
+větší	veliký	k2eAgFnSc2d2	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+čtvrtky	čtvrtek	k1gInPc4	
+<g/>	
+)	)	kIx)	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vychladlé	vychladlý	k2eAgFnPc4d1	
+kroupy	kroupa	k1gFnPc4	
+zakápneme	zakápnout	k5eAaPmIp1nP	
+citronovou	citronový	k2eAgFnSc7d1	
+štávou	štáva	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+osolíme	osolit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+opepříme	opepřit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+promícháme	promíchat	k5eAaPmIp1nP	
+s	s	k7c7	
+připravenou	připravený	k2eAgFnSc7d1	
+zeleninou	zelenina	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+nakrájenými	nakrájený	k2eAgFnPc7d1	
+olivami	oliva	k1gFnPc7	
+<g/>	
+,	,	kIx,	
+kapary	kapary	k1gInPc4	
+a	a	k8xC	
+cca	cca	kA	
+třemi	tři	k4xCgFnPc7	
+lžícemi	lžíce	k1gFnPc7	
+oleje	olej	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c4	
+závěr	závěr	k1gInSc4	
+salát	salát	k1gInSc4	
+posypeme	posypat	k5eAaPmIp1nP	
+čerstvými	čerstvý	k2eAgInPc7d1	
+lístky	lístek	k1gInPc7	
+tymiánu	tymián	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	

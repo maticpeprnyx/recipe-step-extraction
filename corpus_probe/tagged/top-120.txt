@@ -1,0 +1,139 @@
+<s>	
+Z	z	k7c2	
+lžíce	lžíce	k1gFnSc2	
+mouky	mouka	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+vlažného	vlažný	k2eAgNnSc2d1	
+mléka	mléko	k1gNnSc2	
+<g/>	
+,	,	kIx,	
+droždí	droždí	k1gNnSc2	
+a	a	k8xC	
+lžičky	lžička	k1gFnSc2	
+cukru	cukr	k1gInSc2	
+necháme	nechat	k5eAaPmIp1nP	
+vzejít	vzejít	k5eAaPmF	
+kvásek	kvásek	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+V	v	k7c6	
+míse	mísa	k1gFnSc6	
+smícháme	smíchat	k5eAaPmIp1nP	
+mouku	mouka	k1gFnSc4	
+s	s	k7c7	
+kváskem	kvásek	k1gInSc7	
+<g/>	
+,	,	kIx,	
+cukrem	cukr	k1gInSc7	
+<g/>	
+,	,	kIx,	
+majonézou	majonéza	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+žloutky	žloutek	k1gInPc7	
+a	a	k8xC	
+špetkou	špetka	k1gFnSc7	
+soli	sůl	k1gFnSc2	
+na	na	k7c4	
+těsto	těsto	k1gNnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Těsto	těsto	k1gNnSc4	
+přikryjeme	přikrýt	k5eAaPmIp1nP	
+utěrkou	utěrka	k1gFnSc7	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+ho	on	k3xPp3gMnSc4	
+na	na	k7c6	
+teplém	teplý	k2eAgNnSc6d1	
+místě	místo	k1gNnSc6	
+vykynout	vykynout	k5eAaPmF	
+aspoň	aspoň	k9	
+hodinu	hodina	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Potom	potom	k6eAd1	
+z	z	k7c2	
+těsta	těsto	k1gNnSc2	
+vyválíme	vyválet	k5eAaPmIp1nP	
+plát	plát	k1gInSc4	
+a	a	k8xC	
+pomocí	pomocí	k7c2	
+skleničky	sklenička	k1gFnSc2	
+vykrajujeme	vykrajovat	k5eAaImIp1nP	
+kolečka	kolečko	k1gNnPc4	
+<g/>	
+,	,	kIx,	
+která	který	k3yRgNnPc4	
+dáme	dát	k5eAaPmIp1nP	
+na	na	k7c4	
+plech	plech	k1gInSc4	
+vyložený	vyložený	k2eAgInSc4d1	
+pečícím	pečící	k2eAgInSc7d1	
+papírem	papír	k1gInSc7	
+nebo	nebo	k8xC	
+fólií	fólie	k1gFnSc7	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+ještě	ještě	k6eAd1	
+tak	tak	k9	
+30	#num#	k4	
+minut	minuta	k1gFnPc2	
+kynout	kynout	k5eAaImF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vykynuté	vykynutý	k2eAgInPc1d1	
+koblihy	koblih	k1gInPc1	
+potřeme	potřít	k5eAaPmIp1nP	
+rozšlehaným	rozšlehaný	k2eAgNnSc7d1	
+vajíčkem	vajíčko	k1gNnSc7	
+a	a	k8xC	
+dáme	dát	k5eAaPmIp1nP	
+do	do	k7c2	
+předehřáté	předehřátý	k2eAgFnSc2d1	
+trouby	trouba	k1gFnSc2	
+péct	péct	k5eAaImF	
+při	při	k7c6	
+teplotě	teplota	k1gFnSc6	
+180	#num#	k4	
+<g/>	
+°	°	k?	
+<g/>	
+C	C	kA	
+do	do	k7c2	
+zlatova	zlatovo	k1gNnSc2	
+nebo	nebo	k8xC	
+pomocí	pomocí	k7c2	
+špejle	špejle	k1gFnSc2	
+můžeme	moct	k5eAaImIp1nP	
+zkusit	zkusit	k5eAaPmF	
+<g/>	
+,	,	kIx,	
+zda	zda	k8xS	
+se	se	k3xPyFc4	
+těsto	těsto	k1gNnSc1	
+na	na	k7c4	
+ni	on	k3xPp3gFnSc4	
+nelepí	lepit	k5eNaImIp3nS	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Hotové	hotová	k1gFnSc2	
+vyndáme	vyndat	k5eAaPmIp1nP	
+a	a	k8xC	
+ještě	ještě	k6eAd1	
+horké	horký	k2eAgFnPc4d1	
+pocukrujeme	pocukrovat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	

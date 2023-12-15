@@ -1,0 +1,334 @@
+<s>	
+Do	do	k7c2	
+vlažné	vlažný	k2eAgFnSc2d1	
+vody	voda	k1gFnSc2	
+rozmícháme	rozmíchat	k5eAaPmIp1nP	
+sušené	sušený	k2eAgNnSc4d1	
+droždí	droždí	k1gNnSc4	
+a	a	k8xC	
+lžičku	lžička	k1gFnSc4	
+cukru	cukr	k1gInSc2	
+<g/>	
+,	,	kIx,	
+misku	miska	k1gFnSc4	
+přikryjeme	přikrýt	k5eAaPmIp1nP	
+igelitem	igelit	k1gInSc7	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+vzejít	vzejít	k5eAaPmF	
+kvásek	kvásek	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Máslo	máslo	k1gNnSc4	
+odvážíme	odvážet	k5eAaImIp1nP,k5eAaPmIp1nP	
+a	a	k8xC	
+rozpustíme	rozpustit	k5eAaPmIp1nP	
+ho	on	k3xPp3gMnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Mouku	mouka	k1gFnSc4	
+prosejeme	proset	k5eAaPmIp1nP	
+do	do	k7c2	
+mísy	mísa	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+sůl	sůl	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+kvásek	kvásek	k1gInSc4	
+<g/>	
+,	,	kIx,	
+máslo	máslo	k1gNnSc4	
+a	a	k8xC	
+vlažnou	vlažný	k2eAgFnSc4d1	
+vodu	voda	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zaděláme	zadělat	k5eAaPmIp1nP	
+těsto	těsto	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+které	který	k3yRgNnSc1	
+je	být	k5eAaImIp3nS	
+trochu	trochu	k6eAd1	
+řidší	řídký	k2eAgFnSc1d2	
+<g/>	
+,	,	kIx,	
+ale	ale	k8xC	
+vláčné	vláčný	k2eAgFnSc6d1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Umělohmotnou	umělohmotný	k2eAgFnSc4d1	
+zavírací	zavírací	k2eAgFnSc4d1	
+mísu	mísa	k1gFnSc4	
+lehce	lehko	k6eAd1	
+vymažeme	vymazat	k5eAaPmIp1nP	
+olejem	olej	k1gInSc7	
+a	a	k8xC	
+těsto	těsto	k1gNnSc4	
+do	do	k7c2	
+ní	on	k3xPp3gFnSc2	
+vyklopíme	vyklopit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+namočíme	namočit	k5eAaPmIp1nP	
+ruku	ruka	k1gFnSc4	
+a	a	k8xC	
+těsto	těsto	k1gNnSc4	
+v	v	k7c6	
+míse	mísa	k1gFnSc6	
+lehce	lehko	k6eAd1	
+prohněteme	prohníst	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+mísu	mísa	k1gFnSc4	
+uzavřeme	uzavřít	k5eAaPmIp1nP	
+a	a	k8xC	
+dáme	dát	k5eAaPmIp1nP	
+do	do	k7c2	
+lednice	lednice	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+kde	kde	k6eAd1	
+bude	být	k5eAaImBp3nS	
+těsto	těsto	k1gNnSc1	
+pomalu	pomalu	k6eAd1	
+kynout	kynout	k5eAaImF	
+asi	asi	k9	
+2	#num#	k4	
+hodiny	hodina	k1gFnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Mezitím	mezitím	k6eAd1	
+nachystáme	nachystat	k5eAaBmIp1nP,k5eAaPmIp1nP	
+plech	plech	k1gInSc4	
+<g/>	
+,	,	kIx,	
+vyložíme	vyložit	k5eAaPmIp1nP	
+ho	on	k3xPp3gInSc4	
+pečícím	pečící	k2eAgInSc7d1	
+papírem	papír	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Připravíme	připravit	k5eAaPmIp1nP	
+do	do	k7c2	
+hrnečku	hrneček	k1gInSc2	
+trochu	trocha	k1gFnSc4	
+mléka	mléko	k1gNnSc2	
+a	a	k8xC	
+do	do	k7c2	
+sítka	sítko	k1gNnSc2	
+trochu	trocha	k1gFnSc4	
+hladké	hladký	k2eAgFnSc2d1	
+mouky	mouka	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Před	před	k7c7	
+tvarováním	tvarování	k1gNnSc7	
+zapneme	zapnout	k5eAaPmIp1nP	
+troubu	trouba	k1gFnSc4	
+na	na	k7c4	
+horkovzduch	horkovzduch	k1gInSc4	
+<g/>	
+,	,	kIx,	
+na	na	k7c4	
+teplotu	teplota	k1gFnSc4	
+180	#num#	k4	
+st	st	kA	
+<g/>	
+.	.	kIx.	
+Dospod	dospod	k6eAd1	
+trouby	trouba	k1gFnPc4	
+dáme	dát	k5eAaPmIp1nP	
+plecháček	plecháček	k1gInSc4	
+s	s	k7c7	
+vodou	voda	k1gFnSc7	
+na	na	k7c4	
+zapaření	zapaření	k1gNnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Těsto	těsto	k1gNnSc4	
+vyklopíme	vyklopit	k5eAaPmIp1nP	
+na	na	k7c4	
+pomoučněný	pomoučněný	k2eAgInSc4d1	
+vál	vál	k1gInSc4	
+<g/>	
+,	,	kIx,	
+rozdělíme	rozdělit	k5eAaPmIp1nP	
+ho	on	k3xPp3gInSc4	
+na	na	k7c4	
+osm	osm	k4xCc4	
+stejných	stejný	k2eAgInPc2d1	
+dílků	dílek	k1gInPc2	
+<g/>	
+,	,	kIx,	
+z	z	k7c2	
+každého	každý	k3xTgMnSc2	
+vypracujeme	vypracovat	k5eAaPmIp1nP	
+bochánek	bochánek	k1gInSc4	
+<g/>	
+,	,	kIx,	
+dáme	dát	k5eAaPmIp1nP	
+na	na	k7c4	
+plech	plech	k1gInSc4	
+<g/>	
+,	,	kIx,	
+přikryjeme	přikrýt	k5eAaPmIp1nP	
+utěrkou	utěrka	k1gFnSc7	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+10	#num#	k4	
+minut	minuta	k1gFnPc2	
+kynout	kynout	k5eAaImF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Poté	poté	k6eAd1	
+každou	každý	k3xTgFnSc4	
+housku	houska	k1gFnSc4	
+dlaní	dlaň	k1gFnPc2	
+kolmo	kolmo	k6eAd1	
+promáčkneme	promáčknout	k5eAaPmIp1nP	
+v	v	k7c6	
+půli	půle	k1gFnSc6	
+až	až	k8xS	
+dolů	dolů	k6eAd1	
+k	k	k7c3	
+plechu	plech	k1gInSc3	
+(	(	kIx(	
+<g/>	
+vypadá	vypadat	k5eAaImIp3nS,k5eAaPmIp3nS	
+to	ten	k3xDgNnSc1	
+jako	jako	k8xC,k8xS	
+dvě	dva	k4xCgFnPc1	
+půlky	půlka	k1gFnPc1	
+zadnice	zadnice	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+my	my	k3xPp1nPc1	
+jim	on	k3xPp3gMnPc3	
+říkali	říkat	k5eAaImAgMnP	
+prdelaté	prdelatý	k2eAgFnPc4d1	
+housky	houska	k1gFnPc4	
+<g/>	
+)	)	kIx)	
+Pokud	pokud	k8xS	
+chcete	chtít	k5eAaImIp2nP	
+mít	mít	k5eAaImF	
+půlky	půlka	k1gFnPc4	
+výraznější	výrazný	k2eAgFnPc4d2	
+<g/>	
+,	,	kIx,	
+můžete	moct	k5eAaImIp2nP	
+rýhu	rýha	k1gFnSc4	
+ještě	ještě	k9	
+před	před	k7c7	
+vložením	vložení	k1gNnSc7	
+do	do	k7c2	
+trouby	trouba	k1gFnSc2	
+zvětšit	zvětšit	k5eAaPmF	
+nožem	nůž	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Po	po	k7c6	
+vytvarování	vytvarování	k1gNnSc6	
+prdelek	prdelka	k1gFnPc2	
+necháme	nechat	k5eAaPmIp1nP	
+ještě	ještě	k9	
+5	#num#	k4	
+minut	minuta	k1gFnPc2	
+kynout	kynout	k5eAaImF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Potřeme	potřít	k5eAaPmRp1nP	
+mlékem	mléko	k1gNnSc7	
+<g/>	
+,	,	kIx,	
+lehce	lehko	k6eAd1	
+posypeme	posypat	k5eAaPmIp1nP	
+moukou	mouka	k1gFnSc7	
+a	a	k8xC	
+vložíme	vložit	k5eAaPmIp1nP	
+do	do	k7c2	
+trouby	trouba	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pečeme	péct	k5eAaImIp1nP	
+při	při	k7c6	
+teplotě	teplota	k1gFnSc6	
+180	#num#	k4	
+st	st	kA	
+<g/>	
+.	.	kIx.	
+<g/>	
+,	,	kIx,	
+cca	cca	kA	
+20	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Ale	ale	k8xC	
+čas	čas	k1gInSc1	
+je	být	k5eAaImIp3nS	
+pouze	pouze	k6eAd1	
+orientační	orientační	k2eAgFnSc1d1	
+<g/>	
+,	,	kIx,	
+záleží	záležet	k5eAaImIp3nS	
+jak	jak	k8xS,k8xC	
+komu	kdo	k3yQnSc3,k3yInSc3,k3yRnSc3	
+peče	péct	k5eAaImIp3nS	
+trouba	trouba	k1gFnSc1	
+<g/>	
+,	,	kIx,	
+housky	houska	k1gFnPc1	
+by	by	kYmCp3nP	
+měly	mít	k5eAaImAgFnP	
+mít	mít	k5eAaImF	
+krásně	krásně	k6eAd1	
+zlatavou	zlatavý	k2eAgFnSc4d1	
+barvu	barva	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Po	po	k7c6	
+upečení	upečení	k1gNnSc6	
+necháme	nechat	k5eAaPmIp1nP	
+vychladnout	vychladnout	k5eAaPmF	
+<g/>	
+....	....	k?	
+<g/>	
+pokud	pokud	k8xS	
+to	ten	k3xDgNnSc4	
+tedy	tedy	k8xC	
+vydržíte	vydržet	k5eAaPmIp2nP	
+<g/>	
+.	.	kIx.	
+</s>	

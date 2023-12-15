@@ -1,0 +1,214 @@
+<s>	
+Troubu	trouba	k1gFnSc4	
+předehřejeme	předehřát	k5eAaPmIp1nP	
+na	na	k7c4	
+190	#num#	k4	
+°	°	k?	
+<g/>	
+C	C	kA	
+a	a	k8xC	
+plechy	plech	k1gInPc4	
+vyložíme	vyložit	k5eAaPmIp1nP	
+pečicím	pečicí	k2eAgInSc7d1	
+papírem	papír	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+V	v	k7c6	
+kuchyňském	kuchyňský	k2eAgInSc6d1	
+robotu	robot	k1gInSc6	
+ušleháme	ušlehat	k5eAaPmIp1nP	
+máslo	máslo	k1gNnSc4	
+s	s	k7c7	
+oběma	dva	k4xCgInPc7	
+cukry	cukr	k1gInPc7	
+<g/>	
+,	,	kIx,	
+cca	cca	kA	
+5	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidáme	přidat	k5eAaPmIp1nP	
+vejce	vejce	k1gNnSc4	
+a	a	k8xC	
+šleháme	šlehat	k5eAaImIp1nP	
+dalších	další	k2eAgInPc2d1	
+2	#num#	k4	
+až	až	k9	
+3	#num#	k4	
+minut	minuta	k1gFnPc2	
+až	až	k8xS	
+směs	směs	k1gFnSc1	
+trochu	trochu	k6eAd1	
+zesvětlá	zesvětlat	k5eAaPmIp3nS	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vmícháme	vmíchat	k5eAaPmIp1nP	
+sůl	sůl	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+vanilku	vanilka	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+jedlou	jedlý	k2eAgFnSc4d1	
+sodu	soda	k1gFnSc4	
+a	a	k8xC	
+promícháme	promíchat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Nakonec	nakonec	k6eAd1	
+přidáme	přidat	k5eAaPmIp1nP	
+mouku	mouka	k1gFnSc4	
+s	s	k7c7	
+nakrájenou	nakrájený	k2eAgFnSc4d1	
+čokoládu	čokoláda	k1gFnSc4	
+a	a	k8xC	
+řádně	řádně	k6eAd1	
+promícháme	promíchat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Těsto	těsto	k1gNnSc1	
+bude	být	k5eAaImBp3nS	
+hutné	hutný	k2eAgNnSc1d1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Směs	směsa	k1gFnPc2	
+nabíráme	nabírat	k5eAaImIp1nP	
+a	a	k8xC	
+dávkujeme	dávkovat	k5eAaImIp1nP	
+polévkovou	polévkový	k2eAgFnSc7d1	
+lžící	lžíce	k1gFnSc7	
+(	(	kIx(	
+<g/>	
+nebo	nebo	k8xC	
+dávkovačem	dávkovač	k1gInSc7	
+na	na	k7c4	
+zmrzlinu	zmrzlina	k1gFnSc4	
+<g/>	
+)	)	kIx)	
+a	a	k8xC	
+lehce	lehko	k6eAd1	
+z	z	k7c2	
+ní	on	k3xPp3gFnSc2	
+vytvarujeme	vytvarovat	k5eAaPmIp1nP	
+kouli	koule	k1gFnSc4	
+velikosti	velikost	k1gFnSc2	
+cca	cca	kA	
+3	#num#	k4	
+<g/>	
+-	-	kIx~	
+<g/>	
+4	#num#	k4	
+cm	cm	kA	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Každá	každý	k3xTgFnSc1	
+koule	koule	k1gFnSc1	
+by	by	kYmCp3nS	
+měla	mít	k5eAaImAgFnS	
+být	být	k5eAaImF	
+stejně	stejně	k6eAd1	
+velká	velká	k1gFnSc1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Kouli	koule	k1gFnSc4	
+lehce	lehko	k6eAd1	
+stlačíme	stlačit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+aby	aby	kYmCp3nS	
+z	z	k7c2	
+ní	on	k3xPp3gFnSc2	
+byla	být	k5eAaImAgFnS	
+placka	placka	k1gFnSc1	
+cca	cca	kA	
+5	#num#	k4	
+cm	cm	kA	
+široká	široký	k2eAgFnSc1d1	
+a	a	k8xC	
+1	#num#	k4	
+cm	cm	kA	
+vysoká	vysoký	k2eAgFnSc1d1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pečeme	péct	k5eAaImIp1nP	
+10	#num#	k4	
+<g/>	
+-	-	kIx~	
+<g/>	
+12	#num#	k4	
+minut	minuta	k1gFnPc2	
+jenom	jenom	k9	
+na	na	k7c6	
+spodním	spodní	k2eAgInSc6d1	
+ohřevu	ohřev	k1gInSc6	
+<g/>	
+,	,	kIx,	
+nebo	nebo	k8xC	
+dokud	dokud	k8xS	
+okraje	okraj	k1gInPc1	
+nejsou	být	k5eNaImIp3nP	
+lehce	lehko	k6eAd1	
+nazlátlé	nazlátlý	k2eAgFnPc1d1	
+<g/>	
+,	,	kIx,	
+ale	ale	k8xC	
+střed	střed	k1gInSc1	
+je	být	k5eAaImIp3nS	
+stále	stále	k6eAd1	
+měkký	měkký	k2eAgInSc1d1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Cookies	Cookies	k1gInSc1	
+necháme	nechat	k5eAaPmIp1nP	
+vychladnout	vychladnout	k5eAaPmF	
+na	na	k7c6	
+plechu	plech	k1gInSc6	
+<g/>	
+,	,	kIx,	
+cca	cca	kA	
+5	#num#	k4	
+<g/>	
+-	-	kIx~	
+<g/>	
+10	#num#	k4	
+minut	minuta	k1gFnPc2	
+dokud	dokud	k8xS	
+neztuhnou	ztuhnout	k5eNaPmIp3nP	
+a	a	k8xC	
+bude	být	k5eAaImBp3nS	
+s	s	k7c7	
+nimi	on	k3xPp3gInPc7	
+možná	možný	k2eAgFnSc1d1	
+manipulace	manipulace	k1gFnSc1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Uchováváme	uchovávat	k5eAaImIp1nP	
+v	v	k7c6	
+uzavřené	uzavřený	k2eAgFnSc6d1	
+nádobě	nádoba	k1gFnSc6	
+<g/>	
+.	.	kIx.	
+</s>	

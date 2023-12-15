@@ -1,0 +1,185 @@
+<s>	
+Bebe	Bebe	k1gFnSc1	
+sušenky	sušenka	k1gFnSc2	
+jsem	být	k5eAaImIp1nS	
+rozdrtila	rozdrtit	k5eAaPmAgFnS	
+v	v	k7c6	
+mixéru	mixér	k1gInSc6	
+a	a	k8xC	
+promíchala	promíchat	k5eAaPmAgFnS	
+je	on	k3xPp3gMnPc4	
+s	s	k7c7	
+rozpuštěným	rozpuštěný	k2eAgNnSc7d1	
+máslem	máslo	k1gNnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Sušenkovou	sušenkový	k2eAgFnSc4d1	
+drť	drť	k1gFnSc4	
+jsem	být	k5eAaImIp1nS	
+natlačila	natlačit	k5eAaBmAgFnS	
+do	do	k7c2	
+připravené	připravený	k2eAgFnSc2d1	
+formy	forma	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Korpus	korpus	k1gInSc1	
+jsem	být	k5eAaImIp1nS	
+nechala	nechat	k5eAaPmAgFnS	
+hodinu	hodina	k1gFnSc4	
+tuhnout	tuhnout	k5eAaImF	
+v	v	k7c6	
+lednici	lednice	k1gFnSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+V	v	k7c6	
+misce	miska	k1gFnSc6	
+jsem	být	k5eAaImIp1nS	
+smíchala	smíchat	k5eAaPmAgFnS	
+tvaroh	tvaroh	k1gInSc4	
+<g/>	
+,	,	kIx,	
+zakysanou	zakysaný	k2eAgFnSc4d1	
+smetanu	smetana	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+arašídové	arašídový	k2eAgNnSc1d1	
+máslo	máslo	k1gNnSc4	
+a	a	k8xC	
+cukr	cukr	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Dobře	dobře	k6eAd1	
+vymíchaný	vymíchaný	k2eAgInSc4d1	
+krém	krém	k1gInSc4	
+jsem	být	k5eAaImIp1nS	
+natřela	natřít	k5eAaPmAgFnS	
+na	na	k7c4	
+připravený	připravený	k2eAgInSc4d1	
+ztuhlý	ztuhlý	k2eAgInSc4d1	
+korpus	korpus	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Cheesecake	Cheesecake	k1gFnSc1	
+jsem	být	k5eAaImIp1nS	
+nechala	nechat	k5eAaPmAgFnS	
+tuhnout	tuhnout	k5eAaImF	
+v	v	k7c6	
+lednici	lednice	k1gFnSc6	
+alespoň	alespoň	k9	
+6	#num#	k4	
+hodin	hodina	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pekanové	pekanový	k2eAgInPc4d1	
+ořechy	ořech	k1gInPc4	
+jsem	být	k5eAaImIp1nS	
+nalámala	nalámat	k5eAaPmAgFnS,k5eAaBmAgFnS	
+na	na	k7c4	
+menší	malý	k2eAgInPc4d2	
+kousky	kousek	k1gInPc4	
+a	a	k8xC	
+opražila	opražit	k5eAaPmAgFnS	
+na	na	k7c6	
+suché	suchý	k2eAgFnSc6d1	
+pánvi	pánev	k1gFnSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Třtinový	třtinový	k2eAgInSc4d1	
+cukr	cukr	k1gInSc4	
+jsem	být	k5eAaImIp1nS	
+smíchala	smíchat	k5eAaPmAgFnS	
+s	s	k7c7	
+vodou	voda	k1gFnSc7	
+v	v	k7c6	
+kastrůlku	kastrůlek	k1gInSc6	
+se	s	k7c7	
+silnějším	silný	k2eAgInSc7d2	
+dnem	den	k1gInSc7	
+a	a	k8xC	
+na	na	k7c6	
+mírném	mírný	k2eAgInSc6d1	
+plameni	plamen	k1gInSc6	
+nechala	nechat	k5eAaPmAgFnS	
+zkaramelizovat	zkaramelizovat	k5eAaPmF	
+–	–	k?	
+trvalo	trvat	k5eAaImAgNnS	
+to	ten	k3xDgNnSc1	
+cca	cca	kA	
+7	#num#	k4	
+<g/>	
+-	-	kIx~	
+<g/>	
+10	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Během	během	k7c2	
+vaření	vaření	k1gNnSc2	
+karamelu	karamel	k1gInSc2	
+nesmíte	smět	k5eNaImIp2nP	
+míchat	míchat	k5eAaImF	
+<g/>	
+!	!	kIx.	
+</s>	
+<s desamb="1">	
+Ořechy	ořech	k1gInPc4	
+jsem	být	k5eAaImIp1nS	
+přesunula	přesunout	k5eAaPmAgFnS	
+na	na	k7c4	
+plech	plech	k1gInSc4	
+s	s	k7c7	
+pečícím	pečící	k2eAgInSc7d1	
+papírem	papír	k1gInSc7	
+a	a	k8xC	
+zalila	zalít	k5eAaPmAgFnS	
+horkým	horký	k2eAgInSc7d1	
+karamelem	karamel	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Směs	směs	k1gFnSc1	
+jsem	být	k5eAaImIp1nS	
+nechala	nechat	k5eAaPmAgFnS	
+úplně	úplně	k6eAd1	
+vychladnout	vychladnout	k5eAaPmF	
+<g/>	
+,	,	kIx,	
+a	a	k8xC	
+až	až	k9	
+poté	poté	k6eAd1	
+jsem	být	k5eAaImIp1nS	
+je	on	k3xPp3gNnSc4	
+nalámala	nalámat	k5eAaPmAgFnS,k5eAaBmAgFnS	
+na	na	k7c4	
+malé	malý	k2eAgInPc4d1	
+kousky	kousek	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Nakonec	nakonec	k6eAd1	
+jsem	být	k5eAaImIp1nS	
+cheesecake	cheesecake	k1gFnSc1	
+ozdobila	ozdobit	k5eAaPmAgFnS	
+karamelovými	karamelový	k2eAgInPc7d1	
+pekany	pekan	k1gInPc7	
+<g/>	
+.	.	kIx.	
+</s>	

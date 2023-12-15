@@ -1,0 +1,170 @@
+<s>	
+Cibuli	cibule	k1gFnSc4	
+nakrájejte	nakrájet	k5eAaPmRp2nP	
+na	na	k7c4	
+drobno	drobna	k1gFnSc5	
+<g/>	
+,	,	kIx,	
+papriky	paprika	k1gFnPc4	
+na	na	k7c4	
+menší	malý	k2eAgInPc4d2	
+proužky	proužek	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Ve	v	k7c6	
+větším	velký	k2eAgInSc6d2	
+hrnci	hrnec	k1gInSc6	
+rozehřejte	rozehřát	k5eAaPmRp2nP	
+olej	olej	k1gInSc4	
+<g/>	
+,	,	kIx,	
+přidejte	přidat	k5eAaPmRp2nP	
+cibuli	cibule	k1gFnSc3	
+a	a	k8xC	
+papriky	paprika	k1gFnSc2	
+a	a	k8xC	
+na	na	k7c6	
+středním	střední	k2eAgInSc6d1	
+ohni	oheň	k1gInSc6	
+opékejte	opékat	k5eAaImRp2nP	
+asi	asi	k9	
+5	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidejte	přidat	k5eAaPmRp2nP	
+česnek	česnek	k1gInSc4	
+a	a	k8xC	
+smažte	smazat	k5eAaPmRp2nP,k5eAaImRp2nP	
+dalších	další	k2eAgInPc2d1	
+cca	cca	kA	
+8	#num#	k4	
+minut	minuta	k1gFnPc2	
+(	(	kIx(	
+<g/>	
+pozor	pozor	k1gInSc4	
+<g/>	
+,	,	kIx,	
+ať	ať	k8xC,k8xS	
+se	se	k3xPyFc4	
+nepřipálí	připálit	k5eNaPmIp3nS	
+<g/>	
+!	!	kIx.	
+</s>	
+<s desamb="1">	
+<g/>	
+)	)	kIx)	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vsypte	vsypat	k5eAaPmRp2nP	
+římský	římský	k2eAgInSc4d1	
+kmín	kmín	k1gInSc4	
+<g/>	
+,	,	kIx,	
+zamíchejte	zamíchat	k5eAaPmRp2nP	
+a	a	k8xC	
+přidejte	přidat	k5eAaPmRp2nP	
+opláchnuté	opláchnutý	k2eAgFnSc2d1	
+fazole	fazole	k1gFnPc4	
+(	(	kIx(	
+<g/>	
+bez	bez	k7c2	
+vody	voda	k1gFnSc2	
+<g/>	
+)	)	kIx)	
+a	a	k8xC	
+dýni	dýně	k1gFnSc3	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zalijte	zalít	k5eAaPmRp2nP	
+vývarem	vývar	k1gInSc7	
+či	či	k8xC	
+vodou	voda	k1gFnSc7	
+s	s	k7c7	
+odpovídajícím	odpovídající	k2eAgNnSc7d1	
+množstvím	množství	k1gNnSc7	
+bujónu	bujón	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přiveďte	přivést	k5eAaPmRp2nP	
+k	k	k7c3	
+varu	var	k1gInSc3	
+a	a	k8xC	
+vařte	vařit	k5eAaImRp2nP	
+asi	asi	k9	
+20	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Sejměte	sejmout	k5eAaPmRp2nP	
+z	z	k7c2	
+ohně	oheň	k1gInSc2	
+a	a	k8xC	
+rozmixujte	rozmixovat	k5eAaPmRp2nP	
+ponorným	ponorný	k2eAgInSc7d1	
+mixérem	mixér	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Ochutnejte	ochutnat	k5eAaPmRp2nP	
+a	a	k8xC	
+dle	dle	k7c2	
+chuti	chuť	k1gFnSc2	
+dosolte	dosolit	k5eAaPmRp2nP	
+(	(	kIx(	
+<g/>	
+poměrně	poměrně	k6eAd1	
+dost	dost	k6eAd1	
+<g/>	
+,	,	kIx,	
+doporučuji	doporučovat	k5eAaImIp1nS	
+hrubozrnou	hrubozrný	k2eAgFnSc4d1	
+sůl	sůl	k1gFnSc4	
+<g/>	
+)	)	kIx)	
+<g/>	
+,	,	kIx,	
+opepřete	opepřit	k5eAaPmRp2nP	
+a	a	k8xC	
+přidejte	přidat	k5eAaPmRp2nP	
+agáve	agáve	k1gNnSc4	
+sirup	sirup	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podávejte	podávat	k5eAaImRp2nP	
+s	s	k7c7	
+opraženými	opražený	k2eAgNnPc7d1	
+dýňovými	dýňový	k2eAgNnPc7d1	
+semínky	semínko	k1gNnPc7	
+<g/>	
+,	,	kIx,	
+čerstvým	čerstvý	k2eAgInSc7d1	
+oregánem	oregán	k1gInSc7	
+a	a	k8xC	
+opečenou	opečený	k2eAgFnSc7d1	
+pita	pít	k5eAaImNgFnS	
+plackou	placka	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+natrhanou	natrhaný	k2eAgFnSc4d1	
+na	na	k7c4	
+menší	malý	k2eAgInPc4d2	
+kousky	kousek	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	

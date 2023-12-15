@@ -1,0 +1,89 @@
+<s>	
+Studené	studený	k2eAgInPc4d1	
+a	a	k8xC	
+oloupané	oloupaný	k2eAgInPc4d1	
+brambory	brambor	k1gInPc4	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+plátky	plátek	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c6	
+pánvi	pánev	k1gFnSc6	
+opečeme	opéct	k5eAaPmIp1nP	
+špek	špek	k1gInSc4	
+nakrájený	nakrájený	k2eAgInSc4d1	
+na	na	k7c4	
+kostičky	kostička	k1gFnPc4	
+do	do	k7c2	
+zlatova	zlatovo	k1gNnSc2	
+a	a	k8xC	
+přidáme	přidat	k5eAaPmIp1nP	
+nakrájenou	nakrájený	k2eAgFnSc4d1	
+šalotku	šalotka	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c4	
+opečený	opečený	k2eAgInSc4d1	
+základ	základ	k1gInSc4	
+přidáme	přidat	k5eAaPmIp1nP	
+brambory	brambor	k1gInPc4	
+a	a	k8xC	
+na	na	k7c4	
+plátky	plátek	k1gInPc4	
+nakrájený	nakrájený	k2eAgInSc4d1	
+česnek	česnek	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Posypeme	posypat	k5eAaPmIp1nP	
+kořením	koření	k1gNnSc7	
+a	a	k8xC	
+pánev	pánev	k1gFnSc4	
+stále	stále	k6eAd1	
+prohazujeme	prohazovat	k5eAaImIp1nP	
+a	a	k8xC	
+brambory	brambora	k1gFnPc1	
+opékáme	opékat	k5eAaImIp1nP	
+do	do	k7c2	
+křupava	křupava	k1gFnSc1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Horké	Horké	k2eAgInPc1d1	
+a	a	k8xC	
+opečené	opečený	k2eAgInPc1d1	
+křupavé	křupavý	k2eAgInPc1d1	
+brambory	brambor	k1gInPc1	
+posypeme	posypat	k5eAaPmIp1nP	
+strouhanou	strouhaný	k2eAgFnSc7d1	
+nivou	niva	k1gFnSc7	
+a	a	k8xC	
+ihned	ihned	k6eAd1	
+podáváme	podávat	k5eAaImIp1nP	
+jako	jako	k9	
+samostatný	samostatný	k2eAgInSc4d1	
+pokrm	pokrm	k1gInSc4	
+se	s	k7c7	
+salátem	salát	k1gInSc7	
+nebo	nebo	k8xC	
+jako	jako	k9	
+přílohu	příloha	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podle	podle	k7c2	
+chuti	chuť	k1gFnSc2	
+dosolíme	dosolit	k5eAaPmIp1nP	
+a	a	k8xC	
+opepříme	opepřit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	

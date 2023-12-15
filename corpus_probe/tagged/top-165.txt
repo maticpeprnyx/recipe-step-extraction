@@ -1,0 +1,129 @@
+<s>	
+Bůček	bůček	k1gInSc4	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+porce	porce	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+kůžičku	kůžička	k1gFnSc4	
+nařežeme	nařezat	k5eAaPmIp1nP	
+do	do	k7c2	
+mřížky	mřížka	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+osolíme	osolit	k5eAaPmIp1nP	
+a	a	k8xC	
+opepříme	opepřit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Cibuli	cibule	k1gFnSc4	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+měsíčky	měsíčky	k1gInPc4	
+<g/>	
+,	,	kIx,	
+mrkev	mrkev	k1gFnSc4	
+oloupeme	oloupat	k5eAaPmIp1nP	
+a	a	k8xC	
+pokrájíme	pokrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+kolečka	kolečko	k1gNnPc4	
+<g/>	
+,	,	kIx,	
+česnek	česnek	k1gInSc4	
+na	na	k7c4	
+plátky	plátek	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vše	všechen	k3xTgNnSc1	
+dáme	dát	k5eAaPmIp1nP	
+do	do	k7c2	
+pekáčku	pekáček	k1gInSc2	
+a	a	k8xC	
+promícháme	promíchat	k5eAaPmIp1nP	
+se	se	k3xPyFc4	
+solí	sůl	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+mletým	mletý	k2eAgInSc7d1	
+pepřem	pepř	k1gInSc7	
+a	a	k8xC	
+nasekaným	nasekaný	k2eAgInSc7d1	
+rozmarýnem	rozmarýn	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+pekáčku	pekáček	k1gInSc2	
+přidáme	přidat	k5eAaPmIp1nP	
+porce	porce	k1gFnPc4	
+bůčku	bůček	k1gInSc2	
+kůží	kůže	k1gFnPc2	
+dolů	důl	k1gInPc2	
+a	a	k8xC	
+podlijeme	podlít	k5eAaPmIp1nP	
+skleničkou	sklenička	k1gFnSc7	
+vody	voda	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zakryjeme	zakrýt	k5eAaPmIp1nP	
+alobalem	alobal	k1gInSc7	
+a	a	k8xC	
+pečeme	péct	k5eAaImIp1nP	
+v	v	k7c6	
+troubě	trouba	k1gFnSc6	
+na	na	k7c4	
+cca	cca	kA	
+200	#num#	k4	
+<g/>	
+°	°	k?	
+<g/>	
+asi	asi	k9	
+1	#num#	k4	
+hodinu	hodina	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pak	pak	k6eAd1	
+sundáme	sundat	k5eAaPmIp1nP	
+alobal	alobal	k1gInSc4	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+maso	maso	k1gNnSc4	
+opéct	opéct	k5eAaPmF	
+do	do	k7c2	
+červena	červeno	k1gNnSc2	
+<g/>	
+,	,	kIx,	
+poté	poté	k6eAd1	
+obrátíme	obrátit	k5eAaPmIp1nP	
+kůží	kůže	k1gFnSc7	
+nahoru	nahoru	k6eAd1	
+a	a	k8xC	
+pečeme	péct	k5eAaImIp1nP	
+dál	daleko	k6eAd2	
+<g/>	
+,	,	kIx,	
+dokud	dokud	k8xS	
+kůžička	kůžička	k1gFnSc1	
+není	být	k5eNaImIp3nS	
+opečená	opečený	k2eAgFnSc1d1	
+(	(	kIx(	
+<g/>	
+celkem	celek	k1gInSc7	
+asi	asi	k9	
+30	#num#	k4	
+min	mina	k1gFnPc2	
+<g/>	
+)	)	kIx)	
+<g/>	
+.	.	kIx.	
+</s>	

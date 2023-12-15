@@ -1,0 +1,78 @@
+<s>	
+Na	na	k7c6	
+malé	malý	k2eAgFnSc6d1	
+pánvičce	pánvička	k1gFnSc6	
+rozehřejeme	rozehřát	k5eAaPmIp1nP	
+máslo	máslo	k1gNnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidáme	přidat	k5eAaPmIp1nP	
+mírně	mírně	k6eAd1	
+podrcený	podrcený	k2eAgInSc4d1	
+zelený	zelený	k2eAgInSc4d1	
+pepř	pepř	k1gInSc4	
+a	a	k8xC	
+chvilku	chvilka	k1gFnSc4	
+mícháme	míchat	k5eAaImIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přilijeme	přilít	k5eAaPmIp1nP	
+smetanu	smetana	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+osolíme	osolit	k5eAaPmIp1nP	
+a	a	k8xC	
+vaříme	vařit	k5eAaImIp1nP	
+asi	asi	k9	
+2	#num#	k4	
+minuty	minuta	k1gFnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Chceme-li	Chceme-le	k1gFnSc4	
+omáčku	omáčka	k1gFnSc4	
+hustší	hustý	k2eAgFnSc2d2	
+<g/>	
+,	,	kIx,	
+rozmícháme	rozmíchat	k5eAaPmIp1nP	
+škrob	škrob	k1gInSc4	
+ve	v	k7c6	
+vodě	voda	k1gFnSc6	
+<g/>	
+,	,	kIx,	
+omáčku	omáčka	k1gFnSc4	
+jím	on	k3xPp3gInSc7	
+zahustíme	zahustit	k5eAaPmIp1nP	
+a	a	k8xC	
+už	už	k6eAd1	
+jen	jen	k8xS	
+krátce	krátce	k6eAd1	
+provaříme	provařit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Omáčku	omáčka	k1gFnSc4	
+podáváme	podávat	k5eAaImIp1nP	
+na	na	k7c6	
+těstovinách	těstovina	k1gFnPc6	
+<g/>	
+,	,	kIx,	
+ke	k	k7c3	
+steakům	steak	k1gInPc3	
+<g/>	
+,	,	kIx,	
+nebo	nebo	k8xC	
+je	být	k5eAaImIp3nS	
+dobrá	dobrá	k1gFnSc1	
+i	i	k9	
+s	s	k7c7	
+bramborem	brambor	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	

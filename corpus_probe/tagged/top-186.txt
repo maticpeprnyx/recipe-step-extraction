@@ -1,0 +1,301 @@
+<s>	
+Kotlety	kotleta	k1gFnPc1	
+omyjeme	omýt	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+osušíme	osušit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+naklepeme	naklepat	k5eAaPmIp1nP,k5eAaBmIp1nP	
+a	a	k8xC	
+na	na	k7c6	
+krajích	kraj	k1gInPc6	
+nařízneme	naříznout	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+aby	aby	kYmCp3nP	
+se	se	k3xPyFc4	
+nekroutily	kroutit	k5eNaImAgFnP	
+při	při	k7c6	
+smažení	smažení	k1gNnSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Opepříme	opepřit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+zakápneme	zakápnout	k5eAaPmIp1nP	
+olivovým	olivový	k2eAgInSc7d1	
+olejem	olej	k1gInSc7	
+a	a	k8xC	
+odložíme	odložit	k5eAaPmIp1nP	
+na	na	k7c4	
+24	#num#	k4	
+hodin	hodiny	k1gFnPc2	
+do	do	k7c2	
+ledničky	lednička	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+V	v	k7c4	
+den	den	k1gInSc4	
+D	D	kA	
+na	na	k7c6	
+pánvi	pánev	k1gFnSc6	
+rozpálíme	rozpálit	k5eAaImIp1nP,k5eAaPmIp1nP	
+2	#num#	k4	
+lžíce	lžíce	k1gFnPc4	
+sádla	sádlo	k1gNnSc2	
+<g/>	
+,	,	kIx,	
+kotlety	kotleta	k1gFnPc1	
+zprudka	zprudka	k6eAd1	
+opečeme	opéct	k5eAaPmIp1nP	
+z	z	k7c2	
+každé	každý	k3xTgFnSc2	
+strany	strana	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+poté	poté	k6eAd1	
+osolíme	osolit	k5eAaPmIp1nP	
+a	a	k8xC	
+odložíme	odložit	k5eAaPmIp1nP	
+do	do	k7c2	
+nádoby	nádoba	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+ve	v	k7c4	
+které	který	k3yQgFnPc4,k3yIgFnPc4,k3yRgFnPc4	
+je	být	k5eAaImIp3nS	
+budeme	být	k5eAaImBp1nP	
+péct	péct	k5eAaImF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+výpečku	výpeček	k1gInSc2	
+dáme	dát	k5eAaPmIp1nP	
+víno	víno	k1gNnSc4	
+nebo	nebo	k8xC	
+vývar	vývar	k1gInSc4	
+(	(	kIx(	
+<g/>	
+cca	cca	kA	
+200	#num#	k4	
+ml	ml	kA	
+<g/>	
+)	)	kIx)	
+<g/>	
+,	,	kIx,	
+přihodíme	přihodit	k5eAaPmIp1nP	
+šalvěj	šalvěj	k1gInSc4	
+<g/>	
+,	,	kIx,	
+krátce	krátce	k6eAd1	
+provaříme	provařit	k5eAaPmIp1nP	
+a	a	k8xC	
+přelijeme	přelít	k5eAaPmIp1nP	
+k	k	k7c3	
+masu	maso	k1gNnSc3	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Dáme	dát	k5eAaPmIp1nP	
+s	s	k7c7	
+poklicí	poklice	k1gFnSc7	
+do	do	k7c2	
+trouby	trouba	k1gFnSc2	
+a	a	k8xC	
+při	při	k7c6	
+teplotě	teplota	k1gFnSc6	
+180	#num#	k4	
+<g/>	
+°	°	k?	
+<g/>	
+C	C	kA	
+necháme	nechat	k5eAaPmIp1nP	
+ještě	ještě	k9	
+cca	cca	kA	
+30	#num#	k4	
+minut	minuta	k1gFnPc2	
+péci	péct	k5eAaImF	
+doměkka	doměkko	k1gNnPc1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pak	pak	k6eAd1	
+vyjmeme	vynít	k5eAaPmIp1nP	
+šalvěj	šalvěj	k1gFnSc4	
+a	a	k8xC	
+bude-li	bude-nout	k5eAaImAgMnP,k5eAaPmAgMnP	
+třeba	třeba	k6eAd1	
+<g/>	
+,	,	kIx,	
+necháme	nechat	k5eAaPmIp1nP	
+zredukovat	zredukovat	k5eAaPmF	
+sosík	sosík	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Cibuli	cibule	k1gFnSc4	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+širší	široký	k2eAgInPc4d2	
+proužky	proužek	k1gInPc4	
+<g/>	
+,	,	kIx,	
+a	a	k8xC	
+na	na	k7c6	
+pánvi	pánev	k1gFnSc6	
+<g/>	
+,	,	kIx,	
+ve	v	k7c6	
+které	který	k3yQgFnSc6,k3yRgFnSc6,k3yIgFnSc6	
+jsme	být	k5eAaImIp1nP	
+si	se	k3xPyFc3	
+rozehřáli	rozehřát	k5eAaPmAgMnP	
+2	#num#	k4	
+lžíce	lžíce	k1gFnPc4	
+másla	máslo	k1gNnSc2	
+a	a	k8xC	
+stejné	stejný	k2eAgNnSc4d1	
+množství	množství	k1gNnSc4	
+olivového	olivový	k2eAgInSc2d1	
+oleje	olej	k1gInSc2	
+<g/>	
+,	,	kIx,	
+smažíme	smažit	k5eAaImIp1nP	
+do	do	k7c2	
+světle	světle	k6eAd1	
+hněda	hnědo	k1gNnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vyjmeme	vynít	k5eAaPmIp1nP	
+z	z	k7c2	
+pánve	pánev	k1gFnSc2	
+a	a	k8xC	
+tímto	tento	k3xDgInSc7	
+krokem	krok	k1gInSc7	
+uvolníme	uvolnit	k5eAaPmIp1nP	
+místo	místo	k1gNnSc4	
+pro	pro	k7c4	
+jablka	jablko	k1gNnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Ta	ten	k3xDgNnPc4	
+zbavíme	zbavit	k5eAaPmIp1nP	
+jadřinců	jadřinec	k1gMnPc2	
+<g/>	
+,	,	kIx,	
+nikoliv	nikoliv	k9	
+však	však	k9	
+slupek	slupka	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pokrájíme	pokrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+kolečka	kolečko	k1gNnPc4	
+či	či	k8xC	
+čtvrtiny	čtvrtina	k1gFnPc4	
+a	a	k8xC	
+obalíme	obalit	k5eAaPmIp1nP	
+v	v	k7c6	
+krystalovém	krystalový	k2eAgInSc6d1	
+cukru	cukr	k1gInSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Opět	opět	k5eAaPmF	
+dáme	dát	k5eAaPmIp1nP	
+do	do	k7c2	
+pánve	pánev	k1gFnSc2	
+máslo	máslo	k1gNnSc4	
+olivový	olivový	k2eAgInSc1d1	
+olej	olej	k1gInSc1	
+(	(	kIx(	
+<g/>	
+2	#num#	k4	
+a	a	k8xC	
+2	#num#	k4	
+lžíce	lžíce	k1gFnPc1	
+<g/>	
+)	)	kIx)	
+a	a	k8xC	
+jablka	jablko	k1gNnPc1	
+necháme	nechat	k5eAaPmIp1nP	
+zkaramelizovat	zkaramelizovat	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Jen	jen	k6eAd1	
+lehce	lehko	k6eAd1	
+<g/>	
+,	,	kIx,	
+nepřepálit	přepálit	k5eNaPmF	
+<g/>	
+!	!	kIx.	
+</s>	
+<s desamb="1">	
+Osolíme	osolit	k5eAaPmIp1nP	
+a	a	k8xC	
+zakápneme	zakápnout	k5eAaPmIp1nP	
+rýžovým	rýžový	k2eAgInSc7d1	
+octem	ocet	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+No	no	k9	
+<g/>	
+,	,	kIx,	
+a	a	k8xC	
+máme	mít	k5eAaImIp1nP	
+téměř	téměř	k6eAd1	
+hotovo	hotov	k2eAgNnSc4d1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Kotlety	kotlet	k1gInPc4	
+na	na	k7c6	
+talíři	talíř	k1gInSc6	
+poklademe	poklást	k5eAaPmIp1nP	
+jablky	jablko	k1gNnPc7	
+a	a	k8xC	
+zlatou	zlatý	k2eAgFnSc7d1	
+cibulkou	cibulka	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+přelijeme	přelít	k5eAaPmIp1nP	
+šťávou	šťáva	k1gFnSc7	
+z	z	k7c2	
+jablek	jablko	k1gNnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Jako	jako	k8xC,k8xS	
+příloha	příloha	k1gFnSc1	
+se	se	k3xPyFc4	
+hodí	hodit	k5eAaPmIp3nP,k5eAaImIp3nP	
+brambory	brambor	k1gInPc1	
+v	v	k7c6	
+jakékoliv	jakýkoliv	k3yIgFnSc6	
+úpravě	úprava	k1gFnSc6	
+<g/>	
+.	.	kIx.	
+</s>	
