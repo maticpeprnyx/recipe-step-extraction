@@ -50,6 +50,14 @@ def same_person(tag_1: str, tag_2: str) -> bool:
     person_2 = get_attribute_value(tag_2, "p")
     return person_1 == person_2
 
+def same_number(tag_1: str, tag_2: str) -> bool:
+    """
+    Returns true if both tags have the same number.
+    """
+    number_1 = get_attribute_value(tag_1, "n")
+    number_2 = get_attribute_value(tag_2, "n")
+    return number_1 == number_2
+
 # def len(tag) -> bool:
 #     """
 #     Returns True when there are more tags than one.

@@ -1,5 +1,5 @@
 from APIs import inflected_verb
-from tag import is_infinitive, is_structural, is_verb, same_mood, same_person
+from tag import is_infinitive, is_structural, is_verb, same_mood, same_number, same_person
 from time import sleep
 
 def get_verb_tag_frequency(vertical: list[list[str]]) -> dict[str, int]:
@@ -34,17 +34,17 @@ def get_action_verb_tags(vertical: list[list[str]]) -> list[str]:
     These tags should match in mood and person.
     """
     action_verb_tags: list = list()
-    cannonical_action_verb_tag = get_most_frequent_verb_tag(vertical)
+    cannonical_action_verb_tag: str = get_most_frequent_verb_tag(vertical)
 
     # All infinitives have the same tag (?), so we return just an infinitive tag.
     if is_infinitive(cannonical_action_verb_tag):
         action_verb_tags.append(cannonical_action_verb_tag)
         return action_verb_tags
-    # If the verb is finite, we check if there are other tags with the same mood and person.
+    # If the verb is finite, we check if there are other tags with the same mood, person, and number.
     else:
         verb_tag_frequency = get_verb_tag_frequency(vertical)
         for verb_tag in verb_tag_frequency.keys():
-            if same_mood(verb_tag, cannonical_action_verb_tag) and same_person(verb_tag, cannonical_action_verb_tag):
+            if (same_mood(verb_tag, cannonical_action_verb_tag) and same_person(verb_tag, cannonical_action_verb_tag) and same_number(verb_tag, cannonical_action_verb_tag)):
                 action_verb_tags.append(verb_tag)
 
         return action_verb_tags

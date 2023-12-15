@@ -33,7 +33,7 @@ def main():
         return 1
     else:
         filepath: str = sys.argv[1]
-        desired_verb_tag = sys.argv[2] # e.g. "nP,mR,p2,eA"
+        desired_verb_tag: str = sys.argv[2] # e.g. "nP,mR,p2,eA"
 
         # Open specified recipe and add morfological tags.
         text: str = open_bare(filepath)
