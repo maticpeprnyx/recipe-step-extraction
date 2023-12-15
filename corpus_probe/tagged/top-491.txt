@@ -1,0 +1,225 @@
+<s>	
+Těsto	těsto	k1gNnSc4	
+je	on	k3xPp3gNnSc4	
+velice	velice	k6eAd1	
+snadné	snadný	k2eAgNnSc1d1	
+–	–	k?	
+v	v	k7c6	
+kefíru	kefír	k1gInSc6	
+s	s	k7c7	
+cukrem	cukr	k1gInSc7	
+rozmíchat	rozmíchat	k5eAaPmF	
+droždí	droždí	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+přidat	přidat	k5eAaPmF	
+zbytek	zbytek	k1gInSc4	
+surovin	surovina	k1gFnPc2	
+<g/>	
+,	,	kIx,	
+uhníst	uhníst	k5eAaPmF	
+těsto	těsto	k1gNnSc4	
+a	a	k8xC	
+zavřené	zavřený	k2eAgInPc4d1	
+v	v	k7c6	
+plastovém	plastový	k2eAgInSc6d1	
+boxu	box	k1gInSc6	
+nebo	nebo	k8xC	
+v	v	k7c6	
+míse	mísa	k1gFnSc6	
+s	s	k7c7	
+víkem	víko	k1gNnSc7	
+ho	on	k3xPp3gMnSc4	
+uložit	uložit	k5eAaPmF	
+kynout	kynout	k5eAaImF	
+na	na	k7c4	
+12	#num#	k4	
+<g/>	
+-	-	kIx~	
+<g/>	
+18	#num#	k4	
+hodin	hodina	k1gFnPc2	
+do	do	k7c2	
+lednice	lednice	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Ráno	ráno	k1gNnSc4	
+těsto	těsto	k1gNnSc4	
+vyndáme	vyndat	k5eAaPmIp1nP	
+z	z	k7c2	
+lednice	lednice	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+rozválíme	rozválet	k5eAaPmIp1nP	
+na	na	k7c4	
+plech	plech	k1gInSc4	
+s	s	k7c7	
+pečícím	pečící	k2eAgInSc7d1	
+papírem	papír	k1gInSc7	
+a	a	k8xC	
+než	než	k8xS	
+vykyne	vykynout	k5eAaPmIp3nS	
+<g/>	
+,	,	kIx,	
+přichystáme	přichystat	k5eAaPmIp1nP	
+náplň	náplň	k1gFnSc4	
+<g/>	
+:	:	kIx,	
+Za	za	k7c2	
+stálého	stálý	k2eAgNnSc2d1	
+míchání	míchání	k1gNnSc2	
+uvaříme	uvařit	k5eAaPmIp1nP	
+v	v	k7c6	
+mléce	mléko	k1gNnSc6	
+krupici	krupice	k1gFnSc4	
+a	a	k8xC	
+hotovou	hotový	k2eAgFnSc4d1	
+kaši	kaše	k1gFnSc4	
+vyškrábneme	vyškrábnout	k5eAaPmIp1nP	
+do	do	k7c2	
+mísy	mísa	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+kde	kde	k6eAd1	
+ji	on	k3xPp3gFnSc4	
+necháme	nechat	k5eAaPmIp1nP	
+dobře	dobře	k6eAd1	
+vychladnout	vychladnout	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zatím	zatím	k6eAd1	
+oloupeme	oloupat	k5eAaPmIp1nP	
+řapíky	řapík	k1gInPc1	
+rebarbory	rebarbora	k1gFnSc2	
+(	(	kIx(	
+<g/>	
+zbavíme	zbavit	k5eAaPmIp1nP	
+je	on	k3xPp3gNnPc4	
+nití	niť	k1gFnSc7	
+<g/>	
+“	“	k?	
+<g/>	
+)	)	kIx)	
+a	a	k8xC	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+je	on	k3xPp3gFnPc4	
+na	na	k7c4	
+malé	malý	k2eAgInPc4d1	
+kousky	kousek	k1gInPc4	
+<g/>	
+,	,	kIx,	
+na	na	k7c6	
+sítu	síto	k1gNnSc6	
+je	on	k3xPp3gInPc4	
+spaříme	spařit	k5eAaPmIp1nP	
+horkou	horký	k2eAgFnSc7d1	
+vodou	voda	k1gFnSc7	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+okapat	okapat	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+kaše	kaše	k1gFnSc2	
+přidáme	přidat	k5eAaPmIp1nP	
+oba	dva	k4xCgInPc4	
+cukry	cukr	k1gInPc4	
+<g/>	
+,	,	kIx,	
+žloutky	žloutek	k1gInPc4	
+<g/>	
+,	,	kIx,	
+citronovou	citronový	k2eAgFnSc4d1	
+kůru	kůra	k1gFnSc4	
+a	a	k8xC	
+skořici	skořice	k1gFnSc4	
+podle	podle	k7c2	
+chuti	chuť	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+pak	pak	k8xC	
+i	i	k9	
+tvaroh	tvaroh	k1gInSc4	
+a	a	k8xC	
+dobře	dobře	k6eAd1	
+promícháme	promíchat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Nakonec	nakonec	k6eAd1	
+zlehka	zlehka	k6eAd1	
+vmísíme	vmísit	k5eAaPmIp1nP	
+sníh	sníh	k1gInSc4	
+z	z	k7c2	
+bílků	bílek	k1gInPc2	
+a	a	k8xC	
+okapanou	okapaný	k2eAgFnSc4d1	
+rebarboru	rebarbora	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Náplň	náplň	k1gFnSc4	
+rozetřeme	rozetřít	k5eAaPmIp1nP	
+na	na	k7c4	
+rozválené	rozválený	k2eAgNnSc4d1	
+těsto	těsto	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+posypeme	posypat	k5eAaPmIp1nP	
+mandlovými	mandlový	k2eAgInPc7d1	
+lupínky	lupínek	k1gInPc7	
+<g/>	
+,	,	kIx,	
+necháme	nechat	k5eAaPmIp1nP	
+už	už	k6eAd1	
+jen	jen	k9	
+dokynout	dokynout	k5eAaPmF	
+a	a	k8xC	
+vložíme	vložit	k5eAaPmIp1nP	
+upéct	upéct	k5eAaPmF	
+do	do	k7c2	
+dobře	dobře	k6eAd1	
+vyhřáté	vyhřátý	k2eAgFnSc2d1	
+trouby	trouba	k1gFnSc2	
+(	(	kIx(	
+<g/>	
+190	#num#	k4	
+<g/>	
+°	°	k?	
+<g/>	
+C	C	kA	
+<g/>	
+/	/	kIx~	
+<g/>	
+30	#num#	k4	
+<g/>	
+-	-	kIx~	
+<g/>	
+40	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+)	)	kIx)	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Hotový	hotový	k2eAgInSc4d1	
+a	a	k8xC	
+vychladlý	vychladlý	k2eAgInSc4d1	
+moučník	moučník	k1gInSc4	
+pocukrujeme	pocukrovat	k5eAaPmIp1nP	
+a	a	k8xC	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+řezy	řez	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	

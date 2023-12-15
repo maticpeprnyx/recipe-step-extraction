@@ -1,0 +1,106 @@
+<s>	
+Vejce	vejce	k1gNnPc1	
+s	s	k7c7	
+cukrem	cukr	k1gInSc7	
+vyšleháme	vyšlehat	k5eAaPmIp1nP,k5eAaImIp1nP	
+do	do	k7c2	
+pěny	pěna	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+postupně	postupně	k6eAd1	
+zašleháme	zašlehat	k5eAaPmIp1nP	
+olej	olej	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+vaječné	vaječný	k2eAgFnSc2d1	
+hmoty	hmota	k1gFnSc2	
+zlehka	zlehka	k6eAd1	
+vmícháme	vmíchat	k5eAaPmIp1nP	
+na	na	k7c4	
+střídačku	střídačka	k1gFnSc4	
+mouku	mouka	k1gFnSc4	
+smíchanou	smíchaný	k2eAgFnSc4d1	
+s	s	k7c7	
+práškem	prášek	k1gInSc7	
+<g/>	
+,	,	kIx,	
+zakysanou	zakysaný	k2eAgFnSc4d1	
+smetanu	smetana	k1gFnSc4	
+a	a	k8xC	
+mléko	mléko	k1gNnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Hladké	Hladké	k2eAgNnSc4d1	
+těsto	těsto	k1gNnSc4	
+rozdělíme	rozdělit	k5eAaPmIp1nP	
+na	na	k7c4	
+třetiny	třetina	k1gFnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+dvou	dva	k4xCgFnPc2	
+třetin	třetina	k1gFnPc2	
+vmícháme	vmíchat	k5eAaPmIp1nP	
+vanilkový	vanilkový	k2eAgInSc4d1	
+pudink	pudink	k1gInSc4	
+<g/>	
+,	,	kIx,	
+do	do	k7c2	
+jedné	jeden	k4xCgFnSc2	
+kakao	kakao	k1gNnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+vymazané	vymazaný	k2eAgFnSc2d1	
+a	a	k8xC	
+moukou	mouka	k1gFnSc7	
+vysypané	vysypaný	k2eAgFnSc2d1	
+bábovkové	bábovkový	k2eAgFnSc2d1	
+formy	forma	k1gFnSc2	
+střídavě	střídavě	k6eAd1	
+plníme	plnit	k5eAaImIp1nP	
+světlé	světlý	k2eAgNnSc4d1	
+a	a	k8xC	
+tmavé	tmavý	k2eAgNnSc4d1	
+těsto	těsto	k1gNnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pečeme	péct	k5eAaImIp1nP	
+na	na	k7c6	
+160	#num#	k4	
+stupních	stupeň	k1gInPc6	
+asi	asi	k9	
+45	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Po	po	k7c6	
+upečení	upečení	k1gNnSc6	
+necháme	nechat	k5eAaPmIp1nP	
+krátce	krátce	k6eAd1	
+bábovku	bábovka	k1gFnSc4	
+vychladnout	vychladnout	k5eAaPmF	
+ve	v	k7c6	
+formě	forma	k1gFnSc6	
+<g/>	
+,	,	kIx,	
+pak	pak	k8xC	
+vyklopíme	vyklopit	k5eAaPmIp1nP	
+a	a	k8xC	
+pocukrujeme	pocukrovat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	

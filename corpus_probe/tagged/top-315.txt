@@ -1,0 +1,133 @@
+<s>	
+Celer	celer	k1gInSc4	
+a	a	k8xC	
+mrkev	mrkev	k1gFnSc4	
+očistíme	očistit	k5eAaPmIp1nP	
+a	a	k8xC	
+nastrouháme	nastrouhat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Cibuli	cibule	k1gFnSc4	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+a	a	k8xC	
+zpěníme	zpěnit	k5eAaPmIp1nP	
+na	na	k7c6	
+oleji	olej	k1gInSc6	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+nastrouhanou	nastrouhaný	k2eAgFnSc4d1	
+zeleninu	zelenina	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+orestujeme	orestovat	k5eAaPmIp1nP	
+a	a	k8xC	
+zalijeme	zalít	k5eAaPmIp1nP	
+mlékem	mléko	k1gNnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Okořeníme	okořenit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+rozmačkaný	rozmačkaný	k2eAgInSc4d1	
+česnek	česnek	k1gInSc4	
+a	a	k8xC	
+vaříme	vařit	k5eAaImIp1nP	
+asi	asi	k9	
+20	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+,	,	kIx,	
+pak	pak	k8xC	
+rozmixujeme	rozmixovat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Mezitím	mezitím	k6eAd1	
+z	z	k7c2	
+másla	máslo	k1gNnSc2	
+a	a	k8xC	
+hladké	hladký	k2eAgFnSc2d1	
+mouky	mouka	k1gFnSc2	
+připravíme	připravit	k5eAaPmIp1nP	
+jíšku	jíška	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Rozmixovanou	rozmixovaný	k2eAgFnSc4d1	
+polévku	polévka	k1gFnSc4	
+zahustíme	zahustit	k5eAaPmIp1nP	
+jíškou	jíška	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+kterou	který	k3yRgFnSc4	
+rozšleháme	rozšlehat	k5eAaPmIp1nP	
+v	v	k7c6	
+trošce	troška	k1gFnSc6	
+vody	voda	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c4	
+studenou	studený	k2eAgFnSc4d1	
+jíšku	jíška	k1gFnSc4	
+použijeme	použít	k5eAaPmIp1nP	
+teplou	teplý	k2eAgFnSc4d1	
+vodu	voda	k1gFnSc4	
+a	a	k8xC	
+na	na	k7c4	
+horkou	horký	k2eAgFnSc4d1	
+jíšku	jíška	k1gFnSc4	
+vodu	voda	k1gFnSc4	
+studenou	studený	k2eAgFnSc7d1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Necháme	nechat	k5eAaPmIp1nP	
+pozvolna	pozvolna	k6eAd1	
+cca	cca	kA	
+15	#num#	k4	
+minut	minuta	k1gFnPc2	
+provařit	provařit	k5eAaPmF	
+a	a	k8xC	
+dochutíme	dochutit	k5eAaPmIp1nP	
+citronovou	citronový	k2eAgFnSc7d1	
+šťávou	šťáva	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Konzistenci	konzistence	k1gFnSc4	
+v	v	k7c6	
+průběhu	průběh	k1gInSc6	
+vaření	vaření	k1gNnSc2	
+případně	případně	k6eAd1	
+upravíme	upravit	k5eAaPmIp1nP	
+přidáním	přidání	k1gNnSc7	
+vody	voda	k1gFnSc2	
+nebo	nebo	k8xC	
+mléka	mléko	k1gNnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podáváme	podávat	k5eAaImIp1nP	
+s	s	k7c7	
+opečenou	opečený	k2eAgFnSc7d1	
+houskou	houska	k1gFnSc7	
+a	a	k8xC	
+ozdobíme	ozdobit	k5eAaPmIp1nP	
+zelenou	zelený	k2eAgFnSc7d1	
+petrželkou	petrželka	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	

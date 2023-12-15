@@ -1,0 +1,105 @@
+<s>	
+Zapékací	zapékací	k2eAgFnSc4d1	
+mísu	mísa	k1gFnSc4	
+vymažeme	vymazat	k5eAaPmIp1nP	
+máslem	máslo	k1gNnSc7	
+<g/>	
+,	,	kIx,	
+brambory	brambor	k1gInPc7	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+plátky	plátek	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vytvoříme	vytvořit	k5eAaPmIp1nP	
+první	první	k4xOgFnSc4	
+vrstvu	vrstva	k1gFnSc4	
+brambor	brambora	k1gFnPc2	
+<g/>	
+,	,	kIx,	
+osolíme	osolit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+opepříme	opepřit	k5eAaPmIp1nP	
+a	a	k8xC	
+na	na	k7c4	
+brambory	brambora	k1gFnPc4	
+dáme	dát	k5eAaPmIp1nP	
+pangase	pangase	k6eAd1	
+<g/>	
+,	,	kIx,	
+kterého	který	k3yIgMnSc4,k3yRgMnSc4,k3yQgMnSc4	
+opepříme	opepřit	k5eAaPmIp1nP	
+a	a	k8xC	
+po	po	k7c6	
+paprikujeme	paprikovat	k5eAaImIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c6	
+pangase	pangasa	k1gFnSc6	
+dáme	dát	k5eAaPmIp1nP	
+zbytek	zbytek	k1gInSc4	
+brambor	brambora	k1gFnPc2	
+(	(	kIx(	
+<g/>	
+vařených	vařený	k2eAgNnPc6d1	
+<g/>	
+)	)	kIx)	
+a	a	k8xC	
+dáme	dát	k5eAaPmIp1nP	
+do	do	k7c2	
+trouby	trouba	k1gFnSc2	
+na	na	k7c4	
+200	#num#	k4	
+<g/>	
+°	°	k?	
+<g/>	
+C	C	kA	
+na	na	k7c4	
+1	#num#	k4	
+hodinu	hodina	k1gFnSc4	
+péci	péct	k5eAaImF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vyklepneme	vyklepnout	k5eAaPmIp1nP	
+si	se	k3xPyFc3	
+vejce	vejce	k1gNnSc4	
+a	a	k8xC	
+polijeme	polít	k5eAaPmIp1nP	
+hotové	hotový	k2eAgNnSc4d1	
+jídlo	jídlo	k1gNnSc4	
+a	a	k8xC	
+před	před	k7c7	
+tím	ten	k3xDgNnSc7	
+politím	polití	k1gNnSc7	
+posypeme	posypat	k5eAaPmIp1nP	
+strouhaným	strouhaný	k2eAgInSc7d1	
+sýrem	sýr	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Dáme	dát	k5eAaPmIp1nP	
+na	na	k7c4	
+15	#num#	k4	
+minut	minuta	k1gFnPc2	
+zpátky	zpátky	k6eAd1	
+do	do	k7c2	
+trouby	trouba	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podáváme	podávat	k5eAaImIp1nP	
+horké	horký	k2eAgNnSc4d1	
+se	s	k7c7	
+zeleninou	zelenina	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	

@@ -1,0 +1,150 @@
+<s>	
+Nakrájíme	nakrájet	k5eAaPmIp1nP	
+zelí	zelí	k1gNnSc4	
+na	na	k7c4	
+jemno	jemno	k1gNnSc4	
+a	a	k8xC	
+vložíme	vložit	k5eAaPmIp1nP	
+je	on	k3xPp3gFnPc4	
+do	do	k7c2	
+mísy	mísa	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidáme	přidat	k5eAaPmIp1nP	
+na	na	k7c6	
+hrubo	hruba	k1gMnSc5	
+nastrouhanou	nastrouhaný	k2eAgFnSc4d1	
+mrkev	mrkev	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidáme	přidat	k5eAaPmIp1nP	
+sůl	sůl	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+kmín	kmín	k1gInSc4	
+a	a	k8xC	
+vše	všechen	k3xTgNnSc4	
+promícháme	promíchat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Při	při	k7c6	
+mícháni	míchán	k2eAgMnPc1d1	
+zeleninu	zelenina	k1gFnSc4	
+promačkáváme	promačkávat	k5eAaImIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Necháme	nechat	k5eAaPmIp1nP	
+odležet	odležet	k5eAaPmF	
+půl	půl	k6eAd1	
+hodinky	hodinka	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+kdy	kdy	k6eAd1	
+zelí	zelí	k1gNnSc1	
+s	s	k7c7	
+mrkví	mrkev	k1gFnSc7	
+pustí	pustit	k5eAaPmIp3nS	
+šťávu	šťáva	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Po	po	k7c4	
+půl	půl	k6eAd1	
+hodině	hodina	k1gFnSc3	
+směs	směsa	k1gFnPc2	
+vložíme	vložit	k5eAaPmIp1nP	
+do	do	k7c2	
+hrnce	hrnec	k1gInSc2	
+na	na	k7c4	
+pickles	pickles	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Celý	celý	k2eAgInSc4d1	
+obsah	obsah	k1gInSc4	
+pak	pak	k6eAd1	
+pořádně	pořádně	k6eAd1	
+zmáčkneme	zmáčknout	k5eAaPmIp1nP	
+a	a	k8xC	
+zatížíme	zatížit	k5eAaPmIp1nP	
+těžítkem	těžítko	k1gNnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vše	všechen	k3xTgNnSc4	
+zakryjeme	zakrýt	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+navléknutím	navléknutí	k1gNnSc7	
+gumičky	gumička	k1gFnSc2	
+na	na	k7c4	
+píst	píst	k1gInSc4	
+zajistíme	zajistit	k5eAaPmIp1nP	
+stálý	stálý	k2eAgInSc4d1	
+tlak	tlak	k1gInSc4	
+na	na	k7c4	
+zeleninu	zelenina	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Takto	takto	k6eAd1	
+připravený	připravený	k2eAgInSc4d1	
+pickles	pickles	k1gInSc4	
+umístíme	umístit	k5eAaPmIp1nP	
+na	na	k7c4	
+teplé	teplý	k2eAgNnSc4d1	
+místo	místo	k1gNnSc4	
+(	(	kIx(	
+<g/>	
+já	já	k3xPp1nSc1	
+ho	on	k3xPp3gMnSc4	
+položila	položit	k5eAaPmAgFnS	
+v	v	k7c6	
+kuchyni	kuchyně	k1gFnSc6	
+k	k	k7c3	
+topení	topení	k1gNnSc3	
+<g/>	
+)	)	kIx)	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+3	#num#	k4	
+až	až	k9	
+5	#num#	k4	
+dní	den	k1gInPc2	
+kvasit	kvasit	k5eAaImF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+V	v	k7c6	
+prvních	první	k4xOgInPc6	
+3	#num#	k4	
+dnech	den	k1gInPc6	
+se	se	k3xPyFc4	
+většinou	většinou	k6eAd1	
+nic	nic	k3yNnSc1	
+neděje	dít	k5eNaImIp3nS	
+<g/>	
+,	,	kIx,	
+až	až	k8xS	
+po	po	k7c6	
+třetím	třetí	k4xOgInSc6	
+dnu	den	k1gInSc6	
+nastává	nastávat	k5eAaImIp3nS	
+proces	proces	k1gInSc1	
+kvašení	kvašení	k1gNnSc2	
+<g/>	
+.	.	kIx.	
+</s>	

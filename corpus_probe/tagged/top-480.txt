@@ -1,0 +1,119 @@
+<s>	
+Mouku	mouka	k1gFnSc4	
+prosejeme	prosít	k5eAaPmIp1nP	
+do	do	k7c2	
+mísy	mísa	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+smícháme	smíchat	k5eAaPmIp1nP	
+s	s	k7c7	
+práškem	prášek	k1gInSc7	
+do	do	k7c2	
+pečiva	pečivo	k1gNnSc2	
+<g/>	
+,	,	kIx,	
+špetkou	špetka	k1gFnSc7	
+soli	sůl	k1gFnPc4	
+a	a	k8xC	
+skořicí	skořice	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vše	všechen	k3xTgNnSc4	
+zalijeme	zalít	k5eAaPmIp1nP	
+mlékem	mléko	k1gNnSc7	
+<g/>	
+,	,	kIx,	
+vmícháme	vmíchat	k5eAaPmIp1nP	
+mák	mák	k1gInSc4	
+<g/>	
+,	,	kIx,	
+oba	dva	k4xCgInPc4	
+druhy	druh	k1gInPc4	
+cukru	cukr	k1gInSc2	
+a	a	k8xC	
+olej	olej	k1gInSc4	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+žloutky	žloutek	k1gInPc4	
+a	a	k8xC	
+smícháme	smíchat	k5eAaPmIp1nP	
+na	na	k7c4	
+hladké	hladký	k2eAgNnSc4d1	
+těsto	těsto	k1gNnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Nakonec	nakonec	k6eAd1	
+zlehka	zlehka	k6eAd1	
+vmícháme	vmíchat	k5eAaPmIp1nP	
+sníh	sníh	k1gInSc4	
+z	z	k7c2	
+bílků	bílek	k1gInPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Těsto	těsto	k1gNnSc4	
+vlijeme	vlít	k5eAaPmIp1nP	
+do	do	k7c2	
+vymazané	vymazaný	k2eAgFnSc2d1	
+a	a	k8xC	
+vysypané	vysypaný	k2eAgFnSc2d1	
+formy	forma	k1gFnSc2	
+na	na	k7c4	
+bábovku	bábovka	k1gFnSc4	
+a	a	k8xC	
+pečeme	péct	k5eAaImIp1nP	
+v	v	k7c6	
+troubě	trouba	k1gFnSc6	
+předehřáté	předehřátý	k2eAgFnSc6d1	
+na	na	k7c4	
+180	#num#	k4	
+°	°	k?	
+<g/>	
+C	C	kA	
+asi	asi	k9	
+45	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Troubu	trouba	k1gFnSc4	
+při	při	k7c6	
+pečení	pečení	k1gNnSc6	
+neotvíráme	otvírat	k5eNaImIp1nP	
+<g/>	
+,	,	kIx,	
+aby	aby	kYmCp3nS	
+se	se	k3xPyFc4	
+těsto	těsto	k1gNnSc1	
+nesrazilo	srazit	k5eNaPmAgNnS	
+a	a	k8xC	
+nekleslo	klesnout	k5eNaPmAgNnS	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Po	po	k7c6	
+upečení	upečení	k1gNnSc6	
+necháme	nechat	k5eAaPmIp1nP	
+bábovku	bábovka	k1gFnSc4	
+chvíli	chvíle	k1gFnSc4	
+vychladnout	vychladnout	k5eAaPmF	
+<g/>	
+,	,	kIx,	
+poté	poté	k6eAd1	
+ji	on	k3xPp3gFnSc4	
+vyklopíme	vyklopit	k5eAaPmIp1nP	
+a	a	k8xC	
+pocukrujeme	pocukrovat	k5eAaPmIp1nP	
+moučkovým	moučkový	k2eAgInSc7d1	
+cukrem	cukr	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	

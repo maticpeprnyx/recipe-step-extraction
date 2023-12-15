@@ -1,0 +1,313 @@
+<s>	
+Do	do	k7c2	
+tlakového	tlakový	k2eAgInSc2d1	
+hrnce	hrnec	k1gInSc2	
+vložíme	vložit	k5eAaPmIp1nP	
+kolínko	kolínko	k1gNnSc4	
+(	(	kIx(	
+<g/>	
+trochu	trochu	k6eAd1	
+ho	on	k3xPp3gMnSc4	
+nařízneme	naříznout	k5eAaPmIp1nP	
+<g/>	
+)	)	kIx)	
+<g/>	
+,	,	kIx,	
+kosti	kost	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+pepř	pepřit	k5eAaImRp2nS	
+<g/>	
+,	,	kIx,	
+libeček	libeček	k1gInSc1	
+<g/>	
+,	,	kIx,	
+mírně	mírně	k6eAd1	
+osolíme	osolit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+přilijeme	přilít	k5eAaPmIp1nP	
+3	#num#	k4	
+l	l	kA	
+vody	voda	k1gFnPc1	
+<g/>	
+,	,	kIx,	
+hrnec	hrnec	k1gInSc4	
+uzavřeme	uzavřít	k5eAaPmIp1nP	
+a	a	k8xC	
+dáme	dát	k5eAaPmIp1nP	
+na	na	k7c4	
+45	#num#	k4	
+minut	minuta	k1gFnPc2	
+vařit	vařit	k5eAaImF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Kližku	kližka	k1gFnSc4	
+zbavíme	zbavit	k5eAaPmIp1nP	
+loje	loj	k1gInPc4	
+<g/>	
+,	,	kIx,	
+odblaníme	odblanit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+rozebereme	rozebrat	k5eAaPmIp1nP	
+na	na	k7c4	
+jednotlivé	jednotlivý	k2eAgInPc4d1	
+díly	díl	k1gInPc4	
+a	a	k8xC	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+kostky	kostka	k1gFnPc4	
+(	(	kIx(	
+<g/>	
+asi	asi	k9	
+3	#num#	k4	
+cm	cm	kA	
+<g/>	
+)	)	kIx)	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+kastrolu	kastrol	k1gInSc2	
+dáme	dát	k5eAaPmIp1nP	
+rozehřát	rozehřát	k5eAaPmF	
+sádlo	sádlo	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+na	na	k7c4	
+kostičky	kostička	k1gFnPc4	
+nakrájenou	nakrájený	k2eAgFnSc4d1	
+cibuli	cibule	k1gFnSc4	
+a	a	k8xC	
+restujeme	restovat	k5eAaImIp1nP	
+do	do	k7c2	
+růžovohněda	růžovohnědo	k1gNnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Tady	tady	k6eAd1	
+začíná	začínat	k5eAaImIp3nS	
+barva	barva	k1gFnSc1	
+guláše	guláš	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidáme	přidat	k5eAaPmIp1nP	
+nasekaný	nasekaný	k2eAgInSc4d1	
+česnek	česnek	k1gInSc4	
+<g/>	
+,	,	kIx,	
+necháme	nechat	k5eAaPmIp1nP	
+rozvonět	rozvonět	k5eAaPmF	
+<g/>	
+,	,	kIx,	
+vložíme	vložit	k5eAaPmIp1nP	
+maso	maso	k1gNnSc4	
+a	a	k8xC	
+prudce	prudko	k6eAd1	
+restujeme	restovat	k5eAaImIp1nP	
+<g/>	
+,	,	kIx,	
+aby	aby	kYmCp3nS	
+se	se	k3xPyFc4	
+maso	maso	k1gNnSc1	
+zatáhlo	zatáhnout	k5eAaPmAgNnS	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidáme	přidat	k5eAaPmIp1nP	
+na	na	k7c4	
+nudličky	nudlička	k1gFnPc4	
+nakrájený	nakrájený	k2eAgInSc1d1	
+celer	celer	k1gInSc1	
+<g/>	
+,	,	kIx,	
+papriku	paprika	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+pepř	pepřit	k5eAaImRp2nS	
+<g/>	
+,	,	kIx,	
+kmín	kmín	k1gMnSc1	
+<g/>	
+,	,	kIx,	
+majoránku	majoránka	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+rajský	rajský	k2eAgInSc4d1	
+protlak	protlak	k1gInSc4	
+<g/>	
+,	,	kIx,	
+plnotučnou	plnotučný	k2eAgFnSc4d1	
+hořčici	hořčice	k1gFnSc4	
+a	a	k8xC	
+dusíme	dusit	k5eAaImIp1nP	
+do	do	k7c2	
+vysmahnutí	vysmahnutí	k1gNnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podlijeme	podlít	k5eAaPmIp1nP	
+trochou	trocha	k1gFnSc7	
+horkého	horký	k2eAgInSc2d1	
+vývaru	vývar	k1gInSc2	
+a	a	k8xC	
+opět	opět	k6eAd1	
+dusíme	dusit	k5eAaImIp1nP	
+do	do	k7c2	
+vysmahnutí	vysmahnutí	k1gNnSc2	
+<g/>	
+,	,	kIx,	
+to	ten	k3xDgNnSc4	
+neustále	neustále	k6eAd1	
+opakujeme	opakovat	k5eAaImIp1nP	
+<g/>	
+,	,	kIx,	
+guláš	guláš	k1gInSc4	
+postupně	postupně	k6eAd1	
+začíná	začínat	k5eAaImIp3nS	
+získávat	získávat	k5eAaImF	
+krásnou	krásný	k2eAgFnSc4d1	
+barvu	barva	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+V	v	k7c6	
+pánvi	pánev	k1gFnSc6	
+nasucho	nasucho	k6eAd1	
+opražíme	opražit	k5eAaPmIp1nP	
+hladkou	hladký	k2eAgFnSc4d1	
+mouku	mouka	k1gFnSc4	
+do	do	k7c2	
+růžovohnědé	růžovohnědý	k2eAgFnSc2d1	
+barvy	barva	k1gFnSc2	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+vychladnout	vychladnout	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+hrníčku	hrníček	k1gInSc2	
+odebereme	odebrat	k5eAaPmIp1nP	
+1	#num#	k4	
+<g/>	
+/	/	kIx~	
+<g/>	
+4	#num#	k4	
+litru	litr	k1gInSc2	
+vývaru	vývar	k1gInSc2	
+a	a	k8xC	
+taky	taky	k6eAd1	
+necháme	nechat	k5eAaPmIp1nP	
+vychladnout	vychladnout	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pokud	pokud	k8xS	
+máme	mít	k5eAaImIp1nP	
+maso	maso	k1gNnSc4	
+poloměkké	poloměkký	k2eAgFnSc2d1	
+<g/>	
+,	,	kIx,	
+přilijeme	přilít	k5eAaPmIp1nP	
+asi	asi	k9	
+1,5	1,5	k?	
+litru	litr	k1gInSc6	
+horkého	horký	k2eAgInSc2d1	
+vývaru	vývar	k1gInSc2	
+<g/>	
+,	,	kIx,	
+promícháme	promíchat	k5eAaPmIp1nP	
+a	a	k8xC	
+začneme	začít	k5eAaPmIp1nP	
+s	s	k7c7	
+roztřepkou	roztřepka	k1gFnSc7	
+(	(	kIx(	
+<g/>	
+záklechtkou	záklechtka	k1gFnSc7	
+<g/>	
+)	)	kIx)	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+litrového	litrový	k2eAgInSc2d1	
+hrnku	hrnek	k1gInSc2	
+vlijeme	vlít	k5eAaPmIp1nP	
+vlažný	vlažný	k2eAgInSc4d1	
+vývar	vývar	k1gInSc4	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+2	#num#	k4	
+<g/>	
+-	-	kIx~	
+<g/>	
+3	#num#	k4	
+stroužky	stroužka	k1gFnPc4	
+česneku	česnek	k1gInSc2	
+a	a	k8xC	
+ponorným	ponorný	k2eAgNnSc7d1	
+mixerem	mixero	k1gNnSc7	
+rozmělníme	rozmělnit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Metličkou	metlička	k1gFnSc7	
+zašleháme	zašlehat	k5eAaPmIp1nP	
+opraženou	opražený	k2eAgFnSc4d1	
+hladkou	hladký	k2eAgFnSc4d1	
+mouku	mouka	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+kterou	který	k3yIgFnSc4,k3yQgFnSc4,k3yRgFnSc4	
+za	za	k7c2	
+stálého	stálý	k2eAgNnSc2d1	
+míchání	míchání	k1gNnSc2	
+přiléváme	přilévat	k5eAaImIp1nP	
+k	k	k7c3	
+masu	maso	k1gNnSc3	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Mezi	mezi	k7c7	
+dlaněmi	dlaň	k1gFnPc7	
+rozemneme	rozemnout	k5eAaPmIp1nP	
+ještě	ještě	k6eAd1	
+trošku	trošku	k6eAd1	
+majoránky	majoránka	k1gFnPc1	
+<g/>	
+,	,	kIx,	
+zastříkneme	zastříknout	k5eAaPmIp1nP	
+polévkovým	polévkový	k2eAgNnPc3d1	
+kořením	koření	k1gNnSc7	
+<g/>	
+,	,	kIx,	
+případně	případně	k6eAd1	
+dosolíme	dosolit	k5eAaPmIp1nP	
+a	a	k8xC	
+za	za	k7c2	
+občasného	občasný	k2eAgNnSc2d1	
+promíchávání	promíchávání	k1gNnSc2	
+necháme	nechat	k5eAaPmIp1nP	
+maso	maso	k1gNnSc4	
+dojít	dojít	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	

@@ -1,0 +1,172 @@
+<s>	
+Bazalku	bazalka	k1gFnSc4	
+zbavte	zbavit	k5eAaPmRp2nP	
+zasucha	zasuch	k1gMnSc4	
+všech	všechen	k3xTgFnPc2	
+případných	případný	k2eAgFnPc2d1	
+nečistot	nečistota	k1gFnPc2	
+<g/>	
+,	,	kIx,	
+starých	starý	k2eAgInPc2d1	
+kvítků	kvítek	k1gInPc2	
+<g/>	
+,	,	kIx,	
+lístků	lístek	k1gInPc2	
+<g/>	
+,	,	kIx,	
+breberek	breberka	k1gFnPc2	
+apod	apod	kA	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Předpokládám	předpokládat	k5eAaImIp1nS	
+<g/>	
+,	,	kIx,	
+že	že	k8xS	
+bazalku	bazalka	k1gFnSc4	
+nepěstujete	pěstovat	k5eNaImIp2nP	
+někde	někde	k6eAd1	
+<g/>	
+,	,	kIx,	
+kde	kde	k6eAd1	
+by	by	kYmCp3nS	
+se	se	k3xPyFc4	
+vám	vy	k3xPp2nPc3	
+mohla	moct	k5eAaImAgFnS	
+nějak	nějak	k6eAd1	
+příliš	příliš	k6eAd1	
+zaprášit	zaprášit	k5eAaPmF	
+nebo	nebo	k8xC	
+jinak	jinak	k6eAd1	
+znečistit	znečistit	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Lístky	lístek	k1gInPc4	
+pouze	pouze	k6eAd1	
+otrhejte	otrhat	k5eAaPmRp2nP	
+a	a	k8xC	
+dobře	dobře	k6eAd1	
+prohlédněte	prohlédnout	k5eAaPmRp2nP	
+<g/>	
+,	,	kIx,	
+aby	aby	kYmCp3nP	
+na	na	k7c6	
+nich	on	k3xPp3gFnPc6	
+nebyly	být	k5eNaImAgInP	
+žádné	žádný	k3yNgInPc1	
+hnědé	hnědý	k2eAgInPc1d1	
+flíčky	flíčky	k1gInPc1	
+<g/>	
+,	,	kIx,	
+díky	díky	k7c3	
+nimž	jenž	k3xRgFnPc3	
+by	by	kYmCp3nP	
+se	se	k3xPyFc4	
+listy	list	k1gInPc1	
+začaly	začít	k5eAaPmAgInP	
+v	v	k7c6	
+oleji	olej	k1gInSc6	
+kazit	kazit	k5eAaImF	
+a	a	k8xC	
+plesnivět	plesnivět	k5eAaImF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Listy	list	k1gInPc1	
+nekrájejte	krájet	k5eNaImRp2nP	
+<g/>	
+,	,	kIx,	
+pokud	pokud	k8xS	
+je	on	k3xPp3gNnPc4	
+chcete	chtít	k5eAaImIp2nP	
+na	na	k7c4	
+menší	malý	k2eAgInPc4d2	
+kousky	kousek	k1gInPc4	
+<g/>	
+,	,	kIx,	
+jen	jen	k8xS	
+je	on	k3xPp3gNnPc4	
+natrhejte	natrhat	k5eAaPmRp2nP,k5eAaBmRp2nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Nastrkejte	nastrkat	k5eAaPmRp2nP	
+je	on	k3xPp3gFnPc4	
+do	do	k7c2	
+uzavíratelné	uzavíratelný	k2eAgFnSc2d1	
+sklenice	sklenice	k1gFnSc2	
+a	a	k8xC	
+zalijte	zalít	k5eAaPmRp2nP	
+důkladně	důkladně	k6eAd1	
+rostlinným	rostlinný	k2eAgInSc7d1	
+olejem	olej	k1gInSc7	
+(	(	kIx(	
+<g/>	
+samozřejmě	samozřejmě	k6eAd1	
+můžete	moct	k5eAaImIp2nP	
+použít	použít	k5eAaPmF	
+i	i	k9	
+olivový	olivový	k2eAgInSc4d1	
+<g/>	
+)	)	kIx)	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pokud	pokud	k8xS	
+máte	mít	k5eAaImIp2nP	
+rádi	rád	k2eAgMnPc1d1	
+pikantní	pikantní	k2eAgMnPc1d1	
+<g/>	
+,	,	kIx,	
+vložte	vložit	k5eAaPmRp2nP	
+do	do	k7c2	
+sklenice	sklenice	k1gFnSc2	
+i	i	k9	
+malou	malá	k1gFnSc4	
+chilli	chilli	k1gNnSc4	
+papričku	paprička	k1gFnSc4	
+nebo	nebo	k8xC	
+celý	celý	k2eAgInSc4d1	
+stroužek	stroužek	k1gInSc4	
+česneku	česnek	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Sklenici	sklenice	k1gFnSc4	
+uzavřete	uzavřít	k5eAaPmIp2nP	
+a	a	k8xC	
+uskladněte	uskladnit	k5eAaPmRp2nP	
+v	v	k7c6	
+lednici	lednice	k1gFnSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pokud	pokud	k8xS	
+budete	být	k5eAaImBp2nP	
+odebírat	odebírat	k5eAaImF	
+listy	list	k1gInPc1	
+a	a	k8xC	
+olej	olej	k1gInSc1	
+<g/>	
+,	,	kIx,	
+vždy	vždy	k6eAd1	
+dbejte	dbát	k5eAaImRp2nP	
+na	na	k7c4	
+to	ten	k3xDgNnSc4	
+<g/>	
+,	,	kIx,	
+aby	aby	kYmCp3nS	
+bylo	být	k5eAaImAgNnS	
+náčiní	náčiní	k1gNnSc1	
+čisté	čistá	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	

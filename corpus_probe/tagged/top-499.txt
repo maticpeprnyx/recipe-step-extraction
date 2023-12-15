@@ -1,0 +1,53 @@
+<s>	
+Všechny	všechen	k3xTgFnPc4	
+suroviny	surovina	k1gFnPc4	
+zpracujeme	zpracovat	k5eAaPmIp1nP	
+v	v	k7c6	
+robotu	robot	k1gInSc6	
+do	do	k7c2	
+vláčného	vláčný	k2eAgNnSc2d1	
+těsta	těsto	k1gNnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vlijeme	vlít	k5eAaPmIp1nP	
+do	do	k7c2	
+pekáčku	pekáček	k1gInSc2	
+vystlaného	vystlaný	k2eAgInSc2d1	
+papírem	papír	k1gInSc7	
+na	na	k7c6	
+pečení	pečení	k1gNnSc6	
+a	a	k8xC	
+pečeme	péct	k5eAaImIp1nP	
+asi	asi	k9	
+40	#num#	k4	
+minut	minuta	k1gFnPc2	
+do	do	k7c2	
+zhnědnutí	zhnědnutí	k1gNnSc2	
+povrchu	povrch	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Necháme	nechat	k5eAaPmIp1nP	
+vychladit	vychladit	k5eAaPmF	
+do	do	k7c2	
+druhého	druhý	k4xOgInSc2	
+dne	den	k1gInSc2	
+<g/>	
+,	,	kIx,	
+pak	pak	k8xC	
+opatrně	opatrně	k6eAd1	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+a	a	k8xC	
+ozdobíme	ozdobit	k5eAaPmIp1nP	
+kokosem	kokos	k1gInSc7	
+a	a	k8xC	
+krémem	krém	k1gInSc7	
+z	z	k7c2	
+lískových	lískový	k2eAgInPc2d1	
+ořechů	ořech	k1gInPc2	
+<g/>	
+.	.	kIx.	
+</s>	

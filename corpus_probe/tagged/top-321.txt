@@ -1,0 +1,88 @@
+<s>	
+Maso	maso	k1gNnSc4	
+očistíme	očistit	k5eAaPmIp1nP	
+a	a	k8xC	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+nudličky	nudlička	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+cibuli	cibule	k1gFnSc4	
+na	na	k7c4	
+kolečka	kolečko	k1gNnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Smícháme	smíchat	k5eAaPmIp1nP	
+dohromady	dohromady	k6eAd1	
+maso	maso	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+Solamyl	solamyl	k1gInSc4	
+<g/>	
+,	,	kIx,	
+vejce	vejce	k1gNnPc4	
+<g/>	
+,	,	kIx,	
+sůl	sůl	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+papriky	paprika	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+sójovou	sójový	k2eAgFnSc4d1	
+omáčku	omáčka	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+cibuli	cibule	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+Vegetu	vegeta	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+pepř	pepřit	k5eAaImRp2nS	
+a	a	k8xC	
+olej	olej	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Necháme	nechat	k5eAaPmIp1nP	
+24	#num#	k4	
+hodin	hodiny	k1gFnPc2	
+odležet	odležet	k5eAaPmF	
+v	v	k7c6	
+lednici	lednice	k1gFnSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Směs	směsa	k1gFnPc2	
+nabíráme	nabírat	k5eAaImIp1nP	
+lžící	lžíce	k1gFnSc7	
+a	a	k8xC	
+vkládáme	vkládat	k5eAaImIp1nP	
+do	do	k7c2	
+horkého	horký	k2eAgInSc2d1	
+oleje	olej	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Smažíme	smažit	k5eAaImIp1nP	
+jako	jako	k9	
+placičky	placička	k1gFnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podáváme	podávat	k5eAaImIp1nP	
+s	s	k7c7	
+bramborem	brambor	k1gInSc7	
+a	a	k8xC	
+zeleninovým	zeleninový	k2eAgInSc7d1	
+salátem	salát	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	

@@ -1,0 +1,48 @@
+<s>	
+Všechny	všechen	k3xTgFnPc4	
+suroviny	surovina	k1gFnPc4	
+dáme	dát	k5eAaPmIp1nP	
+do	do	k7c2	
+úzké	úzký	k2eAgFnSc2d1	
+nádoby	nádoba	k1gFnSc2	
+a	a	k8xC	
+ponorným	ponorný	k2eAgInSc7d1	
+mixérem	mixér	k1gInSc7	
+vyšleháme	vyšlehat	k5eAaPmIp1nP,k5eAaImIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Dochucujeme	Dochucujeme	k1gFnPc2	
+postupně	postupně	k6eAd1	
+<g/>	
+,	,	kIx,	
+až	až	k8xS	
+dosáhneme	dosáhnout	k5eAaPmIp1nP	
+potřebné	potřebný	k2eAgFnPc4d1	
+chuti	chuť	k1gFnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Možná	možná	k6eAd1	
+se	se	k3xPyFc4	
+vám	vy	k3xPp2nPc3	
+bude	být	k5eAaImBp3nS	
+zdát	zdát	k5eAaImF	
+majonéza	majonéza	k1gFnSc1	
+zpočátku	zpočátku	k6eAd1	
+řídká	řídký	k2eAgFnSc1d1	
+<g/>	
+,	,	kIx,	
+ale	ale	k8xC	
+po	po	k7c4	
+vychlazení	vychlazení	k1gNnSc4	
+by	by	kYmCp3nS	
+měla	mít	k5eAaImAgFnS	
+mít	mít	k5eAaImF	
+tužší	tuhý	k2eAgFnSc4d2	
+konzistenci	konzistence	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	

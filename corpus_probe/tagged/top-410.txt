@@ -1,0 +1,114 @@
+<s>	
+Vykynuté	vykynutý	k2eAgNnSc4d1	
+těsto	těsto	k1gNnSc4	
+rozdělíme	rozdělit	k5eAaPmIp1nP	
+na	na	k7c4	
+2	#num#	k4	
+díly	díl	k1gInPc4	
+a	a	k8xC	
+každý	každý	k3xTgInSc4	
+roztlapkáme	roztlapkat	k5eAaPmIp1nP	
+na	na	k7c4	
+kruh	kruh	k1gInSc4	
+o	o	k7c6	
+průměru	průměr	k1gInSc6	
+30	#num#	k4	
+cm	cm	kA	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Kraje	kraj	k1gInPc1	
+lehce	lehko	k6eAd1	
+ohneme	ohnout	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+čímž	což	k3yRnSc7,k3yQnSc7	
+vznikne	vzniknout	k5eAaPmIp3nS	
+zábrana	zábrana	k1gFnSc1	
+proti	proti	k7c3	
+vytékání	vytékání	k1gNnSc3	
+náplně	náplň	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Potřeme	potřít	k5eAaPmIp1nP	
+rozšlehaným	rozšlehaný	k2eAgNnSc7d1	
+vejcem	vejce	k1gNnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+V	v	k7c6	
+míse	mísa	k1gFnSc6	
+smícháme	smíchat	k5eAaPmIp1nP	
+tvaroh	tvaroh	k1gInSc4	
+<g/>	
+,	,	kIx,	
+vejce	vejce	k1gNnPc4	
+<g/>	
+,	,	kIx,	
+pudink	pudink	k1gInSc4	
+<g/>	
+,	,	kIx,	
+cukr	cukr	k1gInSc4	
+a	a	k8xC	
+aroma	aroma	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+náplň	náplň	k1gFnSc4	
+poté	poté	k6eAd1	
+rozetřeme	rozetřít	k5eAaPmIp1nP	
+po	po	k7c6	
+celé	celý	k2eAgFnSc6d1	
+ploše	plocha	k1gFnSc6	
+koláče	koláč	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Povidla	povidlo	k1gNnPc1	
+můžeme	moct	k5eAaImIp1nP	
+na	na	k7c4	
+koláč	koláč	k1gInSc4	
+jen	jen	k9	
+tak	tak	k6eAd1	
+rozprostřít	rozprostřít	k5eAaPmF	
+lžící	lžíce	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+já	já	k3xPp1nSc1	
+udělala	udělat	k5eAaPmAgFnS	
+kruhy	kruh	k1gInPc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Posypeme	posypat	k5eAaPmIp1nP	
+drobenkou	drobenka	k1gFnSc7	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+ještě	ještě	k6eAd1	
+chvíli	chvíle	k1gFnSc3	
+kynout	kynout	k5eAaImF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vyhřejeme	vyhřát	k5eAaPmIp1nP	
+troubu	trouba	k1gFnSc4	
+na	na	k7c4	
+180	#num#	k4	
+<g/>	
+°	°	k?	
+<g/>	
+C	C	kA	
+a	a	k8xC	
+pečeme	péct	k5eAaImIp1nP	
+zhruba	zhruba	k6eAd1	
+25	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	

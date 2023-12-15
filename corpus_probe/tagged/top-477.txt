@@ -1,0 +1,136 @@
+<s>	
+Cibuli	cibule	k1gFnSc4	
+oloupeme	oloupat	k5eAaPmIp1nP	
+a	a	k8xC	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+kostičky	kostička	k1gFnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Brambory	brambora	k1gFnPc4	
+oloupeme	oloupat	k5eAaPmIp1nP	
+a	a	k8xC	
+společně	společně	k6eAd1	
+se	se	k3xPyFc4	
+zeleninou	zelenina	k1gFnSc7	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+kostičky	kostička	k1gFnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Stroužky	stroužka	k1gFnPc4	
+česneku	česnek	k1gInSc2	
+oloupeme	oloupat	k5eAaPmIp1nP	
+a	a	k8xC	
+utřeme	utřít	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+V	v	k7c6	
+hrnci	hrnec	k1gInSc6	
+rozehřejeme	rozehřát	k5eAaPmIp1nP	
+sádlo	sádlo	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+vložíme	vložit	k5eAaPmIp1nP	
+cibuli	cibule	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+kterou	který	k3yIgFnSc4,k3yRgFnSc4,k3yQgFnSc4	
+necháme	nechat	k5eAaPmIp1nP	
+zesklovatět	zesklovatět	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pak	pak	k6eAd1	
+vložíme	vložit	k5eAaPmIp1nP	
+veškerou	veškerý	k3xTgFnSc4	
+zeleninu	zelenina	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+vše	všechen	k3xTgNnSc4	
+osmahneme	osmahnout	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+vsypeme	vsypat	k5eAaPmIp1nP	
+mouku	mouka	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+promícháme	promíchat	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+zalijeme	zalít	k5eAaPmIp1nP	
+vodou	voda	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+houby	houba	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+brambory	brambor	k1gInPc4	
+<g/>	
+,	,	kIx,	
+kmín	kmín	k1gInSc4	
+a	a	k8xC	
+Masox	masox	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vaříme	vařit	k5eAaImIp1nP	
+asi	asi	k9	
+půl	půl	k6eAd1	
+hodiny	hodina	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+dokud	dokud	k8xS	
+zelenina	zelenina	k1gFnSc1	
+nebude	být	k5eNaImBp3nS	
+měkká	měkký	k2eAgFnSc1d1	
+<g/>	
+,	,	kIx,	
+pak	pak	k8xC	
+dochutíme	dochutit	k5eAaPmIp1nP	
+majoránkou	majoránka	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+utřeným	utřený	k2eAgInSc7d1	
+česnekem	česnek	k1gInSc7	
+<g/>	
+,	,	kIx,	
+solí	solit	k5eAaImIp3nS	
+<g/>	
+,	,	kIx,	
+pepřem	pepř	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+polévky	polévka	k1gFnSc2	
+můžeme	moct	k5eAaImIp1nP	
+dát	dát	k5eAaPmF	
+vařit	vařit	k5eAaImF	
+vepřové	vepřový	k2eAgNnSc4d1	
+uzené	uzený	k2eAgNnSc4d1	
+koleno	koleno	k1gNnSc4	
+nebo	nebo	k8xC	
+žebírka	žebírko	k1gNnPc4	
+nebo	nebo	k8xC	
+na	na	k7c4	
+kostičky	kostička	k1gFnPc4	
+nakrájený	nakrájený	k2eAgMnSc1d1	
+a	a	k8xC	
+na	na	k7c6	
+sádle	sádlo	k1gNnSc6	
+osmažený	osmažený	k2eAgInSc4d1	
+salám	salám	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	

@@ -1,0 +1,188 @@
+<s>	
+Brambory	brambora	k1gFnPc4	
+a	a	k8xC	
+česnek	česnek	k1gInSc4	
+nastrouháme	nastrouhat	k5eAaPmIp1nP	
+najemno	najemno	k6eAd1	
+<g/>	
+,	,	kIx,	
+šalotku	šalotka	k1gFnSc4	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+nadrobno	nadrobno	k6eAd1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Chleba	chléb	k1gInSc2	
+pokropíme	pokropit	k5eAaPmIp1nP	
+mlékem	mléko	k1gNnSc7	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+nasát	nasát	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Smícháme	smíchat	k5eAaPmIp1nP	
+s	s	k7c7	
+masem	maso	k1gNnSc7	
+a	a	k8xC	
+zbývajícími	zbývající	k2eAgFnPc7d1	
+surovinami	surovina	k1gFnPc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pokud	pokud	k8xS	
+bude	být	k5eAaImBp3nS	
+směs	směs	k1gFnSc1	
+moc	moc	k1gFnSc1	
+řídká	řídký	k2eAgFnSc1d1	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+trochu	trocha	k1gFnSc4	
+strouhanky	strouhanka	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Dáme	dát	k5eAaPmIp1nP	
+na	na	k7c4	
+hodinku	hodinka	k1gFnSc4	
+propojit	propojit	k5eAaPmF	
+chutě	chuť	k1gFnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Poté	poté	k6eAd1	
+mokrýma	mokrý	k2eAgFnPc7d1	
+utvoříme	utvořit	k5eAaPmIp1nP	
+koule	koule	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+které	který	k3yRgMnPc4,k3yIgMnPc4,k3yQgMnPc4	
+zprudka	zprudka	k6eAd1	
+opečeme	opéct	k5eAaPmIp1nP	
+na	na	k7c6	
+sádle	sádlo	k1gNnSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Stačí	stačit	k5eAaBmIp3nS	
+<g/>	
+,	,	kIx,	
+jen	jen	k8xS	
+aby	aby	kYmCp3nP	
+se	se	k3xPyFc4	
+zatáhly	zatáhnout	k5eAaPmAgInP	
+a	a	k8xC	
+zpevnily	zpevnit	k5eAaPmAgInP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Koule	koule	k1gFnPc1	
+vytáhneme	vytáhnout	k5eAaPmIp1nP	
+a	a	k8xC	
+do	do	k7c2	
+pánve	pánev	k1gFnSc2	
+dáme	dát	k5eAaPmIp1nP	
+vyškvařit	vyškvařit	k5eAaPmF	
+nakrájený	nakrájený	k2eAgInSc4d1	
+špek	špek	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přisypeme	přisypat	k5eAaPmIp1nP	
+drobně	drobně	k6eAd1	
+nakrájenou	nakrájený	k2eAgFnSc4d1	
+cibuli	cibule	k1gFnSc4	
+a	a	k8xC	
+po	po	k7c6	
+zpěnění	zpěnění	k1gNnSc6	
+přidáme	přidat	k5eAaPmIp1nP	
+papriku	paprika	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zamícháme	zamíchat	k5eAaPmIp1nP	
+a	a	k8xC	
+vlijeme	vlít	k5eAaPmIp1nP	
+překrájené	překrájený	k2eAgNnSc4d1	
+zelí	zelí	k1gNnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidáme	přidat	k5eAaPmIp1nP	
+brambory	brambora	k1gFnPc4	
+a	a	k8xC	
+přivedeme	přivést	k5eAaPmIp1nP	
+k	k	k7c3	
+varu	var	k1gInSc3	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vložíme	vložit	k5eAaPmIp1nP	
+zpět	zpět	k6eAd1	
+koule	koule	k1gFnPc4	
+a	a	k8xC	
+podle	podle	k7c2	
+potřeby	potřeba	k1gFnSc2	
+podlijeme	podlít	k5eAaPmIp1nP	
+vývarem	vývar	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vaříme	vařit	k5eAaImIp1nP	
+s	s	k7c7	
+občasným	občasný	k2eAgNnSc7d1	
+mícháním	míchání	k1gNnSc7	
+do	do	k7c2	
+změknutí	změknutí	k1gNnSc2	
+zelí	zelí	k1gNnSc2	
+a	a	k8xC	
+masa	maso	k1gNnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Nakonec	nakonec	k6eAd1	
+zjemníme	zjemnět	k5eAaPmIp1nP	
+smetanou	smetaný	k2eAgFnSc4d1	
+(	(	kIx(	
+<g/>	
+nesmí	smět	k5eNaImIp3nS	
+být	být	k5eAaImF	
+studená	studený	k2eAgFnSc1d1	
+<g/>	
+)	)	kIx)	
+a	a	k8xC	
+dochutíme	dochutit	k5eAaPmIp1nP	
+pepřem	pepř	k1gInSc7	
+<g/>	
+,	,	kIx,	
+cukrem	cukr	k1gInSc7	
+<g/>	
+,	,	kIx,	
+případně	případně	k6eAd1	
+solí	solit	k5eAaImIp3nS	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podáváme	podávat	k5eAaImIp1nP	
+s	s	k7c7	
+knedlíky	knedlík	k1gInPc7	
+nebo	nebo	k8xC	
+chlebem	chléb	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	

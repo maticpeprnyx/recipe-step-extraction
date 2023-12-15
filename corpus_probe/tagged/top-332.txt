@@ -1,0 +1,166 @@
+<s>	
+Ve	v	k7c6	
+středně	středně	k6eAd1	
+velkém	velký	k2eAgInSc6d1	
+hrnci	hrnec	k1gInSc6	
+rozpustíme	rozpustit	k5eAaPmIp1nP	
+máslo	máslo	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+cibuli	cibule	k1gFnSc4	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+ji	on	k3xPp3gFnSc4	
+zesklovatět	zesklovatět	k5eAaPmF	
+<g/>	
+,	,	kIx,	
+do	do	k7c2	
+měkka	měkek	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidáme	přidat	k5eAaPmIp1nP	
+česnek	česnek	k1gInSc4	
+a	a	k8xC	
+smažíme	smažit	k5eAaImIp1nP	
+jen	jen	k9	
+asi	asi	k9	
+1	#num#	k4	
+minutu	minuta	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vmícháme	vmíchat	k5eAaPmIp1nP	
+rajčata	rajče	k1gNnPc4	
+<g/>	
+,	,	kIx,	
+jedlou	jedlý	k2eAgFnSc4d1	
+sodu	soda	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+petrželku	petrželka	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+bobkový	bobkový	k2eAgInSc4d1	
+list	list	k1gInSc4	
+<g/>	
+,	,	kIx,	
+sůl	sůl	k1gFnSc4	
+a	a	k8xC	
+pepř	pepřit	k5eAaImRp2nS	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přikryjeme	přikrýt	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+přivedeme	přivést	k5eAaPmIp1nP	
+k	k	k7c3	
+varu	var	k1gInSc3	
+a	a	k8xC	
+vaříme	vařit	k5eAaImIp1nP	
+10	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Odkryjeme	odkrýt	k5eAaPmIp1nP	
+a	a	k8xC	
+vaříme	vařit	k5eAaImIp1nP	
+dalších	další	k2eAgInPc2d1	
+10	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Odstraníme	odstranit	k5eAaPmIp1nP	
+z	z	k7c2	
+plotny	plotna	k1gFnSc2	
+a	a	k8xC	
+vmícháme	vmíchat	k5eAaPmIp1nP	
+bazalku	bazalka	k1gFnSc4	
+a	a	k8xC	
+med	med	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidáme	přidat	k5eAaPmIp1nP	
+mléko	mléko	k1gNnSc4	
+(	(	kIx(	
+<g/>	
+nebo	nebo	k8xC	
+vodu	voda	k1gFnSc4	
+<g/>	
+)	)	kIx)	
+<g/>	
+,	,	kIx,	
+abychom	aby	kYmCp1nP	
+dosáhli	dosáhnout	k5eAaPmAgMnP	
+požadované	požadovaný	k2eAgFnPc4d1	
+hustoty	hustota	k1gFnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Dochutíme	dochutit	k5eAaPmIp1nP	
+solí	sůl	k1gFnSc7	
+a	a	k8xC	
+pepřem	pepř	k1gInSc7	
+<g/>	
+,	,	kIx,	
+případně	případně	k6eAd1	
+dalších	další	k2eAgMnPc2d1	
+podle	podle	k7c2	
+chuti	chuť	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Před	před	k7c7	
+podáváním	podávání	k1gNnSc7	
+vyndáme	vyndat	k5eAaPmIp1nP	
+bobkový	bobkový	k2eAgInSc4d1	
+list	list	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podáváme	podávat	k5eAaImIp1nP	
+ozdobené	ozdobený	k2eAgMnPc4d1	
+kysanou	kysaný	k2eAgFnSc7d1	
+smetanou	smetana	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+strouhaným	strouhaný	k2eAgInSc7d1	
+parmazánem	parmazán	k1gInSc7	
+<g/>	
+,	,	kIx,	
+bazalkou	bazalka	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Výborně	výborně	k6eAd1	
+se	se	k3xPyFc4	
+k	k	k7c3	
+ní	on	k3xPp3gFnSc3	
+hodí	hodit	k5eAaPmIp3nS,k5eAaImIp3nS	
+třeba	třeba	k6eAd1	
+sýrový	sýrový	k2eAgInSc1d1	
+toast	toast	k1gInSc1	
+z	z	k7c2	
+bílého	bílý	k2eAgInSc2d1	
+chleba	chléb	k1gInSc2	
+nebo	nebo	k8xC	
+česneková	česnekový	k2eAgFnSc1d1	
+bageta	bageta	k1gFnSc1	
+<g/>	
+.	.	kIx.	
+</s>	

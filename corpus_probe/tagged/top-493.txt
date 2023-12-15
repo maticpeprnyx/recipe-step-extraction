@@ -1,0 +1,64 @@
+<s>	
+Filet	filet	k1gInSc4	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+menší	malý	k2eAgInPc4d2	
+kousky	kousek	k1gInPc4	
+<g/>	
+,	,	kIx,	
+osolíme	osolit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+pokmínujeme	pokmínovat	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+lehce	lehko	k6eAd1	
+posypeme	posypat	k5eAaPmIp1nP	
+paprikou	paprika	k1gFnSc7	
+a	a	k8xC	
+opepříme	opepřit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Změklé	změklý	k2eAgNnSc4d1	
+máslo	máslo	k1gNnSc4	
+smícháme	smíchat	k5eAaPmIp1nP	
+s	s	k7c7	
+bylinkami	bylinka	k1gFnPc7	
+<g/>	
+,	,	kIx,	
+citronem	citron	k1gInSc7	
+a	a	k8xC	
+rozetřeným	rozetřený	k2eAgInSc7d1	
+česnekem	česnek	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Maso	maso	k1gNnSc4	
+potřeme	potřít	k5eAaPmIp1nP	
+ochuceným	ochucený	k2eAgNnSc7d1	
+máslem	máslo	k1gNnSc7	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+chvíli	chvíle	k1gFnSc4	
+odpočinout	odpočinout	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Olej	olej	k1gInSc4	
+rozehřejeme	rozehřát	k5eAaPmIp1nP	
+a	a	k8xC	
+plátky	plátek	k1gInPc4	
+masa	maso	k1gNnSc2	
+opékáme	opékat	k5eAaImIp1nP	
+z	z	k7c2	
+obou	dva	k4xCgFnPc2	
+stran	strana	k1gFnPc2	
+do	do	k7c2	
+zlatova	zlatovo	k1gNnSc2	
+<g/>	
+.	.	kIx.	
+</s>	

@@ -1,0 +1,124 @@
+<s>	
+Troubu	trouba	k1gFnSc4	
+předehřejeme	předehřát	k5eAaPmIp1nP	
+na	na	k7c4	
+200	#num#	k4	
+<g/>	
+°	°	k?	
+<g/>	
+C	C	kA	
+a	a	k8xC	
+pečící	pečící	k2eAgFnSc4d1	
+formu	forma	k1gFnSc4	
+na	na	k7c4	
+dort	dort	k1gInSc4	
+velikosti	velikost	k1gFnSc2	
+26	#num#	k4	
+cm	cm	kA	
+vymažeme	vymazat	k5eAaPmIp1nP	
+máslem	máslo	k1gNnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Ze	z	k7c2	
+surovin	surovina	k1gFnPc2	
+<g/>	
+,	,	kIx,	
+až	až	k8xS	
+po	po	k7c4	
+makovou	makový	k2eAgFnSc4d1	
+náplň	náplň	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+vypracujeme	vypracovat	k5eAaPmIp1nP	
+kynuté	kynutý	k2eAgNnSc4d1	
+těsto	těsto	k1gNnSc4	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+vykynout	vykynout	k5eAaPmF	
+<g/>	
+,	,	kIx,	
+až	až	k8xS	
+zdvojnásobí	zdvojnásobit	k5eAaPmIp3nS	
+svoji	svůj	k3xOyFgFnSc4	
+velikost	velikost	k1gFnSc4	
+(	(	kIx(	
+<g/>	
+cca	cca	kA	
+60	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+)	)	kIx)	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podle	podle	k7c2	
+instrukcí	instrukce	k1gFnPc2	
+na	na	k7c4	
+balení	balení	k1gNnPc4	
+připravíme	připravit	k5eAaPmIp1nP	
+makovou	makový	k2eAgFnSc4d1	
+náplň	náplň	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Z	z	k7c2	
+těsta	těsto	k1gNnSc2	
+vyválíme	vyválet	k5eAaPmIp1nP	
+čtverec	čtverec	k1gInSc4	
+velikosti	velikost	k1gFnSc2	
+cca	cca	kA	
+45	#num#	k4	
+cm	cm	kA	
+a	a	k8xC	
+rozložíme	rozložit	k5eAaPmIp1nP	
+na	na	k7c4	
+něj	on	k3xPp3gNnSc4	
+připravenou	připravený	k2eAgFnSc4d1	
+makovou	makový	k2eAgFnSc4d1	
+náplň	náplň	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+stočíme	stočit	k5eAaPmIp1nP	
+jako	jako	k9	
+roládu	roláda	k1gFnSc4	
+a	a	k8xC	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+asi	asi	k9	
+na	na	k7c4	
+14	#num#	k4	
+<g/>	
+-	-	kIx~	
+<g/>	
+16	#num#	k4	
+stejných	stejný	k2eAgInPc2d1	
+dílů	díl	k1gInPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Díly	díl	k1gInPc7	
+narovnáme	narovnat	k5eAaPmIp1nP	
+do	do	k7c2	
+připravené	připravený	k2eAgFnSc2d1	
+formy	forma	k1gFnSc2	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+ještě	ještě	k6eAd1	
+asi	asi	k9	
+15	#num#	k4	
+minut	minuta	k1gFnPc2	
+kynout	kynout	k5eAaImF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pečeme	péct	k5eAaImIp1nP	
+60	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	

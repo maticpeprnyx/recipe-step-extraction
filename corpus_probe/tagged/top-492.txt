@@ -1,0 +1,106 @@
+<s>	
+Ve	v	k7c6	
+větším	veliký	k2eAgInSc6d2	
+rozpáleném	rozpálený	k2eAgInSc6d1	
+hrnci	hrnec	k1gInSc6	
+orestujeme	orestovat	k5eAaPmIp1nP	
+maso	maso	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+cca	cca	kA	
+5	#num#	k4	
+<g/>	
+-	-	kIx~	
+<g/>	
+10	#num#	k4	
+minut	minuta	k1gFnPc2	
+a	a	k8xC	
+rozdrobíme	rozdrobit	k5eAaPmIp1nP	
+ho	on	k3xPp3gInSc4	
+na	na	k7c4	
+menší	malý	k2eAgInPc4d2	
+kousky	kousek	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidáme	přidat	k5eAaPmIp1nP	
+rajčata	rajče	k1gNnPc4	
+<g/>	
+,	,	kIx,	
+vývar	vývar	k1gInSc4	
+<g/>	
+,	,	kIx,	
+koření	kořenit	k5eAaImIp3nP	
+a	a	k8xC	
+rozmícháme	rozmíchat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vložíme	vložit	k5eAaPmIp1nP	
+špagety	špagety	k1gFnPc1	
+a	a	k8xC	
+ujistíme	ujistit	k5eAaPmIp1nP	
+se	se	k3xPyFc4	
+<g/>	
+,	,	kIx,	
+že	že	k8xS	
+jsou	být	k5eAaImIp3nP	
+všechny	všechen	k3xTgFnPc4	
+,,	,,	k?	
+<g/>	
+pod	pod	k7c7	
+vodou	voda	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zakryjeme	zakrýt	k5eAaPmIp1nP	
+a	a	k8xC	
+vaříme	vařit	k5eAaImIp1nP	
+na	na	k7c6	
+středním	střední	k2eAgInSc6d1	
+plameni	plamen	k1gInSc6	
+asi	asi	k9	
+15	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+,	,	kIx,	
+dokud	dokud	k8xS	
+nebudou	být	k5eNaImBp3nP	
+těstoviny	těstovina	k1gFnPc1	
+al	ala	k1gFnPc2	
+dente	dente	k5eAaPmIp2nP	
+<g/>	
+,	,	kIx,	
+tzv	tzv	kA	
+<g/>	
+.	.	kIx.	
+na	na	k7c4	
+skus	skus	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vypneme	vypnout	k5eAaPmIp1nP	
+plamen	plamen	k1gInSc4	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+ještě	ještě	k9	
+10	#num#	k4	
+minut	minuta	k1gFnPc2	
+dojít	dojít	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Servírujeme	servírovat	k5eAaBmIp1nP	
+s	s	k7c7	
+bazalkou	bazalka	k1gFnSc7	
+a	a	k8xC	
+případně	případně	k6eAd1	
+sýrem	sýr	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	

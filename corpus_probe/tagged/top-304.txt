@@ -1,0 +1,106 @@
+<s>	
+Maso	maso	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+brambory	brambor	k1gInPc4	
+<g/>	
+,	,	kIx,	
+mrkev	mrkev	k1gFnSc4	
+a	a	k8xC	
+papriku	paprika	k1gFnSc4	
+pokrájíme	pokrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+kostky	kostka	k1gFnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Nejprve	nejprve	k6eAd1	
+na	na	k7c6	
+oleji	olej	k1gInSc6	
+opečeme	opéct	k5eAaPmIp1nP	
+všechno	všechen	k3xTgNnSc4	
+koření	koření	k1gNnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Když	když	k8xS	
+se	se	k3xPyFc4	
+rozvoní	rozvonět	k5eAaPmIp3nS	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+maso	maso	k1gNnSc4	
+a	a	k8xC	
+restujeme	restovat	k5eAaImIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Osolíme	osolit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+vhodíme	vhodit	k5eAaPmIp1nP	
+brambory	brambora	k1gFnPc4	
+a	a	k8xC	
+mrkev	mrkev	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+podlijeme	podlít	k5eAaPmIp1nP	
+vodou	voda	k1gFnSc7	
+nebo	nebo	k8xC	
+vývarem	vývar	k1gInSc7	
+do	do	k7c2	
+výšky	výška	k1gFnSc2	
+směsi	směs	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+přiklopíme	přiklopit	k5eAaPmIp1nP	
+a	a	k8xC	
+dusíme	dusit	k5eAaImIp1nP	
+15	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pak	pak	k6eAd1	
+přidáme	přidat	k5eAaPmIp1nP	
+papriku	paprika	k1gFnSc4	
+a	a	k8xC	
+posekaný	posekaný	k2eAgInSc4d1	
+česnek	česnek	k1gInSc4	
+a	a	k8xC	
+ještě	ještě	k6eAd1	
+5	#num#	k4	
+minut	minuta	k1gFnPc2	
+provaříme	provařit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Dochutíme	dochutit	k5eAaPmIp1nP	
+a	a	k8xC	
+při	při	k7c6	
+podávání	podávání	k1gNnSc6	
+posypeme	posypat	k5eAaPmIp1nP	
+čerstvým	čerstvý	k2eAgInSc7d1	
+koriandrem	koriandr	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Samozřejmě	samozřejmě	k6eAd1	
+kdo	kdo	k3yRnSc1,k3yInSc1,k3yQnSc1	
+ho	on	k3xPp3gMnSc4	
+nemá	mít	k5eNaImIp3nS	
+rád	rád	k2eAgMnSc1d1	
+<g/>	
+,	,	kIx,	
+může	moct	k5eAaImIp3nS	
+posypat	posypat	k5eAaPmF	
+petrželkou	petrželka	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	

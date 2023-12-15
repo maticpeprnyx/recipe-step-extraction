@@ -1,0 +1,186 @@
+<s>	
+Knedlíčky	knedlíček	k1gInPc1	
+<g/>	
+:	:	kIx,	
+Dejte	dát	k5eAaPmRp2nP	
+šunku	šunka	k1gFnSc4	
+do	do	k7c2	
+mixéru	mixér	k1gInSc2	
+<g/>	
+,	,	kIx,	
+přidejte	přidat	k5eAaPmRp2nP	
+všechny	všechen	k3xTgFnPc4	
+ostatní	ostatní	k2eAgFnPc4d1	
+ingredience	ingredience	k1gFnPc4	
+a	a	k8xC	
+rozmixujte	rozmixovat	k5eAaPmRp2nP	
+na	na	k7c4	
+tvárnou	tvárný	k2eAgFnSc4d1	
+kaši	kaše	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pokud	pokud	k8xS	
+se	se	k3xPyFc4	
+hmota	hmota	k1gFnSc1	
+moc	moc	k1gFnSc1	
+lepí	lepět	k5eAaImIp3nS	
+<g/>	
+,	,	kIx,	
+přidejte	přidat	k5eAaPmRp2nP	
+lupínky	lupínek	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Ze	z	k7c2	
+směsi	směs	k1gFnSc2	
+vytvarujte	vytvarovat	k5eAaPmRp2nP	
+kuličky	kulička	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+které	který	k3yRgFnPc1	
+skládejte	skládat	k5eAaImRp2nP	
+na	na	k7c4	
+pekáček	pekáček	k1gInSc4	
+pokapaný	pokapaný	k2eAgInSc4d1	
+olivovým	olivový	k2eAgInSc7d1	
+olejem	olej	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Strčte	strčit	k5eAaPmRp2nP	
+do	do	k7c2	
+trouby	trouba	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pečte	péct	k5eAaImRp2nP	
+zhruba	zhruba	k6eAd1	
+na	na	k7c4	
+180	#num#	k4	
+stupňů	stupeň	k1gInPc2	
+15	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Knedlíčky	knedlíček	k1gInPc1	
+se	se	k3xPyFc4	
+hezky	hezky	k6eAd1	
+opečou	opéct	k5eAaPmIp3nP	
+na	na	k7c6	
+povrchu	povrch	k1gInSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Omáčka	omáčka	k1gFnSc1	
+<g/>	
+:	:	kIx,	
+Cibuli	cibule	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+česnek	česnek	k1gInSc4	
+i	i	k8xC	
+rajčata	rajče	k1gNnPc4	
+pokrájejte	pokrájet	k5eAaPmRp2nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c6	
+pánvi	pánev	k1gFnSc6	
+rozehřejte	rozehřát	k5eAaPmRp2nP	
+olivový	olivový	k2eAgInSc4d1	
+olej	olej	k1gInSc4	
+a	a	k8xC	
+restujte	restovat	k5eAaImRp2nP	
+ho	on	k3xPp3gInSc4	
+dozlatova	dozlatova	k6eAd1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidejte	přidat	k5eAaPmRp2nP	
+pokrájená	pokrájený	k2eAgNnPc4d1	
+rajčata	rajče	k1gNnPc4	
+i	i	k8xC	
+se	s	k7c7	
+šťávou	šťáva	k1gFnSc7	
+a	a	k8xC	
+semínky	semínko	k1gNnPc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Teplotu	teplota	k1gFnSc4	
+trochu	trocha	k1gFnSc4	
+zvyšte	zvýšit	k5eAaPmRp2nP	
+<g/>	
+,	,	kIx,	
+přilijte	přilít	k5eAaPmRp2nP	
+bílé	bílý	k2eAgNnSc4d1	
+víno	víno	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+protlak	protlak	k1gInSc1	
+a	a	k8xC	
+kečup	kečup	k1gInSc1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přiveďte	přivést	k5eAaPmRp2nP	
+k	k	k7c3	
+varu	var	k1gInSc3	
+a	a	k8xC	
+vařte	vařit	k5eAaImRp2nP	
+asi	asi	k9	
+5	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+,	,	kIx,	
+dokud	dokud	k8xS	
+nebudou	být	k5eNaImBp3nP	
+rajčata	rajče	k1gNnPc1	
+měkká	měkký	k2eAgFnSc1d1	
+a	a	k8xC	
+nevytvoří	vytvořit	k5eNaPmIp3nS	
+se	se	k3xPyFc4	
+hustá	hustý	k2eAgFnSc1d1	
+omáčka	omáčka	k1gFnSc1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Omáčku	omáčka	k1gFnSc4	
+dochuťte	dochutit	k5eAaPmRp2nP	
+solí	sůl	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+pepřem	pepř	k1gInSc7	
+a	a	k8xC	
+nechte	nechat	k5eAaPmRp2nP	
+ji	on	k3xPp3gFnSc4	
+hřát	hřát	k5eAaImF	
+na	na	k7c6	
+nejnižším	nízký	k2eAgInSc6d3	
+stupni	stupeň	k1gInSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Uvařené	uvařený	k2eAgFnPc1d1	
+špagety	špagety	k1gFnPc1	
+sceďte	scedit	k5eAaPmRp2nP	
+a	a	k8xC	
+můžete	moct	k5eAaImIp2nP	
+servírovat	servírovat	k5eAaBmF	
+<g/>	
+.	.	kIx.	
+</s>	

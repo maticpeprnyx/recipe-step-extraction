@@ -1,0 +1,29 @@
+<s>	
+Maso	maso	k1gNnSc4	
+nameleme	namlít	k5eAaPmIp1nP,k5eAaBmIp1nP	
+nebo	nebo	k8xC	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+jemno	jemno	k1gNnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Cibulku	cibulka	k1gFnSc4	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+a	a	k8xC	
+smícháme	smíchat	k5eAaPmIp1nP	
+se	se	k3xPyFc4	
+všemi	všechen	k3xTgFnPc7	
+ingrediencemi	ingredience	k1gFnPc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Necháme	nechat	k5eAaPmIp1nP	
+odležet	odležet	k5eAaPmF	
+v	v	k7c6	
+lednici	lednice	k1gFnSc6	
+<g/>	
+.	.	kIx.	
+</s>	

@@ -1,0 +1,163 @@
+<s>	
+Cibuli	cibule	k1gFnSc4	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+nadrobno	nadrobno	k6eAd1	
+a	a	k8xC	
+osmažíme	osmažit	k5eAaPmIp1nP	
+na	na	k7c6	
+sádle	sádlo	k1gNnSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidáme	přidat	k5eAaPmIp1nP	
+nakrájené	nakrájený	k2eAgNnSc4d1	
+maso	maso	k1gNnSc4	
+na	na	k7c4	
+malé	malý	k2eAgFnPc4d1	
+kostičky	kostička	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+mletou	mletý	k2eAgFnSc4d1	
+papriku	paprika	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+sůl	sůl	k1gFnSc1	
+<g/>	
+,	,	kIx,	
+pepř	pepřit	k5eAaImRp2nS	
+<g/>	
+,	,	kIx,	
+papriku	paprika	k1gFnSc4	
+a	a	k8xC	
+rajče	rajče	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+protlak	protlak	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Orestujeme	orestovat	k5eAaPmIp1nP	
+a	a	k8xC	
+podlijeme	podlít	k5eAaPmIp1nP	
+vývarem	vývar	k1gInSc7	
+<g/>	
+,	,	kIx,	
+necháme	nechat	k5eAaPmIp1nP	
+dusit	dusit	k5eAaImF	
+doměkka	doměkko	k1gNnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Maso	maso	k1gNnSc4	
+vyjmeme	vynít	k5eAaPmIp1nP	
+a	a	k8xC	
+do	do	k7c2	
+omáčky	omáčka	k1gFnSc2	
+vmícháme	vmíchat	k5eAaPmIp1nP	
+polovinu	polovina	k1gFnSc4	
+smetany	smetana	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Trochu	trocha	k1gFnSc4	
+smetany	smetana	k1gFnSc2	
+dáme	dát	k5eAaPmIp1nP	
+do	do	k7c2	
+masa	maso	k1gNnSc2	
+a	a	k8xC	
+lehce	lehko	k6eAd1	
+tyčovým	tyčový	k2eAgInSc7d1	
+mixérem	mixér	k1gInSc7	
+rozmixujeme	rozmixovat	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+ne	ne	k9	
+úplně	úplně	k6eAd1	
+na	na	k7c6	
+kaši	kaša	k1gFnSc6	
+<g/>	
+,	,	kIx,	
+jen	jen	k8xS	
+nahrubo	nahrubo	k6eAd1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Ze	z	k7c2	
+surovin	surovina	k1gFnPc2	
+na	na	k7c4	
+palačinky	palačinka	k1gFnPc4	
+vymícháme	vymíchat	k5eAaPmIp1nP	
+těsto	těsto	k1gNnSc4	
+a	a	k8xC	
+usmažíme	usmažit	k5eAaPmIp1nP	
+6	#num#	k4	
+palačinek	palačinka	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Palačinky	palačinka	k1gFnPc4	
+naplníme	naplnit	k5eAaPmIp1nP	
+masovou	masový	k2eAgFnSc7d1	
+směsí	směs	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+zabalíme	zabalit	k5eAaPmIp1nP	
+a	a	k8xC	
+klademe	klást	k5eAaImIp1nP	
+do	do	k7c2	
+zapékacích	zapékací	k2eAgFnPc2d1	
+misek	miska	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Palačinky	palačinka	k1gFnPc4	
+v	v	k7c6	
+miskách	miska	k1gFnPc6	
+zalijeme	zalít	k5eAaPmIp1nP	
+polovinou	polovina	k1gFnSc7	
+omáčky	omáčka	k1gFnSc2	
+a	a	k8xC	
+dáme	dát	k5eAaPmIp1nP	
+zapéct	zapéct	k5eAaPmF	
+do	do	k7c2	
+předem	předem	k6eAd1	
+vyhřáté	vyhřátý	k2eAgFnPc1d1	
+trouby	trouba	k1gFnPc1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zapékáme	zapékat	k5eAaImIp1nP	
+na	na	k7c6	
+220	#num#	k4	
+°	°	k?	
+<g/>	
+C	C	kA	
+asi	asi	k9	
+15	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Hotové	hotové	k1gInPc4	
+polijeme	polít	k5eAaPmIp1nP	
+zbylou	zbylý	k2eAgFnSc7d1	
+omáčkou	omáčka	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+ozdobíme	ozdobit	k5eAaPmIp1nP	
+kysanou	kysaný	k2eAgFnSc7d1	
+smetanou	smetana	k1gFnSc7	
+a	a	k8xC	
+petrželkou	petrželka	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	

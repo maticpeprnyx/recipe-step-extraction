@@ -1,0 +1,101 @@
+<s>	
+Instantní	instantní	k2eAgFnSc4d1	
+kávu	káva	k1gFnSc4	
+uvaříme	uvařit	k5eAaPmIp1nP	
+a	a	k8xC	
+smícháme	smíchat	k5eAaPmIp1nP	
+s	s	k7c7	
+moukou	mouka	k1gFnSc7	
+a	a	k8xC	
+kypřicím	kypřicí	k2eAgInSc7d1	
+práškem	prášek	k1gInSc7	
+<g/>	
+,	,	kIx,	
+vejci	vejce	k1gNnPc7	
+<g/>	
+,	,	kIx,	
+cukrem	cukr	k1gInSc7	
+<g/>	
+,	,	kIx,	
+kakaem	kakao	k1gNnSc7	
+<g/>	
+,	,	kIx,	
+mlékem	mléko	k1gNnSc7	
+a	a	k8xC	
+olejem	olej	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pečeme	péct	k5eAaImIp1nP	
+30	#num#	k4	
+minut	minuta	k1gFnPc2	
+při	při	k7c6	
+180	#num#	k4	
+°	°	k?	
+<g/>	
+C.	C.	kA	
+Po	po	k7c6	
+upečení	upečení	k1gNnSc6	
+necháme	nechat	k5eAaPmIp1nP	
+vychladnout	vychladnout	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Rozpustíme	rozpustit	k5eAaPmIp1nP	
+čokoládové	čokoládový	k2eAgFnPc4d1	
+tyčinky	tyčinka	k1gFnPc4	
+spolu	spolu	k6eAd1	
+s	s	k7c7	
+lžící	lžíce	k1gFnSc7	
+mléka	mléko	k1gNnSc2	
+<g/>	
+,	,	kIx,	
+stále	stále	k6eAd1	
+mícháme	míchat	k5eAaImIp1nP	
+a	a	k8xC	
+po	po	k7c6	
+částečném	částečný	k2eAgNnSc6d1	
+zchladnutí	zchladnutí	k1gNnSc6	
+vyšleháme	vyšlehat	k5eAaPmIp1nP,k5eAaImIp1nP	
+s	s	k7c7	
+máslem	máslo	k1gNnSc7	
+a	a	k8xC	
+tvarohem	tvaroh	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+V	v	k7c6	
+druhé	druhý	k4xOgFnSc6	
+míse	mísa	k1gFnSc6	
+vyšleháme	vyšlehat	k5eAaImIp1nP,k5eAaPmIp1nP	
+pevnou	pevný	k2eAgFnSc4d1	
+šlehačku	šlehačka	k1gFnSc4	
+ze	z	k7c2	
+smetany	smetana	k1gFnSc2	
+a	a	k8xC	
+2	#num#	k4	
+lžic	lžíce	k1gFnPc2	
+cukru	cukr	k1gInSc2	
+a	a	k8xC	
+opatrně	opatrně	k6eAd1	
+vmícháme	vmíchat	k5eAaPmIp1nP	
+do	do	k7c2	
+tvarohového	tvarohový	k2eAgInSc2d1	
+krému	krém	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Krém	krém	k1gInSc4	
+natřeme	natřít	k5eAaPmRp1nP	
+na	na	k7c4	
+korpus	korpus	k1gInSc4	
+a	a	k8xC	
+posypeme	posypat	k5eAaPmIp1nP	
+grankem	granek	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	

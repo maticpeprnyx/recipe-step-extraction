@@ -1,0 +1,70 @@
+<s>	
+Ze	z	k7c2	
+surovin	surovina	k1gFnPc2	
+na	na	k7c4	
+těsto	těsto	k1gNnSc4	
+vypracujeme	vypracovat	k5eAaPmIp1nP	
+těsto	těsto	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+které	který	k3yRgInPc1	
+dáme	dát	k5eAaPmIp1nP	
+do	do	k7c2	
+lednice	lednice	k1gFnSc2	
+ztuhnout	ztuhnout	k5eAaPmF	
+a	a	k8xC	
+odpočinout	odpočinout	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Náplň	náplň	k1gFnSc4	
+vytvoříme	vytvořit	k5eAaPmIp1nP	
+smícháním	smíchání	k1gNnPc3	
+všech	všechen	k3xTgFnPc2	
+ingrediencí	ingredience	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c4	
+velký	velký	k2eAgInSc4d1	
+plech	plech	k1gInSc4	
+dáme	dát	k5eAaPmIp1nP	
+pečící	pečící	k2eAgInSc4d1	
+papír	papír	k1gInSc4	
+<g/>	
+,	,	kIx,	
+na	na	k7c4	
+něj	on	k3xPp3gMnSc4	
+rovnoměrně	rovnoměrně	k6eAd1	
+vymačkáme	vymačkat	k5eAaPmIp1nP	
+linecké	linecký	k2eAgNnSc4d1	
+těsto	těsto	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+na	na	k7c4	
+těsto	těsto	k1gNnSc4	
+rozložíme	rozložit	k5eAaPmIp1nP	
+jakékoliv	jakýkoliv	k3yIgNnSc4	
+ovoce	ovoce	k1gNnSc4	
+a	a	k8xC	
+zalijeme	zalít	k5eAaPmIp1nP	
+náplní	náplň	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pečeme	péct	k5eAaImIp1nP	
+v	v	k7c6	
+předem	předem	k6eAd1	
+vyhřáté	vyhřátý	k2eAgFnSc3d1	
+troubě	trouba	k1gFnSc3	
+30	#num#	k4	
+minut	minuta	k1gFnPc2	
+při	při	k7c6	
+180	#num#	k4	
+st	st	kA	
+<g/>	
+.	.	kIx.	
+</s>	

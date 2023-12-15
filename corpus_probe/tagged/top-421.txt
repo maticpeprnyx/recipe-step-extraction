@@ -1,0 +1,82 @@
+<s>	
+Z	z	k7c2	
+mouky	mouka	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+žloutků	žloutek	k1gInPc2	
+<g/>	
+,	,	kIx,	
+cukru	cukr	k1gInSc2	
+<g/>	
+,	,	kIx,	
+soli	sůl	k1gFnSc2	
+a	a	k8xC	
+mléka	mléko	k1gNnSc2	
+připravíme	připravit	k5eAaPmIp1nP	
+řidší	řídký	k2eAgNnSc4d2	
+těsto	těsto	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+do	do	k7c2	
+něhož	jenž	k3xRgNnSc2	
+lehce	lehko	k6eAd1	
+vmícháme	vmíchat	k5eAaPmIp1nP	
+sníh	sníh	k1gInSc4	
+z	z	k7c2	
+bílků	bílek	k1gInPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+hotového	hotový	k2eAgNnSc2d1	
+těsta	těsto	k1gNnSc2	
+vmícháme	vmíchat	k5eAaPmIp1nP	
+rozinky	rozinka	k1gFnPc4	
+a	a	k8xC	
+mandlové	mandlový	k2eAgFnPc4d1	
+hoblinky	hoblinka	k1gFnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Těstíčko	těstíčko	k1gNnSc4	
+pečeme	péct	k5eAaImIp1nP	
+na	na	k7c6	
+pánvi	pánev	k1gFnSc6	
+po	po	k7c6	
+obou	dva	k4xCgFnPc6	
+stranách	strana	k1gFnPc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Upečenou	upečený	k2eAgFnSc4d1	
+palačinku	palačinka	k1gFnSc4	
+roztrháme	roztrhat	k5eAaPmIp1nP	
+a	a	k8xC	
+kousky	kousek	k1gInPc4	
+a	a	k8xC	
+ještě	ještě	k6eAd1	
+lehce	lehko	k6eAd1	
+opečeme	opéct	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podáváme	podávat	k5eAaImIp1nP	
+přelité	přelitý	k2eAgInPc1d1	
+ohřátým	ohřátý	k2eAgInSc7d1	
+mandlovým	mandlový	k2eAgInSc7d1	
+sirupem	sirup	k1gInSc7	
+<g/>	
+,	,	kIx,	
+do	do	k7c2	
+něhož	jenž	k3xRgMnSc2	
+jsme	být	k5eAaImIp1nP	
+rozmačkali	rozmačkat	k5eAaPmAgMnP	
+čerstvé	čerstvý	k2eAgFnPc4d1	
+maliny	malina	k1gFnPc4	
+<g/>	
+.	.	kIx.	
+</s>	

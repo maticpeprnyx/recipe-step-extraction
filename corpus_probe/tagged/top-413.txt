@@ -1,0 +1,135 @@
+<s>	
+Z	z	k7c2	
+každého	každý	k3xTgNnSc2	
+kuřecího	kuřecí	k2eAgNnSc2d1	
+prsa	prso	k1gNnSc2	
+uděláme	udělat	k5eAaPmIp1nP	
+dva	dva	k4xCgInPc4	
+plátky	plátek	k1gInPc4	
+<g/>	
+,	,	kIx,	
+které	který	k3yRgFnPc4	
+osolíme	osolit	k5eAaPmIp1nP	
+a	a	k8xC	
+okořeníme	okořenit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+V	v	k7c6	
+hlubší	hluboký	k2eAgFnSc6d2	
+pánvi	pánev	k1gFnSc6	
+zahřejeme	zahřát	k5eAaPmIp1nP	
+olej	olej	k1gInSc4	
+s	s	k7c7	
+máslem	máslo	k1gNnSc7	
+a	a	k8xC	
+plátky	plátek	k1gInPc4	
+lehce	lehko	k6eAd1	
+poprášené	poprášený	k2eAgInPc4d1	
+moukou	mouka	k1gFnSc7	
+opečeme	opéct	k5eAaPmIp1nP	
+z	z	k7c2	
+obou	dva	k4xCgFnPc2	
+stran	strana	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Maso	maso	k1gNnSc4	
+opečené	opečený	k2eAgNnSc4d1	
+dozlatova	dozlatova	k6eAd1	
+vyndáme	vyndat	k5eAaPmIp1nP	
+stranou	stranou	k6eAd1	
+a	a	k8xC	
+na	na	k7c6	
+výpeku	výpek	k1gInSc6	
+orestujeme	orestovat	k5eAaPmIp1nP	
+žampiony	žampion	k1gInPc4	
+<g/>	
+,	,	kIx,	
+nakrájené	nakrájený	k2eAgInPc4d1	
+na	na	k7c4	
+silnější	silný	k2eAgInPc4d2	
+plátky	plátek	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+V	v	k7c6	
+kuřecím	kuřecí	k2eAgInSc6d1	
+vývaru	vývar	k1gInSc6	
+vidličkou	vidlička	k1gFnSc7	
+rozkvedláme	rozkvedlat	k5eAaPmIp1nP	
+hořčici	hořčice	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+nalijeme	nalít	k5eAaPmIp1nP,k5eAaBmIp1nP	
+do	do	k7c2	
+pánve	pánev	k1gFnSc2	
+a	a	k8xC	
+přivedeme	přivést	k5eAaPmIp1nP	
+k	k	k7c3	
+varu	var	k1gInSc3	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Snížíme	snížit	k5eAaPmIp1nP	
+teplotu	teplota	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+převaříme	převařit	k5eAaPmIp1nP	
+a	a	k8xC	
+přilijeme	přilít	k5eAaPmIp1nP	
+smetanu	smetana	k1gFnSc4	
+pokojové	pokojový	k2eAgFnSc2d1	
+teploty	teplota	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vrátíme	vrátit	k5eAaPmIp1nP	
+maso	maso	k1gNnSc4	
+a	a	k8xC	
+vše	všechen	k3xTgNnSc4	
+prohřejeme	prohřát	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pokud	pokud	k8xS	
+je	být	k5eAaImIp3nS	
+potřeba	potřeba	k1gFnSc1	
+<g/>	
+,	,	kIx,	
+zahustíme	zahustit	k5eAaPmIp1nP	
+omáčku	omáčka	k1gFnSc4	
+vychlazeným	vychlazený	k2eAgNnSc7d1	
+máslem	máslo	k1gNnSc7	
+<g/>	
+,	,	kIx,	
+přidávaným	přidávaný	k2eAgNnPc3d1	
+po	po	k7c6	
+malých	malý	k2eAgFnPc6d1	
+kostičkách	kostička	k1gFnPc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podáváme	podávat	k5eAaImIp1nP	
+s	s	k7c7	
+těstovinami	těstovina	k1gFnPc7	
+nebo	nebo	k8xC	
+bramborou	brambora	k1gFnSc7	
+a	a	k8xC	
+natrhanou	natrhaný	k2eAgFnSc7d1	
+voňavou	voňavý	k2eAgFnSc7d1	
+natí	nať	k1gFnSc7	
+fenyklu	fenykl	k1gInSc2	
+nebo	nebo	k8xC	
+nasekanou	nasekaný	k2eAgFnSc7d1	
+petrželkou	petrželka	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	

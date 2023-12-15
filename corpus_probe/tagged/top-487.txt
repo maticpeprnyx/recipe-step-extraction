@@ -1,0 +1,181 @@
+<s>	
+Cibuli	cibule	k1gFnSc4	
+oloupeme	oloupat	k5eAaPmIp1nP	
+a	a	k8xC	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+nadrobno	nadrobno	k6eAd1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Česnek	česnek	k1gInSc4	
+oloupeme	oloupat	k5eAaPmIp1nP	
+a	a	k8xC	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+plátky	plátek	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Mrkev	mrkev	k1gFnSc4	
+a	a	k8xC	
+brambory	brambora	k1gFnPc4	
+oloupeme	oloupat	k5eAaPmIp1nP	
+a	a	k8xC	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+kostičky	kostička	k1gFnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Medvědí	medvědí	k2eAgInSc4d1	
+česnek	česnek	k1gInSc4	
+omyjeme	omýt	k5eAaPmIp1nP	
+a	a	k8xC	
+nahrubo	nahrubo	k6eAd1	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Z	z	k7c2	
+kadeřávku	kadeřávek	k1gInSc2	
+vykrojíme	vykrojit	k5eAaPmIp1nP	
+tuhá	tuhý	k2eAgNnPc4d1	
+vnitřní	vnitřní	k2eAgNnPc4d1	
+žebra	žebro	k1gNnPc4	
+a	a	k8xC	
+listy	list	k1gInPc4	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+kousky	kousek	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+V	v	k7c6	
+hrnci	hrnec	k1gInSc6	
+rozpustíme	rozpustit	k5eAaPmIp1nP	
+kousek	kousek	k1gInSc4	
+másla	máslo	k1gNnSc2	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+cibuli	cibule	k1gFnSc4	
+a	a	k8xC	
+mrkev	mrkev	k1gFnSc4	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+orestovat	orestovat	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pak	pak	k6eAd1	
+přidáme	přidat	k5eAaPmIp1nP	
+kostičky	kostička	k1gFnPc4	
+brambor	brambora	k1gFnPc2	
+<g/>	
+,	,	kIx,	
+kadeřávek	kadeřávek	k1gInSc4	
+a	a	k8xC	
+česnek	česnek	k1gInSc4	
+a	a	k8xC	
+krátce	krátce	k6eAd1	
+restujeme	restovat	k5eAaImIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pak	pak	k6eAd1	
+zalijeme	zalít	k5eAaPmIp1nP	
+vodou	voda	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+vývar	vývar	k1gInSc4	
+<g/>	
+,	,	kIx,	
+sůl	sůl	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+pepř	pepřit	k5eAaImRp2nS	
+a	a	k8xC	
+drcený	drcený	k2eAgInSc4d1	
+kmín	kmín	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Když	když	k8xS	
+jsou	být	k5eAaImIp3nP	
+brambory	brambora	k1gFnPc1	
+skoro	skoro	k6eAd1	
+měkké	měkký	k2eAgFnPc4d1	
+<g/>	
+,	,	kIx,	
+přimícháme	přimíchat	k5eAaPmIp1nP	
+nahrubo	nahrubo	k6eAd1	
+nakrájený	nakrájený	k2eAgInSc4d1	
+medvědí	medvědí	k2eAgInSc4d1	
+česnek	česnek	k1gInSc4	
+a	a	k8xC	
+dovaříme	dovařit	k5eAaPmIp1nP	
+doměkka	doměkka	k1gNnPc1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Z	z	k7c2	
+polévky	polévka	k1gFnSc2	
+odebereme	odebrat	k5eAaPmIp1nP	
+asi	asi	k9	
+dvě	dva	k4xCgFnPc4	
+naběračky	naběračka	k1gFnPc4	
+zeleniny	zelenina	k1gFnSc2	
+a	a	k8xC	
+dáme	dát	k5eAaPmIp1nP	
+je	on	k3xPp3gNnPc4	
+stranou	strana	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zbytek	zbytek	k1gInSc4	
+rozmixujeme	rozmixovat	k5eAaPmIp1nP	
+ponorným	ponorný	k2eAgInSc7d1	
+mixérem	mixér	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Odloženou	odložený	k2eAgFnSc4d1	
+zeleninu	zelenina	k1gFnSc4	
+vrátíme	vrátit	k5eAaPmIp1nP	
+zpět	zpět	k6eAd1	
+do	do	k7c2	
+hrnce	hrnec	k1gInSc2	
+<g/>	
+,	,	kIx,	
+polévku	polévka	k1gFnSc4	
+dochutíme	dochutit	k5eAaPmIp1nP	
+smetanou	smetana	k1gFnSc7	
+a	a	k8xC	
+majoránkou	majoránka	k1gFnSc7	
+a	a	k8xC	
+můžeme	moct	k5eAaImIp1nP	
+vypnout	vypnout	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podáváme	podávat	k5eAaImIp1nP	
+s	s	k7c7	
+kostičkami	kostička	k1gFnPc7	
+opečeného	opečený	k2eAgNnSc2d1	
+pečiva	pečivo	k1gNnSc2	
+<g/>	
+.	.	kIx.	
+</s>	

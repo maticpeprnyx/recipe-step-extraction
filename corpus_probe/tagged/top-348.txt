@@ -1,0 +1,85 @@
+<s>	
+Do	do	k7c2	
+hrnečku	hrneček	k1gInSc2	
+rozklepneme	rozklepnout	k5eAaPmIp1nP	
+vajíčko	vajíčko	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+mléko	mléko	k1gNnSc4	
+a	a	k8xC	
+rozkvedláme	rozkvedlat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidáme	přidat	k5eAaPmIp1nP	
+mouku	mouka	k1gFnSc4	
+a	a	k8xC	
+vymícháme	vymíchat	k5eAaPmIp1nP	
+hladké	hladký	k2eAgNnSc4d1	
+těstíčko	těstíčko	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+je	být	k5eAaImIp3nS	
+trochu	trochu	k6eAd1	
+řidší	řídký	k2eAgMnSc1d2	
+než	než	k8xS	
+na	na	k7c4	
+noky	nok	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vezmeme	vzít	k5eAaPmIp1nP	
+cedník	cedník	k1gInSc4	
+s	s	k7c7	
+většími	velký	k2eAgInPc7d2	
+otvory	otvor	k1gInPc7	
+(	(	kIx(	
+<g/>	
+na	na	k7c4	
+halušky	haluška	k1gFnPc4	
+<g/>	
+)	)	kIx)	
+<g/>	
+,	,	kIx,	
+do	do	k7c2	
+něj	on	k3xPp3gInSc2	
+dáme	dát	k5eAaPmIp1nP	
+těsto	těsto	k1gNnSc4	
+a	a	k8xC	
+pomalu	pomalu	k6eAd1	
+je	on	k3xPp3gInPc4	
+lžící	lžíce	k1gFnSc7	
+stíráme	stírat	k5eAaImIp1nP	
+přes	přes	k7c4	
+otvory	otvor	k1gInPc4	
+do	do	k7c2	
+polévky	polévka	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Rovnou	rovnou	k6eAd1	
+se	se	k3xPyFc4	
+tak	tak	k6eAd1	
+zaváří	zavářet	k5eAaImIp3nS	
+a	a	k8xC	
+jak	jak	k8xS,k8xC	
+je	být	k5eAaImIp3nS	
+tekuté	tekutý	k2eAgNnSc4d1	
+<g/>	
+,	,	kIx,	
+tak	tak	k8xC,k8xS	
+tvoří	tvořit	k5eAaImIp3nP	
+-	-	kIx~	
+jak	jak	k8xC,k8xS	
+je	on	k3xPp3gFnPc4	
+nazvala	nazvat	k5eAaPmAgFnS,k5eAaBmAgFnS	
+vnučka	vnučka	k1gFnSc1	
+-	-	kIx~	
+žížalky	žížalka	k1gFnPc4	
+<g/>	
+.	.	kIx.	
+</s>	

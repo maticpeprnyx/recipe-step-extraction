@@ -1,0 +1,249 @@
+<s>	
+Nejprve	nejprve	k6eAd1	
+připravíme	připravit	k5eAaPmIp1nP	
+korpus	korpus	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vyšleháme	vyšlehat	k5eAaPmIp1nP,k5eAaImIp1nP	
+vejce	vejce	k1gNnSc4	
+s	s	k7c7	
+cukry	cukr	k1gInPc7	
+<g/>	
+,	,	kIx,	
+pak	pak	k8xC	
+přilijeme	přilít	k5eAaPmIp1nP	
+rum	rum	k1gInSc4	
+a	a	k8xC	
+olej	olej	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Dále	daleko	k6eAd2	
+k	k	k7c3	
+tomu	ten	k3xDgNnSc3	
+prosejeme	proset	k5eAaPmIp1nP	
+mouku	mouka	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+kakao	kakao	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+špetku	špetka	k1gFnSc4	
+soli	sůl	k1gFnSc2	
+a	a	k8xC	
+kypřící	kypřící	k2eAgInSc4d1	
+prášek	prášek	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vše	všechen	k3xTgNnSc4	
+vyšleháme	vyšlehat	k5eAaPmIp1nP,k5eAaImIp1nP	
+dohladka	dohladek	k1gMnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Těsto	těsto	k1gNnSc4	
+vlijeme	vlít	k5eAaPmIp1nP	
+do	do	k7c2	
+formy	forma	k1gFnSc2	
+a	a	k8xC	
+dáme	dát	k5eAaPmIp1nP	
+péct	péct	k5eAaImF	
+do	do	k7c2	
+trouby	trouba	k1gFnSc2	
+vyhřáté	vyhřátý	k2eAgFnSc2d1	
+na	na	k7c6	
+180	#num#	k4	
+°	°	k?	
+<g/>	
+C	C	kA	
+na	na	k7c4	
+cca	cca	kA	
+30	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zkoušíme	zkoušet	k5eAaImIp1nP	
+špejlí	špejle	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+zda	zda	k8xS	
+je	být	k5eAaImIp3nS	
+korpus	korpus	k1gInSc1	
+propečený	propečený	k2eAgInSc1d1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Hotový	hotový	k2eAgInSc4d1	
+korpus	korpus	k1gInSc4	
+dáme	dát	k5eAaPmIp1nP	
+vychladit	vychladit	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Jablka	jablko	k1gNnSc2	
+zbavíme	zbavit	k5eAaPmIp1nP	
+jadřince	jadřinka	k1gFnSc3	
+<g/>	
+,	,	kIx,	
+oloupeme	oloupat	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+nahrubo	nahrubo	k6eAd1	
+nastrouháme	nastrouhat	k5eAaPmIp1nP	
+do	do	k7c2	
+kastrůlku	kastrůlek	k1gInSc2	
+<g/>	
+,	,	kIx,	
+přilijeme	přilít	k5eAaPmIp1nP	
+vodu	voda	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+rum	rum	k1gInSc4	
+a	a	k8xC	
+vsypeme	vsypat	k5eAaPmIp1nP	
+cukr	cukr	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vaříme	vařit	k5eAaImIp1nP	
+doměkka	doměkko	k1gNnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Jablka	jablko	k1gNnSc2	
+rozmixujeme	rozmixovat	k5eAaPmIp1nP	
+tyčovým	tyčový	k2eAgInSc7d1	
+mixérem	mixér	k1gInSc7	
+<g/>	
+,	,	kIx,	
+vmícháme	vmíchat	k5eAaPmIp1nP	
+máslo	máslo	k1gNnSc4	
+a	a	k8xC	
+čokoládu	čokoláda	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zahřejeme	zahřát	k5eAaPmIp1nP	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+vše	všechen	k3xTgNnSc1	
+rozpustit	rozpustit	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Odstavíme	odstavit	k5eAaPmIp1nP	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+vychladnout	vychladnout	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Korpus	korpus	k1gInSc4	
+rozřízneme	rozříznout	k5eAaPmIp1nP	
+podélně	podélně	k6eAd1	
+na	na	k7c4	
+poloviny	polovina	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+spodní	spodní	k2eAgNnPc1d1	
+opět	opět	k6eAd1	
+upevníme	upevnit	k5eAaPmIp1nP	
+do	do	k7c2	
+formy	forma	k1gFnSc2	
+a	a	k8xC	
+horní	horní	k2eAgInSc4d1	
+díl	díl	k1gInSc4	
+rozdrobíme	rozdrobit	k5eAaPmIp1nP	
+najemno	najemno	k6eAd1	
+do	do	k7c2	
+jablečné	jablečný	k2eAgFnSc2d1	
+směsi	směs	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vše	všechen	k3xTgNnSc4	
+důkladně	důkladně	k6eAd1	
+promícháme	promíchat	k5eAaPmIp1nP	
+a	a	k8xC	
+naneseme	nanést	k5eAaPmIp1nP,k5eAaBmIp1nP	
+na	na	k7c4	
+korpus	korpus	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Dobře	dobře	k6eAd1	
+uhladíme	uhladit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vložíme	vložit	k5eAaPmIp1nP	
+do	do	k7c2	
+lednice	lednice	k1gFnSc2	
+alespoň	alespoň	k9	
+na	na	k7c4	
+hodinu	hodina	k1gFnSc4	
+a	a	k8xC	
+pak	pak	k8xC	
+zalijeme	zalít	k5eAaPmIp1nP	
+čokoládovou	čokoládový	k2eAgFnSc7d1	
+polevou	poleva	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Nejlepší	dobrý	k2eAgFnSc7d3	
+bude	být	k5eAaImBp3nS	
+<g/>	
+,	,	kIx,	
+když	když	k8xS	
+moučník	moučník	k1gInSc4	
+vrátíte	vrátit	k5eAaPmIp2nP	
+do	do	k7c2	
+lednice	lednice	k1gFnSc2	
+a	a	k8xC	
+do	do	k7c2	
+druhého	druhý	k4xOgInSc2	
+dne	den	k1gInSc2	
+si	se	k3xPyFc3	
+ho	on	k3xPp3gInSc2	
+nebudete	být	k5eNaImBp2nP	
+všímat	všímat	k5eAaImF	
+a	a	k8xC	
+necháte	nechat	k5eAaPmIp2nP	
+ho	on	k3xPp3gInSc4	
+uležet	uležet	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Ale	ale	k8xC	
+postačí	postačit	k5eAaPmIp3nP	
+i	i	k9	
+tak	tak	k9	
+3	#num#	k4	
+<g/>	
+-	-	kIx~	
+<g/>	
+4	#num#	k4	
+hodiny	hodina	k1gFnPc1	
+<g/>	
+.	.	kIx.	
+</s>	

@@ -1,0 +1,88 @@
+<s>	
+Do	do	k7c2	
+pěny	pěna	k1gFnSc2	
+ušleháme	ušlehat	k5eAaPmIp1nP	
+1	#num#	k4	
+až	až	k9	
+2	#num#	k4	
+hrnky	hrnek	k1gInPc4	
+cukru	cukr	k1gInSc2	
+<g/>	
+,	,	kIx,	
+3	#num#	k4	
+vejce	vejce	k1gNnPc4	
+<g/>	
+,	,	kIx,	
+vanilkového	vanilkový	k2eAgInSc2d1	
+cukr	cukr	k1gInSc4	
+a	a	k8xC	
+vanilkový	vanilkový	k2eAgInSc4d1	
+pudink	pudink	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pak	pak	k6eAd1	
+se	se	k3xPyFc4	
+přidá	přidat	k5eAaPmIp3nS	
+1	#num#	k4	
+hrnek	hrnek	k1gInSc1	
+oleje	olej	k1gInSc2	
+a	a	k8xC	
+postupně	postupně	k6eAd1	
+přidáváme	přidávat	k5eAaImIp1nP	
+a	a	k8xC	
+střídáme	střídat	k5eAaImIp1nP	
+mouku	mouka	k1gFnSc4	
+smíchanou	smíchaný	k2eAgFnSc4d1	
+s	s	k7c7	
+práškem	prášek	k1gInSc7	
+do	do	k7c2	
+pečiva	pečivo	k1gNnSc2	
+nebo	nebo	k8xC	
+sodou	soda	k1gFnSc7	
+a	a	k8xC	
+mléko	mléko	k1gNnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+V	v	k7c6	
+předehřáté	předehřátý	k2eAgFnSc6d1	
+troubě	trouba	k1gFnSc6	
+pečeme	péct	k5eAaImIp1nP	
+buchtu	buchta	k1gFnSc4	
+na	na	k7c4	
+170	#num#	k4	
+<g/>	
+°	°	k?	
+<g/>	
+C	C	kA	
+dozlatova	dozlatova	k6eAd1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Kontrolujeme	kontrolovat	k5eAaImIp1nP	
+píchnutím	píchnutí	k1gNnSc7	
+špejle	špejle	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+zda	zda	k8xS	
+se	se	k3xPyFc4	
+již	již	k6eAd1	
+nelepí	lepit	k5eNaImIp3nS	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Teplotu	teplota	k1gFnSc4	
+a	a	k8xC	
+dobu	doba	k1gFnSc4	
+pečení	pečení	k1gNnSc2	
+přizpůsobíme	přizpůsobit	k5eAaPmIp1nP	
+vlastní	vlastní	k2eAgFnSc3d1	
+troubě	trouba	k1gFnSc3	
+<g/>	
+.	.	kIx.	
+</s>	

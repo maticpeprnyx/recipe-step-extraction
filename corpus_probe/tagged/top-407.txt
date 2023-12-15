@@ -1,0 +1,160 @@
+<s>	
+Na	na	k7c6	
+hlubší	hluboký	k2eAgFnSc6d2	
+pánvi	pánev	k1gFnSc6	
+s	s	k7c7	
+pokličkou	poklička	k1gFnSc7	
+osmahneme	osmahnout	k5eAaPmIp1nP	
+na	na	k7c4	
+kostičky	kostička	k1gFnPc4	
+pokrájený	pokrájený	k2eAgInSc4d1	
+špek	špek	k1gInSc4	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+na	na	k7c4	
+kolečka	kolečko	k1gNnPc4	
+nakrájenou	nakrájený	k2eAgFnSc4d1	
+a	a	k8xC	
+oloupanou	oloupaný	k2eAgFnSc4d1	
+klobásu	klobása	k1gFnSc4	
+a	a	k8xC	
+na	na	k7c4	
+kostičky	kostička	k1gFnPc4	
+nakrájenou	nakrájený	k2eAgFnSc4d1	
+kýtu	kýta	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vše	všechen	k3xTgNnSc1	
+osmahneme	osmahnout	k5eAaPmIp1nP	
+a	a	k8xC	
+poté	poté	k6eAd1	
+<g/>	
+,	,	kIx,	
+co	co	k3yQnSc4,k3yInSc4,k3yRnSc4	
+se	se	k3xPyFc4	
+maso	maso	k1gNnSc1	
+zatáhne	zatáhnout	k5eAaPmIp3nS	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+nakrájená	nakrájený	k2eAgNnPc4d1	
+rajčátka	rajčátko	k1gNnPc4	
+<g/>	
+,	,	kIx,	
+papriku	paprika	k1gFnSc4	
+a	a	k8xC	
+kousky	kousek	k1gInPc4	
+ananasu	ananas	k1gInSc2	
+a	a	k8xC	
+vše	všechen	k3xTgNnSc1	
+ještě	ještě	k6eAd1	
+chvíli	chvíle	k1gFnSc4	
+smažíme	smažit	k5eAaImIp1nP	
+na	na	k7c6	
+pánvi	pánev	k1gFnSc6	
+a	a	k8xC	
+samozřejmě	samozřejmě	k6eAd1	
+občas	občas	k6eAd1	
+promícháme	promíchat	k5eAaPmIp1nP	
+a	a	k8xC	
+přidáme	přidat	k5eAaPmIp1nP	
+sůl	sůl	k1gFnSc4	
+a	a	k8xC	
+pepř	pepřit	k5eAaImRp2nS	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Potom	potom	k6eAd1	
+podlijeme	podlít	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+bujón	bujón	k1gInSc4	
+a	a	k8xC	
+pod	pod	k7c7	
+pokličkou	poklička	k1gFnSc7	
+dusíme	dusit	k5eAaImIp1nP	
+<g/>	
+,	,	kIx,	
+dokud	dokud	k8xS	
+maso	maso	k1gNnSc1	
+nezměkne	změknout	k5eNaPmIp3nS	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Poté	poté	k6eAd1	
+<g/>	
+,	,	kIx,	
+co	co	k3yQnSc1,k3yInSc1,k3yRnSc1	
+je	být	k5eAaImIp3nS	
+maso	maso	k1gNnSc1	
+měkké	měkký	k2eAgNnSc1d1	
+<g/>	
+,	,	kIx,	
+sundáme	sundat	k5eAaPmIp1nP	
+pokličku	poklička	k1gFnSc4	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+vypařit	vypařit	k5eAaPmF	
+vzniklý	vzniklý	k2eAgInSc4d1	
+vývar	vývar	k1gInSc4	
+<g/>	
+,	,	kIx,	
+aby	aby	kYmCp3nS	
+směs	směs	k1gFnSc1	
+neplavala	plavat	k5eNaImAgFnS	
+ve	v	k7c6	
+vodě	voda	k1gFnSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Dochutíme	dochutit	k5eAaPmIp1nP	
+podravkou	podravka	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+ale	ale	k8xC	
+pozor	pozor	k1gInSc1	
+podravka	podravka	k1gFnSc1	
+je	být	k5eAaImIp3nS	
+sama	sám	k3xTgFnSc1	
+o	o	k7c6	
+sobě	se	k3xPyFc6	
+dost	dost	k6eAd1	
+slaná	slaný	k2eAgFnSc1d1	
+<g/>	
+,	,	kIx,	
+takže	takže	k8xS	
+s	s	k7c7	
+ní	on	k3xPp3gFnSc7	
+opatrně	opatrně	k6eAd1	
+<g/>	
+,	,	kIx,	
+já	já	k3xPp1nSc1	
+jí	on	k3xPp3gFnSc2	
+rád	rád	k6eAd1	
+používám	používat	k5eAaImIp1nS	
+<g/>	
+,	,	kIx,	
+protože	protože	k8xS	
+výborně	výborně	k6eAd1	
+zvýrazní	zvýraznět	k5eAaPmIp3nP	
+jednotlivé	jednotlivý	k2eAgFnPc1d1	
+chutě	chuť	k1gFnPc1	
+ingrediencí	ingredience	k1gFnPc2	
+a	a	k8xC	
+podáváme	podávat	k5eAaImIp1nP	
+např	např	kA	
+<g/>	
+.	.	kIx.	
+s	s	k7c7	
+bramborovými	bramborový	k2eAgInPc7d1	
+hranolky	hranolek	k1gInPc7	
+<g/>	
+.	.	kIx.	
+</s>	

@@ -1,0 +1,139 @@
+<s>	
+Smetanu	smetana	k1gFnSc4	
+přivedeme	přivést	k5eAaPmIp1nP	
+k	k	k7c3	
+varu	var	k1gInSc3	
+spolu	spolu	k6eAd1	
+s	s	k7c7	
+rozříznutým	rozříznutý	k2eAgInSc7d1	
+vanilkovým	vanilkový	k2eAgInSc7d1	
+luskem	lusk	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Odstavíme	odstavit	k5eAaPmIp1nP	
+z	z	k7c2	
+ohně	oheň	k1gInSc2	
+<g/>	
+,	,	kIx,	
+lusk	lusk	k1gInSc4	
+vyjmeme	vyjmout	k5eAaPmIp1nP	
+a	a	k8xC	
+vyškrábneme	vyškrábnout	k5eAaPmIp1nP	
+vnitřek	vnitřek	k1gInSc4	
+lusku	lusk	k1gInSc2	
+do	do	k7c2	
+smetany	smetana	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Poté	poté	k6eAd1	
+smícháme	smíchat	k5eAaPmIp1nP	
+žloutky	žloutek	k1gInPc4	
+se	s	k7c7	
+škrobem	škrob	k1gInSc7	
+<g/>	
+,	,	kIx,	
+pomalu	pomalu	k6eAd1	
+vlijeme	vlít	k5eAaPmIp1nP	
+za	za	k7c2	
+stálého	stálý	k2eAgNnSc2d1	
+míchání	míchání	k1gNnSc2	
+smetanu	smetan	k1gInSc2	
+<g/>	
+,	,	kIx,	
+osladíme	osladit	k5eAaPmIp1nP	
+dle	dle	k7c2	
+chuti	chuť	k1gFnSc2	
+a	a	k8xC	
+nalijeme	nalít	k5eAaPmIp1nP,k5eAaBmIp1nP	
+zpět	zpět	k6eAd1	
+do	do	k7c2	
+kastrůlku	kastrůlek	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Za	za	k7c2	
+stálého	stálý	k2eAgNnSc2d1	
+míchání	míchání	k1gNnSc2	
+povaříme	povařit	k5eAaPmIp1nP	
+na	na	k7c4	
+hustý	hustý	k2eAgInSc4d1	
+krém	krém	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Z	z	k7c2	
+bílků	bílek	k1gInPc2	
+a	a	k8xC	
+špetky	špetka	k1gFnSc2	
+soli	sůl	k1gFnSc2	
+vyšleháme	vyšlehat	k5eAaImIp1nP,k5eAaPmIp1nP	
+tuhý	tuhý	k2eAgInSc4d1	
+sníh	sníh	k1gInSc4	
+<g/>	
+,	,	kIx,	
+poté	poté	k6eAd1	
+postupně	postupně	k6eAd1	
+přidáváme	přidávat	k5eAaImIp1nP	
+cukr	cukr	k1gInSc4	
+krystal	krystal	k1gInSc4	
+podle	podle	k7c2	
+chuti	chuť	k1gFnSc2	
+a	a	k8xC	
+zašleháme	zašlehat	k5eAaPmIp1nP	
+do	do	k7c2	
+sněhu	sníh	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+pohárů	pohár	k1gInPc2	
+rozdělíme	rozdělit	k5eAaPmIp1nP	
+maliny	malina	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+vrstvu	vrstva	k1gFnSc4	
+vanilkového	vanilkový	k2eAgInSc2d1	
+krému	krém	k1gInSc2	
+<g/>	
+,	,	kIx,	
+poklademe	poklást	k5eAaPmIp1nP	
+kousky	kousek	k1gInPc4	
+korpusů	korpus	k1gInPc2	
+a	a	k8xC	
+zastříkneme	zastříknout	k5eAaPmIp1nP	
+alkoholem	alkohol	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Nakonec	nakonec	k6eAd1	
+dáme	dát	k5eAaPmIp1nP	
+lžicí	lžíce	k1gFnSc7	
+sněhovou	sněhový	k2eAgFnSc4d1	
+čepici	čepice	k1gFnSc4	
+a	a	k8xC	
+vše	všechen	k3xTgNnSc4	
+necháme	nechat	k5eAaPmIp1nP	
+na	na	k7c4	
+1	#num#	k4	
+<g/>	
+-	-	kIx~	
+<g/>	
+2	#num#	k4	
+minuty	minuta	k1gFnPc1	
+zapéct	zapéct	k5eAaPmF	
+v	v	k7c6	
+troubě	trouba	k1gFnSc6	
+pod	pod	k7c7	
+grilem	gril	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	

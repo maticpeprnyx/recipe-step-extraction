@@ -1,0 +1,110 @@
+<s>	
+Cuketu	cuketa	k1gFnSc4	
+omyjeme	omýt	k5eAaPmIp1nP	
+a	a	k8xC	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+z	z	k7c2	
+ní	on	k3xPp3gFnSc2	
+podélně	podélně	k6eAd1	
+velmi	velmi	k6eAd1	
+ténké	ténký	k2eAgInPc4d1	
+plátečky	pláteček	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Osolíme	osolit	k5eAaPmIp1nP	
+je	on	k3xPp3gFnPc4	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+vypotit	vypotit	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Před	před	k7c7	
+použitím	použití	k1gNnSc7	
+je	on	k3xPp3gInPc4	
+pořádně	pořádně	k6eAd1	
+otřeme	otřít	k5eAaPmIp1nP	
+papírovou	papírový	k2eAgFnSc7d1	
+útěrkou	útěrka	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zapékací	zapékací	k2eAgFnSc4d1	
+misku	miska	k1gFnSc4	
+vytřeme	vytřít	k5eAaPmIp1nP	
+olivovým	olivový	k2eAgInSc7d1	
+olejem	olej	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vkládáme	vkládat	k5eAaImIp1nP	
+plátečky	pláteček	k1gInPc4	
+cukety	cuketa	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+na	na	k7c4	
+ni	on	k3xPp3gFnSc4	
+položíme	položit	k5eAaPmIp1nP	
+2	#num#	k4	
+plátky	plátek	k1gInPc4	
+Schwarwaldské	Schwarwaldský	k2eAgFnSc2d1	
+šunky	šunka	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+plátky	plátek	k1gInPc4	
+sýra	sýr	k1gInSc2	
+a	a	k8xC	
+malinko	malinko	k6eAd1	
+postrouháme	postrouhat	k5eAaPmIp1nP	
+sýrem	sýr	k1gInSc7	
+Gran	Grana	k1gFnPc2	
+Moravia	Moravio	k1gNnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Postup	postup	k1gInSc4	
+opakujeme	opakovat	k5eAaImIp1nP	
+<g/>	
+,	,	kIx,	
+dokud	dokud	k8xS	
+máme	mít	k5eAaImIp1nP	
+suroviny	surovina	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+ale	ale	k8xC	
+tak	tak	k9	
+<g/>	
+,	,	kIx,	
+aby	aby	kYmCp3nS	
+vrchní	vrchní	k2eAgNnSc1d1	
+patro	patro	k1gNnSc1	
+končilo	končit	k5eAaImAgNnS	
+Schwarwaldskou	Schwarwaldský	k2eAgFnSc7d1	
+šunkou	šunka	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+kterou	který	k3yRgFnSc4,k3yIgFnSc4,k3yQgFnSc4	
+ještě	ještě	k9	
+malinko	malinko	k6eAd1	
+pokapeme	pokapat	k5eAaPmIp1nP	
+olivovým	olivový	k2eAgInSc7d1	
+olejem	olej	k1gInSc7	
+Troubu	trouba	k1gFnSc4	
+vyhřejeme	vyhřát	k5eAaPmIp1nP	
+na	na	k7c4	
+200	#num#	k4	
+stupňů	stupeň	k1gInPc2	
+a	a	k8xC	
+pečeme	péct	k5eAaImIp1nP	
+cca	cca	kA	
+30	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	

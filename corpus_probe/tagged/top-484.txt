@@ -1,0 +1,103 @@
+<s>	
+Máslo	máslo	k1gNnSc4	
+s	s	k7c7	
+olejem	olej	k1gInSc7	
+rozehřejeme	rozehřát	k5eAaPmIp1nP	
+v	v	k7c6	
+hrnci	hrnec	k1gInSc6	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+mouku	mouka	k1gFnSc4	
+a	a	k8xC	
+usmažíme	usmažit	k5eAaPmIp1nP	
+světlou	světlý	k2eAgFnSc4d1	
+jíšku	jíška	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+přilijeme	přilít	k5eAaPmIp1nP	
+vývar	vývar	k1gInSc4	
+a	a	k8xC	
+řádně	řádně	k6eAd1	
+rozmícháme	rozmíchat	k5eAaPmIp1nP	
+dohladka	dohladek	k1gMnSc4	
+<g/>	
+,	,	kIx,	
+přivedeme	přivést	k5eAaPmIp1nP	
+k	k	k7c3	
+varu	var	k1gInSc3	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidáme	přidat	k5eAaPmIp1nP	
+kmín	kmín	k1gInSc4	
+<g/>	
+,	,	kIx,	
+houby	houba	k1gFnPc4	
+a	a	k8xC	
+posléze	posléze	k6eAd1	
+i	i	k9	
+brambory	brambora	k1gFnPc4	
+nakrájené	nakrájený	k2eAgFnPc4d1	
+kostičky	kostička	k1gFnPc4	
+a	a	k8xC	
+vaříme	vařit	k5eAaImIp1nP	
+téměř	téměř	k6eAd1	
+doměkka	doměkko	k1gNnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pak	pak	k6eAd1	
+sejmeme	sejmout	k5eAaPmIp1nP	
+z	z	k7c2	
+ohně	oheň	k1gInSc2	
+a	a	k8xC	
+za	za	k7c2	
+stálého	stálý	k2eAgNnSc2d1	
+míchání	míchání	k1gNnSc2	
+vlijeme	vlít	k5eAaPmIp1nP	
+kefír	kefír	k1gInSc4	
+<g/>	
+,	,	kIx,	
+přivedeme	přivést	k5eAaPmIp1nP	
+opět	opět	k6eAd1	
+k	k	k7c3	
+varu	var	k1gInSc3	
+<g/>	
+,	,	kIx,	
+vklepneme	vklepnout	k5eAaPmIp1nP	
+vejce	vejce	k1gNnPc1	
+a	a	k8xC	
+polévku	polévka	k1gFnSc4	
+dochutíme	dochutit	k5eAaPmIp1nP	
+solí	sůl	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidala	přidat	k5eAaPmAgFnS	
+jsem	být	k5eAaImIp1nS	
+do	do	k7c2	
+polévky	polévka	k1gFnSc2	
+bobkový	bobkový	k2eAgInSc4d1	
+list	list	k1gInSc4	
+a	a	k8xC	
+na	na	k7c4	
+závěr	závěr	k1gInSc4	
+dochutila	dochutit	k5eAaPmAgFnS	
+nejen	nejen	k6eAd1	
+petrželkovou	petrželkův	k2eAgFnSc7d1	
+natí	nať	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+ale	ale	k8xC	
+i	i	k9	
+pažitkou	pažitka	k1gFnSc7	
+a	a	k8xC	
+sekaným	sekaný	k2eAgInSc7d1	
+koprem	kopr	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	

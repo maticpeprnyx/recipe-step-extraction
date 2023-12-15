@@ -1,0 +1,103 @@
+<s>	
+Houby	houba	k1gFnPc4	
+očistíme	očistit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+posolíme	posolit	k5eAaPmIp1nP	
+a	a	k8xC	
+podusíme	podusit	k5eAaPmIp1nP	
+na	na	k7c6	
+jedné	jeden	k4xCgFnSc6	
+lžíci	lžíce	k1gFnSc6	
+másla	máslo	k1gNnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+V	v	k7c6	
+hrnci	hrnec	k1gInSc6	
+rozehřejeme	rozehřát	k5eAaPmIp1nP	
+druhou	druhý	k4xOgFnSc4	
+lžíci	lžíce	k1gFnSc4	
+másla	máslo	k1gNnSc2	
+<g/>	
+,	,	kIx,	
+zasypeme	zasypat	k5eAaPmIp1nP	
+moukou	mouka	k1gFnSc7	
+a	a	k8xC	
+uděláme	udělat	k5eAaPmIp1nP	
+jíšku	jíška	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zalijeme	zalít	k5eAaPmIp1nP	
+ji	on	k3xPp3gFnSc4	
+zeleninovým	zeleninový	k2eAgInSc7d1	
+vývarem	vývar	k1gInSc7	
+a	a	k8xC	
+rozšleháme	rozšlehat	k5eAaPmIp1nP	
+metličkou	metlička	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přivedeme	přivést	k5eAaPmIp1nP	
+k	k	k7c3	
+varu	var	k1gInSc3	
+a	a	k8xC	
+vložíme	vložit	k5eAaPmIp1nP	
+brambory	brambor	k1gInPc4	
+<g/>	
+,	,	kIx,	
+oloupané	oloupaný	k2eAgNnSc4d1	
+a	a	k8xC	
+nakrájené	nakrájený	k2eAgNnSc4d1	
+na	na	k7c4	
+kostičky	kostička	k1gFnPc4	
+a	a	k8xC	
+libeček	libeček	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vaříme	vařit	k5eAaImIp1nP	
+doměkka	doměkko	k1gNnPc4	
+cca	cca	kA	
+20	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Před	před	k7c7	
+koncem	konec	k1gInSc7	
+varu	var	k1gInSc2	
+přidáme	přidat	k5eAaPmIp1nP	
+podušené	podušený	k2eAgFnPc4d1	
+houby	houba	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+smetanu	smetana	k1gFnSc4	
+a	a	k8xC	
+společně	společně	k6eAd1	
+dovaříme	dovařit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Dochutíme	dochutit	k5eAaPmIp1nP	
+solí	sůl	k1gFnPc2	
+<g/>	
+,	,	kIx,	
+pepřem	pepř	k1gInSc7	
+a	a	k8xC	
+bohatě	bohatě	k6eAd1	
+posypeme	posypat	k5eAaPmIp1nP	
+pažitkou	pažitka	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	

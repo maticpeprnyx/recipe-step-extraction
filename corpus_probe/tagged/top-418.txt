@@ -1,0 +1,101 @@
+<s>	
+600	#num#	k4	
+<g/>	
+g	g	kA	
+jahod	jahoda	k1gFnPc2	
+zbavíme	zbavit	k5eAaPmIp1nP	
+stopek	stopka	k1gFnPc2	
+a	a	k8xC	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+kostky	kostka	k1gFnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+hrnce	hrnec	k1gInSc2	
+dáme	dát	k5eAaPmIp1nP	
+trochu	trocha	k1gFnSc4	
+vody	voda	k1gFnSc2	
+(	(	kIx(	
+<g/>	
+cca	cca	kA	
+1	#num#	k4	
+<g/>	
+dcl	dcl	k?	
+<g/>	
+)	)	kIx)	
+<g/>	
+,	,	kIx,	
+vhodíme	vhodit	k5eAaPmIp1nP	
+jahody	jahoda	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+dřeň	dřeň	k1gFnSc4	
+z	z	k7c2	
+lusku	lusk	k1gInSc2	
+<g/>	
+,	,	kIx,	
+100	#num#	k4	
+g	g	kA	
+lesních	lesní	k2eAgInPc2d1	
+plodů	plod	k1gInPc2	
+a	a	k8xC	
+přivedeme	přivést	k5eAaPmIp1nP	
+k	k	k7c3	
+varu	var	k1gInSc3	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Odstavíme	odstavit	k5eAaPmIp1nP	
+z	z	k7c2	
+ohně	oheň	k1gInSc2	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+vychladit	vychladit	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidáme	přidat	k5eAaPmIp1nP	
+citrusové	citrusový	k2eAgFnSc2d1	
+šťávy	šťáva	k1gFnSc2	
+a	a	k8xC	
+tyčovým	tyčový	k2eAgInSc7d1	
+mixérem	mixér	k1gInSc7	
+rozmixujeme	rozmixovat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podle	podle	k7c2	
+chuti	chuť	k1gFnSc2	
+dosladíme	dosladit	k5eAaPmIp1nP	
+medem	med	k1gInSc7	
+a	a	k8xC	
+případně	případně	k6eAd1	
+doředíme	doředit	k5eAaPmIp1nP	
+pomerančovou	pomerančový	k2eAgFnSc7d1	
+šťávou	šťáva	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zdobíme	zdobit	k5eAaImIp1nP	
+devonshirským	devonshirský	k2eAgInSc7d1	
+krémem	krém	k1gInSc7	
+a	a	k8xC	
+zbylými	zbylý	k2eAgInPc7d1	
+plody	plod	k1gInPc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podáváme	podávat	k5eAaImIp1nP	
+řádně	řádně	k6eAd1	
+vychlazené	vychlazený	k2eAgInPc4d1	
+<g/>	
+.	.	kIx.	
+</s>	

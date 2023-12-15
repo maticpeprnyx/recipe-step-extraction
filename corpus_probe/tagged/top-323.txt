@@ -1,0 +1,140 @@
+<s>	
+Kuřecí	kuřecí	k2eAgFnPc4d1	
+paličky	palička	k1gFnPc4	
+a	a	k8xC	
+křídla	křídlo	k1gNnPc4	
+nasolíme	nasolit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+posypeme	posypat	k5eAaPmIp1nP	
+uzenou	uzený	k2eAgFnSc7d1	
+paprikou	paprika	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+opepříme	opepřit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+pokapeme	pokapat	k5eAaPmIp1nP	
+olejem	olej	k1gInSc7	
+a	a	k8xC	
+dáme	dát	k5eAaPmIp1nP	
+do	do	k7c2	
+chladu	chlad	k1gInSc2	
+na	na	k7c4	
+2	#num#	k4	
+hodiny	hodiny	k1gFnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vyválené	vyválený	k2eAgNnSc4d1	
+listové	listový	k2eAgNnSc4d1	
+těsto	těsto	k1gNnSc4	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+proužky	proužek	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c4	
+kuřecí	kuřecí	k2eAgFnPc4d1	
+paličky	palička	k1gFnPc4	
+položíme	položit	k5eAaPmIp1nP	
+kousek	kousek	k1gInSc4	
+slaniny	slanina	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+plátek	plátek	k1gInSc4	
+sýru	sýr	k1gInSc2	
+a	a	k8xC	
+omotáme	omotat	k5eAaPmIp1nP	
+listovým	listový	k2eAgNnSc7d1	
+těstem	těsto	k1gNnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Potřeme	potřít	k5eAaPmRp1nP	
+rozšlehaným	rozšlehaný	k2eAgNnSc7d1	
+vejcem	vejce	k1gNnSc7	
+<g/>	
+,	,	kIx,	
+posypeme	posypat	k5eAaPmIp1nP	
+kmínem	kmín	k1gInSc7	
+a	a	k8xC	
+hrubou	hrubý	k2eAgFnSc7d1	
+mořskou	mořský	k2eAgFnSc7d1	
+solí	sůl	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Stejným	stejný	k2eAgInSc7d1	
+způsobem	způsob	k1gInSc7	
+položíme	položit	k5eAaPmIp1nP	
+proužky	proužka	k1gFnPc4	
+těsta	těsto	k1gNnSc2	
+i	i	k8xC	
+na	na	k7c4	
+kuřecí	kuřecí	k2eAgNnPc4d1	
+křídla	křídlo	k1gNnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c4	
+plech	plech	k1gInSc4	
+položíme	položit	k5eAaPmIp1nP	
+pečící	pečící	k2eAgInSc4d1	
+papír	papír	k1gInSc4	
+<g/>	
+,	,	kIx,	
+který	který	k3yRgInSc4	
+pokapeme	pokapat	k5eAaPmIp1nP	
+olivovým	olivový	k2eAgInSc7d1	
+olejem	olej	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c4	
+něj	on	k3xPp3gNnSc4	
+vložíme	vložit	k5eAaPmIp1nP	
+špalíčky	špalíček	k1gInPc4	
+a	a	k8xC	
+křídla	křídlo	k1gNnPc4	
+zabalená	zabalený	k2eAgNnPc4d1	
+v	v	k7c6	
+listovém	listový	k2eAgNnSc6d1	
+těstě	těsto	k1gNnSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Maso	maso	k1gNnSc4	
+na	na	k7c6	
+plechu	plech	k1gInSc6	
+zakápneme	zakápnout	k5eAaPmIp1nP	
+vývarem	vývar	k1gInSc7	
+<g/>	
+,	,	kIx,	
+pečeme	péct	k5eAaImIp1nP	
+na	na	k7c4	
+160	#num#	k4	
+stupňů	stupeň	k1gInPc2	
+v	v	k7c6	
+rozehřáté	rozehřátý	k2eAgFnSc6d1	
+troubě	trouba	k1gFnSc6	
+dozlatova	dozlatova	k6eAd1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podáváme	podávat	k5eAaImIp1nP	
+s	s	k7c7	
+bramborovou	bramborový	k2eAgFnSc7d1	
+kaší	kaše	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	

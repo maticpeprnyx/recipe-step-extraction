@@ -1,0 +1,105 @@
+<s>	
+Oddělíme	oddělit	k5eAaPmIp1nP	
+bílky	bílek	k1gInPc4	
+a	a	k8xC	
+žloutky	žloutek	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+V	v	k7c6	
+míse	mísa	k1gFnSc6	
+utřeme	utřít	k5eAaPmIp1nP	
+žloutky	žloutek	k1gInPc4	
+<g/>	
+,	,	kIx,	
+cukr	cukr	k1gInSc4	
+<g/>	
+,	,	kIx,	
+změklé	změklý	k2eAgNnSc4d1	
+máslo	máslo	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+mouku	mouka	k1gFnSc4	
+s	s	k7c7	
+práškem	prášek	k1gInSc7	
+do	do	k7c2	
+pečiva	pečivo	k1gNnSc2	
+a	a	k8xC	
+nakonec	nakonec	k6eAd1	
+jemně	jemně	k6eAd1	
+vmícháme	vmíchat	k5eAaPmIp1nP	
+sníh	sníh	k1gInSc4	
+<g/>	
+,	,	kIx,	
+ovoce	ovoce	k1gNnPc4	
+<g/>	
+,	,	kIx,	
+ořechy	ořech	k1gInPc4	
+a	a	k8xC	
+čokoládu	čokoláda	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Těsto	těsto	k1gNnSc1	
+přendáme	přendat	k5eAaPmIp1nP	
+do	do	k7c2	
+srnčího	srnčí	k2eAgInSc2d1	
+hřbetu	hřbet	k1gInSc2	
+<g/>	
+,	,	kIx,	
+který	který	k3yRgInSc4	
+jsme	být	k5eAaImIp1nP	
+vymazali	vymazat	k5eAaPmAgMnP	
+tukem	tuk	k1gInSc7	
+a	a	k8xC	
+vysypali	vysypat	k5eAaPmAgMnP	
+moukou	mouka	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+a	a	k8xC	
+pečeme	péct	k5eAaImIp1nP	
+na	na	k7c4	
+170	#num#	k4	
+°	°	k?	
+<g/>	
+C	C	kA	
+cca	cca	kA	
+40	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Teplota	teplota	k1gFnSc1	
+i	i	k8xC	
+čas	čas	k1gInSc1	
+jsou	být	k5eAaImIp3nP	
+orientační	orientační	k2eAgFnPc1d1	
+<g/>	
+,	,	kIx,	
+každá	každý	k3xTgFnSc1	
+trouba	trouba	k1gFnSc1	
+peče	péct	k5eAaImIp3nS	
+jinak	jinak	k6eAd1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Upečený	upečený	k2eAgInSc4d1	
+chlebíček	chlebíček	k1gInSc4	
+vyklopíme	vyklopit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+necháme	nechat	k5eAaPmIp1nP	
+zchladnout	zchladnout	k5eAaPmF	
+a	a	k8xC	
+pak	pak	k8xC	
+polijeme	polít	k5eAaPmIp1nP	
+čokoládovou	čokoládový	k2eAgFnSc7d1	
+polevou	poleva	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	

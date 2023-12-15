@@ -1,0 +1,211 @@
+<s>	
+Plátky	plátek	k1gInPc4	
+masa	maso	k1gNnSc2	
+po	po	k7c6	
+krajích	kraj	k1gInPc6	
+nařízneme	naříznout	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+naklepeme	naklepat	k5eAaBmIp1nP,k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+osolíme	osolit	k5eAaPmIp1nP	
+a	a	k8xC	
+opepříme	opepřit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Z	z	k7c2	
+obou	dva	k4xCgFnPc2	
+stran	strana	k1gFnPc2	
+posypeme	posypat	k5eAaPmIp1nP	
+moukou	mouka	k1gFnSc7	
+a	a	k8xC	
+opečeme	opéct	k5eAaPmIp1nP	
+na	na	k7c6	
+části	část	k1gFnSc6	
+sádla	sádlo	k1gNnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c6	
+zbytku	zbytek	k1gInSc6	
+sádla	sádlo	k1gNnSc2	
+osmažíme	osmažit	k5eAaPmIp1nP	
+drobně	drobně	k6eAd1	
+pokrájenou	pokrájený	k2eAgFnSc4d1	
+cibuli	cibule	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+zalijeme	zalít	k5eAaPmIp1nP	
+ji	on	k3xPp3gFnSc4	
+trochou	trocha	k1gFnSc7	
+vody	voda	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+opečené	opečený	k2eAgInPc4d1	
+plátky	plátek	k1gInPc4	
+masa	maso	k1gNnSc2	
+a	a	k8xC	
+dusíme	dusit	k5eAaImIp1nP	
+pod	pod	k7c7	
+pokličkou	poklička	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c4	
+pánvičku	pánvička	k1gFnSc4	
+od	od	k7c2	
+opékání	opékání	k1gNnSc2	
+masa	maso	k1gNnSc2	
+nalijeme	nalít	k5eAaBmIp1nP,k5eAaPmIp1nP	
+malé	malý	k2eAgNnSc4d1	
+množství	množství	k1gNnSc4	
+vody	voda	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+za	za	k7c2	
+stálého	stálý	k2eAgNnSc2d1	
+míchání	míchání	k1gNnSc2	
+odvaříme	odvařit	k5eAaPmIp1nP	
+připečenou	připečený	k2eAgFnSc4d1	
+šťávu	šťáva	k1gFnSc4	
+a	a	k8xC	
+podlijeme	podlít	k5eAaPmIp1nP	
+jí	on	k3xPp3gFnSc7	
+plátky	plátek	k1gInPc4	
+při	při	k7c6	
+dušení	dušení	k1gNnSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Při	při	k7c6	
+dušení	dušení	k1gNnSc6	
+plátky	plátek	k1gInPc4	
+obracíme	obracet	k5eAaImIp1nP	
+a	a	k8xC	
+podléváme	podlévat	k5eAaImIp1nP	
+malým	malý	k2eAgNnSc7d1	
+množstvím	množství	k1gNnSc7	
+vody	voda	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Dušená	dušený	k2eAgNnPc4d1	
+zelenina	zelenina	k1gFnSc1	
+<g/>	
+:	:	kIx,	
+mrkev	mrkev	k1gFnSc4	
+rozkrájíme	rozkrájet	k5eAaPmIp1nP	
+nožem	nůž	k1gInSc7	
+na	na	k7c4	
+šikmé	šikmý	k2eAgFnPc4d1	
+<g/>	
+,	,	kIx,	
+asi	asi	k9	
+0,5	0,5	k?	
+až	až	k9	
+1	#num#	k4	
+cm	cm	kA	
+tenké	tenký	k2eAgInPc4d1	
+plátky	plátek	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Můžeme	moct	k5eAaImIp1nP	
+použít	použít	k5eAaPmF	
+i	i	k9	
+speciálně	speciálně	k6eAd1	
+tvarovaný	tvarovaný	k2eAgInSc1d1	
+vroubkovaný	vroubkovaný	k2eAgInSc1d1	
+zdobící	zdobící	k2eAgInSc1d1	
+nůž	nůž	k1gInSc1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+V	v	k7c6	
+pánvi	pánev	k1gFnSc6	
+rozpustíme	rozpustit	k5eAaPmIp1nP	
+máslo	máslo	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+přisypeme	přisypat	k5eAaPmIp1nP	
+cibulku	cibulka	k1gFnSc4	
+a	a	k8xC	
+za	za	k7c2	
+stálého	stálý	k2eAgNnSc2d1	
+míchání	míchání	k1gNnSc2	
+restujeme	restovat	k5eAaImIp1nP	
+do	do	k7c2	
+sklovita	sklovita	k1gFnSc1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přisypeme	přisypat	k5eAaPmIp1nP	
+mrkev	mrkev	k1gFnSc4	
+a	a	k8xC	
+vše	všechen	k3xTgNnSc4	
+opět	opět	k6eAd1	
+restujeme	restovat	k5eAaImIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Nakonec	nakonec	k6eAd1	
+přidáme	přidat	k5eAaPmIp1nP	
+zelené	zelený	k2eAgFnPc4d1	
+fazolky	fazolka	k1gFnPc4	
+a	a	k8xC	
+vše	všechen	k3xTgNnSc4	
+podlijeme	podlít	k5eAaPmIp1nP	
+vývarem	vývar	k1gInSc7	
+ze	z	k7c2	
+zeleninového	zeleninový	k2eAgInSc2d1	
+bujonu	bujon	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c6	
+mírném	mírný	k2eAgInSc6d1	
+ohni	oheň	k1gInSc6	
+dusíme	dusit	k5eAaImIp1nP	
+doměkka	doměkko	k1gNnPc1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Závěrem	závěrem	k6eAd1	
+dochutíme	dochutit	k5eAaPmIp1nP	
+solí	sůl	k1gFnSc7	
+a	a	k8xC	
+mletým	mletý	k2eAgInSc7d1	
+pepřem	pepř	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Plátky	plátek	k1gInPc4	
+hovězího	hovězí	k2eAgNnSc2d1	
+masa	maso	k1gNnSc2	
+s	s	k7c7	
+dušenou	dušený	k2eAgFnSc7d1	
+zeleninou	zelenina	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+podáváme	podávat	k5eAaImIp1nP	
+s	s	k7c7	
+vařenými	vařený	k2eAgInPc7d1	
+brambory	brambor	k1gInPc7	
+<g/>	
+.	.	kIx.	
+</s>	

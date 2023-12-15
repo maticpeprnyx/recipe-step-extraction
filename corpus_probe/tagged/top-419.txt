@@ -1,0 +1,100 @@
+<s>	
+Podmáslí	podmáslí	k1gNnSc3	
+prošleháme	prošlehat	k5eAaPmIp1nP,k5eAaImIp1nPwR	
+s	s	k7c7	
+rozetřeným	rozetřený	k2eAgInSc7d1	
+česnekem	česnek	k1gInSc7	
+<g/>	
+,	,	kIx,	
+hořčicí	hořčice	k1gFnSc7	
+a	a	k8xC	
+drobně	drobně	k6eAd1	
+krájenými	krájený	k2eAgInPc7d1	
+lístky	lístek	k1gInPc7	
+šalvěje	šalvěj	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Potřeme	potřít	k5eAaPmIp1nP	
+jím	on	k3xPp3gInSc7	
+lehce	lehko	k6eAd1	
+naklepané	naklepaný	k2eAgInPc1d1	
+řízky	řízek	k1gInPc1	
+<g/>	
+,	,	kIx,	
+zbytek	zbytek	k1gInSc4	
+pak	pak	k8xC	
+na	na	k7c4	
+plátky	plátek	k1gInPc4	
+masa	maso	k1gNnSc2	
+nalijeme	nalít	k5eAaBmIp1nP,k5eAaPmIp1nP	
+a	a	k8xC	
+uložíme	uložit	k5eAaPmIp1nP	
+přes	přes	k7c4	
+noc	noc	k1gFnSc4	
+marinovat	marinovat	k5eAaBmF	
+do	do	k7c2	
+lednice	lednice	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+V	v	k7c4	
+den	den	k1gInSc4	
+přípravy	příprava	k1gFnSc2	
+maso	maso	k1gNnSc4	
+z	z	k7c2	
+marinády	marináda	k1gFnSc2	
+vyndáme	vyndat	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+necháme	nechat	k5eAaPmIp1nP	
+dobře	dobře	k6eAd1	
+okapat	okapat	k5eAaPmF	
+<g/>	
+,	,	kIx,	
+osolíme	osolit	k5eAaPmIp1nP	
+je	on	k3xPp3gMnPc4	
+<g/>	
+,	,	kIx,	
+opepříme	opepřit	k5eAaPmIp1nP	
+a	a	k8xC	
+lehce	lehko	k6eAd1	
+poprášíme	poprášit	k5eAaPmIp1nP	
+moukou	mouka	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Smočíme	smočit	k5eAaPmIp1nP	
+je	on	k3xPp3gFnPc4	
+v	v	k7c6	
+rozšlehaných	rozšlehaný	k2eAgNnPc6d1	
+vejcích	vejce	k1gNnPc6	
+<g/>	
+,	,	kIx,	
+obalíme	obalit	k5eAaPmIp1nP	
+ve	v	k7c6	
+strouhance	strouhanka	k1gFnSc6	
+a	a	k8xC	
+v	v	k7c6	
+rozehřátém	rozehřátý	k2eAgNnSc6d1	
+sádle	sádlo	k1gNnSc6	
+usmažíme	usmažit	k5eAaPmIp1nP	
+dozlatova	dozlatova	k6eAd1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podáváme	podávat	k5eAaImIp1nP	
+s	s	k7c7	
+brambory	brambor	k1gInPc7	
+nebo	nebo	k8xC	
+salátem	salát	k1gInSc7	
+a	a	k8xC	
+kouskem	kousek	k1gInSc7	
+citronu	citron	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	

@@ -1,0 +1,163 @@
+<s>	
+Zpěníme	zpěnit	k5eAaPmIp1nP	
+cibulku	cibulka	k1gFnSc4	
+a	a	k8xC	
+do	do	k7c2	
+ní	on	k3xPp3gFnSc2	
+přidáme	přidat	k5eAaPmIp1nP	
+nakrájený	nakrájený	k2eAgInSc4d1	
+salám	salám	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Počkáme	počkat	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+až	až	k8xS	
+se	se	k3xPyFc4	
+všechno	všechen	k3xTgNnSc1	
+osmahne	osmahnout	k5eAaPmIp3nS	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Poté	poté	k6eAd1	
+přidáme	přidat	k5eAaPmIp1nP	
+červenou	červený	k2eAgFnSc4d1	
+papriku	paprika	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+gulášové	gulášový	k2eAgNnSc4d1	
+koření	koření	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+majoránku	majoránka	k1gFnSc4	
+a	a	k8xC	
+prohřejeme	prohřát	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidáme	přidat	k5eAaPmIp1nP	
+vývar	vývar	k1gInSc4	
+<g/>	
+,	,	kIx,	
+pokud	pokud	k8xS	
+máme	mít	k5eAaImIp1nP	
+nebo	nebo	k8xC	
+vodu	voda	k1gFnSc4	
+a	a	k8xC	
+masox	masox	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+K	k	k7c3	
+tomu	ten	k3xDgMnSc3	
+dáme	dát	k5eAaPmIp1nP	
+na	na	k7c4	
+jemno	jemno	k1gNnSc4	
+nakrájené	nakrájený	k2eAgFnSc2d1	
+brambory	brambora	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Necháme	nechat	k5eAaPmIp1nP	
+vařit	vařit	k5eAaImF	
+<g/>	
+,	,	kIx,	
+dokud	dokud	k8xS	
+nejsou	být	k5eNaImIp3nP	
+brambory	brambora	k1gFnPc4	
+měkké	měkký	k2eAgFnPc4d1	
+(	(	kIx(	
+<g/>	
+můžeme	moct	k5eAaImIp1nP	
+tam	tam	k6eAd1	
+dát	dát	k5eAaPmF	
+i	i	k9	
+už	už	k6eAd1	
+uvařené	uvařený	k2eAgInPc1d1	
+brambory	brambor	k1gInPc1	
+<g/>	
+,	,	kIx,	
+tím	ten	k3xDgNnSc7	
+se	se	k3xPyFc4	
+nám	my	k3xPp1nPc3	
+zkrátí	zkrátit	k5eAaPmIp3nS	
+doba	doba	k1gFnSc1	
+vaření	vaření	k1gNnSc2	
+<g/>	
+)	)	kIx)	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zahustíme	zahustit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+můžeme	moct	k5eAaImIp1nP	
+starším	starý	k2eAgInSc7d2	
+chlebem	chléb	k1gInSc7	
+<g/>	
+,	,	kIx,	
+pokud	pokud	k8xS	
+máme	mít	k5eAaImIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Když	když	k8xS	
+ne	ne	k9	
+<g/>	
+,	,	kIx,	
+tak	tak	k8xC,k8xS	
+použijeme	použít	k5eAaPmIp1nP	
+jíšku	jíška	k1gFnSc4	
+buď	buď	k8xC	
+vlastní	vlastní	k2eAgFnPc4d1	
+výroby	výroba	k1gFnPc4	
+nebo	nebo	k8xC	
+koupenou	koupený	k2eAgFnSc4d1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+A	a	k8xC	
+na	na	k7c4	
+poslední	poslední	k2eAgFnSc4d1	
+2	#num#	k4	
+minutky	minutka	k1gFnSc2	
+přidáme	přidat	k5eAaPmIp1nP	
+česnek	česnek	k1gInSc4	
+<g/>	
+,	,	kIx,	
+zůstane	zůstat	k5eAaPmIp3nS	
+mu	on	k3xPp3gMnSc3	
+jeho	jeho	k3xOp3gNnSc1	
+aroma	aroma	k1gNnSc1	
+a	a	k8xC	
+síla	síla	k1gFnSc1	
+<g/>	
+,	,	kIx,	
+než	než	k8xS	
+když	když	k8xS	
+ho	on	k3xPp3gMnSc4	
+tam	tam	k6eAd1	
+dáme	dát	k5eAaPmIp1nP	
+s	s	k7c7	
+ostatními	ostatní	k2eAgFnPc7d1	
+ingrediencemi	ingredience	k1gFnPc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidáme	přidat	k5eAaPmIp1nP	
+také	také	k9	
+lžičku	lžička	k1gFnSc4	
+podravky	podravka	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	

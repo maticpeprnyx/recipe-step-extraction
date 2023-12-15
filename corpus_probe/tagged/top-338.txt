@@ -1,0 +1,122 @@
+<s>	
+Špekáčky	špekáček	k1gInPc1	
+oloupeme	oloupat	k5eAaPmIp1nP	
+a	a	k8xC	
+s	s	k7c7	
+cibulí	cibule	k1gFnSc7	
+je	on	k3xPp3gNnPc4	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+půlkolečka	půlkolečko	k1gNnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Všechny	všechen	k3xTgFnPc4	
+suroviny	surovina	k1gFnPc4	
+na	na	k7c4	
+nálev	nálev	k1gInSc4	
+dáme	dát	k5eAaPmIp1nP	
+do	do	k7c2	
+kastrůlku	kastrůlek	k1gInSc2	
+a	a	k8xC	
+svaříme	svařit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+sklenice	sklenice	k1gFnSc2	
+dáme	dát	k5eAaPmIp1nP	
+třetinu	třetina	k1gFnSc4	
+nakrájených	nakrájený	k2eAgInPc2d1	
+špekáčků	špekáček	k1gInPc2	
+a	a	k8xC	
+cibule	cibule	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+zalijeme	zalít	k5eAaPmIp1nP	
+částí	část	k1gFnSc7	
+horkého	horký	k2eAgInSc2d1	
+nálevu	nálev	k1gInSc2	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+další	další	k2eAgFnSc4d1	
+třetinu	třetina	k1gFnSc4	
+špekáčků	špekáček	k1gInPc2	
+a	a	k8xC	
+cibule	cibule	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+opět	opět	k6eAd1	
+zalijeme	zalít	k5eAaPmIp1nP	
+částí	část	k1gFnSc7	
+nálevu	nálev	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Naskládáme	naskládat	k5eAaPmIp1nP	
+zbytek	zbytek	k1gInSc4	
+špekáčků	špekáček	k1gInPc2	
+s	s	k7c7	
+cibulí	cibule	k1gFnSc7	
+a	a	k8xC	
+dolijeme	dolít	k5eAaPmIp1nP	
+zbylý	zbylý	k2eAgInSc4d1	
+nálev	nálev	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pevně	pevně	k6eAd1	
+zavíčkujeme	zavíčkovat	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+sklenici	sklenice	k1gFnSc4	
+obrátíme	obrátit	k5eAaPmIp1nP	
+vzhůru	vzhůru	k6eAd1	
+nohama	noha	k1gFnPc7	
+a	a	k8xC	
+zpět	zpět	k6eAd1	
+(	(	kIx(	
+<g/>	
+nálev	nálev	k1gInSc1	
+se	se	k3xPyFc4	
+tak	tak	k6eAd1	
+dostane	dostat	k5eAaPmIp3nS	
+ke	k	k7c3	
+všem	všechen	k3xTgInPc3	
+kouskům	kousek	k1gInPc3	
+<g/>	
+)	)	kIx)	
+a	a	k8xC	
+po	po	k7c6	
+prochladnutí	prochladnutí	k1gNnSc6	
+uložíme	uložit	k5eAaPmIp1nP	
+do	do	k7c2	
+lednice	lednice	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Když	když	k8xS	
+se	se	k3xPyFc4	
+v	v	k7c6	
+lednici	lednice	k1gFnSc6	
+vychladí	vychladit	k5eAaPmIp3nS	
+<g/>	
+,	,	kIx,	
+můžeme	moct	k5eAaImIp1nP	
+konzumovat	konzumovat	k5eAaBmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podáváme	podávat	k5eAaImIp1nP	
+s	s	k7c7	
+chlebem	chléb	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	

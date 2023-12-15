@@ -1,0 +1,162 @@
+<s>	
+Vařené	vařený	k2eAgInPc4d1	
+brambory	brambor	k1gInPc4	
+ve	v	k7c6	
+slupce	slupka	k1gFnSc6	
+oloupeme	oloupat	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+pokrájíme	pokrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+plátky	plátek	k1gInPc4	
+či	či	k8xC	
+nudličky	nudlička	k1gFnPc4	
+a	a	k8xC	
+dáme	dát	k5eAaPmIp1nP	
+do	do	k7c2	
+mísy	mísa	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Použít	použít	k5eAaPmF	
+můžeme	moct	k5eAaImIp1nP	
+i	i	k9	
+vařené	vařený	k2eAgFnPc1d1	
+brambory	brambora	k1gFnPc1	
+<g/>	
+,	,	kIx,	
+které	který	k3yRgInPc1	
+nám	my	k3xPp1nPc3	
+zbyly	zbýt	k5eAaPmAgInP	
+od	od	k7c2	
+oběda	oběd	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zeleninu	zelenina	k1gFnSc4	
+volíme	volit	k5eAaImIp1nP	
+dle	dle	k7c2	
+vlastní	vlastní	k2eAgFnSc2d1	
+chuti	chuť	k1gFnSc2	
+a	a	k8xC	
+množství	množství	k1gNnSc1	
+by	by	kYmCp3nS	
+mělo	mít	k5eAaImAgNnS	
+být	být	k5eAaImF	
+zhruba	zhruba	k6eAd1	
+takové	takový	k3xDgNnSc1	
+nebo	nebo	k8xC	
+o	o	k7c4	
+něco	něco	k3yInSc4	
+málo	málo	k1gNnSc1	
+menší	malý	k2eAgFnSc4d2	
+<g/>	
+,	,	kIx,	
+než	než	k8xS	
+máme	mít	k5eAaImIp1nP	
+množství	množství	k1gNnSc4	
+brambor	brambora	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Tu	ten	k3xDgFnSc4	
+očistíme	očistit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+okořeníme	okořenit	k5eAaPmIp1nP	
+a	a	k8xC	
+na	na	k7c6	
+grilu	gril	k1gInSc6	
+potřeném	potřený	k2eAgInSc6d1	
+slaninou	slanina	k1gFnSc7	
+či	či	k8xC	
+olejem	olej	k1gInSc7	
+ogrilujeme	ogrilovat	k5eAaPmIp1nP	
+dozlatova	dozlatova	k6eAd1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Po	po	k7c6	
+ogrilování	ogrilování	k1gNnSc6	
+ji	on	k3xPp3gFnSc4	
+necháme	nechat	k5eAaPmIp1nP	
+na	na	k7c6	
+talíři	talíř	k1gInSc6	
+částečně	částečně	k6eAd1	
+zchladnout	zchladnout	k5eAaPmF	
+<g/>	
+,	,	kIx,	
+pokrájíme	pokrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+menší	malý	k2eAgInPc4d2	
+kousky	kousek	k1gInPc4	
+a	a	k8xC	
+společně	společně	k6eAd1	
+se	s	k7c7	
+šťávou	šťáva	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+která	který	k3yRgFnSc1	
+se	se	k3xPyFc4	
+ze	z	k7c2	
+zeleniny	zelenina	k1gFnSc2	
+uvolnila	uvolnit	k5eAaPmAgFnS	
+na	na	k7c4	
+talířek	talířek	k1gInSc4	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+k	k	k7c3	
+pokrájeným	pokrájený	k2eAgFnPc3d1	
+bramborám	brambora	k1gFnPc3	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Osolíme	osolit	k5eAaPmIp1nP	
+nebo	nebo	k8xC	
+zakapeme	zakapat	k5eAaPmIp1nP	
+sojovou	sojový	k2eAgFnSc7d1	
+omáčkou	omáčka	k1gFnSc7	
+a	a	k8xC	
+můžeme	moct	k5eAaImIp1nP	
+podávat	podávat	k5eAaImF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Salát	salát	k1gInSc4	
+můžeme	moct	k5eAaImIp1nP	
+podávat	podávat	k5eAaImF	
+buď	buď	k8xC	
+čerstvě	čerstvě	k6eAd1	
+připravený	připravený	k2eAgInSc1d1	
+nebo	nebo	k8xC	
+ho	on	k3xPp3gInSc4	
+můžeme	moct	k5eAaImIp1nP	
+vychladit	vychladit	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podáváme	podávat	k5eAaImIp1nP	
+samostatně	samostatně	k6eAd1	
+jako	jako	k8xS,k8xC	
+bezmasý	bezmasý	k2eAgInSc4d1	
+pokrm	pokrm	k1gInSc4	
+nebo	nebo	k8xC	
+ke	k	k7c3	
+grilovanému	grilovaný	k2eAgInSc3d1	
+<g/>	
+,	,	kIx,	
+pečenému	pečený	k2eAgNnSc3d1	
+či	či	k8xC	
+smaženému	smažený	k2eAgNnSc3d1	
+masu	maso	k1gNnSc3	
+<g/>	
+.	.	kIx.	
+</s>	
