@@ -35,17 +35,11 @@ def is_third_person(tag: str) -> bool:
     return get_attribute_value(tag, "p") == "p3" 
 
 def same_mood(tag_1: str, tag_2: str) -> bool:
-    """
-    Returns true if both tags have the same mood.
-    """
     mood_1 = get_attribute_value(tag_1, "m")
     mood_2 = get_attribute_value(tag_2, "m")
     return mood_1 == mood_2
 
 def same_person(tag_1: str, tag_2: str) -> bool:
-    """
-    Returns true if both tags have the same person.
-    """
     person_1 = get_attribute_value(tag_1, "p")
     person_2 = get_attribute_value(tag_2, "p")
     return person_1 == person_2
