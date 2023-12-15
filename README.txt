@@ -1,35 +1,64 @@
 The repository has the following structure:
 .
 ├── corpus_probe
+│   ├── list_of_recipes.txt
 │   ├── code
 │   │   ├── APIs.py
-│   │   ├── counter.py
+│   │   ├── language_detector.py
 │   │   ├── open_file.py
-│   │   └── tagger.py
-│   ├── frequencies.ps1
-│   ├── list_of_recipes.txt
-│   ├── most_frequent_verb_tags.txt
-│   ├── process.ps1
+│   │   ├── tagger.py
+│   │   ├── toprecepty.py
+│   │   └── verb_counter.py
 │   ├── frequencies
-│   │   ├── ape-01.txt
+│   │   ├── top-001.txt
 │   │   ┊
-│   │   └── var-20.txt
+│   │   └── top-499.txt
 │   ├── recipes
-│   │   ├── ape-01.txt
+│   │   ├── top-001.txt
 │   │   ┊
-│   │   └── var-20.txt
+│   │   └── top-499.txt
 │   └── tagged
-│       ├── ape-01.txt
+│       ├── top-001.txt
 │       ┊
-│       └── var-20.txt
+│       └── top-499.txt
 └── recipe_inflector
-    ├── action_verbs.py
-    ├── APIs.py
-    ├── open_file.py
-    ├── success_rate.py
-    ├── tag.py
-    ├── test_input
-    │   ├── brokolicovosýrové_placičky.txt
-    │   └── cookies_s_lentilkami.txt
-    ├── transform_text.py
-    └── verb_tags.py
+    ├── action_verbs.py
+    ├── APIs.py
+    ├── open_file.py
+    ├── requirements.txt
+    ├── success_rate.py
+    ├── tag.py
+    ├── transform_text.py
+    ├── verb_tags.py
+    ├── action_verbs_output
+    │   ├── brokolicovosýrové_placičky_auto.txt
+    │   ├── brokolicovosýrové_placičky_manual.txt
+    │   ├── cookies_s_lentilkami_auto.txt
+    │   ├── cookies_s_lentilkami_manual.txt
+    │   ├── recept_10_auto.txt
+    │   ├── recept_10_manual.txt
+    │   ├── recept_1_auto.txt
+    │   ├── recept_1_manual.txt
+    │   ├── recept_2_auto.txt
+    │   ├── recept_2_manual.txt
+    │   ├── recept_3_auto.txt
+    │   ├── recept_3_manual.txt
+    │   ├── recept_5_auto.txt
+    │   ├── recept_5_manual.txt
+    │   ├── recept_7_auto.txt
+    │   ├── recept_7_manual.txt
+    │   ├── recept_8_auto.txt
+    │   ├── recept_8_manual.txt
+    │   ├── recept_9_auto.txt
+    │   └── recept_9_manual.txt
+    └── test_input
+        ├── brokolicovosýrové_placičky.txt
+        ├── cookies_s_lentilkami.txt
+        ├── recept_10.txt
+        ├── recept_1.txt
+        ├── recept_2.txt
+        ├── recept_3.txt
+        ├── recept_5.txt
+        ├── recept_7.txt
+        ├── recept_8.txt
+        └── recept_9.txt
