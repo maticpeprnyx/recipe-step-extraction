@@ -1,0 +1,7 @@
+k5eAaPmIp1nP	12	57.14 %
+k5eAaPmF	3	14.29 %
+k5eAaImIp1nP	2	9.52 %
+k5eAaPmIp3nP	1	4.76 %
+k5eAaImF	1	4.76 %
+k5eAaPmIp3nS	1	4.76 %
+k5eAaPmIp1nP,k5eAaImIp1nP	1	4.76 %
