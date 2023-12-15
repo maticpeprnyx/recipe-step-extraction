@@ -13,10 +13,11 @@ def linearize_vertical(vertical: list[list[str]]) -> str:
     """
     output_text: list = list()
     for token in vertical:
-        if not is_structural(token):
+        if not is_structural(token):    # get rid of structural tokens
             output_text.append(token[0])
 
     output_string = " ".join(output_text)
+    # Could work with glue, this is way easier
     output_string = output_string.replace(" ,", ",")
     output_string = output_string.replace(" .", ".")
     output_string = output_string.replace(" ?", "?")
@@ -36,7 +37,7 @@ def main():
 
         # Open specified recipe and add morfological tags.
         text: str = open_bare(filepath)
-        if len(text) > 90000:
+        if len(text) > 90000:    # I am being nice to NLP Centre, real limit is 100000
             sys.stderr.write("Error: The text is too long.")
             return 1
 
