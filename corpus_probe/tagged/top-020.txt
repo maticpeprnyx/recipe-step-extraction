@@ -1,0 +1,146 @@
+<s>	
+Každé	každý	k3xTgNnSc4	
+prso	prso	k1gNnSc4	
+překrojíme	překrojit	k5eAaPmIp1nP	
+na	na	k7c4	
+2	#num#	k4	
+plátky	plátek	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Trošku	troška	k1gFnSc4	
+naklepeme	naklepat	k5eAaPmIp1nP,k5eAaBmIp1nP	
+<g/>	
+,	,	kIx,	
+osolíme	osolit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+opepříme	opepřit	k5eAaPmIp1nP	
+a	a	k8xC	
+z	z	k7c2	
+jedné	jeden	k4xCgFnSc2	
+strany	strana	k1gFnSc2	
+potřeme	potřít	k5eAaPmIp1nP	
+hořčicí	hořčice	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Listy	lista	k1gFnPc4	
+kapusty	kapusta	k1gFnSc2	
+dáme	dát	k5eAaPmIp1nP	
+na	na	k7c4	
+několim	několim	k1gInSc4	
+minut	minuta	k1gFnPc2	
+do	do	k7c2	
+horké	horký	k2eAgFnSc2d1	
+vody	voda	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+aby	aby	kYmCp3nP	
+změkly	změknout	k5eAaPmAgFnP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c4	
+každý	každý	k3xTgInSc4	
+plátek	plátek	k1gInSc4	
+masa	maso	k1gNnSc2	
+si	se	k3xPyFc3	
+upravíme	upravit	k5eAaPmIp1nP	
+list	list	k1gInSc4	
+kapusty	kapusta	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+poklademe	poklást	k5eAaPmIp1nP	
+plátkem	plátek	k1gInSc7	
+šunky	šunka	k1gFnSc2	
+a	a	k8xC	
+na	na	k7c4	
+konec	konec	k1gInSc4	
+plátku	plátek	k1gInSc2	
+dáme	dát	k5eAaPmIp1nP	
+špalíček	špalíček	k1gInSc4	
+sýra	sýr	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zarolujeme	zarolovat	k5eAaPmIp1nP	
+do	do	k7c2	
+ruličky	rulička	k1gFnSc2	
+a	a	k8xC	
+pokud	pokud	k8xS	
+je	být	k5eAaImIp3nS	
+třeba	třeba	k6eAd1	
+<g/>	
+,	,	kIx,	
+sepneme	sepnout	k5eAaPmIp1nP	
+párátkem	párátko	k1gNnSc7	
+a	a	k8xC	
+posypeme	posypat	k5eAaPmIp1nP	
+trochou	trocha	k1gFnSc7	
+grilovaného	grilovaný	k2eAgNnSc2d1	
+koření	koření	k1gNnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Ruličky	rulička	k1gFnPc1	
+opečeme	opéct	k5eAaPmIp1nP	
+ze	z	k7c2	
+všech	všechen	k3xTgFnPc2	
+stran	strana	k1gFnPc2	
+na	na	k7c6	
+oleji	olej	k1gInSc6	
+<g/>	
+,	,	kIx,	
+aby	aby	kYmCp3nP	
+se	se	k3xPyFc4	
+zatáhly	zatáhnout	k5eAaPmAgInP	
+<g/>	
+,	,	kIx,	
+podlejeme	podlít	k5eAaPmIp1nP	
+trochou	trocha	k1gFnSc7	
+vody	voda	k1gFnSc2	
+a	a	k8xC	
+dáme	dát	k5eAaPmIp1nP	
+péct	péct	k5eAaImF	
+do	do	k7c2	
+trouby	trouba	k1gFnSc2	
+na	na	k7c4	
+cca	cca	kA	
+50	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Během	během	k7c2	
+pečení	pečení	k1gNnSc2	
+obracíme	obracet	k5eAaImIp1nP	
+a	a	k8xC	
+poléváme	polévat	k5eAaImIp1nP	
+výpekem	výpek	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pokud	pokud	k8xS	
+je	být	k5eAaImIp3nS	
+třeba	třeba	k6eAd1	
+a	a	k8xC	
+chceme	chtít	k5eAaImIp1nP	
+více	mnoho	k6eAd2	
+šťávy	šťáva	k1gFnPc1	
+<g/>	
+,	,	kIx,	
+podlijeme	podlít	k5eAaPmIp1nP	
+ještě	ještě	k9	
+troškou	troška	k1gFnSc7	
+vody	voda	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	

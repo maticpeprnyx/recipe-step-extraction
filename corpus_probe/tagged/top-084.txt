@@ -1,0 +1,60 @@
+<s>	
+Salát	salát	k1gInSc4	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+nudličky	nudlička	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+nahrubo	nahrubo	k6eAd1	
+nastrouhaný	nastrouhaný	k2eAgInSc4d1	
+sýr	sýr	k1gInSc4	
+<g/>	
+,	,	kIx,	
+ředkvičky	ředkvička	k1gFnPc4	
+a	a	k8xC	
+šunku	šunka	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidáme	přidat	k5eAaPmIp1nP	
+nasekanou	nasekaný	k2eAgFnSc4d1	
+pažitku	pažitka	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Citron	citron	k1gInSc4	
+vymačkáme	vymačkat	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+smícháme	smíchat	k5eAaPmIp1nP	
+s	s	k7c7	
+cukrem	cukr	k1gInSc7	
+a	a	k8xC	
+přidáme	přidat	k5eAaPmIp1nP	
+trochu	trocha	k1gFnSc4	
+soli	sůl	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Promícháme	promíchat	k5eAaPmIp1nP	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+cukr	cukr	k1gInSc4	
+rozpustit	rozpustit	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Před	před	k7c7	
+podáváním	podávání	k1gNnSc7	
+vlijeme	vlít	k5eAaPmIp1nP	
+zálivku	zálivka	k1gFnSc4	
+a	a	k8xC	
+promícháme	promíchat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	

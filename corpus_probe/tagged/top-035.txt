@@ -1,0 +1,46 @@
+<s>	
+Fazole	fazole	k1gFnPc4	
+přesypeme	přesypat	k5eAaPmIp1nP	
+do	do	k7c2	
+misky	miska	k1gFnSc2	
+a	a	k8xC	
+přidáme	přidat	k5eAaPmIp1nP	
+k	k	k7c3	
+nim	on	k3xPp3gInPc3	
+tuňáka	tuňák	k1gMnSc4	
+i	i	k9	
+s	s	k7c7	
+olivovým	olivový	k2eAgInSc7d1	
+olejem	olej	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+fazolí	fazole	k1gFnPc2	
+vmícháme	vmíchat	k5eAaPmIp1nP	
+na	na	k7c4	
+proužky	proužka	k1gFnPc4	
+nakrájenou	nakrájený	k2eAgFnSc4d1	
+červenou	červený	k2eAgFnSc4d1	
+cibuli	cibule	k1gFnSc4	
+a	a	k8xC	
+citronovou	citronový	k2eAgFnSc4d1	
+šťávu	šťáva	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Salát	salát	k1gInSc4	
+ochutíme	ochutit	k5eAaPmIp1nP	
+solí	sůl	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+pepřem	pepř	k1gInSc7	
+a	a	k8xC	
+ozdobíme	ozdobit	k5eAaPmIp1nP	
+nasekanou	nasekaný	k2eAgFnSc7d1	
+petrželkou	petrželka	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	

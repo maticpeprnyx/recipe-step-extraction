@@ -1,0 +1,239 @@
+<s>	
+Cibuli	cibule	k1gFnSc4	
+nakrajime	nakrajimat	k5eAaPmIp3nS	
+na	na	k7c4	
+drobno	drobna	k1gFnSc5	
+<g/>	
+,	,	kIx,	
+promichame	promicham	k1gInSc5	
+s	s	k7c7	
+mletym	mletý	k2eAgNnSc7d1wH	
+masem	maso	k1gNnSc7	
+<g/>	
+,	,	kIx,	
+pridame	pridam	k1gInSc5	
+drobne	drobnout	k5eAaPmIp3nS	
+posekanou	posekaný	k2eAgFnSc4d1	
+petrzelku	petrzelka	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+koriandr	koriandr	k1gInSc1	
+a	a	k8xC	
+matu	mást	k5eAaImIp1nS	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vmichame	Vmicham	k1gInSc5	
+nove	nov	k1gInSc5	
+koreni	koret	k5eAaBmNgMnP,k5eAaImNgMnP,k5eAaPmNgMnP	
+<g/>	
+,	,	kIx,	
+skorici	skoric	k1gMnPc1	
+<g/>	
+,	,	kIx,	
+rajsky	rajsky	k6eAd1	
+protlak	protlak	k1gInSc1	
+<g/>	
+,	,	kIx,	
+polevkove	polevkov	k1gInSc5	
+koreni	koret	k5eAaBmNgMnP,k5eAaImNgMnP,k5eAaPmNgMnP	
+<g/>	
+,	,	kIx,	
+sul	sout	k5eAaImAgInS	
+<g/>	
+,	,	kIx,	
+pepr	pepr	k1gInSc1	
+a	a	k8xC	
+rukou	ruka	k1gFnPc2	
+radne	radnout	k5eAaPmIp3nS,k5eAaImIp3nS	
+propracujeme	propracovat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Masovou	masový	k2eAgFnSc7d1	
+smes	smesit	k5eAaPmRp2nS	
+prendame	prendam	k1gInSc5	
+na	na	k7c4	
+plech	plech	k1gInSc4	
+nebo	nebo	k8xC	
+do	do	k7c2	
+zapekaci	zapekace	k1gFnSc4	
+nadoby	nadoba	k1gFnSc2	
+(	(	kIx(	
+<g/>	
+ja	ja	k9wN	
+pouzila	pouzit	k5eAaPmAgFnS	
+kulatou	kulatý	k2eAgFnSc4d1	
+o	o	k7c6	
+prumeru	prumer	k1gInSc6	
+34	#num#	k4	
+cm	cm	kA	
+<g/>	
+)	)	kIx)	
+a	a	k8xC	
+rukama	ruka	k1gFnPc7	
+rozprostreme	rozprostrat	k5eAaPmIp1nP,k5eAaImIp1nP,k5eAaBmIp1nP	
+(	(	kIx(	
+<g/>	
+viz	vidět	k5eAaImRp2nS	
+<g/>	
+.	.	kIx.	
+foto	foto	k1gNnSc1	
+<g/>	
+)	)	kIx)	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Kraje	kraj	k1gInSc2	
+lehce	lehko	k6eAd1	
+vytahneme	vytahnout	k5eAaImIp1nP,k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+maso	maso	k1gNnSc4	
+se	se	k3xPyFc4	
+spece	speko	k6eAd1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vrstva	vrstva	k1gFnSc1	
+masa	maso	k1gNnSc2	
+by	by	kYmCp3nS	
+nemela	mlít	k5eNaImSgInS	
+byt	byt	k1gInSc4	
+prilis	prilis	k1gFnSc7	
+silna	silnum	k1gNnSc2	
+<g/>	
+,	,	kIx,	
+asi	asi	k9	
+0,5	0,5	k?	
+cm	cm	kA	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Maso	maso	k1gNnSc4	
+poklademe	poklást	k5eAaPmIp1nP	
+platky	platek	k1gInPc1	
+brambor	brambora	k1gFnPc2	
+<g/>	
+,	,	kIx,	
+rajcat	rajcat	k5eAaPmF	
+a	a	k8xC	
+cibule	cibule	k1gFnSc1	
+(	(	kIx(	
+<g/>	
+ja	ja	k9wN	
+dala	dát	k5eAaPmAgFnS	
+celkem	celkem	k6eAd1	
+4	#num#	k4	
+cibule	cibule	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+2	#num#	k4	
+vetsi	vetse	k1gFnSc3	
+brambory	brambora	k1gFnSc2	
+a	a	k8xC	
+3	#num#	k4	
+velka	velka	k1gFnSc1	
+rajcata	rajcata	k1gFnSc1	
+<g/>	
+)	)	kIx)	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zeleninu	zelenina	k1gFnSc4	
+osolime	osolimat	k5eAaPmIp3nS	
+a	a	k8xC	
+operime	operimat	k5eAaPmIp3nS	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zalijeme	zalít	k5eAaPmIp1nP	
+vodou	voda	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+cca	cca	kA	
+3	#num#	k4	
+-	-	kIx~	
+4	#num#	k4	
+dcl	dcl	k?	
+<g/>	
+,	,	kIx,	
+zelenina	zelenina	k1gFnSc1	
+je	být	k5eAaImIp3nS	
+temer	temer	k1gInSc4	
+potopena	potopit	k5eAaPmNgFnS	
+<g/>	
+,	,	kIx,	
+a	a	k8xC	
+pri	pri	k?	
+200	#num#	k4	
+stupnich	stupnich	k1gMnSc1	
+(	(	kIx(	
+<g/>	
+horni	hornit	k5eAaImRp2nS,k5eAaPmRp2nS	
+a	a	k8xC	
+dolni	dolnout	k5eAaImRp2nS,k5eAaPmRp2nS	
+ohrev	ohrva	k1gFnPc2	
+<g/>	
+)	)	kIx)	
+odkryte	odkryt	k1gInSc5	
+80	#num#	k4	
+minut	minuta	k1gFnPc2	
+peceme	pecout	k5eAaPmIp1nP,k5eAaImIp1nP,k5eAaBmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Cast	Cast	k1gInSc1	
+vody	voda	k1gFnSc2	
+se	se	k3xPyFc4	
+odpari	odparit	k5eAaImRp2nS,k5eAaPmRp2nS	
+<g/>	
+,	,	kIx,	
+cast	cast	k5eAaPmF	
+vody	voda	k1gFnSc2	
+se	se	k3xPyFc4	
+smicha	smicha	k1gFnSc1	
+s	s	k7c7	
+vypekem	vypek	k1gInSc7	
+z	z	k7c2	
+masa	maso	k1gNnSc2	
+a	a	k8xC	
+zeleniny	zelenina	k1gFnSc2	
+a	a	k8xC	
+dostane	dostat	k5eAaPmIp3nS	
+lahodnou	lahodný	k2eAgFnSc4d1	
+chut	chut	k1gMnSc1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Hotove	Hotov	k1gInSc5	
+nakrajime	nakrajimat	k5eAaPmIp3nS	
+a	a	k8xC	
+podavame	podavam	k1gInSc5	
+s	s	k7c7	
+chlebem	chléb	k1gInSc7	
+<g/>	
+,	,	kIx,	
+pomazankou	pomazanka	k1gFnSc7	
+z	z	k7c2	
+cizrny	cizrna	k1gFnSc2	
+(	(	kIx(	
+<g/>	
+hummus	hummus	k1gInSc1	
+<g/>	
+)	)	kIx)	
+a	a	k8xC	
+zeleninovymi	zeleninovy	k1gFnPc7	
+salaty	salata	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	

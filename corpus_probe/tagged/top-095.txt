@@ -1,0 +1,76 @@
+<s>	
+Smícháme	smíchat	k5eAaPmIp1nP	
+trochu	trocha	k1gFnSc4	
+oleje	olej	k1gInSc2	
+s	s	k7c7	
+česnekem	česnek	k1gInSc7	
+<g/>	
+,	,	kIx,	
+špetkou	špetka	k1gFnSc7	
+soli	sůl	k1gFnSc2	
+a	a	k8xC	
+nasekanými	nasekaný	k2eAgFnPc7d1	
+bylinkami	bylinka	k1gFnPc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Potřeme	potřít	k5eAaPmIp1nP	
+tím	ten	k3xDgNnSc7	
+ciabattu	ciabatta	k1gFnSc4	
+z	z	k7c2	
+obou	dva	k4xCgFnPc2	
+stran	strana	k1gFnPc2	
+a	a	k8xC	
+pod	pod	k7c7	
+grilem	gril	k1gInSc7	
+zapečeme	zapéct	k5eAaPmIp1nP	
+do	do	k7c2	
+křupava	křupava	k1gFnSc1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Sýr	sýr	k1gInSc4	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+plátky	plátek	k1gInPc4	
+a	a	k8xC	
+rozložíme	rozložit	k5eAaPmIp1nP	
+na	na	k7c4	
+opečený	opečený	k2eAgInSc4d1	
+chleba	chléb	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vložíme	vložit	k5eAaPmIp1nP	
+už	už	k6eAd1	
+jen	jen	k9	
+krátce	krátce	k6eAd1	
+pod	pod	k7c4	
+gril	gril	k1gInSc4	
+<g/>	
+,	,	kIx,	
+než	než	k8xS	
+se	se	k3xPyFc4	
+sýr	sýr	k1gInSc1	
+začne	začít	k5eAaPmIp3nS	
+roztékat	roztékat	k5eAaImF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Potřeme	potřít	k5eAaPmIp1nP	
+brusinkami	brusinka	k1gFnPc7	
+<g/>	
+,	,	kIx,	
+ozdobíme	ozdobit	k5eAaPmIp1nP	
+čerstvými	čerstvý	k2eAgFnPc7d1	
+bylinkami	bylinka	k1gFnPc7	
+a	a	k8xC	
+ihned	ihned	k6eAd1	
+podáváme	podávat	k5eAaImIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	

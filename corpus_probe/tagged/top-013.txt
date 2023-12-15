@@ -1,0 +1,115 @@
+<s>	
+Špek	špek	k1gInSc4	
+a	a	k8xC	
+cibuli	cibule	k1gFnSc4	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+drobné	drobný	k2eAgFnPc4d1	
+kostičky	kostička	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+klobásu	klobása	k1gFnSc4	
+na	na	k7c4	
+kolečka	kolečko	k1gNnPc4	
+a	a	k8xC	
+papriky	paprika	k1gFnPc4	
+na	na	k7c4	
+proužky	proužek	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Špek	špek	k1gInSc1	
+s	s	k7c7	
+klobásou	klobása	k1gFnSc7	
+necháme	nechat	k5eAaPmIp1nP	
+opéct	opéct	k5eAaPmF	
+a	a	k8xC	
+přidáme	přidat	k5eAaPmIp1nP	
+cibuli	cibule	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Po	po	k7c6	
+chvíli	chvíle	k1gFnSc6	
+přidáme	přidat	k5eAaPmIp1nP	
+papriky	paprika	k1gFnPc1	
+a	a	k8xC	
+orestujeme	orestovat	k5eAaPmIp1nP	
+je	on	k3xPp3gFnPc4	
+<g/>	
+,	,	kIx,	
+aby	aby	kYmCp3nP	
+lehce	lehko	k6eAd1	
+změkly	změknout	k5eAaPmAgFnP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Nakonec	nakonec	k6eAd1	
+přidáme	přidat	k5eAaPmIp1nP	
+rýži	rýže	k1gFnSc4	
+a	a	k8xC	
+společně	společně	k6eAd1	
+opékáme	opékat	k5eAaImIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Rýže	rýže	k1gFnSc1	
+se	se	k3xPyFc4	
+krásně	krásně	k6eAd1	
+obalí	obalit	k5eAaPmIp3nP	
+v	v	k7c6	
+paprikovém	paprikový	k2eAgInSc6d1	
+základu	základ	k1gInSc6	
+a	a	k8xC	
+nakonec	nakonec	k6eAd1	
+dochutíme	dochutit	k5eAaPmIp1nP	
+solí	sůl	k1gFnSc7	
+a	a	k8xC	
+pepřem	pepř	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Ihned	ihned	k6eAd1	
+podáváme	podávat	k5eAaImIp1nP	
+se	se	k3xPyFc4	
+salátem	salát	k1gInSc7	
+nebo	nebo	k8xC	
+sterilovanou	sterilovaný	k2eAgFnSc7d1	
+okurkou	okurka	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+rýže	rýže	k1gFnSc2	
+můžeme	moct	k5eAaImIp1nP	
+přidat	přidat	k5eAaPmF	
+bylinky	bylinka	k1gFnPc1	
+<g/>	
+,	,	kIx,	
+jako	jako	k8xC,k8xS	
+petrželku	petrželka	k1gFnSc4	
+nebo	nebo	k8xC	
+libeček	libeček	k1gInSc4	
+a	a	k8xC	
+na	na	k7c6	
+talíři	talíř	k1gInSc6	
+posypat	posypat	k5eAaPmF	
+strouhaným	strouhaný	k2eAgInSc7d1	
+sýrem	sýr	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Ale	ale	k8xC	
+není	být	k5eNaImIp3nS	
+to	ten	k3xDgNnSc1	
+nutné	nutný	k2eAgNnSc1d1	
+<g/>	
+.	.	kIx.	
+</s>	

@@ -1,0 +1,117 @@
+<s>	
+Brambory	brambora	k1gFnPc4	
+důkladně	důkladně	k6eAd1	
+omyjeme	omýt	k5eAaPmIp1nP	
+kartáčkem	kartáček	k1gInSc7	
+nebo	nebo	k8xC	
+oloupeme	oloupat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Dáme	dát	k5eAaPmIp1nP	
+vařit	vařit	k5eAaImF	
+do	do	k7c2	
+osolené	osolený	k2eAgFnSc2d1	
+vody	voda	k1gFnSc2	
+na	na	k7c4	
+cca	cca	kA	
+15	#num#	k4	
+<g/>	
+-	-	kIx~	
+<g/>	
+20	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Bylinkami	bylinka	k1gFnPc7	
+nešetříme	šetřit	k5eNaImIp1nP	
+<g/>	
+,	,	kIx,	
+opláchneme	opláchnout	k5eAaPmIp1nP	
+je	on	k3xPp3gFnPc4	
+a	a	k8xC	
+osušíme	osušit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c6	
+drobno	drobna	k1gFnSc5	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Část	část	k1gFnSc4	
+bylinek	bylinka	k1gFnPc2	
+smícháme	smíchat	k5eAaPmIp1nP	
+se	se	k3xPyFc4	
+smetanou	smetana	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Dochutíme	dochutit	k5eAaPmIp1nP	
+solí	sůl	k1gFnPc2	
+<g/>	
+,	,	kIx,	
+pepřem	pepř	k1gInSc7	
+a	a	k8xC	
+citronem	citron	k1gInSc7	
+<g/>	
+,	,	kIx,	
+případně	případně	k6eAd1	
+cukrem	cukr	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Brambory	brambora	k1gFnPc1	
+scedíme	scedit	k5eAaPmIp1nP	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+vypařit	vypařit	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Mezitím	mezitím	k6eAd1	
+na	na	k7c6	
+pánvičce	pánvička	k1gFnSc6	
+rozpustíme	rozpustit	k5eAaPmIp1nP	
+máslo	máslo	k1gNnSc4	
+se	s	k7c7	
+zbývajícími	zbývající	k2eAgFnPc7d1	
+bylinkami	bylinka	k1gFnPc7	
+a	a	k8xC	
+brambory	brambora	k1gFnPc1	
+v	v	k7c6	
+tom	ten	k3xDgNnSc6	
+promícháme	promíchat	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+aby	aby	kYmCp3nP	
+se	se	k3xPyFc4	
+celé	celá	k1gFnPc1	
+obalily	obalit	k5eAaPmAgFnP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c6	
+talíři	talíř	k1gInSc6	
+posypeme	posypat	k5eAaPmIp1nP	
+nakrájenou	nakrájený	k2eAgFnSc7d1	
+kapií	kapie	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+vejce	vejce	k1gNnPc4	
+a	a	k8xC	
+smetanu	smetana	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	

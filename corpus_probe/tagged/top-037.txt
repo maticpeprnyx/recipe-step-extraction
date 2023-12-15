@@ -1,0 +1,94 @@
+<s>	
+Ve	v	k7c6	
+vývaru	vývar	k1gInSc6	
+uvaříme	uvařit	k5eAaPmIp1nP	
+do	do	k7c2	
+poloměkka	poloměkek	k1gInSc2	
+očištěnou	očištěný	k2eAgFnSc4d1	
+<g/>	
+,	,	kIx,	
+na	na	k7c4	
+kolečka	kolečko	k1gNnPc4	
+nakrájenou	nakrájený	k2eAgFnSc4d1	
+mrkev	mrkev	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pak	pak	k6eAd1	
+přidáme	přidat	k5eAaPmIp1nP	
+na	na	k7c4	
+proužky	proužek	k1gInPc4	
+nakrájený	nakrájený	k2eAgInSc4d1	
+pórek	pórek	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Necháme	nechat	k5eAaPmIp1nP	
+vařit	vařit	k5eAaImF	
+<g/>	
+,	,	kIx,	
+dokud	dokud	k8xS	
+si	se	k3xPyFc3	
+nepřipravíme	připravit	k5eNaPmIp1nP	
+nočky	noček	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vejce	vejce	k1gNnPc4	
+<g/>	
+,	,	kIx,	
+mouku	mouka	k1gFnSc4	
+a	a	k8xC	
+bylinky	bylinka	k1gFnPc4	
+osolíme	osolit	k5eAaPmIp1nP	
+a	a	k8xC	
+důkladně	důkladně	k6eAd1	
+v	v	k7c6	
+hrnku	hrnek	k1gInSc6	
+rozmícháme	rozmíchat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pomocí	pomoc	k1gFnSc7	
+2	#num#	k4	
+lžiček	lžička	k1gFnPc2	
+tvoříme	tvořit	k5eAaImIp1nP	
+malé	malý	k2eAgInPc4d1	
+nočky	noček	k1gInPc4	
+<g/>	
+,	,	kIx,	
+které	který	k3yRgFnPc4	
+zavaříme	zavařit	k5eAaPmIp1nP	
+do	do	k7c2	
+polévky	polévka	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Když	když	k8xS	
+nočky	noček	k1gInPc1	
+vyplavou	vyplavat	k5eAaPmIp3nP	
+na	na	k7c4	
+povrch	povrch	k1gInSc4	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+do	do	k7c2	
+polévky	polévka	k1gFnSc2	
+mungo	mungo	k1gMnSc1	
+klíčky	klíček	k1gInPc1	
+<g/>	
+,	,	kIx,	
+podle	podle	k7c2	
+potřeby	potřeba	k1gFnSc2	
+dosolíme	dosolit	k5eAaPmIp1nP	
+a	a	k8xC	
+už	už	k6eAd1	
+nevaříme	vařit	k5eNaImIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	

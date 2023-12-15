@@ -1,0 +1,134 @@
+<s>	
+Ředkvičky	ředkvička	k1gFnPc4	
+omyjeme	omýt	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+osušíme	osušit	k5eAaPmIp1nP	
+a	a	k8xC	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+tenké	tenký	k2eAgInPc4d1	
+plátky	plátek	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Slaninu	slanina	k1gFnSc4	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+kousky	kousek	k1gInPc4	
+<g/>	
+,	,	kIx,	
+cibulku	cibulka	k1gFnSc4	
+a	a	k8xC	
+rajčátka	rajčátko	k1gNnPc4	
+na	na	k7c4	
+kolečka	kolečko	k1gNnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c4	
+pánev	pánev	k1gFnSc4	
+dáme	dát	k5eAaPmIp1nP	
+trošku	troška	k1gFnSc4	
+tuku	tuk	k1gInSc2	
+a	a	k8xC	
+vložíme	vložit	k5eAaPmIp1nP	
+ředkvičky	ředkvička	k1gFnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Posypeme	posypat	k5eAaPmIp1nP	
+slaninou	slanina	k1gFnSc7	
+a	a	k8xC	
+cibulkou	cibulka	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Minutku	minutka	k1gFnSc4	
+necháme	nechat	k5eAaPmIp1nP	
+restovat	restovat	k5eAaImF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vše	všechen	k3xTgNnSc4	
+zalijeme	zalít	k5eAaPmIp1nP	
+rozšlehanými	rozšlehaný	k2eAgMnPc7d1	
+<g/>	
+,	,	kIx,	
+osolenými	osolený	k2eAgNnPc7d1	
+a	a	k8xC	
+opepřenými	opepřený	k2eAgNnPc7d1	
+vejci	vejce	k1gNnPc7	
+s	s	k7c7	
+mlékem	mléko	k1gNnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pánev	pánev	k1gFnSc4	
+přikryjeme	přikrýt	k5eAaPmIp1nP	
+a	a	k8xC	
+pozvolna	pozvolna	k6eAd1	
+opékáme	opékat	k5eAaImIp1nP	
+<g/>	
+,	,	kIx,	
+neobracíme	obracet	k5eNaImIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Když	když	k8xS	
+vejce	vejce	k1gNnPc1	
+lehce	lehko	k6eAd1	
+ztuhnou	ztuhnout	k5eAaPmIp3nP	
+<g/>	
+,	,	kIx,	
+rozložíme	rozložit	k5eAaPmIp1nP	
+na	na	k7c4	
+jednu	jeden	k4xCgFnSc4	
+polovinu	polovina	k1gFnSc4	
+rajčátka	rajčátko	k1gNnSc2	
+a	a	k8xC	
+plátky	plátek	k1gInPc4	
+Hermelínu	hermelín	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Necháme	nechat	k5eAaPmIp1nP	
+omeletu	omeleta	k1gFnSc4	
+dojít	dojít	k5eAaPmF	
+a	a	k8xC	
+přesuneme	přesunout	k5eAaPmIp1nP	
+na	na	k7c4	
+talíř	talíř	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přehneme	přehnout	k5eAaPmIp1nP	
+polovinu	polovina	k1gFnSc4	
+omelety	omeleta	k1gFnSc2	
+na	na	k7c4	
+sýr	sýr	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Posypeme	posypat	k5eAaPmIp1nP	
+nakrájnou	nakrájný	k2eAgFnSc7d1	
+natí	nať	k1gFnSc7	
+z	z	k7c2	
+cibulky	cibulka	k1gFnSc2	
+a	a	k8xC	
+můžeme	moct	k5eAaImIp1nP	
+ihned	ihned	k6eAd1	
+horké	horký	k2eAgNnSc1d1	
+podávat	podávat	k5eAaImF	
+<g/>	
+.	.	kIx.	
+</s>	

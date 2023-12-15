@@ -1,0 +1,126 @@
+<s>	
+Feferonky	feferonka	k1gFnPc4	
+omyjeme	omýt	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+odstopkujeme	odstopkovat	k5eAaPmIp1nP	
+a	a	k8xC	
+rozmixujeme	rozmixovat	k5eAaPmIp1nP	
+i	i	k9	
+se	s	k7c7	
+semínky	semínko	k1gNnPc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Všechny	všechen	k3xTgFnPc4	
+suroviny	surovina	k1gFnPc4	
+(	(	kIx(	
+<g/>	
+kromě	kromě	k7c2	
+škrobu	škrob	k1gInSc2	
+a	a	k8xC	
+vody	voda	k1gFnSc2	
+<g/>	
+)	)	kIx)	
+dáme	dát	k5eAaPmIp1nP	
+do	do	k7c2	
+malého	malý	k2eAgInSc2d1	
+hrnce	hrnec	k1gInSc2	
+(	(	kIx(	
+<g/>	
+česnek	česnek	k1gInSc4	
+rozetřeme	rozetřít	k5eAaPmRp1nP	
+<g/>	
+)	)	kIx)	
+<g/>	
+,	,	kIx,	
+přivedeme	přivést	k5eAaPmIp1nP	
+k	k	k7c3	
+varu	var	k1gInSc3	
+a	a	k8xC	
+poté	poté	k6eAd1	
+ztlumíme	ztlumit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Takto	takto	k6eAd1	
+ji	on	k3xPp3gFnSc4	
+udržujeme	udržovat	k5eAaImIp1nP	
+3	#num#	k4	
+<g/>	
+–	–	k?	
+<g/>	
+5	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+,	,	kIx,	
+omáčka	omáčka	k1gFnSc1	
+by	by	kYmCp3nS	
+už	už	k6eAd1	
+neměla	mít	k5eNaImAgFnS	
+vařit	vařit	k5eAaImF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Poté	poté	k6eAd1	
+smícháme	smíchat	k5eAaPmIp1nP	
+škrob	škrob	k1gInSc4	
+s	s	k7c7	
+vodou	voda	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+dobře	dobře	k6eAd1	
+promícháme	promíchat	k5eAaPmIp1nP	
+a	a	k8xC	
+vmícháme	vmíchat	k5eAaPmIp1nP	
+do	do	k7c2	
+omáčky	omáčka	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Stáhneme	stáhnout	k5eAaPmIp1nP	
+teplotu	teplota	k1gFnSc4	
+na	na	k7c4	
+minimum	minimum	k1gNnSc4	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+na	na	k7c6	
+plotně	plotna	k1gFnSc6	
+ještě	ještě	k6eAd1	
+chvilku	chvilka	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Omáčka	omáčka	k1gFnSc1	
+je	být	k5eAaImIp3nS	
+výborná	výborná	k1gFnSc1	
+k	k	k7c3	
+nejrůznějším	různý	k2eAgNnPc3d3	
+masům	maso	k1gNnPc3	
+i	i	k8xC	
+zelenině	zelenina	k1gFnSc3	
+<g/>	
+,	,	kIx,	
+nebo	nebo	k8xC	
+do	do	k7c2	
+těstovin	těstovina	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+V	v	k7c6	
+lednici	lednice	k1gFnSc6	
+ve	v	k7c6	
+sklenici	sklenice	k1gFnSc6	
+vydrží	vydržet	k5eAaPmIp3nS	
+i	i	k9	
+několik	několik	k4yIc4	
+dní	den	k1gInPc2	
+<g/>	
+.	.	kIx.	
+</s>	

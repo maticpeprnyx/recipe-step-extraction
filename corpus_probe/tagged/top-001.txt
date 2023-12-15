@@ -1,0 +1,445 @@
+<s>	
+Těsto	těsto	k1gNnSc4	
+<g/>	
+:	:	kIx,	
+ve	v	k7c6	
+velké	velký	k2eAgFnSc6d1	
+míse	mísa	k1gFnSc6	
+nebo	nebo	k8xC	
+v	v	k7c6	
+míse	mísa	k1gFnSc6	
+kuchyňského	kuchyňský	k2eAgInSc2d1	
+robotu	robot	k1gInSc2	
+smícháme	smíchat	k5eAaPmIp1nP	
+mouku	mouka	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+ovesné	ovesný	k2eAgFnPc4d1	
+vločky	vločka	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+sůl	sůl	k1gFnSc4	
+a	a	k8xC	
+rozdrobíme	rozdrobit	k5eAaPmIp1nP	
+droždí	droždí	k1gNnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+V	v	k7c6	
+malé	malý	k2eAgFnSc6d1	
+misce	miska	k1gFnSc6	
+nebo	nebo	k8xC	
+větším	veliký	k2eAgInSc6d2	
+hrnku	hrnek	k1gInSc6	
+(	(	kIx(	
+<g/>	
+cca	cca	kA	
+0,5	0,5	k?	
+l	l	kA	
+<g/>	
+)	)	kIx)	
+ohřejeme	ohřát	k5eAaPmIp1nP	
+mléko	mléko	k1gNnSc4	
+tak	tak	k6eAd1	
+<g/>	
+,	,	kIx,	
+aby	aby	kYmCp3nS	
+bylo	být	k5eAaImAgNnS	
+dost	dost	k6eAd1	
+teplé	teplé	k1gNnSc1	
+<g/>	
+,	,	kIx,	
+ale	ale	k8xC	
+nevařilo	vařit	k5eNaImAgNnS	
+se	se	k3xPyFc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidáme	přidat	k5eAaPmIp1nP	
+máslo	máslo	k1gNnSc4	
+a	a	k8xC	
+za	za	k7c2	
+stálého	stálý	k2eAgNnSc2d1	
+míchání	míchání	k1gNnSc2	
+ho	on	k3xPp3gInSc4	
+necháme	nechat	k5eAaPmIp1nP	
+v	v	k7c6	
+mléce	mléko	k1gNnSc6	
+rozpustit	rozpustit	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vmícháme	vmíchat	k5eAaPmIp1nP	
+med	med	k1gInSc4	
+a	a	k8xC	
+vodu	voda	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Směs	směs	k1gFnSc4	
+mléka	mléko	k1gNnSc2	
+nalijeme	nalít	k5eAaPmIp1nP,k5eAaBmIp1nP	
+do	do	k7c2	
+suchých	suchý	k2eAgFnPc2d1	
+přísad	přísada	k1gFnPc2	
+a	a	k8xC	
+pomocí	pomocí	k7c2	
+hnětacího	hnětací	k2eAgInSc2d1	
+háku	hák	k1gInSc2	
+(	(	kIx(	
+<g/>	
+nebo	nebo	k8xC	
+vařečkou	vařečka	k1gFnSc7	
+<g/>	
+)	)	kIx)	
+vypracujeme	vypracovat	k5eAaPmIp1nP	
+hladké	hladký	k2eAgNnSc4d1	
+a	a	k8xC	
+pružné	pružný	k2eAgNnSc4d1	
+těsto	těsto	k1gNnSc4	
+(	(	kIx(	
+<g/>	
+cca	cca	kA	
+10	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+)	)	kIx)	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pokud	pokud	k8xS	
+je	být	k5eAaImIp3nS	
+těsto	těsto	k1gNnSc1	
+moc	moc	k1gFnSc1	
+lepkavé	lepkavý	k2eAgNnSc1d1	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+mouku	mouka	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+ale	ale	k8xC	
+vždy	vždy	k6eAd1	
+jen	jen	k9	
+po	po	k7c6	
+cca	cca	kA	
+10	#num#	k4	
+g.	g.	k?	
+5	#num#	k4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pokud	pokud	k8xS	
+je	být	k5eAaImIp3nS	
+moc	moc	k1gFnSc1	
+hutné	hutný	k2eAgFnSc2d1	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+vodu	voda	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+po	po	k7c6	
+1	#num#	k4	
+ČL	čl	kA	
+<g/>	
+.	.	kIx.	
+(	(	kIx(	
+<g/>	
+Já	já	k3xPp1nSc1	
+vždy	vždy	k6eAd1	
+začnu	začít	k5eAaPmIp1nS	
+s	s	k7c7	
+380	#num#	k4	
+g	g	kA	
+a	a	k8xC	
+obvykle	obvykle	k6eAd1	
+skončím	skončit	k5eAaPmIp1nS	
+na	na	k7c4	
+390	#num#	k4	
+g.	g.	k?	
+Před	před	k7c7	
+přidáním	přidání	k1gNnSc7	
+mouky	mouka	k1gFnSc2	
+nebo	nebo	k8xC	
+vody	voda	k1gFnSc2	
+musíme	muset	k5eAaImIp1nP	
+být	být	k5eAaImF	
+trpěliví	trpělivý	k2eAgMnPc1d1	
+-	-	kIx~	
+nejdříve	dříve	k6eAd3	
+bude	být	k5eAaImBp3nS	
+těsto	těsto	k1gNnSc1	
+hodně	hodně	k6eAd1	
+lepkavé	lepkavý	k2eAgNnSc1d1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pokud	pokud	k8xS	
+bude	být	k5eAaImBp3nS	
+lepkavé	lepkavý	k2eAgNnSc1d1	
+i	i	k9	
+po	po	k7c6	
+5	#num#	k4	
+minutách	minuta	k1gFnPc6	
+<g/>	
+,	,	kIx,	
+přidáváme	přidávat	k5eAaImIp1nP	
+postupně	postupně	k6eAd1	
+mouku	mouka	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+ale	ale	k8xC	
+vždy	vždy	k6eAd1	
+jen	jen	k9	
+po	po	k7c4	
+10	#num#	k4	
+g	g	kA	
+<g/>	
+)	)	kIx)	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Uhnětené	uhnětený	k2eAgNnSc4d1	
+těsto	těsto	k1gNnSc4	
+dáme	dát	k5eAaPmIp1nP	
+do	do	k7c2	
+lehce	lehko	k6eAd1	
+vymaštěné	vymaštěný	k2eAgFnPc4d1	
+mísy	mísa	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+přikryjeme	přikrýt	k5eAaPmIp1nP	
+fólií	fólie	k1gFnSc7	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+na	na	k7c6	
+teplém	teplý	k2eAgNnSc6d1	
+místě	místo	k1gNnSc6	
+vykynout	vykynout	k5eAaPmF	
+až	až	k8xS	
+zdvojnásobí	zdvojnásobit	k5eAaPmIp3nS	
+svůj	svůj	k3xOyFgInSc4	
+objem	objem	k1gInSc4	
+<g/>	
+,	,	kIx,	
+cca	cca	kA	
+1	#num#	k4	
+<g/>	
+/	/	kIx~	
+<g/>	
+2	#num#	k4	
+až	až	k9	
+1	#num#	k4	
+hodinu	hodina	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Po	po	k7c6	
+vykynutí	vykynutí	k1gNnSc6	
+těsto	těsto	k1gNnSc4	
+vyndáme	vyndat	k5eAaPmIp1nP	
+na	na	k7c4	
+vál	vál	k1gInSc4	
+a	a	k8xC	
+vyválíme	vyválet	k5eAaPmIp1nP	
+ho	on	k3xPp3gMnSc4	
+obdélníku	obdélník	k1gInSc2	
+vel	velo	k1gNnPc2	
+<g/>	
+.	.	kIx.	
+10	#num#	k4	
+x	x	k?	
+25	#num#	k4	
+cm	cm	kA	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Těsto	těsto	k1gNnSc4	
+pevně	pevně	k6eAd1	
+srolujeme	srolovat	k5eAaPmIp1nP	
+a	a	k8xC	
+bochník	bochník	k1gInSc4	
+vložíme	vložit	k5eAaPmIp1nP	
+do	do	k7c2	
+bochníkové	bochníkový	k2eAgFnSc2d1	
+pečící	pečící	k2eAgFnSc2d1	
+formy	forma	k1gFnSc2	
+(	(	kIx(	
+<g/>	
+vel	velo	k1gNnPc2	
+<g/>	
+.	.	kIx.	
+26	#num#	k4	
+<g/>	
+x	x	k?	
+<g/>	
+11	#num#	k4	
+cm	cm	kA	
+<g/>	
+)	)	kIx)	
+vyložené	vyložený	k2eAgMnPc4d1	
+pečicím	pečicí	k2eAgInSc7d1	
+papírem	papír	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přikryjeme	přikrýt	k5eAaPmIp1nP	
+utěrkou	utěrka	k1gFnSc7	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+asi	asi	k9	
+30	#num#	k4	
+-	-	kIx~	
+45	#num#	k4	
+minut	minuta	k1gFnPc2	
+kynout	kynout	k5eAaImF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Po	po	k7c6	
+20	#num#	k4	
+minutách	minuta	k1gFnPc6	
+předehřejeme	předehřát	k5eAaPmIp1nP	
+troubu	trouba	k1gFnSc4	
+na	na	k7c4	
+180	#num#	k4	
+<g/>	
+°	°	k?	
+<g/>	
+C	C	kA	
+a	a	k8xC	
+na	na	k7c4	
+spodní	spodní	k2eAgFnSc4d1	
+mřížku	mřížka	k1gFnSc4	
+v	v	k7c6	
+troubě	trouba	k1gFnSc6	
+dáme	dát	k5eAaPmIp1nP	
+malý	malý	k2eAgInSc4d1	
+hrnec	hrnec	k1gInSc4	
+<g/>	
+,	,	kIx,	
+do	do	k7c2	
+kterého	který	k3yRgMnSc2,k3yQgMnSc2,k3yIgMnSc2	
+nalijeme	nalít	k5eAaPmIp1nP,k5eAaBmIp1nP	
+0,5	0,5	k?	
+l	l	kA	
+vroucí	vroucí	k2eAgFnPc4d1	
+vody	voda	k1gFnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Jakmile	jakmile	k8xS	
+bochník	bochník	k1gInSc1	
+zdvojnásobil	zdvojnásobit	k5eAaPmAgInS	
+svůj	svůj	k3xOyFgInSc4	
+objem	objem	k1gInSc4	
+<g/>	
+,	,	kIx,	
+potřeme	potřít	k5eAaPmRp1nP	
+ho	on	k3xPp3gMnSc4	
+ohřátým	ohřátý	k2eAgInSc7d1	
+medem	med	k1gInSc7	
+a	a	k8xC	
+posypeme	posypat	k5eAaPmIp1nP	
+ovesnými	ovesný	k2eAgFnPc7d1	
+vločkami	vločka	k1gFnPc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pečeme	péct	k5eAaImIp1nP	
+40	#num#	k4	
+-	-	kIx~	
+50	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+,	,	kIx,	
+dozlatova	dozlatova	k6eAd1	
+nebo	nebo	k8xC	
+dokud	dokud	k8xS	
+vnitřní	vnitřní	k2eAgFnSc1d1	
+teplota	teplota	k1gFnSc1	
+chleba	chléb	k1gInSc2	
+nedosáhne	dosáhnout	k5eNaPmIp3nS	
+90	#num#	k4	
+<g/>	
+°	°	k?	
+<g/>	
+C.	C.	kA	
+Po	po	k7c6	
+upečení	upečení	k1gNnSc6	
+a	a	k8xC	
+před	před	k7c7	
+krájením	krájení	k1gNnSc7	
+necháme	nechat	k5eAaPmIp1nP	
+zcela	zcela	k6eAd1	
+vychladnout	vychladnout	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Nebuďte	být	k5eNaImRp2nP	
+netrpěliví	trpělivý	k2eNgMnPc1d1	
+a	a	k8xC	
+nechtějte	chtít	k5eNaImRp2nP	
+bochník	bochník	k1gInSc4	
+krájet	krájet	k5eAaImF	
+ještě	ještě	k6eAd1	
+teplý	teplý	k2eAgInSc1d1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Skutečně	skutečně	k6eAd1	
+vyčkejte	vyčkat	k5eAaPmRp2nP	
+<g/>	
+,	,	kIx,	
+až	až	k8xS	
+zcela	zcela	k6eAd1	
+vychladne	vychladnout	k5eAaPmIp3nS	
+-	-	kIx~	
+ať	ať	k9	
+už	už	k9	
+při	při	k7c6	
+pokojové	pokojový	k2eAgFnSc6d1	
+teplotě	teplota	k1gFnSc6	
+<g/>	
+,	,	kIx,	
+nebo	nebo	k8xC	
+třeba	třeba	k6eAd1	
+za	za	k7c7	
+okny	okno	k1gNnPc7	
+(	(	kIx(	
+<g/>	
+jako	jako	k8xC,k8xS	
+to	ten	k3xDgNnSc4	
+dělám	dělat	k5eAaImIp1nS	
+já	já	k3xPp1nSc1	
+<g/>	
+,	,	kIx,	
+když	když	k8xS	
+pospíchám	pospíchat	k5eAaImIp1nS	
+nebo	nebo	k8xC	
+jsem	být	k5eAaImIp1nS	
+nedočkavá	nedočkavý	k2eAgFnSc1d1	
+:	:	kIx,	
+<g/>	
+-	-	kIx~	
+<g/>	
+)	)	kIx)	
+)	)	kIx)	
+</s>	

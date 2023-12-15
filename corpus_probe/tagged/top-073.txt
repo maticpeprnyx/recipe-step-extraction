@@ -1,0 +1,100 @@
+<s>	
+Listové	listový	k2eAgNnSc4d1	
+těsto	těsto	k1gNnSc4	
+na	na	k7c6	
+pomoučněném	pomoučněný	k2eAgInSc6d1	
+vále	vál	k1gInSc6	
+vyválíme	vyválet	k5eAaPmIp1nP	
+do	do	k7c2	
+obdélníku	obdélník	k1gInSc2	
+<g/>	
+,	,	kIx,	
+které	který	k3yRgFnPc4	
+potřeme	potřít	k5eAaPmIp1nP	
+medvědím	medvědí	k2eAgInSc7d1	
+pestem	pest	k1gInSc7	
+<g/>	
+,	,	kIx,	
+osolíme	osolit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+opepříme	opepřit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+poklademe	poklást	k5eAaPmIp1nP	
+plátky	plátek	k1gInPc4	
+salámu	salám	k1gInSc2	
+a	a	k8xC	
+těsto	těsto	k1gNnSc4	
+svineme	svinout	k5eAaPmIp1nP	
+do	do	k7c2	
+rolády	roláda	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Krájíme	krájet	k5eAaImIp1nP	
+na	na	k7c4	
+tenká	tenký	k2eAgNnPc4d1	
+kolečka	kolečko	k1gNnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Krájením	krájení	k1gNnSc7	
+se	se	k3xPyFc4	
+kolečka	kolečko	k1gNnPc1	
+zdeformují	zdeformovat	k5eAaPmIp3nP	
+<g/>	
+,	,	kIx,	
+na	na	k7c6	
+plechu	plech	k1gInSc6	
+vyloženém	vyložený	k2eAgInSc6d1	
+pečícím	pečící	k2eAgInSc7d1	
+papírem	papír	k1gInSc7	
+je	on	k3xPp3gFnPc4	
+vytvarujeme	vytvarovat	k5eAaPmIp1nP	
+do	do	k7c2	
+tvaru	tvar	k1gInSc2	
+koleček	koleček	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Eidam	eidam	k1gInSc4	
+nastrouháme	nastrouhat	k5eAaPmIp1nP	
+nahrubo	nahrubo	k6eAd1	
+<g/>	
+,	,	kIx,	
+smícháme	smíchat	k5eAaPmIp1nP	
+s	s	k7c7	
+troškou	troška	k1gFnSc7	
+medvědího	medvědí	k2eAgInSc2d1	
+pesta	pest	k1gInSc2	
+<g/>	
+,	,	kIx,	
+kolečka	kolečko	k1gNnPc4	
+posypeme	posypat	k5eAaPmIp1nP	
+sýrem	sýr	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Troubu	trouba	k1gFnSc4	
+zahřejeme	zahřát	k5eAaPmIp1nP	
+na	na	k7c4	
+180	#num#	k4	
+st	st	kA	
+<g/>	
+.	.	kIx.	
+a	a	k8xC	
+pečeme	péct	k5eAaImIp1nP	
+přibližně	přibližně	k6eAd1	
+20	#num#	k4	
+minut	minuta	k1gFnPc2	
+do	do	k7c2	
+zrůžovění	zrůžovění	k1gNnSc2	
+koleček	kolečko	k1gNnPc2	
+<g/>	
+.	.	kIx.	
+</s>	

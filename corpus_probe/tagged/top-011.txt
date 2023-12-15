@@ -1,0 +1,89 @@
+<s>	
+Tortilly	Tortilla	k1gFnPc1	
+namažeme	namazat	k5eAaPmIp1nP	
+BBQ	BBQ	kA	
+omáčkou	omáčka	k1gFnSc7	
+až	až	k8xS	
+do	do	k7c2	
+krajů	kraj	k1gInPc2	
+<g/>	
+,	,	kIx,	
+aby	aby	kYmCp3nP	
+se	se	k3xPyFc4	
+kraje	kraj	k1gInPc1	
+nepřipalovaly	připalovat	k5eNaImAgInP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Šunku	šunka	k1gFnSc4	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+kousky	kousek	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Žampiony	žampion	k1gInPc4	
+a	a	k8xC	
+rajčata	rajče	k1gNnPc4	
+omyjeme	omýt	k5eAaPmIp1nP	
+a	a	k8xC	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+tenké	tenký	k2eAgInPc4d1	
+plátky	plátek	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Uložíme	uložit	k5eAaPmIp1nP	
+na	na	k7c4	
+tortillu	tortilla	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+posypeme	posypat	k5eAaPmIp1nP	
+kukuřicí	kukuřice	k1gFnSc7	
+a	a	k8xC	
+navrch	navrch	k6eAd1	
+natrháme	natrhat	k5eAaBmIp1nP,k5eAaPmIp1nP	
+mozzarellu	mozzarella	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Tortily	Tortil	k1gMnPc4	
+uložíme	uložit	k5eAaPmIp1nP	
+na	na	k7c4	
+plech	plech	k1gInSc4	
+vyložený	vyložený	k2eAgInSc4d1	
+pečicím	pečicí	k2eAgInSc7d1	
+papírem	papír	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pečeme	péct	k5eAaImIp1nP	
+v	v	k7c6	
+předehřáté	předehřátý	k2eAgFnSc6d1	
+troubě	trouba	k1gFnSc6	
+na	na	k7c4	
+220	#num#	k4	
+°	°	k?	
+<g/>	
+C	C	kA	
+asi	asi	k9	
+8	#num#	k4	
+<g/>	
+-	-	kIx~	
+<g/>	
+10	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+,	,	kIx,	
+až	až	k8xS	
+se	se	k3xPyFc4	
+sýr	sýr	k1gInSc1	
+rozteče	roztéct	k5eAaPmIp3nS	
+.	.	kIx.	
+</s>	

@@ -1,0 +1,130 @@
+<s>	
+Panenku	panenka	k1gFnSc4	
+očistíme	očistit	k5eAaPmIp1nP	
+od	od	k7c2	
+případných	případný	k2eAgFnPc2d1	
+blan	blána	k1gFnPc2	
+a	a	k8xC	
+rozřízneme	rozříznout	k5eAaPmIp1nP	
+na	na	k7c4	
+plát	plát	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Z	z	k7c2	
+obou	dva	k4xCgFnPc2	
+stran	strana	k1gFnPc2	
+osolíme	osolit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+opepříme	opepřit	k5eAaPmIp1nP	
+a	a	k8xC	
+k	k	k7c3	
+jedné	jeden	k4xCgFnSc3	
+třetině	třetina	k1gFnSc3	
+po	po	k7c6	
+delší	dlouhý	k2eAgFnSc6d2	
+straně	strana	k1gFnSc6	
+naskládáme	naskládat	k5eAaPmIp1nP	
+vedle	vedle	k7c2	
+sebe	se	k3xPyFc2	
+plátky	plátek	k1gInPc4	
+Hermelínu	hermelín	k1gMnSc3	
+<g/>	
+,	,	kIx,	
+na	na	k7c4	
+ně	on	k3xPp3gNnPc4	
+rozložíme	rozložit	k5eAaPmIp1nP	
+rovnoměrně	rovnoměrně	k6eAd1	
+brusinky	brusinka	k1gFnPc4	
+a	a	k8xC	
+posypeme	posypat	k5eAaPmIp1nP	
+lístky	lístek	k1gInPc4	
+tymiánu	tymián	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Srolujeme	srolovat	k5eAaPmIp1nP	
+a	a	k8xC	
+upevníme	upevnit	k5eAaPmIp1nP	
+provázkem	provázek	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Maso	maso	k1gNnSc4	
+ze	z	k7c2	
+všech	všechen	k3xTgFnPc2	
+stran	strana	k1gFnPc2	
+prudce	prudko	k6eAd1	
+opečeme	opéct	k5eAaPmIp1nP	
+na	na	k7c6	
+rozpáleném	rozpálený	k2eAgInSc6d1	
+oleji	olej	k1gInSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pak	pak	k8xC	
+ji	on	k3xPp3gFnSc4	
+buď	buď	k8xC	
+můžete	moct	k5eAaImIp2nP	
+přendat	přendat	k5eAaPmF	
+na	na	k7c4	
+15	#num#	k4	
+minut	minuta	k1gFnPc2	
+do	do	k7c2	
+rozpálené	rozpálený	k2eAgFnSc2d1	
+trouby	trouba	k1gFnSc2	
+na	na	k7c4	
+180	#num#	k4	
+<g/>	
+°	°	k?	
+<g/>	
+C	C	kA	
+nebo	nebo	k8xC	
+ji	on	k3xPp3gFnSc4	
+už	už	k6eAd1	
+pozvolna	pozvolna	k6eAd1	
+dopékejte	dopékat	k5eAaImRp2nP	
+na	na	k7c6	
+pánvi	pánev	k1gFnSc6	
+na	na	k7c6	
+mírnějším	mírný	k2eAgInSc6d2	
+ohni	oheň	k1gInSc6	
+ze	z	k7c2	
+všech	všechen	k3xTgFnPc2	
+stran	strana	k1gFnPc2	
+asi	asi	k9	
+10	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+,	,	kIx,	
+podle	podle	k7c2	
+toho	ten	k3xDgNnSc2	
+<g/>	
+,	,	kIx,	
+jak	jak	k8xC,k8xS	
+ji	on	k3xPp3gFnSc4	
+chcete	chtít	k5eAaImIp2nP	
+propečenou	propečený	k2eAgFnSc4d1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Měla	mít	k5eAaImAgNnP	
+by	by	kYmCp3nP	
+zůstat	zůstat	k5eAaPmF	
+uvnitř	uvnitř	k6eAd1	
+mírně	mírně	k6eAd1	
+růžová	růžový	k2eAgFnSc1d1	
+<g/>	
+,	,	kIx,	
+ne	ne	k9	
+však	však	k9	
+krvavá	krvavý	k2eAgFnSc1d1	
+<g/>	
+.	.	kIx.	
+</s>	

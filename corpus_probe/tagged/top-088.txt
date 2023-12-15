@@ -1,0 +1,101 @@
+<s>	
+Mleté	mletý	k2eAgNnSc4d1	
+maso	maso	k1gNnSc4	
+smícháme	smíchat	k5eAaPmIp1nP	
+s	s	k7c7	
+vejcem	vejce	k1gNnSc7	
+<g/>	
+,	,	kIx,	
+solí	solit	k5eAaImIp3nP	
+<g/>	
+,	,	kIx,	
+pepřem	pepř	k1gInSc7	
+a	a	k8xC	
+přidáme	přidat	k5eAaPmIp1nP	
+tolik	tolik	k6eAd1	
+strouhanky	strouhanka	k1gFnPc1	
+<g/>	
+,	,	kIx,	
+aby	aby	kYmCp3nP	
+šly	jít	k5eAaImAgFnP	
+dobře	dobře	k6eAd1	
+udělat	udělat	k5eAaPmF	
+kuličky	kulička	k1gFnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c6	
+hlubší	hluboký	k2eAgFnSc6d2	
+pánvi	pánev	k1gFnSc6	
+rozehřejeme	rozehřát	k5eAaPmIp1nP	
+olej	olej	k1gInSc4	
+a	a	k8xC	
+kuličky	kulička	k1gFnPc4	
+zprudka	zprudka	k6eAd1	
+osmažíme	osmažit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vyjmeme	vyjmout	k5eAaPmIp1nP	
+je	on	k3xPp3gFnPc4	
+<g/>	
+,	,	kIx,	
+do	do	k7c2	
+pánve	pánev	k1gFnSc2	
+dáme	dát	k5eAaPmIp1nP	
+pokrájenou	pokrájený	k2eAgFnSc4d1	
+zeleninu	zelenina	k1gFnSc4	
+a	a	k8xC	
+rajský	rajský	k2eAgInSc4d1	
+protlak	protlak	k1gInSc4	
+a	a	k8xC	
+orestujeme	orestovat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zalijeme	zalít	k5eAaPmIp1nP	
+malým	malý	k2eAgNnSc7d1	
+množstvím	množství	k1gNnSc7	
+vody	voda	k1gFnSc2	
+(	(	kIx(	
+<g/>	
+cca	cca	kA	
+50	#num#	k4	
+ml	ml	kA	
+<g/>	
+)	)	kIx)	
+<g/>	
+,	,	kIx,	
+vrátíme	vrátit	k5eAaPmIp1nP	
+zpět	zpět	k6eAd1	
+kuličky	kulička	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+vložíme	vložit	k5eAaPmIp1nP	
+bylinky	bylinka	k1gFnPc4	
+a	a	k8xC	
+dusíme	dusit	k5eAaImIp1nP	
+30	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podáváme	podávat	k5eAaImIp1nP	
+s	s	k7c7	
+bramborem	brambor	k1gInSc7	
+<g/>	
+,	,	kIx,	
+ale	ale	k8xC	
+hodí	hodit	k5eAaPmIp3nS,k5eAaImIp3nS	
+se	se	k3xPyFc4	
+i	i	k9	
+rýže	rýže	k1gFnPc1	
+nebo	nebo	k8xC	
+těstoviny	těstovina	k1gFnPc1	
+<g/>	
+.	.	kIx.	
+</s>	

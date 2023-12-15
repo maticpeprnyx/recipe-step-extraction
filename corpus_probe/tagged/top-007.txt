@@ -1,0 +1,203 @@
+<s>	
+Kuřecí	kuřecí	k2eAgNnPc4d1	
+prsa	prsa	k1gNnPc4	
+opláchneme	opláchnout	k5eAaPmIp1nP	
+a	a	k8xC	
+osušíme	osušit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Odkrojíme	odkrojit	k5eAaPmIp1nP	
+menší	malý	k2eAgFnSc4d2	
+<g/>	
+,	,	kIx,	
+boční	boční	k2eAgFnPc4d1	
+části	část	k1gFnPc4	
+a	a	k8xC	
+do	do	k7c2	
+velkých	velký	k2eAgInPc2d1	
+zbylých	zbylý	k2eAgInPc2d1	
+kusů	kus	k1gInPc2	
+masa	maso	k1gNnSc2	
+nařízneme	naříznout	k5eAaPmIp1nP	
+hlubší	hluboký	k2eAgInPc4d2	
+zářezy	zářez	k1gInPc4	
+do	do	k7c2	
+tvaru	tvar	k1gInSc2	
+mřížky	mřížka	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vezmeme	vzít	k5eAaPmIp1nP	
+si	se	k3xPyFc3	
+mezi	mezi	k7c7	
+prsty	prst	k1gInPc7	
+špetičku	špetička	k1gFnSc4	
+citronového	citronový	k2eAgInSc2d1	
+pepře	pepř	k1gInSc2	
+<g/>	
+,	,	kIx,	
+nasypeme	nasypat	k5eAaPmIp1nP	
+do	do	k7c2	
+zářezů	zářez	k1gInPc2	
+a	a	k8xC	
+stejně	stejně	k6eAd1	
+tak	tak	k8xC,k8xS	
+nasypeme	nasypat	k5eAaPmIp1nP	
+špetku	špetka	k1gFnSc4	
+nasekaného	nasekaný	k2eAgInSc2d1	
+rozmarýnu	rozmarýn	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Z	z	k7c2	
+uvedených	uvedený	k2eAgFnPc2d1	
+surovin	surovina	k1gFnPc2	
+si	se	k3xPyFc3	
+umícháme	umíchat	k5eAaPmIp1nP	
+marinádu	marináda	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+vložíme	vložit	k5eAaPmIp1nP	
+do	do	k7c2	
+ní	on	k3xPp3gFnSc2	
+okořeněná	okořeněný	k2eAgNnPc4d1	
+prsa	prso	k1gNnPc4	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+alespoň	alespoň	k9	
+2	#num#	k4	
+hodiny	hodina	k1gFnPc4	
+marinovat	marinovat	k5eAaBmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pokud	pokud	k8xS	
+nespěcháme	spěchat	k5eNaImIp1nP	
+<g/>	
+,	,	kIx,	
+můžeme	moct	k5eAaImIp1nP	
+nechat	nechat	k5eAaPmF	
+v	v	k7c6	
+lednici	lednice	k1gFnSc6	
+marinovat	marinovat	k5eAaBmF	
+i	i	k9	
+do	do	k7c2	
+druhého	druhý	k4xOgInSc2	
+dne	den	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Prsa	prsa	k1gNnPc4	
+z	z	k7c2	
+marinády	marináda	k1gFnSc2	
+vytáhneme	vytáhnout	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+lehce	lehko	k6eAd1	
+osolíme	osolit	k5eAaPmIp1nP	
+a	a	k8xC	
+zprudka	zprudka	k6eAd1	
+opečeme	opéct	k5eAaPmIp1nP	
+na	na	k7c6	
+pánvi	pánev	k1gFnSc6	
+s	s	k7c7	
+rozehřátým	rozehřátý	k2eAgInSc7d1	
+tukem	tuk	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Poté	poté	k6eAd1	
+plamen	plamen	k1gInSc4	
+stáhneme	stáhnout	k5eAaPmIp1nP	
+a	a	k8xC	
+dopékáme	dopékat	k5eAaImIp1nP	
+z	z	k7c2	
+každé	každý	k3xTgFnSc2	
+strany	strana	k1gFnSc2	
+přibližně	přibližně	k6eAd1	
+5	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Měkká	měkký	k2eAgNnPc4d1	
+prsa	prsa	k1gNnPc4	
+zabalíme	zabalit	k5eAaPmIp1nP	
+do	do	k7c2	
+alobalu	alobal	k1gInSc2	
+a	a	k8xC	
+uchováme	uchovat	k5eAaPmIp1nP	
+v	v	k7c6	
+teple	teplo	k1gNnSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+výpeku	výpek	k1gInSc2	
+nalijeme	nalít	k5eAaPmIp1nP,k5eAaBmIp1nP	
+zbytek	zbytek	k1gInSc4	
+marinády	marináda	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+nakrájené	nakrájený	k2eAgFnPc1d1	
+meruňky	meruňka	k1gFnPc1	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+4	#num#	k4	
+minuty	minuta	k1gFnPc4	
+provařit	provařit	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Dle	dle	k7c2	
+potřeby	potřeba	k1gFnSc2	
+dochutíme	dochutit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+nalijeme	nalít	k5eAaPmIp1nP,k5eAaBmIp1nP	
+na	na	k7c4	
+talíř	talíř	k1gInSc4	
+a	a	k8xC	
+přidáme	přidat	k5eAaPmIp1nP	
+odpočaté	odpočatý	k2eAgNnSc4d1	
+maso	maso	k1gNnSc4	
+z	z	k7c2	
+alobalu	alobal	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Jako	jako	k8xC,k8xS	
+příloha	příloha	k1gFnSc1	
+se	se	k3xPyFc4	
+hodí	hodit	k5eAaImIp3nP,k5eAaPmIp3nP	
+různě	různě	k6eAd1	
+osmažené	osmažený	k2eAgFnPc1d1	
+brambory	brambora	k1gFnPc1	
+nebo	nebo	k8xC	
+obyčejný	obyčejný	k2eAgInSc1d1	
+toustový	toustový	k2eAgInSc1d1	
+chleba	chléb	k1gInSc2	
+<g/>	
+,	,	kIx,	
+který	který	k3yRgInSc4	
+proženeme	prohnat	k5eAaPmIp1nP	
+toustovačem	toustovač	k1gInSc7	
+a	a	k8xC	
+lehce	lehko	k6eAd1	
+potřeme	potřít	k5eAaPmIp1nP	
+česnekem	česnek	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	

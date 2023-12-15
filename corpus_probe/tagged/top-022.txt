@@ -1,0 +1,126 @@
+<s>	
+Na	na	k7c6	
+oleji	olej	k1gInSc6	
+zpěníme	zpěnit	k5eAaPmIp1nP	
+cibuli	cibule	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+nastrouhanou	nastrouhaný	k2eAgFnSc4d1	
+mrkev	mrkev	k1gFnSc4	
+a	a	k8xC	
+petržel	petržel	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Obojí	oboj	k1gFnPc2	
+osmažíme	osmažit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+sladkou	sladký	k2eAgFnSc4d1	
+papriku	paprika	k1gFnSc4	
+a	a	k8xC	
+promícháme	promíchat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Potom	potom	k6eAd1	
+přidáme	přidat	k5eAaPmIp1nP	
+omyté	omytý	k2eAgNnSc4d1	
+kuře	kuře	k1gNnSc4	
+(	(	kIx(	
+<g/>	
+nebo	nebo	k8xC	
+kuřecí	kuřecí	k2eAgNnPc4d1	
+stehna	stehno	k1gNnPc4	
+<g/>	
+)	)	kIx)	
+<g/>	
+,	,	kIx,	
+zalijeme	zalít	k5eAaPmIp1nP	
+vodou	voda	k1gFnSc7	
+a	a	k8xC	
+vaříme	vařit	k5eAaImIp1nP	
+do	do	k7c2	
+měkka	měkek	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Když	když	k8xS	
+je	být	k5eAaImIp3nS	
+kuře	kuře	k1gNnSc1	
+hotové	hotová	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+tak	tak	k8xC,k8xS	
+jej	on	k3xPp3gMnSc4	
+vytáhneme	vytáhnout	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+necháme	nechat	k5eAaPmIp1nP	
+zchladit	zchladit	k5eAaPmF	
+a	a	k8xC	
+obereme	obrat	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+ať	ať	k8xC,k8xS	
+máme	mít	k5eAaImIp1nP	
+maso	maso	k1gNnSc4	
+do	do	k7c2	
+omáčky	omáčka	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Omáčku	omáčka	k1gFnSc4	
+rozmixujeme	rozmixovat	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+sladkou	sladký	k2eAgFnSc4d1	
+smetanu	smetana	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+ochutíme	ochutit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+zahustíme	zahustit	k5eAaPmIp1nP	
+a	a	k8xC	
+chvilku	chvilka	k1gFnSc4	
+povaříme	povařit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Nakonec	nakonec	k6eAd1	
+do	do	k7c2	
+omáčky	omáčka	k1gFnSc2	
+dáme	dát	k5eAaPmIp1nP	
+1	#num#	k4	
+lžíci	lžíce	k1gFnSc4	
+zakysané	zakysaný	k2eAgFnSc2d1	
+smetany	smetana	k1gFnSc2	
+(	(	kIx(	
+<g/>	
+úplně	úplně	k6eAd1	
+nakonec	nakonec	k6eAd1	
+<g/>	
+,	,	kIx,	
+když	když	k8xS	
+už	už	k9	
+omáčku	omáčka	k1gFnSc4	
+nevaříme	vařit	k5eNaImIp1nP	
+<g/>	
+)	)	kIx)	
+a	a	k8xC	
+vrátíme	vrátit	k5eAaPmIp1nP	
+do	do	k7c2	
+hrnce	hrnec	k1gInSc2	
+maso	maso	k1gNnSc4	
+<g/>	
+.	.	kIx.	
+</s>	

@@ -1,0 +1,174 @@
+<s>	
+Do	do	k7c2	
+hrnce	hrnec	k1gInSc2	
+dáme	dát	k5eAaPmIp1nP	
+tuk	tuk	k1gInSc4	
+<g/>	
+,	,	kIx,	
+cukr	cukr	k1gInSc4	
+<g/>	
+,	,	kIx,	
+med	med	k1gInSc4	
+<g/>	
+,	,	kIx,	
+vajíčka	vajíčko	k1gNnPc4	
+a	a	k8xC	
+sodu	soda	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+řádně	řádně	k6eAd1	
+promícháme	promíchat	k5eAaPmIp1nP	
+a	a	k8xC	
+přivedeme	přivést	k5eAaPmIp1nP	
+k	k	k7c3	
+varu	var	k1gInSc3	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vaříme	vařit	k5eAaImIp1nP	
+za	za	k7c2	
+stálého	stálý	k2eAgNnSc2d1	
+míchání	míchání	k1gNnSc2	
+asi	asi	k9	
+5	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+vychladlé	vychladlý	k2eAgFnSc2d1	
+směsi	směs	k1gFnSc2	
+přidáme	přidat	k5eAaPmIp1nP	
+mouku	mouka	k1gFnSc4	
+a	a	k8xC	
+vypracujeme	vypracovat	k5eAaPmIp1nP	
+těsto	těsto	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+které	který	k3yRgInPc1	
+necháme	nechat	k5eAaPmIp1nP	
+v	v	k7c6	
+chladu	chlad	k1gInSc6	
+2	#num#	k4	
+hodiny	hodina	k1gFnPc1	
+odpočinout	odpočinout	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Odpočinuté	odpočinutý	k2eAgNnSc4d1	
+těsto	těsto	k1gNnSc4	
+vyválíme	vyválet	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+vykrajujeme	vykrajovat	k5eAaImIp1nP	
+kolečka	kolečko	k1gNnPc4	
+<g/>	
+,	,	kIx,	
+klademe	klást	k5eAaImIp1nP	
+na	na	k7c4	
+plech	plech	k1gInSc4	
+vyložený	vyložený	k2eAgInSc4d1	
+pečicím	pečicí	k2eAgInSc7d1	
+papírem	papír	k1gInSc7	
+a	a	k8xC	
+pečeme	péct	k5eAaImIp1nP	
+na	na	k7c4	
+160	#num#	k4	
+°	°	k?	
+<g/>	
+C	C	kA	
+do	do	k7c2	
+zrůžovění	zrůžovění	k1gNnSc2	
+okrajů	okraj	k1gInPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+hrnce	hrnec	k1gInSc2	
+nalijeme	nalít	k5eAaBmIp1nP,k5eAaPmIp1nP	
+mléko	mléko	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+ve	v	k7c6	
+kterém	který	k3yQgInSc6,k3yRgInSc6,k3yIgInSc6	
+rozmícháme	rozmíchat	k5eAaPmIp1nP	
+mouku	mouka	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+cukry	cukr	k1gInPc4	
+a	a	k8xC	
+za	za	k7c2	
+stálého	stálý	k2eAgNnSc2d1	
+míchání	míchání	k1gNnSc2	
+uvaříme	uvařit	k5eAaPmIp1nP	
+hustou	hustý	k2eAgFnSc4d1	
+kaši	kaše	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+horké	horký	k2eAgFnSc2d1	
+kaše	kaše	k1gFnSc2	
+přidáme	přidat	k5eAaPmIp1nP	
+nakrájené	nakrájený	k2eAgNnSc4d1	
+máslo	máslo	k1gNnSc4	
+a	a	k8xC	
+mícháme	míchat	k5eAaImIp1nP	
+<g/>	
+,	,	kIx,	
+dokud	dokud	k8xS	
+se	se	k3xPyFc4	
+nerozpustí	rozpustit	k5eNaPmIp3nS	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Necháme	nechat	k5eAaPmIp1nP	
+vychladnout	vychladnout	k5eAaPmF	
+a	a	k8xC	
+pak	pak	k8xC	
+vyšleháme	vyšlehat	k5eAaPmIp1nP,k5eAaImIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Polovinu	polovina	k1gFnSc4	
+koleček	kolečko	k1gNnPc2	
+namáčíme	namáčet	k5eAaImIp1nP	
+do	do	k7c2	
+čokoládové	čokoládový	k2eAgFnSc2d1	
+polevy	poleva	k1gFnSc2	
+a	a	k8xC	
+dáme	dát	k5eAaPmIp1nP	
+na	na	k7c4	
+mřížku	mřížka	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Ještě	ještě	k6eAd1	
+než	než	k8xS	
+poleva	poleva	k1gFnSc1	
+úplně	úplně	k6eAd1	
+ztuhne	ztuhnout	k5eAaPmIp3nS	
+<g/>	
+,	,	kIx,	
+posypeme	posypat	k5eAaPmIp1nP	
+mandlemi	mandle	k1gFnPc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Kolečka	kolečko	k1gNnPc4	
+slepujeme	slepovat	k5eAaImIp1nP	
+připraveným	připravený	k2eAgInSc7d1	
+krémem	krém	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	

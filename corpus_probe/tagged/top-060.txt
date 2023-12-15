@@ -1,0 +1,149 @@
+<s>	
+Na	na	k7c6	
+rozpáleném	rozpálený	k2eAgInSc6d1	
+oleji	olej	k1gInSc6	
+zpěníme	zpěnit	k5eAaPmIp1nP	
+cibulku	cibulka	k1gFnSc4	
+a	a	k8xC	
+rozpůlený	rozpůlený	k2eAgInSc4d1	
+česnek	česnek	k1gInSc4	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+nastrouhanou	nastrouhaný	k2eAgFnSc4d1	
+mrkev	mrkev	k1gFnSc4	
+a	a	k8xC	
+drobně	drobně	k6eAd1	
+nakrájený	nakrájený	k2eAgInSc4d1	
+celer	celer	k1gInSc4	
+<g/>	
+,	,	kIx,	
+chvíli	chvíle	k1gFnSc4	
+smažíme	smažit	k5eAaImIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vyjmeme	vynít	k5eAaPmIp1nP	
+česnek	česnek	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Mladé	mladý	k2eAgNnSc4d1	
+hovězí	hovězí	k1gNnSc4	
+nebo	nebo	k8xC	
+libové	libový	k2eAgNnSc4d1	
+vepřové	vepřový	k2eAgNnSc4d1	
+maso	maso	k1gNnSc4	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+tenké	tenký	k2eAgInPc4d1	
+plátky	plátek	k1gInPc4	
+nebo	nebo	k8xC	
+umeleme	umlít	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+k	k	k7c3	
+zelenině	zelenina	k1gFnSc3	
+a	a	k8xC	
+chvíli	chvíle	k1gFnSc4	
+opékáme	opékat	k5eAaImIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidáme	přidat	k5eAaPmIp1nP	
+protlak	protlak	k1gInSc4	
+<g/>	
+,	,	kIx,	
+osolíme	osolit	k5eAaPmIp1nP	
+a	a	k8xC	
+opepříme	opepřit	k5eAaPmIp1nP	
+a	a	k8xC	
+zase	zase	k9	
+chvíli	chvíle	k1gFnSc4	
+smažíme	smažit	k5eAaImIp1nP	
+<g/>	
+,	,	kIx,	
+aby	aby	kYmCp3nS	
+protlak	protlak	k1gInSc1	
+zesládl	zesládnout	k5eAaPmAgInS	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zalijeme	zalít	k5eAaPmIp1nP	
+vínem	víno	k1gNnSc7	
+<g/>	
+,	,	kIx,	
+které	který	k3yRgFnPc1	
+necháme	nechat	k5eAaPmIp1nP	
+prudce	prudko	k6eAd1	
+odpařit	odpařit	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pak	pak	k6eAd1	
+podlijeme	podlít	k5eAaPmIp1nP	
+vývarem	vývar	k1gInSc7	
+nebo	nebo	k8xC	
+vodou	voda	k1gFnSc7	
+a	a	k8xC	
+při	při	k7c6	
+mírné	mírný	k2eAgFnSc6d1	
+teplotě	teplota	k1gFnSc6	
+dusíme	dusit	k5eAaImIp1nP	
+do	do	k7c2	
+měkka	měkek	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podléváme	podlévat	k5eAaImIp1nP	
+podle	podle	k7c2	
+potřeby	potřeba	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podle	podle	k7c2	
+návodu	návod	k1gInSc2	
+uvaříme	uvařit	k5eAaPmIp1nP	
+špagety	špagety	k1gFnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Scezené	scezený	k2eAgFnPc4d1	
+těstoviny	těstovina	k1gFnPc4	
+promícháme	promíchat	k5eAaPmIp1nP	
+se	se	k3xPyFc4	
+syrovým	syrový	k2eAgNnSc7d1	
+máslem	máslo	k1gNnSc7	
+a	a	k8xC	
+položíme	položit	k5eAaPmIp1nP	
+na	na	k7c4	
+talíř	talíř	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Střed	střed	k1gInSc4	
+talíře	talíř	k1gInSc2	
+vyplníme	vyplnit	k5eAaPmIp1nP	
+dušeným	dušený	k2eAgNnSc7d1	
+masem	maso	k1gNnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Špagety	špagety	k1gFnPc4	
+posypeme	posypat	k5eAaPmIp1nP	
+strouhaným	strouhaný	k2eAgInSc7d1	
+sýrem	sýr	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	

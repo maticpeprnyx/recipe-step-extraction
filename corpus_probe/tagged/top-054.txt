@@ -1,0 +1,180 @@
+<s>	
+Žloutky	žloutek	k1gInPc4	
+ušleháme	ušlehat	k5eAaPmIp1nP	
+s	s	k7c7	
+horkou	horký	k2eAgFnSc7d1	
+vodou	voda	k1gFnSc7	
+a	a	k8xC	
+moučkovým	moučkový	k2eAgInSc7d1	
+cukrem	cukr	k1gInSc7	
+na	na	k7c4	
+hustou	hustý	k2eAgFnSc4d1	
+pěnu	pěna	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Postupně	postupně	k6eAd1	
+přimícháme	přimíchat	k5eAaPmIp1nP	
+mouku	mouka	k1gFnSc4	
+smíchanou	smíchaný	k2eAgFnSc4d1	
+s	s	k7c7	
+ořechy	ořech	k1gInPc7	
+a	a	k8xC	
+práškem	prášek	k1gInSc7	
+do	do	k7c2	
+pečiva	pečivo	k1gNnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Nakonec	nakonec	k6eAd1	
+ručně	ručně	k6eAd1	
+vmícháme	vmíchat	k5eAaPmIp1nP	
+z	z	k7c2	
+bílků	bílek	k1gInPc2	
+ušlehaný	ušlehaný	k2eAgInSc4d1	
+sníh	sníh	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pečeme	péct	k5eAaImIp1nP	
+na	na	k7c6	
+plechu	plech	k1gInSc6	
+36	#num#	k4	
+<g/>	
+x	x	k?	
+<g/>	
+30	#num#	k4	
+cm	cm	kA	
+vyloženým	vyložený	k2eAgInSc7d1	
+pečícím	pečící	k2eAgInSc7d1	
+papírem	papír	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Kraje	kraj	k1gInPc4	
+plechu	plech	k1gInSc2	
+zajistíme	zajistit	k5eAaPmIp1nP	
+rámem	rám	k1gInSc7	
+na	na	k7c4	
+dorty	dort	k1gInPc4	
+nebo	nebo	k8xC	
+přehneme	přehnout	k5eAaPmIp1nP	
+okraje	okraj	k1gInPc4	
+pečícího	pečící	k2eAgInSc2d1	
+papíru	papír	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pečeme	péct	k5eAaImIp1nP	
+na	na	k7c6	
+180	#num#	k4	
+<g/>	
+´	´	k?	
+<g/>	
+C	C	kA	
+asi	asi	k9	
+14	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Upečeme	upéct	k5eAaPmIp1nP	
+3	#num#	k4	
+korpusy	korpus	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Ty	ten	k3xDgInPc4	
+necháme	nechat	k5eAaPmIp1nP	
+vychladnout	vychladnout	k5eAaPmF	
+<g/>	
+,	,	kIx,	
+strhneme	strhnout	k5eAaPmIp1nP	
+pečící	pečící	k2eAgInSc4d1	
+papír	papír	k1gInSc4	
+a	a	k8xC	
+každý	každý	k3xTgInSc4	
+plát	plát	k1gInSc4	
+pokapeme	pokapat	k5eAaPmIp1nP	
+rumem	rum	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Spodní	spodní	k2eAgInSc4d1	
+plát	plát	k1gInSc4	
+potřeme	potřít	k5eAaPmIp1nP	
+marmeládou	marmeláda	k1gFnSc7	
+a	a	k8xC	
+částí	část	k1gFnSc7	
+náplně	náplň	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+přiložíme	přiložit	k5eAaPmIp1nP	
+druhý	druhý	k4xOgMnSc1	
+a	a	k8xC	
+opakujeme	opakovat	k5eAaImIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Povrch	povrch	k1gInSc4	
+potřeme	potřít	k5eAaPmRp1nP	
+zbytkem	zbytek	k1gInSc7	
+náplně	náplň	k1gFnSc2	
+a	a	k8xC	
+libovolně	libovolně	k6eAd1	
+nazdobíme	nazdobit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Dáme	dát	k5eAaPmIp1nP	
+ztuhnout	ztuhnout	k5eAaPmF	
+do	do	k7c2	
+chladničky	chladnička	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+nejlépe	dobře	k6eAd3	
+přes	přes	k7c4	
+noc	noc	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Příprava	příprava	k1gFnSc1	
+náplně	náplň	k1gFnSc2	
+<g/>	
+:	:	kIx,	
+Vejce	vejce	k1gNnSc4	
+s	s	k7c7	
+cukry	cukr	k1gInPc7	
+a	a	k8xC	
+kakao	kakao	k1gNnSc4	
+šleháme	šlehat	k5eAaImIp1nP	
+nad	nad	k7c7	
+párou	pára	k1gFnSc7	
+do	do	k7c2	
+zhoustnutí	zhoustnutí	k1gNnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Necháme	nechat	k5eAaPmIp1nP	
+vychladnout	vychladnout	k5eAaPmF	
+a	a	k8xC	
+pomalu	pomalu	k6eAd1	
+přidáváme	přidávat	k5eAaImIp1nP	
+do	do	k7c2	
+ušlehaného	ušlehaný	k2eAgNnSc2d1	
+másla	máslo	k1gNnSc2	
+<g/>	
+.	.	kIx.	
+</s>	

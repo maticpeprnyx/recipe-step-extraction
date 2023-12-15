@@ -1,0 +1,199 @@
+<s>	
+Vychladlé	vychladlý	k2eAgInPc4d1	
+oloupané	oloupaný	k2eAgInPc4d1	
+brambory	brambor	k1gInPc4	
+nastrouháme	nastrouhat	k5eAaPmIp1nP	
+na	na	k7c6	
+jemném	jemný	k2eAgNnSc6d1	
+struhadle	struhadlo	k1gNnSc6	
+do	do	k7c2	
+mísy	mísa	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+vejce	vejce	k1gNnPc4	
+<g/>	
+,	,	kIx,	
+osolíme	osolit	k5eAaPmIp1nP	
+dle	dle	k7c2	
+chuti	chuť	k1gFnSc2	
+a	a	k8xC	
+promícháme	promíchat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pak	pak	k6eAd1	
+dle	dle	k7c2	
+potřeby	potřeba	k1gFnSc2	
+přidáme	přidat	k5eAaPmIp1nP	
+mouku	mouka	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+tolik	tolik	k4yIc1,k4xDc1	
+<g/>	
+,	,	kIx,	
+abychom	aby	kYmCp1nP	
+vytvořili	vytvořit	k5eAaPmAgMnP	
+vláčné	vláčný	k2eAgNnSc4d1	
+těsto	těsto	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+které	který	k3yRgNnSc1	
+na	na	k7c6	
+pomoučněném	pomoučněný	k2eAgInSc6d1	
+stole	stol	k1gInSc6	
+půjde	jít	k5eAaImIp3nS	
+dobře	dobře	k6eAd1	
+válet	válet	k5eAaImF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Množství	množství	k1gNnSc1	
+mouky	mouka	k1gFnSc2	
+se	se	k3xPyFc4	
+může	moct	k5eAaImIp3nS	
+lišit	lišit	k5eAaImF	
+podle	podle	k7c2	
+druhu	druh	k1gInSc2	
+brambor	brambora	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Oloupanou	oloupaný	k2eAgFnSc4d1	
+cibuli	cibule	k1gFnSc4	
+drobně	drobně	k6eAd1	
+pokrájíme	pokrájet	k5eAaPmIp1nP	
+a	a	k8xC	
+osmažíme	osmažit	k5eAaPmIp1nP	
+dozlatova	dozlatova	k6eAd1	
+na	na	k7c6	
+lžíci	lžíce	k1gFnSc6	
+sádla	sádlo	k1gNnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidáme	přidat	k5eAaPmIp1nP	
+pokrájené	pokrájený	k2eAgNnSc4d1	
+maso	maso	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+dochutíme	dochutit	k5eAaPmIp1nP	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+zchladnout	zchladnout	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Kdo	kdo	k3yInSc1,k3yRnSc1,k3yQnSc1	
+chce	chtít	k5eAaImIp3nS	
+<g/>	
+,	,	kIx,	
+může	moct	k5eAaImIp3nS	
+naplnit	naplnit	k5eAaPmF	
+taštičky	taštička	k1gFnPc4	
+pokrájeným	pokrájený	k2eAgNnSc7d1	
+pečeným	pečený	k2eAgNnSc7d1	
+masem	maso	k1gNnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c6	
+pomoučněném	pomoučněný	k2eAgInSc6d1	
+stole	stol	k1gInSc6	
+vyválíme	vyválet	k5eAaPmIp1nP	
+těsto	těsto	k1gNnSc4	
+na	na	k7c4	
+cca	cca	kA	
+půlcentimetrový	půlcentimetrový	k2eAgInSc4d1	
+plát	plát	k1gInSc4	
+<g/>	
+,	,	kIx,	
+ze	z	k7c2	
+kterého	který	k3yIgInSc2,k3yQgInSc2,k3yRgInSc2	
+hrnkem	hrnek	k1gInSc7	
+vykrájíme	vykrájet	k5eAaPmIp1nP	
+kolečka	kolečko	k1gNnPc1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+jejich	jejich	k3xOp3gInSc2	
+středu	střed	k1gInSc2	
+rozdělíme	rozdělit	k5eAaPmIp1nP	
+zchladlou	zchladlý	k2eAgFnSc4d1	
+náplň	náplň	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+okraje	okraj	k1gInPc4	
+přehneme	přehnout	k5eAaPmIp1nP	
+a	a	k8xC	
+přitiskneme	přitisknout	k5eAaPmIp1nP	
+k	k	k7c3	
+sobě	se	k3xPyFc3	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Připravené	připravený	k2eAgFnPc4d1	
+taštičky	taštička	k1gFnPc4	
+naházíme	naházet	k5eAaPmIp1nP,k5eAaBmIp1nP	
+do	do	k7c2	
+vroucí	vroucí	k2eAgFnSc2d1	
+vody	voda	k1gFnSc2	
+a	a	k8xC	
+od	od	k7c2	
+vyplavání	vyplavání	k1gNnSc2	
+vaříme	vařit	k5eAaImIp1nP	
+cca	cca	kA	
+3	#num#	k4	
+minuty	minuta	k1gFnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Doporučuji	doporučovat	k5eAaImIp1nS	
+jednu	jeden	k4xCgFnSc4	
+vyndat	vyndat	k5eAaPmF	
+a	a	k8xC	
+vyzkoušet	vyzkoušet	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pokud	pokud	k8xS	
+bude	být	k5eAaImBp3nS	
+hotová	hotová	k1gFnSc1	
+<g/>	
+,	,	kIx,	
+cedníkem	cedník	k1gInSc7	
+vyndáme	vyndat	k5eAaPmIp1nP	
+všechny	všechen	k3xTgFnPc1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podáváme	podávat	k5eAaImIp1nP	
+s	s	k7c7	
+dozlatova	dozlatova	k6eAd1	
+osmaženou	osmažený	k2eAgFnSc7d1	
+cibulkou	cibulka	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+kysaným	kysaný	k2eAgNnSc7d1	
+nebo	nebo	k8xC	
+dušeným	dušený	k2eAgNnSc7d1	
+zelím	zelí	k1gNnSc7	
+<g/>	
+,	,	kIx,	
+se	s	k7c7	
+špenátem	špenát	k1gInSc7	
+<g/>	
+...	...	k?	
+</s>	

@@ -1,0 +1,126 @@
+<s>	
+Všechny	všechen	k3xTgFnPc4	
+suroviny	surovina	k1gFnPc4	
+na	na	k7c4	
+kuličky	kulička	k1gFnPc4	
+smícháme	smíchat	k5eAaPmIp1nP	
+a	a	k8xC	
+nejlépe	dobře	k6eAd3	
+rukami	ruka	k1gFnPc7	
+řádně	řádně	k6eAd1	
+propracujeme	propracovat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Ihned	ihned	k6eAd1	
+tvarujeme	tvarovat	k5eAaImIp1nP	
+kuličky	kulička	k1gFnPc4	
+o	o	k7c6	
+průměru	průměr	k1gInSc6	
+cca	cca	kA	
+2	#num#	k4	
+cm	cm	kA	
+a	a	k8xC	
+odkládáme	odkládat	k5eAaImIp1nP	
+na	na	k7c4	
+talíř	talíř	k1gInSc4	
+<g/>	
+,	,	kIx,	
+nebo	nebo	k8xC	
+plech	plech	k1gInSc4	
+vyložený	vyložený	k2eAgInSc4d1	
+pečícím	pečící	k2eAgInSc7d1	
+papírem	papír	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Dáme	dát	k5eAaPmIp1nP	
+je	on	k3xPp3gFnPc4	
+asi	asi	k9	
+na	na	k7c4	
+1	#num#	k4	
+hodinu	hodina	k1gFnSc4	
+vychladnout	vychladnout	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vychladlé	vychladlý	k2eAgFnPc4d1	
+kuličky	kulička	k1gFnPc4	
+obalujeme	obalovat	k5eAaImIp1nP	
+v	v	k7c6	
+rozpuštěné	rozpuštěný	k2eAgFnSc6d1	
+čokoládě	čokoláda	k1gFnSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Čokoládu	čokoláda	k1gFnSc4	
+se	se	k3xPyFc4	
+ztuženým	ztužený	k2eAgInSc7d1	
+tukem	tuk	k1gInSc7	
+vložíme	vložit	k5eAaPmIp1nP	
+do	do	k7c2	
+mísy	mísa	k1gFnSc2	
+vhodné	vhodný	k2eAgFnSc6d1	
+do	do	k7c2	
+mikrovlnné	mikrovlnný	k2eAgFnSc2d1	
+trouby	trouba	k1gFnSc2	
+a	a	k8xC	
+zahřejeme	zahřát	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+až	až	k8xS	
+se	se	k3xPyFc4	
+čokoláda	čokoláda	k1gFnSc1	
+rozpustí	rozpustit	k5eAaPmIp3nS	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Řádně	řádně	k6eAd1	
+promícháme	promíchat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Kuličky	kulička	k1gFnPc1	
+rychle	rychle	k6eAd1	
+obalujeme	obalovat	k5eAaImIp1nP	
+a	a	k8xC	
+odkládáme	odkládat	k5eAaImIp1nP	
+opět	opět	k6eAd1	
+na	na	k7c4	
+pečící	pečící	k2eAgInSc4d1	
+papír	papír	k1gInSc4	
+<g/>	
+,	,	kIx,	
+ozdobíme	ozdobit	k5eAaPmIp1nP	
+např	např	kA	
+<g/>	
+.	.	kIx.	
+plátkem	plátek	k1gInSc7	
+mandle	mandle	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+a	a	k8xC	
+před	před	k7c7	
+skladováním	skladování	k1gNnSc7	
+necháme	nechat	k5eAaPmIp1nP	
+vychladit	vychladit	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Skladujeme	skladovat	k5eAaImIp1nP	
+v	v	k7c6	
+chladu	chlad	k1gInSc6	
+do	do	k7c2	
+6	6	kIx~	
+<g/>	
+°	°	k?	
+<g/>	
+C.	C.	kA	
+</s>	

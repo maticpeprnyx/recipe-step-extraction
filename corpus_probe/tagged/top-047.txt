@@ -1,0 +1,124 @@
+<s>	
+V	v	k7c6	
+rendlíku	rendlík	k1gInSc6	
+se	se	k3xPyFc4	
+silným	silný	k2eAgInSc7d1	
+dnem	den	k1gInSc7	
+upražíme	upražit	k5eAaPmIp1nP	
+za	za	k7c2	
+stálého	stálý	k2eAgNnSc2d1	
+míchání	míchání	k1gNnSc2	
+zlatavý	zlatavý	k2eAgInSc4d1	
+karamel	karamel	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zalijeme	zalít	k5eAaPmIp1nP	
+horkou	horký	k2eAgFnSc7d1	
+vodou	voda	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+necháme	nechat	k5eAaPmIp1nP	
+rozvařit	rozvařit	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pak	pak	k6eAd1	
+přidáme	přidat	k5eAaPmIp1nP	
+strouhaná	strouhaný	k2eAgNnPc4d1	
+jablka	jablko	k1gNnPc4	
+a	a	k8xC	
+kousek	kousek	k1gInSc4	
+skořice	skořice	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+zamícháme	zamíchat	k5eAaPmIp1nP	
+a	a	k8xC	
+jablka	jablko	k1gNnPc4	
+za	za	k7c2	
+občasného	občasný	k2eAgNnSc2d1	
+promíchání	promíchání	k1gNnSc2	
+podusíme	podusit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pak	pak	k6eAd1	
+odstavíme	odstavit	k5eAaPmIp1nP	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+důkladně	důkladně	k6eAd1	
+vychladit	vychladit	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Je	on	k3xPp3gNnSc4	
+dobré	dobré	k1gNnSc4	
+udělat	udělat	k5eAaPmF	
+v	v	k7c6	
+předstihu	předstih	k1gInSc6	
+<g/>	
+,	,	kIx,	
+třeba	třeba	k8wRxS	
+i	i	k9	
+den	den	k1gInSc4	
+předem	předem	k6eAd1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+vychlazených	vychlazený	k2eAgNnPc2d1	
+jablek	jablko	k1gNnPc2	
+vmícháme	vmíchat	k5eAaPmIp1nP	
+jogurt	jogurt	k1gInSc4	
+a	a	k8xC	
+pak	pak	k6eAd1	
+ušlehanou	ušlehaný	k2eAgFnSc4d1	
+smetanu	smetana	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Předem	předem	k6eAd1	
+vyndáme	vyndat	k5eAaPmIp1nP	
+skořici	skořice	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c4	
+výrobu	výroba	k1gFnSc4	
+použijeme	použít	k5eAaPmIp1nP	
+zmrzlinovač	zmrzlinovač	k1gInSc4	
+a	a	k8xC	
+řídíme	řídit	k5eAaImIp1nP	
+se	se	k3xPyFc4	
+návodem	návod	k1gInSc7	
+daného	daný	k2eAgInSc2d1	
+výrobku	výrobek	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zmrzlina	zmrzlina	k1gFnSc1	
+je	být	k5eAaImIp3nS	
+hotová	hotová	k1gFnSc1	
+po	po	k7c6	
+cca	cca	kA	
+25	#num#	k4	
+minutách	minuta	k1gFnPc6	
+a	a	k8xC	
+nebylo	být	k5eNaImAgNnS	
+nutno	nutno	k6eAd1	
+ji	on	k3xPp3gFnSc4	
+nechávat	nechávat	k5eAaImF	
+domrazit	domrazit	k5eAaPmF	
+v	v	k7c6	
+mrazničce	mraznička	k1gFnSc6	
+<g/>	
+.	.	kIx.	
+</s>	

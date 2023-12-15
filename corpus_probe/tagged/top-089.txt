@@ -1,0 +1,171 @@
+<s>	
+Na	na	k7c6	
+velké	velký	k2eAgFnSc6d1	
+pánvi	pánev	k1gFnSc6	
+rozpustíme	rozpustit	k5eAaPmIp1nP	
+polovinu	polovina	k1gFnSc4	
+másla	máslo	k1gNnSc2	
+s	s	k7c7	
+olejem	olej	k1gInSc7	
+a	a	k8xC	
+na	na	k7c6	
+mírném	mírný	k2eAgInSc6d1	
+ohni	oheň	k1gInSc6	
+restujeme	restovat	k5eAaImIp1nP	
+3	#num#	k4	
+minuty	minuta	k1gFnPc4	
+nadrobno	nadrobno	k6eAd1	
+nakrájenou	nakrájený	k2eAgFnSc4d1	
+cibuli	cibule	k1gFnSc4	
+a	a	k8xC	
+posekaný	posekaný	k2eAgInSc4d1	
+česnek	česnek	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidáme	přidat	k5eAaPmIp1nP	
+houby	houby	k6eAd1	
+nakrájené	nakrájený	k2eAgInPc4d1	
+na	na	k7c4	
+plátky	plátek	k1gInPc4	
+a	a	k8xC	
+restujeme	restovat	k5eAaImIp1nP	
+další	další	k1gNnSc4	
+3	#num#	k4	
+minuty	minuta	k1gFnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vsypeme	vsypat	k5eAaPmIp1nP	
+suchou	suchý	k2eAgFnSc4d1	
+(	(	kIx(	
+<g/>	
+nepropláchnutou	propláchnutý	k2eNgFnSc7d1	
+<g/>	
+)	)	kIx)	
+rýži	rýže	k1gFnSc4	
+a	a	k8xC	
+dobře	dobře	k6eAd1	
+promícháme	promíchat	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+aby	aby	kYmCp3nP	
+se	se	k3xPyFc4	
+zrnka	zrnko	k1gNnPc1	
+rýže	rýže	k1gFnSc2	
+obalila	obalit	k5eAaPmAgNnP	
+tukem	tuk	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zalijeme	zalít	k5eAaPmIp1nP	
+vínem	víno	k1gNnSc7	
+<g/>	
+,	,	kIx,	
+necháme	nechat	k5eAaPmIp1nP	
+prudce	prudko	k6eAd1	
+odpařit	odpařit	k5eAaPmF	
+<g/>	
+,	,	kIx,	
+pak	pak	k8xC	
+přidáváme	přidávat	k5eAaImIp1nP	
+po	po	k7c6	
+částech	část	k1gFnPc6	
+horký	horký	k2eAgInSc4d1	
+vývar	vývar	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Průběžně	průběžně	k6eAd1	
+mícháme	míchat	k5eAaImIp1nP	
+a	a	k8xC	
+teprve	teprve	k6eAd1	
+<g/>	
+,	,	kIx,	
+až	až	k8xS	
+se	se	k3xPyFc4	
+tekutina	tekutina	k1gFnSc1	
+vsákne	vsáknout	k5eAaPmIp3nS	
+<g/>	
+,	,	kIx,	
+přidáváme	přidávat	k5eAaImIp1nP	
+další	další	k1gNnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vaříme	vařit	k5eAaImIp1nP	
+na	na	k7c6	
+mírném	mírný	k2eAgInSc6d1	
+plameni	plamen	k1gInSc6	
+<g/>	
+,	,	kIx,	
+mícháme	míchat	k5eAaImIp1nP	
+a	a	k8xC	
+postupně	postupně	k6eAd1	
+přilijeme	přilít	k5eAaPmIp1nP	
+všechen	všechen	k3xTgInSc4	
+připravený	připravený	k2eAgInSc4d1	
+vývar	vývar	k1gInSc4	
+<g/>	
+,	,	kIx,	
+dokud	dokud	k8xS	
+jej	on	k3xPp3gInSc4	
+rýže	rýže	k1gFnSc1	
+všechen	všechen	k3xTgInSc4	
+nevsákne	vsáknout	k5eNaPmIp3nS	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Rizoto	rizoto	k1gNnSc1	
+je	být	k5eAaImIp3nS	
+hotové	hotové	k1gNnSc1	
+<g/>	
+,	,	kIx,	
+když	když	k8xS	
+je	být	k5eAaImIp3nS	
+rýže	rýže	k1gFnSc1	
+měkká	měkký	k2eAgFnSc1d1	
+a	a	k8xC	
+krémovitá	krémovitý	k2eAgFnSc1d1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Nakonec	nakonec	k6eAd1	
+přidáme	přidat	k5eAaPmIp1nP	
+zbytek	zbytek	k1gInSc4	
+másla	máslo	k1gNnSc2	
+<g/>	
+,	,	kIx,	
+osolíme	osolit	k5eAaPmIp1nP	
+a	a	k8xC	
+opepříme	opepřit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Dobře	dobře	k6eAd1	
+promícháme	promíchat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c6	
+talíři	talíř	k1gInSc6	
+posypeme	posypat	k5eAaPmIp1nP	
+oblíbenými	oblíbený	k2eAgFnPc7d1	
+čerstvými	čerstvý	k2eAgFnPc7d1	
+bylinkami	bylinka	k1gFnPc7	
+a	a	k8xC	
+jemně	jemně	k6eAd1	
+nastrouhaným	nastrouhaný	k2eAgInSc7d1	
+parmazánem	parmazán	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	

@@ -1,0 +1,344 @@
+<s>	
+Celá	celý	k2eAgNnPc1d1	
+vejce	vejce	k1gNnPc1	
+vyšleháme	vyšlehat	k5eAaImIp1nP,k5eAaPmIp1nP	
+s	s	k7c7	
+vodou	voda	k1gFnSc7	
+do	do	k7c2	
+pěny	pěna	k1gFnSc2	
+elektrickým	elektrický	k2eAgInSc7d1	
+šlehačem	šlehač	k1gInSc7	
+na	na	k7c4	
+nejvyšší	vysoký	k2eAgFnPc4d3	
+obrátky	obrátka	k1gFnPc4	
+-	-	kIx~	
+cca	cca	kA	
+1	#num#	k4	
+minutu	minuta	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pak	pak	k6eAd1	
+přisypeme	přisypat	k5eAaPmIp1nP	
+cukry	cukr	k1gInPc4	
+a	a	k8xC	
+vyšleháme	vyšlehat	k5eAaImIp1nP,k5eAaPmIp1nP	
+do	do	k7c2	
+husté	hustý	k2eAgFnSc2d1	
+<g/>	
+,	,	kIx,	
+lesklé	lesklý	k2eAgFnPc1d1	
+pěny	pěna	k1gFnPc1	
+-	-	kIx~	
+cca	cca	kA	
+2	#num#	k4	
+minuty	minuta	k1gFnPc1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Mouku	mouka	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+Solamyl	solamyl	k1gInSc4	
+a	a	k8xC	
+1	#num#	k4	
+prášek	prášek	k1gInSc4	
+do	do	k7c2	
+pečiva	pečivo	k1gNnSc2	
+prosejeme	proset	k5eAaPmIp1nP	
+přes	přes	k7c4	
+sítko	sítko	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+a	a	k8xC	
+do	do	k7c2	
+vaječné	vaječný	k2eAgFnSc2d1	
+hmoty	hmota	k1gFnSc2	
+zlehka	zlehka	k6eAd1	
+a	a	k8xC	
+po	po	k7c6	
+částech	část	k1gFnPc6	
+vmícháme	vmíchat	k5eAaPmIp1nP	
+stěrkou	stěrka	k1gFnSc7	
+nebo	nebo	k8xC	
+vařečkou	vařečka	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Plech	plech	k1gInSc4	
+vystříkáme	vystříkat	k5eAaPmIp1nP	
+olejem	olej	k1gInSc7	
+ve	v	k7c6	
+spreji	sprej	k1gInSc6	
+<g/>	
+,	,	kIx,	
+vyložíme	vyložit	k5eAaPmIp1nP	
+papírem	papír	k1gInSc7	
+na	na	k7c4	
+pečení	pečení	k1gNnSc4	
+a	a	k8xC	
+ten	ten	k3xDgInSc4	
+také	také	k9	
+postříkáme	postříkat	k5eAaPmIp1nP	
+olejem	olej	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Těsto	těsto	k1gNnSc4	
+vylijeme	vylít	k5eAaPmIp1nP	
+na	na	k7c4	
+papír	papír	k1gInSc4	
+a	a	k8xC	
+stěrkou	stěrka	k1gFnSc7	
+uhladíme	uhladit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vložíme	vložit	k5eAaPmIp1nP	
+do	do	k7c2	
+trouby	trouba	k1gFnSc2	
+(	(	kIx(	
+<g/>	
+na	na	k7c4	
+horní	horní	k2eAgInSc4d1	
+spodní	spodní	k2eAgInSc4d1	
+ohřev	ohřev	k1gInSc4	
+<g/>	
+)	)	kIx)	
+<g/>	
+,	,	kIx,	
+vyhřáté	vyhřátý	k2eAgFnSc6d1	
+na	na	k7c4	
+200	#num#	k4	
+°	°	k?	
+<g/>	
+C.	C.	kA	
+Pečeme	péct	k5eAaImIp1nP	
+dozlatova	dozlatova	k6eAd1	
+cca	cca	kA	
+15	#num#	k4	
+min	mina	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+Respektujeme	respektovat	k5eAaImIp1nP	
+zkušenosti	zkušenost	k1gFnPc1	
+s	s	k7c7	
+vlastní	vlastní	k2eAgFnSc7d1	
+troubou	trouba	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Hned	hned	k6eAd1	
+po	po	k7c4	
+upečení	upečení	k1gNnSc4	
+piškot	piškot	k1gInSc4	
+pocukrujeme	pocukrovat	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+přiložíme	přiložit	k5eAaPmIp1nP	
+na	na	k7c4	
+něj	on	k3xPp3gInSc4	
+čistý	čistý	k2eAgInSc4d1	
+pečící	pečící	k2eAgInSc4d1	
+papír	papír	k1gInSc4	
+a	a	k8xC	
+obrátíme	obrátit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Původně	původně	k6eAd1	
+spodní	spodní	k2eAgInSc4d1	
+papír	papír	k1gInSc4	
+opatrně	opatrně	k6eAd1	
+odstraníme	odstranit	k5eAaPmIp1nP	
+a	a	k8xC	
+piškot	piškot	k1gInSc4	
+necháme	nechat	k5eAaPmIp1nP	
+zcela	zcela	k6eAd1	
+vychladnout	vychladnout	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zatím	zatím	k6eAd1	
+připravíme	připravit	k5eAaPmIp1nP	
+náplň	náplň	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Tvaroh	tvaroh	k1gInSc4	
+<g/>	
+,	,	kIx,	
+zakysanou	zakysaný	k2eAgFnSc4d1	
+smetanu	smetana	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+cukry	cukr	k1gInPc4	
+a	a	k8xC	
+citronovou	citronový	k2eAgFnSc4d1	
+kůru	kůra	k1gFnSc4	
+i	i	k8xC	
+šťávu	šťáva	k1gFnSc4	
+smícháme	smíchat	k5eAaPmIp1nP	
+ručně	ručně	k6eAd1	
+nebo	nebo	k8xC	
+elektrickým	elektrický	k2eAgInSc7d1	
+přístrojem	přístroj	k1gInSc7	
+do	do	k7c2	
+hladké	hladký	k2eAgFnSc2d1	
+konzistence	konzistence	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Šlehačku	šlehačka	k1gFnSc4	
+vyšleháme	vyšlehat	k5eAaPmIp1nP,k5eAaImIp1nP	
+dotuha	dotuh	k1gMnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Mandarinky	mandarinka	k1gFnPc1	
+necháme	nechat	k5eAaPmIp1nP	
+okapat	okapat	k5eAaPmF	
+v	v	k7c6	
+sítku	sítko	k1gNnSc6	
+a	a	k8xC	
+šťávu	šťáva	k1gFnSc4	
+ponecháme	ponechat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Tuhou	tuhý	k2eAgFnSc4d1	
+šlehačku	šlehačka	k1gFnSc4	
+opatrně	opatrně	k6eAd1	
+vmícháme	vmíchat	k5eAaPmIp1nP	
+do	do	k7c2	
+tvarohové	tvarohový	k2eAgFnSc2d1	
+hmoty	hmota	k1gFnSc2	
+a	a	k8xC	
+opět	opět	k6eAd1	
+promícháme	promíchat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Nyní	nyní	k6eAd1	
+použijeme	použít	k5eAaPmIp1nP	
+ponechanou	ponechaný	k2eAgFnSc4d1	
+šťávu	šťáva	k1gFnSc4	
+z	z	k7c2	
+mandarinek	mandarinka	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Nasypeme	nasypat	k5eAaPmIp1nP	
+do	do	k7c2	
+ní	on	k3xPp3gFnSc2	
+ztužovač	ztužovač	k1gInSc4	
+a	a	k8xC	
+dále	daleko	k6eAd2	
+postupujeme	postupovat	k5eAaImIp1nP	
+podle	podle	k7c2	
+návodu	návod	k1gInSc2	
+na	na	k7c6	
+ztužovači	ztužovač	k1gInSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Ti	ty	k3xPp2nSc3	
+šikovnější	šikovný	k2eAgInSc4d2	
+chladný	chladný	k2eAgInSc4d1	
+piškot	piškot	k1gInSc4	
+rozřežou	rozřezat	k5eAaPmIp3nP	
+vodorovně	vodorovně	k6eAd1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Ale	ale	k8xC	
+můžeme	moct	k5eAaImIp1nP	
+jej	on	k3xPp3gInSc4	
+i	i	k9	
+rozdělit	rozdělit	k5eAaPmF	
+na	na	k7c4	
+dvě	dva	k4xCgFnPc4	
+poloviny	polovina	k1gFnPc4	
+a	a	k8xC	
+položit	položit	k5eAaPmF	
+na	na	k7c4	
+sebe	se	k3xPyFc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+krému	krém	k1gInSc2	
+přidáme	přidat	k5eAaPmIp1nP	
+mandarinky	mandarinka	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+případně	případně	k6eAd1	
+broskve	broskev	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+a	a	k8xC	
+zlehka	zlehka	k6eAd1	
+promícháme	promíchat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Krém	krém	k1gInSc4	
+natřeme	natřít	k5eAaPmRp1nP	
+na	na	k7c4	
+spodní	spodní	k2eAgInSc4d1	
+plát	plát	k1gInSc4	
+a	a	k8xC	
+horním	horní	k2eAgInSc7d1	
+plátem	plát	k1gInSc7	
+ho	on	k3xPp3gNnSc4	
+přiklopíme	přiklopit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Necháme	nechat	k5eAaPmIp1nP	
+minimálně	minimálně	k6eAd1	
+2	#num#	k4	
+hodiny	hodiny	k1gFnPc1	
+v	v	k7c6	
+chladu	chlad	k1gInSc6	
+ztuhnout	ztuhnout	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Poté	poté	k6eAd1	
+pocukrujeme	pocukrovat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Uvaříme	uvařit	k5eAaPmIp1nP	
+si	se	k3xPyFc3	
+kávičku	kávička	k1gFnSc4	
+a	a	k8xC	
+popřejeme	popřát	k5eAaPmIp1nP	
+si	se	k3xPyFc3	
+dobrou	dobrý	k2eAgFnSc4d1	
+chuť	chuť	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	

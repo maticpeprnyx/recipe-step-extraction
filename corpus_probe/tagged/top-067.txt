@@ -1,0 +1,232 @@
+<s>	
+Důkladně	důkladně	k6eAd1	
+očištěné	očištěný	k2eAgFnPc4d1	
+hlavy	hlava	k1gFnPc4	
+a	a	k8xC	
+oškrábanou	oškrábaný	k2eAgFnSc4d1	
+kořenovou	kořenový	k2eAgFnSc4d1	
+zeleninu	zelenina	k1gFnSc4	
+uložíme	uložit	k5eAaPmIp1nP	
+na	na	k7c4	
+plech	plech	k1gInSc4	
+s	s	k7c7	
+vyšším	vysoký	k2eAgInSc7d2	
+okrajem	okraj	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidáme	přidat	k5eAaPmIp1nP	
+cibuli	cibule	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+dva	dva	k4xCgInPc4	
+tenčí	tenký	k2eAgInPc4d2	
+plátky	plátek	k1gInPc4	
+másla	máslo	k1gNnSc2	
+a	a	k8xC	
+dáme	dát	k5eAaPmIp1nP	
+nepřikryté	přikrytý	k2eNgInPc1d1	
+do	do	k7c2	
+trouby	trouba	k1gFnSc2	
+vyhřáté	vyhřátý	k2eAgFnSc2d1	
+na	na	k7c6	
+190	#num#	k4	
+<g/>	
+-	-	kIx~	
+<g/>	
+200	#num#	k4	
+stupňů	stupeň	k1gInPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pečeme	péct	k5eAaImIp1nP	
+25	#num#	k4	
+<g/>	
+-	-	kIx~	
+<g/>	
+30	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Řiďte	řídit	k5eAaImRp2nP	
+se	se	k3xPyFc4	
+zkušeností	zkušenost	k1gFnSc7	
+se	s	k7c7	
+svou	svůj	k3xOyFgFnSc7	
+troubou	trouba	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Když	když	k8xS	
+hlavy	hlava	k1gFnPc1	
+i	i	k8xC	
+zelenina	zelenina	k1gFnSc1	
+začnou	začít	k5eAaPmIp3nP	
+zlátnout	zlátnout	k5eAaImF	
+<g/>	
+,	,	kIx,	
+vše	všechen	k3xTgNnSc4	
+přesuneme	přesunout	k5eAaPmIp1nP	
+do	do	k7c2	
+většího	velký	k2eAgInSc2d2	
+hrnce	hrnec	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zalijeme	zalít	k5eAaPmIp1nP	
+vodou	voda	k1gFnSc7	
+tak	tak	k6eAd1	
+<g/>	
+,	,	kIx,	
+aby	aby	kYmCp3nS	
+vše	všechen	k3xTgNnSc1	
+bylo	být	k5eAaImAgNnS	
+ponořené	ponořený	k2eAgInPc4d1	
+tak	tak	k6eAd1	
+akorát	akorát	k6eAd1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidáme	přidat	k5eAaPmIp1nP	
+veškeré	veškerý	k3xTgNnSc4	
+koření	koření	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+sůl	sůl	k1gFnSc4	
+a	a	k8xC	
+vaříme	vařit	k5eAaImIp1nP	
+táhlým	táhlý	k2eAgInSc7d1	
+varem	var	k1gInSc7	
+do	do	k7c2	
+měkka	měkek	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Mezitím	mezitím	k6eAd1	
+uvaříme	uvařit	k5eAaPmIp1nP	
+všechny	všechen	k3xTgFnPc4	
+vnitřnosti	vnitřnost	k1gFnPc4	
+v	v	k7c6	
+lehce	lehko	k6eAd1	
+osolené	osolený	k2eAgFnSc3d1	
+vodě	voda	k1gFnSc3	
+do	do	k7c2	
+měkka	měkko	k1gNnSc2	
+<g/>	
+,	,	kIx,	
+ale	ale	k8xC	
+nesmí	smět	k5eNaImIp3nS	
+se	se	k3xPyFc4	
+rozvařit	rozvařit	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Uvařené	uvařený	k2eAgFnPc4d1	
+hlavy	hlava	k1gFnPc4	
+scedíme	scedit	k5eAaPmIp1nP	
+a	a	k8xC	
+obereme	obrat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Čistý	čistý	k2eAgInSc4d1	
+vývar	vývar	k1gInSc4	
+z	z	k7c2	
+hlav	hlava	k1gFnPc2	
+zahustíme	zahustit	k5eAaPmIp1nP	
+jíškou	jíška	k1gFnSc7	
+z	z	k7c2	
+másla	máslo	k1gNnSc2	
+<g/>	
+,	,	kIx,	
+zalitou	zalitý	k2eAgFnSc7d1	
+částí	část	k1gFnSc7	
+odebraného	odebraný	k2eAgInSc2d1	
+vývaru	vývar	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zasmaženou	zasmažený	k2eAgFnSc4d1	
+polévku	polévka	k1gFnSc4	
+vaříme	vařit	k5eAaImIp1nP	
+pomalu	pomalu	k6eAd1	
+cca	cca	kA	
+20	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Mezitím	mezitím	k6eAd1	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+všechno	všechen	k3xTgNnSc4	
+obrané	obraný	k2eAgNnSc4d1	
+maso	maso	k1gNnSc4	
+a	a	k8xC	
+vnitřnosti	vnitřnost	k1gFnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vrátíme	vrátit	k5eAaPmIp1nP	
+do	do	k7c2	
+povařené	povařený	k2eAgFnSc2d1	
+polévky	polévka	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vyvařenou	vyvařený	k2eAgFnSc4d1	
+zeleninu	zelenina	k1gFnSc4	
+do	do	k7c2	
+polévky	polévka	k1gFnSc2	
+nedávám	dávat	k5eNaImIp1nS	
+<g/>	
+,	,	kIx,	
+ale	ale	k8xC	
+kdo	kdo	k3yRnSc1,k3yInSc1,k3yQnSc1	
+chce	chtít	k5eAaImIp3nS	
+<g/>	
+,	,	kIx,	
+může	moct	k5eAaImIp3nS	
+přidat	přidat	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Polévku	polévka	k1gFnSc4	
+už	už	k6eAd1	
+jen	jen	k9	
+krátce	krátce	k6eAd1	
+povaříme	povařit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+dochutíme	dochutit	k5eAaPmIp1nP	
+podle	podle	k7c2	
+chuti	chuť	k1gFnSc2	
+mletým	mletý	k2eAgInSc7d1	
+pepřem	pepř	k1gInSc7	
+nebo	nebo	k8xC	
+solí	solit	k5eAaImIp3nP	
+a	a	k8xC	
+podáváme	podávat	k5eAaImIp1nP	
+s	s	k7c7	
+rohlíkovými	rohlíkový	k2eAgInPc7d1	
+krutony	kruton	k1gInPc7	
+opečenými	opečený	k2eAgInPc7d1	
+na	na	k7c6	
+másle	máslo	k1gNnSc6	
+<g/>	
+.	.	kIx.	
+</s>	

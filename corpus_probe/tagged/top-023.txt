@@ -1,0 +1,95 @@
+<s>	
+Nakrájenou	nakrájený	k2eAgFnSc4d1	
+cibuli	cibule	k1gFnSc4	
+nadrobno	nadrobno	k6eAd1	
+a	a	k8xC	
+česnek	česnek	k1gInSc4	
+zpěníme	zpěnit	k5eAaPmIp1nP	
+na	na	k7c6	
+másle	máslo	k1gNnSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidáme	přidat	k5eAaPmIp1nP	
+šunku	šunka	k1gFnSc4	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+orestovat	orestovat	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Rozdrobíme	rozdrobit	k5eAaPmIp1nP	
+droždí	droždí	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+necháme	nechat	k5eAaPmIp1nP	
+ho	on	k3xPp3gMnSc4	
+rozpustit	rozpustit	k5eAaPmF	
+a	a	k8xC	
+rozvonět	rozvonět	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vejce	vejce	k1gNnSc4	
+rozšleháme	rozšlehat	k5eAaPmIp1nP	
+se	se	k3xPyFc4	
+smetanou	smetana	k1gFnSc7	
+a	a	k8xC	
+přidáme	přidat	k5eAaPmIp1nP	
+k	k	k7c3	
+droždí	droždí	k1gNnSc3	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Mícháme	míchat	k5eAaImIp1nP	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+srazit	srazit	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vmícháme	vmíchat	k5eAaPmIp1nP	
+hořčici	hořčice	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+lahůdkové	lahůdkový	k2eAgNnSc4d1	
+droždí	droždí	k1gNnSc4	
+a	a	k8xC	
+pepř	pepřit	k5eAaImRp2nS	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Ochutnáme	ochutnat	k5eAaPmIp1nP	
+a	a	k8xC	
+až	až	k9	
+potom	potom	k8xC	
+dosolíme	dosolit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+droždí	droždí	k1gNnSc1	
+je	být	k5eAaImIp3nS	
+výrazné	výrazný	k2eAgNnSc1d1	
+a	a	k8xC	
+hodně	hodně	k6eAd1	
+ji	on	k3xPp3gFnSc4	
+dochutí	dochutit	k5eAaPmIp3nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Prohřejeme	prohřát	k5eAaPmIp1nP	
+a	a	k8xC	
+podáváme	podávat	k5eAaImIp1nP	
+s	s	k7c7	
+pečivem	pečivo	k1gNnSc7	
+a	a	k8xC	
+zeleninou	zelenina	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	

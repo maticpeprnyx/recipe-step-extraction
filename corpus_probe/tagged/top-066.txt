@@ -1,0 +1,175 @@
+<s>	
+Plech	plech	k1gInSc4	
+vyložíme	vyložit	k5eAaPmIp1nP	
+pečicím	pečicí	k2eAgInSc7d1	
+papírem	papír	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+V	v	k7c6	
+míse	mísa	k1gFnSc6	
+smícháme	smíchat	k5eAaPmIp1nP	
+mouku	mouka	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+cukr	cukr	k1gInSc4	
+<g/>	
+,	,	kIx,	
+vanilkový	vanilkový	k2eAgInSc4d1	
+cukr	cukr	k1gInSc4	
+<g/>	
+,	,	kIx,	
+máslo	máslo	k1gNnSc4	
+a	a	k8xC	
+žloutek	žloutek	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vypracujeme	vypracovat	k5eAaPmIp1nP	
+těsto	těsto	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+které	který	k3yRgFnPc1	
+necháme	nechat	k5eAaPmIp1nP	
+půl	půl	k6eAd1	
+hodiny	hodina	k1gFnPc4	
+odležet	odležet	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Meruňky	meruňka	k1gFnSc2	
+nasekáme	nasekat	k5eAaPmIp1nP	
+nadrobno	nadrobno	k6eAd1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Smetanu	smetana	k1gFnSc4	
+lehce	lehko	k6eAd1	
+zahřejeme	zahřát	k5eAaPmIp1nP	
+a	a	k8xC	
+rozpustíme	rozpustit	k5eAaPmIp1nP	
+v	v	k7c6	
+ní	on	k3xPp3gFnSc6	
+cukr	cukr	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidáme	přidat	k5eAaPmIp1nP	
+meruňky	meruňka	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+arašídy	arašíd	k1gInPc4	
+<g/>	
+,	,	kIx,	
+ořechy	ořech	k1gInPc4	
+<g/>	
+,	,	kIx,	
+a	a	k8xC	
+provaříme	provařit	k5eAaPmIp1nP	
+zhruba	zhruba	k6eAd1	
+10	#num#	k4	
+<g/>	
+-	-	kIx~	
+<g/>	
+15	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Hotovou	hotový	k2eAgFnSc4d1	
+náplň	náplň	k1gFnSc4	
+necháme	nechat	k5eAaPmIp1nP	
+zchladnout	zchladnout	k5eAaPmF	
+v	v	k7c6	
+lednici	lednice	k1gFnSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Troubu	trouba	k1gFnSc4	
+předehřejeme	předehřát	k5eAaPmIp1nP	
+na	na	k7c4	
+180	#num#	k4	
+°	°	k?	
+<g/>	
+C.	C.	kA	
+Těsto	těsto	k1gNnSc4	
+na	na	k7c6	
+pomoučněném	pomoučněný	k2eAgInSc6d1	
+válu	vál	k1gInSc6	
+rozválíme	rozválet	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vykrajujeme	vykrajovat	k5eAaImIp1nP	
+kolečka	kolečko	k1gNnPc4	
+o	o	k7c6	
+velikosti	velikost	k1gFnSc6	
+zhruba	zhruba	k6eAd1	
+5	#num#	k4	
+cm	cm	kA	
+a	a	k8xC	
+klademe	klást	k5eAaImIp1nP	
+je	on	k3xPp3gNnSc4	
+na	na	k7c4	
+plech	plech	k1gInSc4	
+kousek	kousek	k1gInSc4	
+dál	daleko	k6eAd2	
+od	od	k7c2	
+sebe	se	k3xPyFc4	
+<g/>	
+,	,	kIx,	
+měla	mít	k5eAaImAgNnP	
+by	by	kYmCp3nP	
+mít	mít	k5eAaImF	
+stejnou	stejný	k2eAgFnSc4d1	
+tloušťku	tloušťka	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+aby	aby	kYmCp3nS	
+se	se	k3xPyFc4	
+nespálila	spálit	k5eNaPmAgFnS	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c4	
+připravená	připravený	k2eAgNnPc4d1	
+kolečka	kolečko	k1gNnPc4	
+klademe	klást	k5eAaImIp1nP	
+lžičkou	lžička	k1gFnSc7	
+náplň	náplň	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pečeme	péct	k5eAaImIp1nP	
+ve	v	k7c6	
+vyhřáté	vyhřátý	k2eAgFnSc6d1	
+troubě	trouba	k1gFnSc6	
+do	do	k7c2	
+zčervenání	zčervenání	k1gNnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vychladlá	vychladlý	k2eAgNnPc4d1	
+kolečka	kolečko	k1gNnPc4	
+namáčíme	namáčet	k5eAaImIp1nP	
+do	do	k7c2	
+čokoládové	čokoládový	k2eAgFnSc2d1	
+polevy	poleva	k1gFnSc2	
+nebo	nebo	k8xC	
+pocákáme	pocákat	k5eAaPmIp1nP	
+čokoládou	čokoláda	k1gFnSc7	
+shora	shora	k6eAd1	
+<g/>	
+.	.	kIx.	
+</s>	

@@ -1,0 +1,88 @@
+<s>	
+Těsto	těsto	k1gNnSc4	
+<g/>	
+:	:	kIx,	
+Žloutky	žloutek	k1gInPc4	
+<g/>	
+,	,	kIx,	
+máslo	máslo	k1gNnSc4	
+a	a	k8xC	
+100	#num#	k4	
+<g/>	
+g	g	kA	
+cukru	cukr	k1gInSc6	
+utřeme	utřít	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+vanilkový	vanilkový	k2eAgInSc4d1	
+cukr	cukr	k1gInSc4	
+<g/>	
+,	,	kIx,	
+mouku	mouka	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+mléko	mléko	k1gNnSc4	
+a	a	k8xC	
+prášek	prášek	k1gInSc4	
+do	do	k7c2	
+pečiva	pečivo	k1gNnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Těsto	těsto	k1gNnSc4	
+rozetřeme	rozetřít	k5eAaPmIp1nP	
+na	na	k7c4	
+vymazaný	vymazaný	k2eAgInSc4d1	
+a	a	k8xC	
+vysypaný	vysypaný	k2eAgInSc4d1	
+plech	plech	k1gInSc4	
+a	a	k8xC	
+obložíme	obložit	k5eAaPmIp1nP	
+ho	on	k3xPp3gInSc4	
+jakýmkoliv	jakýkoliv	k3yIgNnPc3	
+ovocem	ovoce	k1gNnSc7	
+<g/>	
+,	,	kIx,	
+já	já	k3xPp1nSc1	
+měla	mít	k5eAaImAgFnS	
+švestky	švestka	k1gFnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Kokosová	kokosový	k2eAgFnSc1d1	
+pěna	pěna	k1gFnSc1	
+<g/>	
+:	:	kIx,	
+4	#num#	k4	
+bílky	bílek	k1gInPc1	
+ušleháme	ušlehat	k5eAaPmIp1nP	
+do	do	k7c2	
+hustého	hustý	k2eAgInSc2d1	
+sněhu	sníh	k1gInSc2	
+a	a	k8xC	
+přidáme	přidat	k5eAaPmIp1nP	
+100	#num#	k4	
+až	až	k9	
+150	#num#	k4	
+<g/>	
+g	g	kA	
+moučkového	moučkový	k2eAgInSc2d1	
+cukru	cukr	k1gInSc2	
+a	a	k8xC	
+kokos	kokos	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Natřeme	natřít	k5eAaPmIp1nP	
+na	na	k7c4	
+těsto	těsto	k1gNnSc4	
+a	a	k8xC	
+pečeme	péct	k5eAaImIp1nP	
+dorůžova	dorůžova	k6eAd1wH	
+<g/>	
+.	.	kIx.	
+</s>	

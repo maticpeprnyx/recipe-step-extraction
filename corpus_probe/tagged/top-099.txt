@@ -1,0 +1,181 @@
+<s>	
+Cibulku	cibulka	k1gFnSc4	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+na	na	k7c6	
+oleji	olej	k1gInSc6	
+zesklovatět	zesklovatět	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Mezitím	mezitím	k6eAd1	
+oloupeme	oloupat	k5eAaPmIp1nP	
+batáty	batáty	k1gInPc1	
+a	a	k8xC	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+je	on	k3xPp3gFnPc4	
+na	na	k7c4	
+menší	malý	k2eAgInPc4d2	
+kousky	kousek	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+K	k	k7c3	
+cibulce	cibulka	k1gFnSc3	
+přidáme	přidat	k5eAaPmIp1nP	
+nasekaný	nasekaný	k2eAgInSc4d1	
+česnek	česnek	k1gInSc4	
+<g/>	
+,	,	kIx,	
+kari	kari	k1gNnSc4	
+pastu	pasta	k1gFnSc4	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+chvilku	chvilka	k1gFnSc4	
+rozvonět	rozvonět	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidáme	přidat	k5eAaPmIp1nP	
+batáty	batáty	k1gInPc1	
+<g/>	
+,	,	kIx,	
+sůl	sůl	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+pepř	pepřit	k5eAaImRp2nS	
+<g/>	
+,	,	kIx,	
+promícháme	promíchat	k5eAaPmIp1nP	
+a	a	k8xC	
+zalijeme	zalít	k5eAaPmIp1nP	
+vodou	voda	k1gFnSc7	
+(	(	kIx(	
+<g/>	
+nebo	nebo	k8xC	
+kdo	kdo	k3yInSc1,k3yRnSc1,k3yQnSc1	
+má	mít	k5eAaImIp3nS	
+<g/>	
+,	,	kIx,	
+vývarem	vývar	k1gInSc7	
+<g/>	
+)	)	kIx)	
+tak	tak	k9	
+<g/>	
+,	,	kIx,	
+aby	aby	kYmCp3nP	
+byly	být	k5eAaImAgInP	
+batáty	batáty	k1gInPc1	
+potopené	potopený	k2eAgInPc1d1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vaříme	vařit	k5eAaImIp1nP	
+do	do	k7c2	
+měkka	měkek	k1gInSc2	
+(	(	kIx(	
+<g/>	
+asi	asi	k9	
+10	#num#	k4	
+<g/>	
+-	-	kIx~	
+<g/>	
+15	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+,	,	kIx,	
+jsou	být	k5eAaImIp3nP	
+hned	hned	k6eAd1	
+<g/>	
+)	)	kIx)	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+polévky	polévka	k1gFnSc2	
+rozdrobíme	rozdrobit	k5eAaPmIp1nP	
+Lučinu	lučina	k1gFnSc4	
+a	a	k8xC	
+rozmixujeme	rozmixovat	k5eAaPmIp1nP	
+vše	všechen	k3xTgNnSc4	
+na	na	k7c4	
+hladký	hladký	k2eAgInSc4d1	
+krém	krém	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pokud	pokud	k8xS	
+je	být	k5eAaImIp3nS	
+moc	moc	k1gFnSc1	
+hustá	hustý	k2eAgFnSc1d1	
+<g/>	
+,	,	kIx,	
+rozředíme	rozředit	k5eAaPmIp1nP	
+ji	on	k3xPp3gFnSc4	
+a	a	k8xC	
+ještě	ještě	k6eAd1	
+necháme	nechat	k5eAaPmIp1nP	
+přejít	přejít	k5eAaPmF	
+varem	var	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Dochutíme	dochutit	k5eAaPmIp1nP	
+solí	sůl	k1gFnPc2	
+<g/>	
+,	,	kIx,	
+pepřem	pepř	k1gInSc7	
+a	a	k8xC	
+kdo	kdo	k3yInSc1,k3yRnSc1,k3yQnSc1	
+má	mít	k5eAaImIp3nS	
+rád	rád	k2eAgMnSc1d1	
+<g/>	
+,	,	kIx,	
+chilli	chilli	k1gNnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Nakonec	nakonec	k6eAd1	
+přidáme	přidat	k5eAaPmIp1nP	
+nasekaný	nasekaný	k2eAgInSc4d1	
+koriandr	koriandr	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Polévku	polévka	k1gFnSc4	
+servírujeme	servírovat	k5eAaBmIp1nP	
+posypanou	posypaný	k2eAgFnSc4d1	
+koriandrem	koriandr	k1gInSc7	
+a	a	k8xC	
+nasekanými	nasekaný	k2eAgInPc7d1	
+praženými	pražený	k2eAgInPc7d1	
+oříšky	oříšek	k1gInPc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+S	s	k7c7	
+opečenými	opečený	k2eAgInPc7d1	
+tousty	toust	k1gInPc7	
+namazanými	namazaný	k2eAgInPc7d1	
+arašídovým	arašídový	k2eAgNnSc7d1	
+máslem	máslo	k1gNnSc7	
+je	být	k5eAaImIp3nS	
+to	ten	k3xDgNnSc1	
+chutná	chutný	k2eAgFnSc1d1	
+a	a	k8xC	
+sytá	sytý	k2eAgFnSc1d1	
+večeře	večeře	k1gFnSc1	
+<g/>	
+.	.	kIx.	
+</s>	

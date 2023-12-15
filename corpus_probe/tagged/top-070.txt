@@ -1,0 +1,139 @@
+<s>	
+Kuřecí	kuřecí	k2eAgNnSc4d1	
+maso	maso	k1gNnSc4	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+nudličky	nudlička	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+osolíme	osolit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+opepříme	opepřit	k5eAaPmIp1nP	
+a	a	k8xC	
+poprášíme	poprášit	k5eAaPmIp1nP	
+Solamylem	solamyl	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+V	v	k7c6	
+misce	miska	k1gFnSc6	
+smícháme	smíchat	k5eAaPmIp1nP	
+sójovou	sójový	k2eAgFnSc4d1	
+omáčku	omáčka	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+worcester	worcester	k1gInSc4	
+<g/>	
+,	,	kIx,	
+olej	olej	k1gInSc4	
+a	a	k8xC	
+sušený	sušený	k2eAgInSc4d1	
+zázvor	zázvor	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Maso	maso	k1gNnSc4	
+v	v	k7c6	
+misce	miska	k1gFnSc6	
+promícháme	promíchat	k5eAaPmIp1nP	
+se	se	k3xPyFc4	
+vzniklou	vzniklý	k2eAgFnSc7d1	
+marinádou	marináda	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Polovinu	polovina	k1gFnSc4	
+pórku	pórek	k1gInSc2	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+kolečka	kolečko	k1gNnPc4	
+a	a	k8xC	
+promícháme	promíchat	k5eAaPmIp1nP	
+s	s	k7c7	
+naloženým	naložený	k2eAgNnSc7d1	
+masem	maso	k1gNnSc7	
+<g/>	
+,	,	kIx,	
+necháme	nechat	k5eAaPmIp1nP	
+odležet	odležet	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+V	v	k7c6	
+pánvi	pánev	k1gFnSc6	
+rozehřejeme	rozehřát	k5eAaPmIp1nP	
+máslo	máslo	k1gNnSc4	
+s	s	k7c7	
+olejem	olej	k1gInSc7	
+<g/>	
+,	,	kIx,	
+maso	maso	k1gNnSc4	
+zprudka	zprudka	k6eAd1	
+orestujeme	orestovat	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+aby	aby	kYmCp3nP	
+nestihlo	stihnout	k5eNaPmAgNnS	
+pustit	pustit	k5eAaPmF	
+šťávu	šťáva	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Restujeme	restovat	k5eAaImIp1nP	
+pouze	pouze	k6eAd1	
+pár	pár	k4xCyI	
+minut	minuta	k1gFnPc2	
+<g/>	
+,	,	kIx,	
+aby	aby	kYmCp3nS	
+se	se	k3xPyFc4	
+maso	maso	k1gNnSc4	
+delší	dlouhý	k2eAgFnSc7d2	
+tepelnou	tepelný	k2eAgFnSc7d1	
+úpravou	úprava	k1gFnSc7	
+nevysušilo	vysušit	k5eNaPmAgNnS	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Před	před	k7c7	
+odstavením	odstavení	k1gNnSc7	
+z	z	k7c2	
+ohně	oheň	k1gInSc2	
+přidáme	přidat	k5eAaPmIp1nP	
+druhou	druhý	k4xOgFnSc4	
+polovinu	polovina	k1gFnSc4	
+pórku	pórek	k1gInSc2	
+<g/>	
+,	,	kIx,	
+který	který	k3yRgInSc4	
+jsme	být	k5eAaImIp1nP	
+nakrájeli	nakrájet	k5eAaPmAgMnP	
+na	na	k7c4	
+kolečka	kolečko	k1gNnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podle	podle	k7c2	
+chuti	chuť	k1gFnSc2	
+můžeme	moct	k5eAaImIp1nP	
+dosolit	dosolit	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Chutnou	chutný	k2eAgFnSc7d1	
+přílohou	příloha	k1gFnSc7	
+jsou	být	k5eAaImIp3nP	
+opékané	opékaný	k2eAgFnPc1d1	
+brambory	brambora	k1gFnPc1	
+<g/>	
+.	.	kIx.	
+</s>	

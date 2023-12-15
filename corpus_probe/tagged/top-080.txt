@@ -1,0 +1,104 @@
+<s>	
+Rozklepneme	rozklepnout	k5eAaPmIp1nP	
+vejce	vejce	k1gNnSc4	
+a	a	k8xC	
+přidáme	přidat	k5eAaPmIp1nP	
+mléko	mléko	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+abychom	aby	kYmCp1nP	
+v	v	k7c6	
+odměrce	odměrka	k1gFnSc6	
+i	i	k9	
+s	s	k7c7	
+vejcem	vejce	k1gNnSc7	
+dorovnali	dorovnat	k5eAaPmAgMnP	
+hladinu	hladina	k1gFnSc4	
+na	na	k7c4	
+500	#num#	k4	
+ml	ml	kA	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Dále	daleko	k6eAd2	
+přidáme	přidat	k5eAaPmIp1nP	
+mouku	mouka	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+špetku	špetka	k1gFnSc4	
+soli	sůl	k1gFnSc2	
+a	a	k8xC	
+cukr	cukr	k1gInSc4	
+podle	podle	k7c2	
+chuti	chuť	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Množství	množství	k1gNnSc1	
+těsta	těsto	k1gNnSc2	
+vychází	vycházet	k5eAaImIp3nS	
+na	na	k7c4	
+6	#num#	k4	
+palačinek	palačinka	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c6	
+pánvi	pánev	k1gFnSc6	
+rozpálíme	rozpálit	k5eAaPmIp1nP,k5eAaImIp1nP	
+olej	olej	k1gInSc4	
+a	a	k8xC	
+palačinky	palačinka	k1gFnPc4	
+smažíme	smažit	k5eAaImIp1nP	
+z	z	k7c2	
+obou	dva	k4xCgFnPc2	
+stran	strana	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Obracíme	obracet	k5eAaImIp1nP	
+<g/>	
+,	,	kIx,	
+když	když	k8xS	
+těsto	těsto	k1gNnSc1	
+skoro	skoro	k6eAd1	
+utuhne	utuhnout	k5eAaPmIp3nS	
+i	i	k9	
+seshora	seshora	k6eAd1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Klasické	klasický	k2eAgFnPc4d1	
+palačinky	palačinka	k1gFnPc4	
+mojí	můj	k3xOp1gFnSc2	
+maminky	maminka	k1gFnSc2	
+dozdobíme	dozdobit	k5eAaPmIp1nP	
+podle	podle	k7c2	
+chuti	chuť	k1gFnSc2	
+šlehačkou	šlehačka	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+marmeládou	marmeláda	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+tvarohem	tvaroh	k1gInSc7	
+<g/>	
+,	,	kIx,	
+skořicí	skořice	k1gFnSc7	
+nebo	nebo	k8xC	
+kakaem	kakao	k1gNnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Palačinky	palačinka	k1gFnPc4	
+ihned	ihned	k6eAd1	
+podáváme	podávat	k5eAaImIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	

@@ -1,0 +1,181 @@
+<s>	
+Kuře	kuře	k1gNnSc4	
+osolíme	osolit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+posypeme	posypat	k5eAaPmIp1nP	
+kořením	koření	k1gNnSc7	
+a	a	k8xC	
+obalíme	obalit	k5eAaPmIp1nP	
+v	v	k7c6	
+mouce	mouka	k1gFnSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zelí	zelí	k1gNnSc4	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+kostičky	kostička	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+cibuli	cibule	k1gFnSc4	
+na	na	k7c4	
+klínky	klínek	k1gInPc4	
+<g/>	
+,	,	kIx,	
+papriku	paprika	k1gFnSc4	
+na	na	k7c4	
+proužky	proužek	k1gInPc4	
+<g/>	
+,	,	kIx,	
+klobásu	klobása	k1gFnSc4	
+na	na	k7c4	
+kolečka	kolečko	k1gNnPc4	
+a	a	k8xC	
+česnek	česnek	k1gInSc4	
+na	na	k7c4	
+plátky	plátek	k1gInPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c6	
+tuku	tuk	k1gInSc6	
+stehna	stehno	k1gNnSc2	
+zprudka	zprudka	k6eAd1	
+opečeme	opéct	k5eAaPmIp1nP	
+z	z	k7c2	
+obou	dva	k4xCgFnPc2	
+stran	strana	k1gFnPc2	
+a	a	k8xC	
+vytáhneme	vytáhnout	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+výpeku	výpek	k1gInSc2	
+přidáme	přidat	k5eAaPmIp1nP	
+podle	podle	k7c2	
+potřeby	potřeba	k1gFnSc2	
+olej	olej	k1gInSc4	
+a	a	k8xC	
+cibuli	cibule	k1gFnSc4	
+opečeme	opéct	k5eAaPmIp1nP	
+do	do	k7c2	
+zlatova	zlatovo	k1gNnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přihodíme	přihodit	k5eAaPmIp1nP	
+klobásu	klobása	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+česnek	česnek	k1gInSc4	
+<g/>	
+,	,	kIx,	
+kmín	kmín	k1gInSc4	
+<g/>	
+,	,	kIx,	
+papriku	paprika	k1gFnSc4	
+a	a	k8xC	
+zelí	zelí	k1gNnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Opékáme	opékat	k5eAaImIp1nP	
+<g/>	
+,	,	kIx,	
+až	až	k8xS	
+zelí	zelí	k1gNnSc1	
+začne	začít	k5eAaPmIp3nS	
+zlátnout	zlátnout	k5eAaImF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pivo	pivo	k1gNnSc4	
+smícháme	smíchat	k5eAaPmIp1nP	
+s	s	k7c7	
+kečupem	kečup	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vše	všechen	k3xTgNnSc1	
+předěláme	předělat	k5eAaPmIp1nP	
+do	do	k7c2	
+pekáčku	pekáček	k1gInSc2	
+<g/>	
+,	,	kIx,	
+na	na	k7c4	
+směs	směs	k1gFnSc4	
+položíme	položit	k5eAaPmIp1nP	
+stehna	stehno	k1gNnPc1	
+a	a	k8xC	
+zalijeme	zalít	k5eAaPmIp1nP	
+je	on	k3xPp3gFnPc4	
+pivem	pivo	k1gNnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pekáček	pekáček	k1gInSc4	
+přikryjeme	přikrýt	k5eAaPmIp1nP	
+a	a	k8xC	
+pečeme	péct	k5eAaImIp1nP	
+na	na	k7c4	
+200	#num#	k4	
+°	°	k?	
+<g/>	
+C	C	kA	
+asi	asi	k9	
+40	#num#	k4	
+<g/>	
+-	-	kIx~	
+<g/>	
+45	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Po	po	k7c6	
+změknutí	změknutí	k1gNnSc6	
+masa	maso	k1gNnSc2	
+pekáček	pekáček	k1gInSc4	
+odkryjeme	odkrýt	k5eAaPmIp1nP	
+a	a	k8xC	
+dopečeme	dopéct	k5eAaPmIp1nP	
+do	do	k7c2	
+křupava	křupava	k1gFnSc1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Jako	jako	k8xC,k8xS	
+přílohu	příloha	k1gFnSc4	
+můžeme	moct	k5eAaImIp1nP	
+zvolit	zvolit	k5eAaPmF	
+domácí	domácí	k1gMnPc4	
+chleba	chléb	k1gInSc2	
+<g/>	
+,	,	kIx,	
+ale	ale	k8xC	
+klidně	klidně	k6eAd1	
+mohou	moct	k5eAaImIp3nP	
+být	být	k5eAaImF	
+i	i	k9	
+vařené	vařený	k2eAgFnPc1d1	
+brambory	brambora	k1gFnPc1	
+nebo	nebo	k8xC	
+jen	jen	k9	
+to	ten	k3xDgNnSc1	
+upečené	upečený	k2eAgNnSc1d1	
+zelí	zelí	k1gNnSc1	
+<g/>	
+.	.	kIx.	
+</s>	

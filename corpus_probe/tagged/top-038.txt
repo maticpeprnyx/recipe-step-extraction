@@ -1,0 +1,126 @@
+<s>	
+Ve	v	k7c6	
+větší	velký	k2eAgFnSc6d2	
+pánvi	pánev	k1gFnSc6	
+si	se	k3xPyFc3	
+osmažíme	osmažit	k5eAaPmIp1nP	
+na	na	k7c6	
+sádle	sádlo	k1gNnSc6	
+(	(	kIx(	
+<g/>	
+oleji	olej	k1gInSc3	
+<g/>	
+)	)	kIx)	
+drobně	drobně	k6eAd1	
+pokrájenou	pokrájený	k2eAgFnSc4d1	
+cibuli	cibule	k1gFnSc4	
+dozlatova	dozlatova	k6eAd1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přidáme	přidat	k5eAaPmIp1nP	
+na	na	k7c4	
+menší	malý	k2eAgInPc4d2	
+kusy	kus	k1gInPc4	
+pokrájené	pokrájený	k2eAgNnSc1d1	
+vařené	vařený	k2eAgNnSc1d1	
+uzené	uzený	k2eAgNnSc1d1	
+maso	maso	k1gNnSc1	
+<g/>	
+,	,	kIx,	
+drobně	drobně	k6eAd1	
+nasekaný	nasekaný	k2eAgInSc4d1	
+česnek	česnek	k1gInSc4	
+<g/>	
+,	,	kIx,	
+drcený	drcený	k2eAgMnSc1d1	
+kmín	kmín	k1gMnSc1	
+<g/>	
+,	,	kIx,	
+majoránku	majoránka	k1gFnSc4	
+a	a	k8xC	
+pepř	pepřit	k5eAaImRp2nS	
+dle	dle	k7c2	
+chuti	chuť	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vše	všechen	k3xTgNnSc1	
+promícháme	promíchat	k5eAaPmIp1nP	
+a	a	k8xC	
+ještě	ještě	k6eAd1	
+za	za	k7c2	
+občasného	občasný	k2eAgNnSc2d1	
+míchání	míchání	k1gNnSc2	
+krátce	krátce	k6eAd1	
+smažíme	smažit	k5eAaImIp1nP	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+rozvonět	rozvonět	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přisypeme	přisypat	k5eAaPmIp1nP	
+předem	předem	k6eAd1	
+uvařené	uvařený	k2eAgFnPc1d1	
+a	a	k8xC	
+scezené	scezený	k2eAgFnPc1d1	
+kroupy	kroupa	k1gFnPc1	
+<g/>	
+,	,	kIx,	
+promícháme	promíchat	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+necháme	nechat	k5eAaPmIp1nP	
+prohřát	prohřát	k5eAaPmF	
+a	a	k8xC	
+dosolíme	dosolit	k5eAaPmIp1nP	
+dle	dle	k7c2	
+vlastní	vlastní	k2eAgFnSc2d1	
+chuti	chuť	k1gFnSc2	
+(	(	kIx(	
+<g/>	
+slanosti	slanost	k1gFnPc1	
+uzeného	uzený	k2eAgNnSc2d1	
+masa	maso	k1gNnSc2	
+<g/>	
+)	)	kIx)	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pokud	pokud	k8xS	
+nechceme	chtít	k5eNaImIp1nP	
+použít	použít	k5eAaPmF	
+uzený	uzený	k2eAgInSc4d1	
+vývar	vývar	k1gInSc4	
+k	k	k7c3	
+přípravě	příprava	k1gFnSc3	
+výborné	výborný	k2eAgFnSc2d1	
+česnečky	česnečka	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+doporučuji	doporučovat	k5eAaImIp1nS	
+propláchnuté	propláchnutý	k2eAgFnSc2d1	
+kroupy	kroupa	k1gFnSc2	
+uvařit	uvařit	k5eAaPmF	
+v	v	k7c6	
+uzeném	uzený	k2eAgInSc6d1	
+vývaru	vývar	k1gInSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podáváme	podávat	k5eAaImIp1nP	
+s	s	k7c7	
+kyselou	kyselý	k2eAgFnSc7d1	
+okurkou	okurka	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+zelím	zelí	k1gNnSc7	
+<g/>	
+...	...	k?	
+</s>	

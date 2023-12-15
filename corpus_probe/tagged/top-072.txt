@@ -1,0 +1,190 @@
+<s>	
+Do	do	k7c2	
+mísy	mísa	k1gFnSc2	
+nasypte	nasypat	k5eAaPmRp2nP	
+mouku	mouka	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+uprostřed	uprostřed	k6eAd1	
+udělejte	udělat	k5eAaPmRp2nP	
+důlek	důlek	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+něj	on	k3xPp3gInSc2	
+rozdrobte	rozdrobit	k5eAaPmRp2nP	
+droždí	droždí	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+zasypte	zasypat	k5eAaPmRp2nP	
+cukrem	cukr	k1gInSc7	
+a	a	k8xC	
+zalijte	zalít	k5eAaPmRp2nP	
+teplou	teplý	k2eAgFnSc7d1	
+vodou	voda	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Překryjte	překrýt	k5eAaPmRp2nP	
+mísu	mísa	k1gFnSc4	
+utěrkou	utěrka	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+položte	položit	k5eAaPmRp2nP	
+na	na	k7c4	
+teplé	teplý	k2eAgNnSc4d1	
+místo	místo	k1gNnSc4	
+a	a	k8xC	
+nechte	nechat	k5eAaPmRp2nP	
+vzejít	vzejít	k5eAaPmF	
+kvásek	kvásek	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Bude	být	k5eAaImBp3nS	
+to	ten	k3xDgNnSc1	
+trvat	trvat	k5eAaImF	
+asi	asi	k9	
+15	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+mísy	mísa	k1gFnSc2	
+přidejte	přidat	k5eAaPmRp2nP	
+žloutek	žloutek	k1gInSc4	
+<g/>	
+,	,	kIx,	
+sůl	sůl	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+olej	olej	k1gInSc4	
+a	a	k8xC	
+zpracujte	zpracovat	k5eAaPmRp2nP	
+těsto	těsto	k1gNnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Nejlépe	dobře	k6eAd3	
+se	se	k3xPyFc4	
+vám	vy	k3xPp2nPc3	
+bude	být	k5eAaImBp3nS	
+propracovávat	propracovávat	k5eAaImF	
+na	na	k7c6	
+pracovní	pracovní	k2eAgFnSc6d1	
+ploše	plocha	k1gFnSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vraťte	vrátit	k5eAaPmRp2nP	
+do	do	k7c2	
+mísy	mísa	k1gFnSc2	
+a	a	k8xC	
+nechte	nechat	k5eAaPmRp2nP	
+kynout	kynout	k5eAaImF	
+alespoň	alespoň	k9	
+45	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Během	během	k7c2	
+kynutí	kynutí	k1gNnSc2	
+propracujte	propracovat	k5eAaPmRp2nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Ve	v	k7c6	
+vysoké	vysoký	k2eAgFnSc6d1	
+nádobě	nádoba	k1gFnSc6	
+promixujte	promixovat	k5eAaImRp2nP,k5eAaPmRp2nP,k5eAaBmRp2nP	
+ingredience	ingredience	k1gFnPc1	
+na	na	k7c4	
+pesto	pesto	k1gNnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Těsto	těsto	k1gNnSc4	
+vyválejte	vyválet	k5eAaPmRp2nP	
+na	na	k7c4	
+plát	plát	k1gInSc4	
+cca	cca	kA	
+30	#num#	k4	
+x	x	k?	
+35	#num#	k4	
+cm	cm	kA	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Potřete	potřít	k5eAaPmRp2nP	
+pestem	pestum	k1gNnSc7	
+a	a	k8xC	
+stočte	stočit	k5eAaPmRp2nP	
+na	na	k7c4	
+délku	délka	k1gFnSc4	
+do	do	k7c2	
+rolády	roláda	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Spoj	spoj	k1gFnSc4	
+nechte	nechat	k5eAaPmRp2nP	
+vespod	vespod	k6eAd1	
+a	a	k8xC	
+zvrchu	zvrcha	k1gFnSc4	
+rozkrojte	rozkrojit	k5eAaPmRp2nP	
+napůl	napůl	k6eAd1	
+po	po	k7c6	
+celé	celý	k2eAgFnSc6d1	
+délce	délka	k1gFnSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Stočte	stočit	k5eAaPmRp2nP	
+části	část	k1gFnPc1	
+do	do	k7c2	
+copu	cop	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přesuňte	přesunout	k5eAaPmRp2nP	
+do	do	k7c2	
+chlebíčkové	chlebíčkový	k2eAgFnSc2d1	
+formy	forma	k1gFnSc2	
+vyložené	vyložený	k2eAgNnSc1d1	
+pečícím	pečící	k2eAgInSc7d1	
+papírem	papír	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vložte	vložit	k5eAaPmRp2nP	
+do	do	k7c2	
+trouby	trouba	k1gFnSc2	
+předehřáté	předehřátý	k2eAgFnSc2d1	
+na	na	k7c6	
+180	#num#	k4	
+°	°	k?	
+<g/>	
+C.	C.	kA	
+Pečte	péct	k5eAaImRp2nP	
+45	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	

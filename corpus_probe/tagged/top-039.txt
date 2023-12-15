@@ -1,0 +1,63 @@
+<s>	
+Podle	podle	k7c2	
+návodu	návod	k1gInSc2	
+na	na	k7c4	
+bramborové	bramborový	k2eAgInPc4d1	
+knedlíky	knedlík	k1gInPc4	
+připravíme	připravit	k5eAaPmIp1nP	
+těsto	těsto	k1gNnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Ukrajujeme	ukrajovat	k5eAaImIp1nP	
+z	z	k7c2	
+něj	on	k3xPp3gInSc2	
+kousky	kousek	k1gInPc4	
+<g/>	
+,	,	kIx,	
+které	který	k3yRgFnPc4	
+plníme	plnit	k5eAaImIp1nP	
+<g/>	
+,	,	kIx,	
+podobně	podobně	k6eAd1	
+jako	jako	k8xC,k8xS	
+ovocné	ovocný	k2eAgInPc4d1	
+knedlíky	knedlík	k1gInPc4	
+<g/>	
+,	,	kIx,	
+nakrájeným	nakrájený	k2eAgNnSc7d1	
+moravským	moravský	k2eAgNnSc7d1	
+uzeným	uzené	k1gNnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Knedlíky	knedlík	k1gInPc4	
+vaříme	vařit	k5eAaImIp1nP	
+v	v	k7c6	
+osolené	osolený	k2eAgFnSc6d1	
+vodě	voda	k1gFnSc6	
+po	po	k7c6	
+vyplavání	vyplavání	k1gNnSc6	
+asi	asi	k9	
+6	#num#	k4	
+<g/>	
+-	-	kIx~	
+<g/>	
+7	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podáváme	podávat	k5eAaImIp1nP	
+s	s	k7c7	
+osmahnutou	osmahnutý	k2eAgFnSc7d1	
+cibulkou	cibulka	k1gFnSc7	
+a	a	k8xC	
+ohřátým	ohřátý	k2eAgNnSc7d1	
+zelím	zelí	k1gNnSc7	
+<g/>	
+.	.	kIx.	
+</s>	

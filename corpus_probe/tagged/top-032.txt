@@ -1,0 +1,209 @@
+<s>	
+Nejprve	nejprve	k6eAd1	
+uděláme	udělat	k5eAaPmIp1nP	
+kvásek	kvásek	k1gInSc4	
+z	z	k7c2	
+droždí	droždí	k1gNnSc2	
+<g/>	
+,	,	kIx,	
+cukru	cukr	k1gInSc2	
+<g/>	
+,	,	kIx,	
+lžíce	lžíce	k1gFnPc4	
+mouky	mouka	k1gFnPc4	
+a	a	k8xC	
+lžíce	lžíce	k1gFnPc4	
+mléka	mléko	k1gNnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Po	po	k7c6	
+vykynutí	vykynutí	k1gNnSc6	
+kvásku	kvásek	k1gInSc2	
+smícháme	smíchat	k5eAaPmIp1nP	
+všechny	všechen	k3xTgFnPc4	
+ostatní	ostatní	k2eAgFnPc4d1	
+suroviny	surovina	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+kvásek	kvásek	k1gInSc4	
+a	a	k8xC	
+vypracujeme	vypracovat	k5eAaPmIp1nP	
+hladké	hladký	k2eAgNnSc4d1	
+těsto	těsto	k1gNnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Těsto	těsto	k1gNnSc1	
+necháme	nechat	k5eAaPmIp1nP	
+kynout	kynout	k5eAaImF	
+přibližně	přibližně	k6eAd1	
+hodinu	hodina	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+během	během	k7c2	
+té	ten	k3xDgFnSc2	
+doby	doba	k1gFnSc2	
+podle	podle	k7c2	
+potřeby	potřeba	k1gFnSc2	
+prohněteme	prohníst	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Kynutá	kynutý	k2eAgNnPc1d1	
+těsta	těsto	k1gNnPc1	
+můžeme	moct	k5eAaImIp1nP	
+připravovat	připravovat	k5eAaImF	
+i	i	k9	
+v	v	k7c6	
+domácí	domácí	k2eAgFnSc6d1	
+pekárně	pekárna	k1gFnSc6	
+<g/>	
+,	,	kIx,	
+suroviny	surovina	k1gFnPc4	
+dáváme	dávat	k5eAaImIp1nP	
+v	v	k7c6	
+pořadí	pořadí	k1gNnSc6	
+tekuté	tekutý	k2eAgFnSc2d1	
+<g/>	
+,	,	kIx,	
+sypké	sypký	k2eAgMnPc4d1	
+<g/>	
+,	,	kIx,	
+sůl	sůl	k1gFnSc4	
+do	do	k7c2	
+jednoho	jeden	k4xCgInSc2	
+rohu	roh	k1gInSc2	
+a	a	k8xC	
+kvásek	kvásek	k1gInSc4	
+do	do	k7c2	
+protějšího	protější	k2eAgInSc2d1	
+rohu	roh	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Po	po	k7c6	
+vykynutí	vykynutí	k1gNnSc6	
+těsto	těsto	k1gNnSc4	
+rozdělíme	rozdělit	k5eAaPmIp1nP	
+na	na	k7c4	
+dvě	dva	k4xCgFnPc4	
+poloviny	polovina	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+z	z	k7c2	
+každé	každý	k3xTgFnSc2	
+vyválíme	vyválet	k5eAaPmIp1nP	
+tenkou	tenký	k2eAgFnSc4d1	
+placku	placka	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+na	na	k7c4	
+kterou	který	k3yIgFnSc4,k3yRgFnSc4,k3yQgFnSc4	
+rozetřeme	rozetřít	k5eAaPmIp1nP	
+nádivku	nádivka	k1gFnSc4	
+a	a	k8xC	
+zavineme	zavinout	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+konce	konec	k1gInPc4	
+dobře	dobře	k6eAd1	
+uzavřeme	uzavřít	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Opatrně	opatrně	k6eAd1	
+přeneseme	přenést	k5eAaPmIp1nP	
+na	na	k7c4	
+plech	plech	k1gInSc4	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+cca	cca	kA	
+20	#num#	k4	
+minut	minuta	k1gFnPc2	
+kynout	kynout	k5eAaImF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Povrch	povrch	k1gInSc4	
+závinu	závin	k1gInSc2	
+nastřihneme	nastřihnout	k5eAaPmIp1nP	
+(	(	kIx(	
+<g/>	
+či	či	k8xC	
+krátce	krátce	k6eAd1	
+nařízneme	naříznout	k5eAaPmIp1nP	
+<g/>	
+)	)	kIx)	
+a	a	k8xC	
+potřeme	potřít	k5eAaPmRp1nP	
+máslem	máslo	k1gNnSc7	
+nebo	nebo	k8xC	
+rozšlehaným	rozšlehaný	k2eAgNnSc7d1	
+vejcem	vejce	k1gNnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vložíme	vložit	k5eAaPmIp1nP	
+do	do	k7c2	
+trouby	trouba	k1gFnSc2	
+<g/>	
+,	,	kIx,	
+předem	předem	k6eAd1	
+vyhřáté	vyhřátý	k2eAgNnSc4d1	
+na	na	k7c4	
+180	#num#	k4	
+°	°	k?	
+<g/>	
+C.	C.	kA	
+Pečeme	péct	k5eAaImIp1nP	
+30	#num#	k4	
+<g/>	
+–	–	k?	
+<g/>	
+40	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Nádivku	nádivka	k1gFnSc4	
+připravíme	připravit	k5eAaPmIp1nP	
+z	z	k7c2	
+mletého	mletý	k2eAgInSc2d1	
+máku	mák	k1gInSc2	
+<g/>	
+,	,	kIx,	
+mléka	mléko	k1gNnSc2	
+a	a	k8xC	
+hrsti	hrst	k1gFnSc2	
+rozinek	rozinka	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vše	všechen	k3xTgNnSc4	
+svaříme	svařit	k5eAaPmIp1nP	
+za	za	k7c2	
+stálého	stálý	k2eAgNnSc2d1	
+míchání	míchání	k1gNnSc2	
+do	do	k7c2	
+husté	hustý	k2eAgFnSc2d1	
+hmoty	hmota	k1gFnSc2	
+a	a	k8xC	
+nakonec	nakonec	k6eAd1	
+vmícháme	vmíchat	k5eAaPmIp1nP	
+podle	podle	k7c2	
+chuti	chuť	k1gFnSc2	
+cukr	cukr	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	

@@ -1,0 +1,196 @@
+<s>	
+Maso	maso	k1gNnSc4	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+porce	porce	k1gFnPc4	
+a	a	k8xC	
+v	v	k7c6	
+pánvi	pánev	k1gFnSc6	
+na	na	k7c6	
+rozpáleném	rozpálený	k2eAgInSc6d1	
+oleji	olej	k1gInSc6	
+maso	maso	k1gNnSc4	
+ze	z	k7c2	
+všech	všechen	k3xTgFnPc2	
+stran	strana	k1gFnPc2	
+opečeme	opéct	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pak	pak	k6eAd1	
+lehce	lehko	k6eAd1	
+podlijeme	podlít	k5eAaPmIp1nP	
+(	(	kIx(	
+<g/>	
+asi	asi	k9	
+100	#num#	k4	
+ml	ml	kA	
+vody	voda	k1gFnPc4	
+<g/>	
+)	)	kIx)	
+a	a	k8xC	
+dopečeme	dopéct	k5eAaPmIp1nP	
+v	v	k7c6	
+troubě	trouba	k1gFnSc6	
+na	na	k7c4	
+200	#num#	k4	
+<g/>	
+°	°	k?	
+<g/>	
+C	C	kA	
+asi	asi	k9	
+20	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Chřest	chřest	k1gInSc4	
+oloupeme	oloupat	k5eAaPmIp1nP	
+a	a	k8xC	
+svážeme	svázat	k5eAaPmIp1nP	
+nití	nit	k1gFnSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Do	do	k7c2	
+kastrolu	kastrol	k1gInSc2	
+dáme	dát	k5eAaPmIp1nP	
+asi	asi	k9	
+800	#num#	k4	
+ml	ml	kA	
+vody	voda	k1gFnPc4	
+a	a	k8xC	
+víno	víno	k1gNnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Dáme	dát	k5eAaPmIp1nP	
+vařit	vařit	k5eAaImF	
+a	a	k8xC	
+pak	pak	k8xC	
+vložíme	vložit	k5eAaPmIp1nP	
+chřest	chřest	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vaříme	vařit	k5eAaImIp1nP	
+asi	asi	k9	
+15	#num#	k4	
+minut	minuta	k1gFnPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pak	pak	k8xC	
+chřest	chřest	k1gInSc4	
+vyjmeme	vynít	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Necháme	nechat	k5eAaPmIp1nP	
+asi	asi	k9	
+3	#num#	k4	
+ks	ks	kA	
+v	v	k7c6	
+celku	celek	k1gInSc6	
+a	a	k8xC	
+zbylé	zbylý	k2eAgFnPc4d1	
+rozmixujeme	rozmixovat	k5eAaPmIp1nP	
+s	s	k7c7	
+vývarem	vývar	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+V	v	k7c6	
+jiném	jiný	k2eAgInSc6d1	
+kastrůlku	kastrůlek	k1gInSc6	
+rozpustíme	rozpustit	k5eAaPmIp1nP	
+máslo	máslo	k1gNnSc4	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+mouku	mouka	k1gFnSc4	
+a	a	k8xC	
+uděláme	udělat	k5eAaPmIp1nP	
+světlou	světlý	k2eAgFnSc4d1	
+jíšku	jíška	k1gFnSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pak	pak	k6eAd1	
+přidáme	přidat	k5eAaPmIp1nP	
+rozmixovaný	rozmixovaný	k2eAgInSc4d1	
+chřest	chřest	k1gInSc4	
+<g/>	
+,	,	kIx,	
+popřípadě	popřípadě	k6eAd1	
+<g/>	
+,	,	kIx,	
+pokud	pokud	k8xS	
+je	být	k5eAaImIp3nS	
+to	ten	k3xDgNnSc1	
+moc	moc	k1gFnSc1	
+husté	hustý	k2eAgFnSc2d1	
+<g/>	
+,	,	kIx,	
+přidáme	přidat	k5eAaPmIp1nP	
+trochu	trocha	k1gFnSc4	
+vody	voda	k1gFnSc2	
+a	a	k8xC	
+provaříme	provařit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+dokud	dokud	k8xS	
+nezmizí	zmizet	k5eNaPmIp3nS	
+chuť	chuť	k1gFnSc1	
+mouky	mouka	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zjemníme	zjemnit	k5eAaPmIp1nP	
+smetanou	smetana	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+dochutíme	dochutit	k5eAaPmIp1nP	
+solí	sůl	k1gFnPc2	
+<g/>	
+,	,	kIx,	
+pepřem	pepř	k1gInSc7	
+a	a	k8xC	
+vložíme	vložit	k5eAaPmIp1nP	
+nakrájené	nakrájený	k2eAgInPc4d1	
+kousky	kousek	k1gInPc4	
+chřestu	chřest	k1gInSc2	
+a	a	k8xC	
+parmazan	parmazany	k1gInPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Na	na	k7c4	
+talíř	talíř	k1gInSc4	
+podáváme	podávat	k5eAaImIp1nP	
+vařené	vařený	k2eAgInPc4d1	
+brambory	brambor	k1gInPc4	
+<g/>	
+,	,	kIx,	
+nakrájené	nakrájený	k2eAgNnSc4d1	
+maso	maso	k1gNnSc4	
+a	a	k8xC	
+přelité	přelitý	k2eAgInPc4d1	
+omáčkou	omáčka	k1gFnSc7	
+s	s	k7c7	
+kousky	kousek	k1gInPc7	
+chřestu	chřest	k1gInSc2	
+<g/>	
+.	.	kIx.	
+</s>	

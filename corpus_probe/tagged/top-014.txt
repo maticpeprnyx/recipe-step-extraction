@@ -1,0 +1,191 @@
+<s>	
+Hovězí	hovězí	k2eAgNnSc4d1	
+maso	maso	k1gNnSc4	
+si	se	k3xPyFc3	
+nakrájíme	nakrájet	k5eAaPmIp1nP	
+na	na	k7c4	
+stejně	stejně	k6eAd1	
+velké	velký	k2eAgInPc4d1	
+plátky	plátek	k1gInPc4	
+o	o	k7c6	
+síle	síla	k1gFnSc6	
+cca	cca	kA	
+1	#num#	k4	
+cm	cm	kA	
+(	(	kIx(	
+<g/>	
+6	#num#	k4	
+<g/>	
+-	-	kIx~	
+<g/>	
+8	#num#	k4	
+plátků	plátek	k1gInPc2	
+<g/>	
+)	)	kIx)	
+a	a	k8xC	
+prudce	prudko	k6eAd1	
+je	on	k3xPp3gFnPc4	
+opečeme	opéct	k5eAaPmIp1nP	
+na	na	k7c6	
+trošce	troška	k1gFnSc6	
+oleje	olej	k1gInSc2	
+a	a	k8xC	
+dáme	dát	k5eAaPmIp1nP	
+si	se	k3xPyFc3	
+je	on	k3xPp3gNnSc4	
+bokem	bokem	k6eAd1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Maso	maso	k1gNnSc4	
+nijak	nijak	k6eAd1	
+neochucujeme	ochucovat	k5eNaImIp1nP	
+<g/>	
+,	,	kIx,	
+jelikož	jelikož	k8xS	
+se	se	k3xPyFc4	
+bude	být	k5eAaImBp3nS	
+dusit	dusit	k5eAaImF	
+v	v	k7c6	
+silně	silně	k6eAd1	
+kořeněném	kořeněný	k2eAgInSc6d1	
+vývaru	vývar	k1gInSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+V	v	k7c6	
+hrnci	hrnec	k1gInSc6	
+opečeme	opéct	k5eAaPmIp1nP	
+na	na	k7c4	
+kostičky	kostička	k1gFnPc4	
+nakrájený	nakrájený	k2eAgInSc4d1	
+uzený	uzený	k2eAgInSc4d1	
+špek	špek	k1gInSc4	
+a	a	k8xC	
+jakmile	jakmile	k8xS	
+se	se	k3xPyFc4	
+vyškvaří	vyškvařit	k5eAaPmIp3nS	
+<g/>	
+,	,	kIx,	
+vložíme	vložit	k5eAaPmIp1nP	
+na	na	k7c4	
+kostičky	kostička	k1gFnPc4	
+nakrájenou	nakrájený	k2eAgFnSc4d1	
+cibuli	cibule	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+mrkve	mrkev	k1gFnPc4	
+a	a	k8xC	
+opečeme	opéct	k5eAaPmIp1nP	
+do	do	k7c2	
+zlaté	zlatý	k2eAgFnSc2d1	
+barvy	barva	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Poté	poté	k6eAd1	
+přidáme	přidat	k5eAaPmIp1nP	
+1	#num#	k4	
+polévkovou	polévkový	k2eAgFnSc4d1	
+lžíci	lžíce	k1gFnSc4	
+krystalového	krystalový	k2eAgInSc2d1	
+cukru	cukr	k1gInSc2	
+<g/>	
+,	,	kIx,	
+1	#num#	k4	
+polévkovou	polévkový	k2eAgFnSc4d1	
+lžíci	lžíce	k1gFnSc4	
+rajského	rajský	k2eAgInSc2d1	
+protlaku	protlak	k1gInSc2	
+a	a	k8xC	
+3	#num#	k4	
+kávové	kávový	k2eAgFnPc4d1	
+lžičky	lžička	k1gFnPc4	
+koření	kořenit	k5eAaImIp3nS	
+Divočina	divočina	k1gFnSc1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vše	všechen	k3xTgNnSc1	
+lehce	lehko	k6eAd1	
+orestujeme	orestovat	k5eAaPmIp1nP	
+a	a	k8xC	
+vložíme	vložit	k5eAaPmIp1nP	
+opečené	opečený	k2eAgInPc4d1	
+plátky	plátek	k1gInPc4	
+hovězího	hovězí	k2eAgNnSc2d1	
+masa	maso	k1gNnSc2	
+a	a	k8xC	
+zalijeme	zalít	k5eAaPmIp1nP	
+skleničkou	sklenička	k1gFnSc7	
+směsi	směs	k1gFnSc2	
+Halali	halali	k1gNnSc2	
+<g/>	
+,	,	kIx,	
+trošku	troška	k1gFnSc4	
+podlijeme	podlít	k5eAaPmIp1nP	
+vodou	voda	k1gFnSc7	
+a	a	k8xC	
+dusíme	dusit	k5eAaImIp1nP	
+při	při	k7c6	
+mírném	mírný	k2eAgInSc6d1	
+varu	var	k1gInSc6	
+<g/>	
+,	,	kIx,	
+dokud	dokud	k8xS	
+není	být	k5eNaImIp3nS	
+maso	maso	k1gNnSc1	
+měkké	měkký	k2eAgNnSc1d1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Maso	maso	k1gNnSc4	
+poté	poté	k6eAd1	
+vyjmeme	vynít	k5eAaPmIp1nP	
+a	a	k8xC	
+silný	silný	k2eAgInSc4d1	
+divoký	divoký	k2eAgInSc4d1	
+<g/>	
+“	“	k?	
+vývar	vývar	k1gInSc4	
+rozmixujeme	rozmixovat	k5eAaPmIp1nP	
+zcela	zcela	k6eAd1	
+do	do	k7c2	
+hladka	hladko	k1gNnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pokud	pokud	k8xS	
+je	být	k5eAaImIp3nS	
+potřeba	potřeba	k6eAd1	
+jej	on	k3xPp3gNnSc4	
+zředit	zředit	k5eAaPmF	
+použijeme	použít	k5eAaPmIp1nP	
+na	na	k7c4	
+to	ten	k3xDgNnSc4	
+trochu	trochu	k6eAd1	
+mléka	mléko	k1gNnSc2	
+a	a	k8xC	
+ještě	ještě	k6eAd1	
+zlehka	zlehka	k6eAd1	
+10	#num#	k4	
+minut	minuta	k1gFnPc2	
+provaříme	provařit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Výbornou	výborný	k2eAgFnSc7d1	
+přílohou	příloha	k1gFnSc7	
+je	být	k5eAaImIp3nS	
+houskový	houskový	k2eAgInSc1d1	
+knedlík	knedlík	k1gInSc1	
+<g/>	
+.	.	kIx.	
+</s>	

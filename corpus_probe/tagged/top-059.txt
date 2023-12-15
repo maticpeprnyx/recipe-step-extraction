@@ -1,0 +1,131 @@
+<s>	
+Křidélka	křidélko	k1gNnPc4	
+rozdělíme	rozdělit	k5eAaPmIp1nP	
+v	v	k7c6	
+kloubu	kloub	k1gInSc6	
+a	a	k8xC	
+usekneme	useknout	k5eAaPmIp1nP	
+tenké	tenký	k2eAgFnPc4d1	
+špičky	špička	k1gFnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Ty	ten	k3xDgInPc4	
+necháme	nechat	k5eAaPmIp1nP	
+do	do	k7c2	
+polévky	polévka	k1gFnSc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Kousky	kousek	k1gInPc4	
+křidélek	křidélko	k1gNnPc2	
+lehce	lehko	k6eAd1	
+osolíme	osolit	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+opepříme	opepřit	k5eAaPmIp1nP	
+a	a	k8xC	
+posypeme	posypat	k5eAaPmIp1nP	
+česnekem	česnek	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Každý	každý	k3xTgInSc4	
+kousek	kousek	k1gInSc4	
+křidélka	křidélko	k1gNnSc2	
+obalíme	obalit	k5eAaPmIp1nP	
+ve	v	k7c6	
+slanině	slanina	k1gFnSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Hořčici	hořčice	k1gFnSc4	
+smícháme	smíchat	k5eAaPmIp1nP	
+s	s	k7c7	
+paprikou	paprika	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+špetkou	špetka	k1gFnSc7	
+chilli	chilli	k1gNnSc2	
+a	a	k8xC	
+poté	poté	k6eAd1	
+přidáme	přidat	k5eAaPmIp1nP	
+asi	asi	k9	
+deci	deci	k1gNnSc4	
+vody	voda	k1gFnSc2	
+a	a	k8xC	
+promícháme	promíchat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Polovinu	polovina	k1gFnSc4	
+nakrájeného	nakrájený	k2eAgInSc2d1	
+pórku	pórek	k1gInSc2	
+dáme	dát	k5eAaPmIp1nP	
+do	do	k7c2	
+pekáčku	pekáček	k1gInSc2	
+a	a	k8xC	
+na	na	k7c4	
+to	ten	k3xDgNnSc4	
+uložíme	uložit	k5eAaPmIp1nP	
+slaninová	slaninový	k2eAgNnPc4d1	
+křidélka	křidélko	k1gNnPc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zalijeme	zalít	k5eAaPmIp1nP	
+připravenou	připravený	k2eAgFnSc7d1	
+směsí	směs	k1gFnSc7	
+a	a	k8xC	
+posypeme	posypat	k5eAaPmIp1nP	
+zbylým	zbylý	k2eAgInSc7d1	
+pórkem	pórek	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Pekáček	pekáček	k1gInSc4	
+přikryjeme	přikrýt	k5eAaPmIp1nP	
+a	a	k8xC	
+pečeme	péct	k5eAaImIp1nP	
+cca	cca	kA	
+30	#num#	k4	
+minut	minuta	k1gFnPc2	
+na	na	k7c4	
+200	#num#	k4	
+stupňů	stupeň	k1gInPc2	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Potom	potom	k8xC	
+pekáček	pekáček	k1gInSc4	
+odkryjeme	odkrýt	k5eAaPmIp1nP	
+a	a	k8xC	
+dopečeme	dopéct	k5eAaPmIp1nP	
+do	do	k7c2	
+křupava	křupava	k1gFnSc1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Přeléváme	přelévat	k5eAaImIp1nP	
+výpekem	výpek	k1gInSc7	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Podáváme	podávat	k5eAaImIp1nP	
+s	s	k7c7	
+chlebem	chléb	k1gInSc7	
+nebo	nebo	k8xC	
+bramborami	brambora	k1gFnPc7	
+<g/>	
+.	.	kIx.	
+</s>	

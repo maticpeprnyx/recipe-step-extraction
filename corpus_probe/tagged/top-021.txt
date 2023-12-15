@@ -1,0 +1,114 @@
+<s>	
+Filety	fileta	k1gFnPc4	
+umeleme	umlít	k5eAaPmIp1nP	
+na	na	k7c6	
+masovém	masový	k2eAgInSc6d1	
+strojku	strojek	k1gInSc6	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Zelí	zelí	k1gNnSc2	
+vymačkáme	vymačkat	k5eAaPmIp1nP	
+od	od	k7c2	
+přebytečné	přebytečný	k2eAgFnSc2d1	
+šťávy	šťáva	k1gFnSc2	
+a	a	k8xC	
+nadrobno	nadrobno	k6eAd1	
+přesekáme	přesekat	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Očištěnou	očištěný	k2eAgFnSc4d1	
+mrkev	mrkev	k1gFnSc4	
+nastrouháme	nastrouhat	k5eAaPmIp1nP	
+najemno	najemno	k6eAd1	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+V	v	k7c6	
+pánvi	pánev	k1gFnSc6	
+rozehřejeme	rozehřát	k5eAaPmIp1nP	
+lžíci	lžíce	k1gFnSc4	
+oleje	olej	k1gInSc2	
+a	a	k8xC	
+zelí	zelí	k1gNnSc4	
+s	s	k7c7	
+mrkví	mrkev	k1gFnSc7	
+necháme	nechat	k5eAaPmIp1nP	
+asi	asi	k9	
+5	#num#	k4	
+minut	minuta	k1gFnPc2	
+restovat	restovat	k5eAaImF	
+<g/>	
+,	,	kIx,	
+pak	pak	k8xC	
+vypneme	vypnout	k5eAaPmIp1nP	
+a	a	k8xC	
+necháme	nechat	k5eAaPmIp1nP	
+trochu	trochu	k6eAd1	
+zchladnout	zchladnout	k5eAaPmF	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+K	k	k7c3	
+mletému	mletý	k2eAgNnSc3d1	
+rybímu	rybí	k2eAgNnSc3d1	
+masu	maso	k1gNnSc3	
+přidáme	přidat	k5eAaPmIp1nP	
+nadrobno	nadrobno	k6eAd1	
+nasekanou	nasekaný	k2eAgFnSc4d1	
+cibuli	cibule	k1gFnSc4	
+<g/>	
+,	,	kIx,	
+zchladlé	zchladlý	k2eAgNnSc4d1	
+zelí	zelí	k1gNnSc4	
+s	s	k7c7	
+mrkví	mrkev	k1gFnSc7	
+<g/>	
+,	,	kIx,	
+lžíci	lžíce	k1gFnSc4	
+smetany	smetana	k1gFnPc4	
+<g/>	
+,	,	kIx,	
+vejce	vejce	k1gNnPc4	
+a	a	k8xC	
+bramborový	bramborový	k2eAgInSc4d1	
+škrob	škrob	k1gInSc4	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Směs	směs	k1gFnSc4	
+osolíme	osolit	k5eAaPmIp1nP	
+a	a	k8xC	
+opepříme	opepřit	k5eAaPmIp1nP	
+<g/>	
+.	.	kIx.	
+</s>	
+<s desamb="1">	
+Vlhkýma	vlhký	k2eAgFnPc7d1	
+rukama	ruka	k1gFnPc7	
+tvoříme	tvořit	k5eAaImIp1nP	
+karbanátky	karbanátek	k1gInPc7	
+<g/>	
+,	,	kIx,	
+dobře	dobře	k6eAd1	
+je	on	k3xPp3gMnPc4	
+zmáčkneme	zmáčknout	k5eAaPmIp1nP	
+<g/>	
+,	,	kIx,	
+aby	aby	kYmCp3nP	
+držely	držet	k5eAaImAgFnP	
+pohromadě	pohromadě	k6eAd1	
+a	a	k8xC	
+zvolna	zvolna	k6eAd1	
+usmažíme	usmažit	k5eAaPmIp1nP	
+na	na	k7c6	
+oleji	olej	k1gInSc6	
+<g/>	
+.	.	kIx.	
+</s>	
