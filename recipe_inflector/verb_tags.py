@@ -8,7 +8,7 @@ def get_verb_tag_frequency(vertical: list[list[str]]) -> dict[str, int]:
     """
     frequency_dict: dict[str, int] = dict()
     for line in vertical:
-        if not is_structural(line): # Token is not a structural tag, e.g. <g/>.
+        if not is_structural(line): # Token is not a structural tag (e.g. <g/>) so we can work with it.
             tag: str = line[2]
             if not is_verb(tag):
                 continue
@@ -26,7 +26,7 @@ def get_most_frequent_verb_tag(vertical: list[list[str]]) -> str:
     """
     verb_tag_frequency = get_verb_tag_frequency(vertical)
     most_frequent_verb_tag = max(verb_tag_frequency, key=lambda k: verb_tag_frequency.get(k, 0))
-    return most_frequent_verb_tag
+    return most_frequent_verb_tag                        # ^ lambda mumbo jumbo from the internet
 
 def get_action_verb_tags(vertical: list[list[str]]) -> list[str]:
     """
@@ -36,9 +36,11 @@ def get_action_verb_tags(vertical: list[list[str]]) -> list[str]:
     action_verb_tags: list = list()
     cannonical_action_verb_tag = get_most_frequent_verb_tag(vertical)
 
+    # All infinitives have the same tag (?), so we return just an infinitive tag.
     if is_infinitive(cannonical_action_verb_tag):
         action_verb_tags.append(cannonical_action_verb_tag)
         return action_verb_tags
+    # If the verb is finite, we check if there are other tags with the same mood and person.
     else:
         verb_tag_frequency = get_verb_tag_frequency(vertical)
         for verb_tag in verb_tag_frequency.keys():
@@ -48,6 +50,10 @@ def get_action_verb_tags(vertical: list[list[str]]) -> list[str]:
         return action_verb_tags
 
 def transform_verbs_in_vertical(vertical: list[list[str]], original_verb_forms: list[str], desired_verb_form: str) -> list[list[str]]:
+    """
+    Inflects all the verbs in 'vertical' which have tag in 'original_verb_forms' to a verb form as specified by 'desired_verb_form'.
+    Returns a modified vertical.
+    """
     for i in range(len(vertical)):
         if not is_structural(vertical[i]): # Token is not a structural tag, e.g. <g/>.
             current_tag: str = vertical[i][2]
