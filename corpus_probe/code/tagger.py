@@ -10,19 +10,6 @@ def error(error_msg: str):
     """
     print(error_msg, file=sys.stderr)
 
-def get_conllu(data: str) -> str:
-    # De facto je to stejná funkce jako 'get_sentence_list' v 'parse_text.py'. Nepřetváří ale získaný vertikál z řetězce na nějakou strukturu, to dělají až obalující funkce. 
-    parameters: dict[str, str] = {"data": data,
-                                  "input": "horizontal",
-                                  "model": "czech-pdt-ud-2.12-230717",
-                                  "tokenizer": "normalized_spaces",
-                                  "tagger": "",
-                                  "parser": "",
-                                  "output": "conllu"}
-    api_url: str = "https://lindat.mff.cuni.cz/services/udpipe/api/process"
-    response: str = requests.get(api_url, params=parameters).json()["result"]
-    return response
-
 def main():
     input_folder_path: str = sys.argv[1]
     output_folder_path: str = sys.argv[2]
