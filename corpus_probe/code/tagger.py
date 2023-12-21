@@ -17,8 +17,6 @@ def main():
         output_filename = output_folder_path + short_filename
         sys.stdout = open(output_filename, "wt")
         
-        # print(f"{short_filename}\t{long_filename}\t{output_filename}")
-        
         data: str = open_bare(long_filename)
         vertical = brno_tagger(data)
         time.sleep(3)
