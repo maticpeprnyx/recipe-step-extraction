@@ -29,7 +29,6 @@ def calculate_success_rate(list_1: list[str], list_2: list[str]) -> tuple[float,
     aligned_words: list[tuple[str, str]] = align_lists(list_1, list_2)
     
     for pair in aligned_words:
-        # print(f"{pair[0]} ?= {pair[1]}")
         if pair[0] == pair[1]:
             true_positives += 1
         else:
@@ -63,13 +62,10 @@ def align_lists(list_1: list[str], list_2: list[str]) -> list[tuple[str, str]]:
         
         if prefix == '  ':
             aligned.append((value, value))
-            # print(f"{value}\t{value}")
         elif prefix == '- ':
             aligned.append((value, ""))
-            # print(f"{value}\t-")
         elif prefix == '+ ':
-            aligned.append(("", value))
-            # print(f"-\t{value}") 
+            aligned.append(("", value))) 
 
     return aligned
 
