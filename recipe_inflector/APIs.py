@@ -63,22 +63,3 @@ def is_inflected(inflector_output: dict) -> bool:
     Returns True if the inflector API output is not empty.
     """
     return inflector_output[0].get('Lemma') != []
-
-
-# def get_form_tag(lemma: dict) -> list[str]:
-#     """
-#     Return word form and its morphological tag from the first item of the lemma list in the inflector API output.
-#     """
-#     form: str = inflector_output[0].get('Lemma')[0].get('Word')
-#     tag: str = inflector_output[0].get('Lemma')[0].get('Tag')
-#     return [form, tag]
-
-
-if __name__ == "__main__":
-    # Add code to test the function here
-    print(inflected_verb("podávat", "nP,mI,p1,eA"))
-    # print(brno_inflector("vypéct", "nP,mI,p2,eA"))
-    # print(brno_inflector("vypékat", "nP,mI,p3,eA"))
-    # print(brno_inflector("marinovat", "nP,mI,p4,eA"))
-    # print(brno_inflector("namarinovat", "nP,mI,p5,eA"))
-    # print(brno_inflector("podlít", "nP,mI,p6,eA"))
