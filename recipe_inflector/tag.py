@@ -57,12 +57,3 @@ def same_number(tag_1: str, tag_2: str) -> bool:
     number_1 = get_attribute_value(tag_1, "n")
     number_2 = get_attribute_value(tag_2, "n")
     return number_1 == number_2
-
-# def len(tag) -> bool:
-#     """
-#     Returns True when there are more tags than one.
-#     Example tagged item with multiple tags: 
-#     ["který", "který", "k3yIgInSc1,k3yRgInSc1,k3yQgInSc1"]
-#     """
-#     tags: list[str] = tag.split(",")
-#     return len(tags) > 1
