@@ -5,12 +5,11 @@ import json
 def get_recipe_structure(url: str) -> dict:
     """
     Returns a JSON-LD structure of the recipe from the given URL.
-    TO DO: ApetitOnline is one indentation level deeper than TopRecepty.
     """
     recipe_page = requests.get(url=url)
     soup = BeautifulSoup(recipe_page.content, "html.parser")
     our_tag: list = soup.find("script", {"type": "application/ld+json"}).contents
-    recipe_structure: dict = json.loads("".join(our_tag)) #json_ld: str = "".join(our_tag)
+    recipe_structure: dict = json.loads("".join(our_tag))
     return recipe_structure
 
 def random_recipe_collector():
@@ -32,7 +31,6 @@ def random_recipe_collector():
 def get_instructions(recipe_structure: dict) -> dict:
     """
     Returns the recipe instructions from the given URL.
-    TODO: What format should the instructions be in?
     """
     return recipe_structure["recipeInstructions"]
 
