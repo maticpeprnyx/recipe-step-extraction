@@ -2,12 +2,16 @@ import sys
 from open_file import open_lines, listdir_fullpath
 
 def clean_string(unclean_string: str) -> str:
+    """
+    Removes hanging whitespace from string.
+    """
     clean_string = unclean_string.strip()
     return clean_string
 
 def print_dict(dictionary: dict, sort_items: bool):
-    #print(f'{atribute_name}\tČet.\tRel. čet.')
-    #print('-' * (len(f'{atribute_name}\tČetnost\tRel. četnost') + 4))
+    """
+    Prints out a frequency dictionary.
+    """
     items = sorted(dictionary.keys(), key=lambda key: dictionary[key], reverse=True) if sort_items == True else dictionary.keys()
 
     values_sum = sum(dictionary.values())
@@ -15,6 +19,9 @@ def print_dict(dictionary: dict, sort_items: bool):
         print(f'{key}\t{dictionary[key]}\t{(dictionary[key]/values_sum) * 100:.2f} %')
 
 def clean_sl(input_line: list[str]) -> list[str]:
+    """
+    Removes newlines from a list of characters.
+    """
     output_line: list[str] = list()
 
     for item in input_line:
@@ -24,6 +31,9 @@ def clean_sl(input_line: list[str]) -> list[str]:
     return output_line
 
 def fill_frequency_dict(freq_dict: dict[str, int], new_item: str) -> dict[str, int]:
+    """
+    Adds an item into a frequency dictionary.
+    """
     if new_item in freq_dict:
         freq_dict[new_item] += 1
     else:
@@ -51,19 +61,6 @@ def main():
                     verb_frequencies = fill_frequency_dict(verb_frequencies, current_tag)
 
         print_dict(verb_frequencies, True)
-
-    # with sys.stdin as input_stream:
-    #     atribute: dict = dict()
-    #     for line in input_stream:
-    #         line = clean_string(line)
-    #         if line in atribute:
-    #             atribute[line] += 1
-    #         else:
-    #             atribute[line] = 1
-
-    #     print_dict(atribute, False)
-
-    # return 0
 
 if __name__ == '__main__':
     main()
