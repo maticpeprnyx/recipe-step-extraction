@@ -42,7 +42,8 @@ def main():
                 current_lemma: str = tagged_text[i][1].lower()
                 current_token: str = tagged_text[i][0].lower()
 
-                if current_lemma == "nechat":    # nechat vykvasit etc.
+                # nechat vykvasit etc.
+                if current_lemma == "nechat":
                     closest_verb = find_closest_infinitive(tagged_text, i, 3)
                     current_lemma += " " + closest_verb[1].lower()
                     current_token += " " + closest_verb[0].lower()
