@@ -1,6 +1,5 @@
 # Run like this:
 # python transform_text.py /path/to/recipe_in_paintext.txt 'nP,mR,p2,eA'
-#                                                           ^ list of comma separated tag-values (see https://nlp.fi.muni.cz/languageservices/)
 import sys
 from open_file import open_bare
 from APIs import brno_tagger
@@ -13,7 +12,8 @@ def linearize_vertical(vertical: list[list[str]]) -> str:
     """
     output_text: list = list()
     for token in vertical:
-        if not is_structural(token):    # get rid of structural tokens
+        # get rid of structural tokens
+        if not is_structural(token):
             output_text.append(token[0])
 
     output_string = " ".join(output_text)
@@ -43,7 +43,8 @@ def main():
 
         tagged_text: list[list[str]] = brno_tagger(text)
 
-        # Find the most frequent tag of verbs. These verbs are most likely "action verbs".
+        # Find the most frequent tag of verbs. 
+        # These verbs are most likely "action verbs".
         action_verb_tags: list[str] = get_action_verb_tags(tagged_text)
 
         # Transform "action verbs" into the desired form and print output.
