@@ -9,18 +9,10 @@ The repository has the following structure:
 │   │   ├── tagger.py
 │   │   ├── toprecepty.py
 │   │   └── verb_counter.py
-│   ├── frequencies
-│   │   ├── top-001.txt
-│   │   ┊
-│   │   └── top-499.txt
-│   ├── recipes
-│   │   ├── top-001.txt
-│   │   ┊
-│   │   └── top-499.txt
-│   └── tagged
-│       ├── top-001.txt
+│   └── frequencies
+│       ├── top-001.txt
 │       ┊
-│       └── top-499.txt
+│       └── top-499.txt
 └── recipe_inflector
     ├── action_verbs.py
     ├── APIs.py
