@@ -283,3 +283,4 @@ top-496.txt	Bahula	https://www.toprecepty.cz/recept/22896-dusene-hovezi-s-mrkvi-
 top-497.txt	mika59	https://www.toprecepty.cz/recept/57420-zampionove-palacinky/
 top-498.txt	chute-sveta.cz	https://www.toprecepty.cz/recept/44082-makove-sneky/
 top-499.txt	Tanicka	https://www.toprecepty.cz/recept/66599-vyborny-kokosovy-cheesecake-bez-mouky/
+top-500.txt	suslajda	https://www.toprecepty.cz/recept/40519-pecena-husokachna-na-divoko/
